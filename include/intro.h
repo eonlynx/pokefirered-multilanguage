@@ -3,5 +3,6 @@
 
 void CB2_InitCopyrightScreenAfterTitleScreen(void);
 void CB2_InitCopyrightScreenAfterBootup(void);
+void CB2_WaitFadeBeforeSetUpIntro(void);
 
 #endif //GUARD_INTRO_H

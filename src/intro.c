@@ -16,6 +16,7 @@
 #include "trig.h"
 #include "constants/songs.h"
 #include "constants/sound.h"
+#include "language_selector.h"
 
 /*
     The intro is grouped into the following scenes
@@ -899,7 +900,7 @@ static void VBlankCB_Copyright(void)
     TransferPlttBuffer();
 }
 
-static void CB2_WaitFadeBeforeSetUpIntro(void)
+void CB2_WaitFadeBeforeSetUpIntro(void)
 {
     if (!UpdatePaletteFade())
         SetMainCallback2(CB2_SetUpIntro);
@@ -995,7 +996,7 @@ static bool8 SetUpCopyrightScreen(void)
         break;
     case 142:
         ResetSerial();
-        SetMainCallback2(CB2_WaitFadeBeforeSetUpIntro);
+        SetMainCallback2(CB2_LanguageSelector);
         break;
     }
     return TRUE;
