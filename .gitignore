@@ -48,6 +48,7 @@ src/data/items_en.h
 src/data/items_es.h
 src/data/items_it.h
 src/data/items_fr.h
+src/data/items_de.h
 src/data/heal_locations.h
 src/data/trainers.h
 src/data/wild_encounters.h
@@ -66,4 +67,8 @@ prefabs.json
 .vscode/*.*
 *.js
 *.sym
+build-cmake-*/
+.cache/
+CMakeLists.txt
+compile_commands.json
 pokefirered.txt

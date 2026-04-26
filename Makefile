@@ -109,7 +109,7 @@ AUTO_GEN_TARGETS :=
 include make_tools.mk
 # Tool executables
 GFX       := $(TOOLS_DIR)/gbagfx/gbagfx$(EXE)
-AIF       := $(TOOLS_DIR)/aif2pcm/aif2pcm$(EXE)
+WAV2AGB   := $(TOOLS_DIR)/wav2agb/wav2agb$(EXE)
 MID       := $(TOOLS_DIR)/mid2agb/mid2agb$(EXE)
 SCANINC   := $(TOOLS_DIR)/scaninc/scaninc$(EXE)
 PREPROC   := $(TOOLS_DIR)/preproc/preproc$(EXE)
@@ -130,7 +130,7 @@ MAKEFLAGS += --no-print-directory
 # Delete files that weren't built properly
 .DELETE_ON_ERROR:
 
-ALL_BUILDS := firered firered_rev1 leafgreen leafgreen_rev1 firered_es leafgreen_es firered_it leafgreen_it firered_fr leafgreen_fr firered_de leafgreen_de
+ALL_BUILDS := firered firered_rev1 irered_rev10 leafgreen leafgreen_rev1 leafgreen_rev10 firered_es leafgreen_es firered_it leafgreen_it firered_fr leafgreen_fr firered_de leafgreen_de
 ALL_BUILDS += $(ALL_BUILDS:%=%_modern)
 
 RULES_NO_SCAN += clean clean-assets tidy generated clean-generated
@@ -225,8 +225,10 @@ tidy:
 # "friendly" target names for convenience sake
 firered:                ; @$(MAKE) GAME_VERSION=FIRERED
 firered_rev1:           ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1
+firered_switch:          ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=10
 leafgreen:              ; @$(MAKE) GAME_VERSION=LEAFGREEN
 leafgreen_rev1:         ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1
+leafgreen_switch:        ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=10
 firered_es:             ; @$(MAKE) GAME_VERSION=FIRERED GAME_LANGUAGE=SPANISH
 leafgreen_es:           ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_LANGUAGE=SPANISH
 firered_it:             ; @$(MAKE) GAME_VERSION=FIRERED GAME_LANGUAGE=ITALIAN
@@ -238,8 +240,10 @@ leafgreen_de:           ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_LANGUAGE=GERMAN
 
 compare_firered:        ; @$(MAKE) GAME_VERSION=FIRERED COMPARE=1
 compare_firered_rev1:   ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=1 COMPARE=1
+compare_firered_switch: ; @$(MAKE) GAME_VERSION=FIRERED GAME_REVISION=10 COMPARE=1
 compare_leafgreen:      ; @$(MAKE) GAME_VERSION=LEAFGREEN COMPARE=1
 compare_leafgreen_rev1: ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=1 COMPARE=1
+compare_leafgreen_switch:; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_REVISION=10 COMPARE=1
 compare_firered_es:     ; @$(MAKE) GAME_VERSION=FIRERED GAME_LANGUAGE=SPANISH COMPARE=1
 compare_leafgreen_es:   ; @$(MAKE) GAME_VERSION=LEAFGREEN GAME_LANGUAGE=SPANISH COMPARE=1
 compare_firered_it:     ; @$(MAKE) GAME_VERSION=FIRERED GAME_LANGUAGE=ITALIAN COMPARE=1
@@ -317,7 +321,7 @@ generated: $(AUTO_GEN_TARGETS)
 %.s:   ;
 %.png: ;
 %.pal: ;
-%.aif: ;
+%.wav: ;
 
 %.1bpp:   %.png  ; $(GFX) $< $@
 %.4bpp:   %.png  ; $(GFX) $< $@
@@ -413,10 +417,19 @@ ifeq ($(GAME_LANGUAGE),ENGLISH)
 $(OBJ_DIR)/sym_bss.ld: sym_bss.txt
 	$(RAMSCRGEN) .bss $< ENGLISH > $@
 
+$(OBJ_DIR)/sym_bss_rev10.ld: sym_bss_rev10.txt
+	$(RAMSCRGEN) .bss $< ENGLISH > $@
+
 $(OBJ_DIR)/sym_common.ld: sym_common.txt $(C_OBJS) $(wildcard common_syms/*.txt)
 	$(RAMSCRGEN) COMMON $< ENGLISH -c $(C_BUILDDIR),common_syms > $@
 
+$(OBJ_DIR)/sym_common_rev10.ld: sym_common_rev10.txt $(C_OBJS) $(wildcard common_syms/*.txt)
+	$(RAMSCRGEN) COMMON $< ENGLISH -c $(C_BUILDDIR),common_syms > $@
+
 $(OBJ_DIR)/sym_ewram.ld: sym_ewram.txt
+	$(RAMSCRGEN) ewram_data $< ENGLISH > $@
+
+$(OBJ_DIR)/sym_ewram_rev10.ld: sym_ewram_rev10.txt
 	$(RAMSCRGEN) ewram_data $< ENGLISH > $@
 endif #ENGLISH
 ifeq ($(GAME_LANGUAGE),ITALIAN)
@@ -464,6 +477,10 @@ endif #SPANISH
 
 # Linker script
 ifeq ($(MODERN),0)
+ifeq ($(GAME_REVISION),10)
+LD_SCRIPT := ld_script_rev10.ld
+LD_SCRIPT_DEPS := $(OBJ_DIR)/sym_bss_rev10.ld $(OBJ_DIR)/sym_common_rev10.ld $(OBJ_DIR)/sym_ewram_rev10.ld
+else
   ifeq ($(GAME_LANGUAGE),ENGLISH)
     LD_SCRIPT := ld_script.ld
   endif #ENGLISH
@@ -479,7 +496,8 @@ ifeq ($(MODERN),0)
   ifeq ($(GAME_LANGUAGE),SPANISH)
     LD_SCRIPT := ld_script_es.ld
   endif #SPANISH
-    LD_SCRIPT_DEPS := $(OBJ_DIR)/sym_bss.ld $(OBJ_DIR)/sym_common.ld $(OBJ_DIR)/sym_ewram.ld
+LD_SCRIPT_DEPS := $(OBJ_DIR)/sym_bss.ld $(OBJ_DIR)/sym_common.ld $(OBJ_DIR)/sym_ewram.ld
+endif
 else
 LD_SCRIPT := ld_script_modern.ld
 LD_SCRIPT_DEPS :=
