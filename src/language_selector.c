@@ -44,7 +44,7 @@ static const u32 gItalianSelLanguageTiles[] = INCBIN_U32("graphics/language_sele
 static const u32 gLanguageMap[] = INCBIN_U32("graphics/language_selector/language.bin.lz");
 static const u32 gSelLanguageMap[] = INCBIN_U32("graphics/language_selector/language_selected.bin.lz");
 
-#define RGB_BG_LANGUAGE_SELECTOR RGB(28, 27, 25)
+#define RGB_BG_LANGUAGE_SELECTOR RGB(27, 25, 28)
 
 #define BG_LANGUAGE_NORMAL     1
 #define BG_LANGUAGE_SELECTED   2
