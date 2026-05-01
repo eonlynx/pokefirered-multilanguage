@@ -514,7 +514,7 @@ gStdScriptsEnd::
 	.include "data/maps/SixIsland_WaterPath_House2/scripts.inc"
 	.include "data/maps/SevenIsland_SevaultCanyon_House/scripts.inc"
 
-.if GAME_LANGUAGE == LANGUAGE_SPANISH
+.if TEXT_SPANISH == TRUE
 	.include "data/maps/ViridianForest/text_es.inc"
 	.include "data/maps/MtMoon_1F/text_es.inc"
 	.include "data/maps/MtMoon_B2F/text_es.inc"
@@ -805,7 +805,9 @@ gStdScriptsEnd::
 	.include "data/maps/SixIsland_WaterPath_House1/text_es.inc"
 	.include "data/maps/SixIsland_WaterPath_House2/text_es.inc"
 	.include "data/maps/SevenIsland_SevaultCanyon_House/text_es.inc"
-.elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
+.endif
+
+.if TEXT_ITALIAN == TRUE
 	.include "data/maps/ViridianForest/text_it.inc"
 	.include "data/maps/MtMoon_1F/text_it.inc"
 	.include "data/maps/MtMoon_B2F/text_it.inc"
@@ -1096,7 +1098,9 @@ gStdScriptsEnd::
 	.include "data/maps/SixIsland_WaterPath_House1/text_it.inc"
 	.include "data/maps/SixIsland_WaterPath_House2/text_it.inc"
 	.include "data/maps/SevenIsland_SevaultCanyon_House/text_it.inc"
-.elseif GAME_LANGUAGE == LANGUAGE_FRENCH
+.endif
+
+.if TEXT_FRENCH == TRUE
 	.include "data/maps/ViridianForest/text_fr.inc"
 	.include "data/maps/MtMoon_1F/text_fr.inc"
 	.include "data/maps/MtMoon_B2F/text_fr.inc"
@@ -1387,7 +1391,9 @@ gStdScriptsEnd::
 	.include "data/maps/SixIsland_WaterPath_House1/text_fr.inc"
 	.include "data/maps/SixIsland_WaterPath_House2/text_fr.inc"
 	.include "data/maps/SevenIsland_SevaultCanyon_House/text_fr.inc"
-.elseif GAME_LANGUAGE == LANGUAGE_GERMAN
+.endif
+
+.if TEXT_GERMAN == TRUE
 	.include "data/maps/ViridianForest/text_de.inc"
 	.include "data/maps/MtMoon_1F/text_de.inc"
 	.include "data/maps/MtMoon_B2F/text_de.inc"
@@ -1678,7 +1684,9 @@ gStdScriptsEnd::
 	.include "data/maps/SixIsland_WaterPath_House1/text_de.inc"
 	.include "data/maps/SixIsland_WaterPath_House2/text_de.inc"
 	.include "data/maps/SevenIsland_SevaultCanyon_House/text_de.inc"
-.else @LANGUAGE_ENGLISH
+.endif
+
+.if TEXT_ENGLISH == TRUE
 	.include "data/maps/ViridianForest/text.inc"
 	.include "data/maps/MtMoon_1F/text.inc"
 	.include "data/maps/MtMoon_B2F/text.inc"
@@ -1974,6 +1982,21 @@ gStdScriptsEnd::
 .if GAME_LANGUAGE == LANGUAGE_SPANISH
 	.include "data/scripts/spanish/std_msgbox.inc"
 	.include "data/scripts/spanish/trainer_battle.inc"
+.elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
+	.include "data/scripts/italian/std_msgbox.inc"
+	.include "data/scripts/italian/trainer_battle.inc"
+.elseif GAME_LANGUAGE == LANGUAGE_FRENCH
+	.include "data/scripts/french/std_msgbox.inc"
+	.include "data/scripts/french/trainer_battle.inc"
+.elseif GAME_LANGUAGE == LANGUAGE_GERMAN
+	.include "data/scripts/german/std_msgbox.inc"
+	.include "data/scripts/german/trainer_battle.inc"
+.else @LANGUAGE_ENGLISH
+	.include "data/scripts/std_msgbox.inc"
+	.include "data/scripts/trainer_battle.inc"
+.endif
+
+.if TEXT_SPANISH == TRUE
 	.include "data/text/spanish/mix_record.inc"
 	.include "data/text/spanish/pc.inc"
 	.include "data/text/spanish/cable_club.inc"
@@ -1992,9 +2015,9 @@ gStdScriptsEnd::
 	.include "data/text/spanish/general.inc"
 	.include "data/text/spanish/seagallop.inc"
 	.include "data/text/spanish/legendary_cry.inc"
-.elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
-	.include "data/scripts/italian/std_msgbox.inc"
-	.include "data/scripts/italian/trainer_battle.inc"
+.endif
+
+.if TEXT_ITALIAN == TRUE
 	.include "data/text/italian/mix_record.inc"
 	.include "data/text/italian/pc.inc"
 	.include "data/text/italian/cable_club.inc"
@@ -2013,9 +2036,9 @@ gStdScriptsEnd::
 	.include "data/text/italian/general.inc"
 	.include "data/text/italian/seagallop.inc"
 	.include "data/text/italian/legendary_cry.inc"
-.elseif GAME_LANGUAGE == LANGUAGE_FRENCH
-	.include "data/scripts/french/std_msgbox.inc"
-	.include "data/scripts/french/trainer_battle.inc"
+.endif
+
+.if TEXT_FRENCH == TRUE
 	.include "data/text/french/mix_record.inc"
 	.include "data/text/french/pc.inc"
 	.include "data/text/french/cable_club.inc"
@@ -2034,9 +2057,9 @@ gStdScriptsEnd::
 	.include "data/text/french/general.inc"
 	.include "data/text/french/seagallop.inc"
 	.include "data/text/french/legendary_cry.inc"
-.elseif GAME_LANGUAGE == LANGUAGE_GERMAN
-	.include "data/scripts/german/std_msgbox.inc"
-	.include "data/scripts/german/trainer_battle.inc"
+.endif
+
+.if TEXT_GERMAN == TRUE
 	.include "data/text/german/mix_record.inc"
 	.include "data/text/german/pc.inc"
 	.include "data/text/german/cable_club.inc"
@@ -2055,9 +2078,9 @@ gStdScriptsEnd::
 	.include "data/text/german/general.inc"
 	.include "data/text/german/seagallop.inc"
 	.include "data/text/german/legendary_cry.inc"
-.else @LANGUAGE_ENGLISH
-	.include "data/scripts/std_msgbox.inc"
-	.include "data/scripts/trainer_battle.inc"
+.endif
+
+.if TEXT_ENGLISH == TRUE
 	.include "data/text/mix_record.inc"
 	.include "data/text/pc.inc"
 	.include "data/text/cable_club.inc"
@@ -2210,24 +2233,39 @@ EventScript_WallTownMap::
 	releaseall
 	end
 
-.if GAME_LANGUAGE == LANGUAGE_SPANISH
+.if TEXT_SPANISH == TRUE
 	.include "data/text/spanish/pokedex_rating.inc"
+.endif
+
+.if TEXT_ITALIAN == TRUE
+	.include "data/text/italian/pokedex_rating.inc"
+.endif
+
+.if TEXT_FRENCH == TRUE
+	.include "data/text/french/pokedex_rating.inc"
+.endif
+
+.if TEXT_GERMAN == TRUE
+	.include "data/text/german/pokedex_rating.inc"
+.endif
+
+.if TEXT_ENGLISH == TRUE
+	.include "data/text/pokedex_rating.inc"
+.endif
+
+.if GAME_LANGUAGE == LANGUAGE_SPANISH
 	.include "data/scripts/spanish/pokedex_rating.inc"
 	.include "data/scripts/spanish/cave_of_origin.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
-	.include "data/text/italian/pokedex_rating.inc"
 	.include "data/scripts/italian/pokedex_rating.inc"
 	.include "data/scripts/italian/cave_of_origin.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_FRENCH
-	.include "data/text/french/pokedex_rating.inc"
 	.include "data/scripts/french/pokedex_rating.inc"
 	.include "data/scripts/french/cave_of_origin.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_GERMAN
-	.include "data/text/german/pokedex_rating.inc"
 	.include "data/scripts/german/pokedex_rating.inc"
 	.include "data/scripts/german/cave_of_origin.inc"
 .else @LANGUAGE_ENGLISH
-	.include "data/text/pokedex_rating.inc"
 	.include "data/scripts/pokedex_rating.inc"
 	.include "data/scripts/cave_of_origin.inc"
 .endif
@@ -2543,20 +2581,31 @@ EventScript_NoMoreRoomForPokemon::
 	release
 	end
 
-.if GAME_LANGUAGE == LANGUAGE_SPANISH
+.if TEXT_SPANISH == TRUE
 	.include "data/text/spanish/braille.inc"
+.endif
+.if TEXT_ITALIAN == TRUE
+	.include "data/text/italian/braille.inc"
+.endif
+.if TEXT_FRENCH == TRUE
+	.include "data/text/french/braille.inc"
+.endif
+.if TEXT_GERMAN == TRUE
+	.include "data/text/german/braille.inc"
+.endif
+.if TEXT_ENGLISH == TRUE
+	.include "data/text/braille.inc"
+.endif
+
+.if GAME_LANGUAGE == LANGUAGE_SPANISH
 	.include "data/scripts/spanish/trainers.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
-	.include "data/text/italian/braille.inc"
 	.include "data/scripts/italian/trainers.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_FRENCH
-	.include "data/text/french/braille.inc"
 	.include "data/scripts/french/trainers.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_GERMAN
-	.include "data/text/german/braille.inc"
 	.include "data/scripts/german/trainers.inc"
 .else @LANGUAGE_ENGLISH
-	.include "data/text/braille.inc"
 	.include "data/scripts/trainers.inc"
 .endif
 
@@ -2569,146 +2618,157 @@ Text_TestMsg::
 
 .if GAME_LANGUAGE == LANGUAGE_SPANISH
 	.include "data/scripts/spanish/fame_checker.inc"
-	.include "data/text/spanish/fame_checker.inc"
-	.include "data/text/spanish/sign_lady.inc"
-	.include "data/text/spanish/trainer_card.inc"
 	.include "data/scripts/spanish/trainer_card.inc"
-	.include "data/text/spanish/help_system.inc"
 	.include "data/scripts/spanish/cable_club.inc"
 	.include "data/scripts/spanish/field_moves.inc"
 	.include "data/scripts/spanish/item_ball_scripts.inc"
 	.include "data/scripts/spanish/mystery_event_club.inc"
 	.include "data/scripts/spanish/day_care.inc"
-	.include "data/text/spanish/day_care.inc"
 	.include "data/scripts/spanish/flash.inc"
 	.include "data/scripts/spanish/repel.inc"
 	.include "data/scripts/spanish/safari_zone.inc"
-	.include "data/text/spanish/safari_zone.inc"
-	.include "data/text/spanish/competitive_brothers.inc"
-	.include "data/text/spanish/eon_ticket.inc"
-	.include "data/text/spanish/berries.inc"
-	.include "data/text/spanish/flavor_text.inc"
 	.include "data/scripts/spanish/hole.inc"
-	.include "data/text/spanish/trainers.inc"
 	.include "data/scripts/spanish/move_tutors.inc"
 	.include "data/scripts/spanish/trainer_tower.inc"
 	.include "data/scripts/spanish/test.inc"
-	.include "data/text/spanish/save.inc"
-	.include "data/text/spanish/new_game_intro.inc"
-	.include "data/text/spanish/pokedude.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
 	.include "data/scripts/italian/fame_checker.inc"
-	.include "data/text/italian/fame_checker.inc"
-	.include "data/text/italian/sign_lady.inc"
-	.include "data/text/italian/trainer_card.inc"
-	.include "data/scripts/italian/trainer_card.inc"
-	.include "data/text/italian/help_system.inc"
+	.include "data/scripts/italian/trainer_card.inc
 	.include "data/scripts/italian/cable_club.inc"
 	.include "data/scripts/italian/field_moves.inc"
 	.include "data/scripts/italian/item_ball_scripts.inc"
 	.include "data/scripts/italian/mystery_event_club.inc"
 	.include "data/scripts/italian/day_care.inc"
-	.include "data/text/italian/day_care.inc"
 	.include "data/scripts/italian/flash.inc"
 	.include "data/scripts/italian/repel.inc"
 	.include "data/scripts/italian/safari_zone.inc"
-	.include "data/text/italian/safari_zone.inc"
-	.include "data/text/italian/competitive_brothers.inc"
-	.include "data/text/italian/eon_ticket.inc"
-	.include "data/text/italian/berries.inc"
-	.include "data/text/italian/flavor_text.inc"
 	.include "data/scripts/italian/hole.inc"
-	.include "data/text/italian/trainers.inc"
 	.include "data/scripts/italian/move_tutors.inc"
 	.include "data/scripts/italian/trainer_tower.inc"
 	.include "data/scripts/italian/test.inc"
-	.include "data/text/italian/save.inc"
-	.include "data/text/italian/new_game_intro.inc"
-	.include "data/text/italian/pokedude.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_FRENCH
 	.include "data/scripts/french/fame_checker.inc"
-	.include "data/text/french/fame_checker.inc"
-	.include "data/text/french/sign_lady.inc"
-	.include "data/text/french/trainer_card.inc"
 	.include "data/scripts/french/trainer_card.inc"
-	.include "data/text/french/help_system.inc"
 	.include "data/scripts/french/cable_club.inc"
 	.include "data/scripts/french/field_moves.inc"
 	.include "data/scripts/french/item_ball_scripts.inc"
 	.include "data/scripts/french/mystery_event_club.inc"
 	.include "data/scripts/french/day_care.inc"
-	.include "data/text/french/day_care.inc"
 	.include "data/scripts/french/flash.inc"
 	.include "data/scripts/french/repel.inc"
 	.include "data/scripts/french/safari_zone.inc"
-	.include "data/text/french/safari_zone.inc"
-	.include "data/text/french/competitive_brothers.inc"
-	.include "data/text/french/eon_ticket.inc"
-	.include "data/text/french/berries.inc"
-	.include "data/text/french/flavor_text.inc"
 	.include "data/scripts/french/hole.inc"
-	.include "data/text/french/trainers.inc"
 	.include "data/scripts/french/move_tutors.inc"
 	.include "data/scripts/french/trainer_tower.inc"
 	.include "data/scripts/french/test.inc"
-	.include "data/text/french/save.inc"
-	.include "data/text/french/new_game_intro.inc"
-	.include "data/text/french/pokedude.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_GERMAN
 	.include "data/scripts/german/fame_checker.inc"
-	.include "data/text/german/fame_checker.inc"
-	.include "data/text/german/sign_lady.inc"
-	.include "data/text/german/trainer_card.inc"
 	.include "data/scripts/german/trainer_card.inc"
-	.include "data/text/german/help_system.inc"
 	.include "data/scripts/german/cable_club.inc"
 	.include "data/scripts/german/field_moves.inc"
 	.include "data/scripts/german/item_ball_scripts.inc"
 	.include "data/scripts/german/mystery_event_club.inc"
 	.include "data/scripts/german/day_care.inc"
-	.include "data/text/german/day_care.inc"
 	.include "data/scripts/german/flash.inc"
 	.include "data/scripts/german/repel.inc"
 	.include "data/scripts/german/safari_zone.inc"
-	.include "data/text/german/safari_zone.inc"
-	.include "data/text/german/competitive_brothers.inc"
-	.include "data/text/german/eon_ticket.inc"
-	.include "data/text/german/berries.inc"
-	.include "data/text/german/flavor_text.inc"
 	.include "data/scripts/german/hole.inc"
-	.include "data/text/german/trainers.inc"
 	.include "data/scripts/german/move_tutors.inc"
 	.include "data/scripts/german/trainer_tower.inc"
 	.include "data/scripts/german/test.inc"
-	.include "data/text/german/save.inc"
-	.include "data/text/german/new_game_intro.inc"
-	.include "data/text/german/pokedude.inc"
 .else @LANGUAGE_ENGLISH
 	.include "data/scripts/fame_checker.inc"
-	.include "data/text/fame_checker.inc"
-	.include "data/text/sign_lady.inc"
-	.include "data/text/trainer_card.inc"
 	.include "data/scripts/trainer_card.inc"
-	.include "data/text/help_system.inc"
 	.include "data/scripts/cable_club.inc"
 	.include "data/scripts/field_moves.inc"
 	.include "data/scripts/item_ball_scripts.inc"
 	.include "data/scripts/mystery_event_club.inc"
 	.include "data/scripts/day_care.inc"
-	.include "data/text/day_care.inc"
 	.include "data/scripts/flash.inc"
 	.include "data/scripts/repel.inc"
 	.include "data/scripts/safari_zone.inc"
+	.include "data/scripts/hole.inc"
+	.include "data/scripts/move_tutors.inc"
+	.include "data/scripts/trainer_tower.inc"
+	.include "data/scripts/test.inc"
+.endif
+
+.if TEXT_SPANISH == TRUE
+	.include "data/text/spanish/fame_checker.inc"
+	.include "data/text/spanish/sign_lady.inc"
+	.include "data/text/spanish/trainer_card.inc"
+	.include "data/text/spanish/help_system.inc"
+	.include "data/text/spanish/day_care.inc"
+	.include "data/text/spanish/safari_zone.inc"
+	.include "data/text/spanish/competitive_brothers.inc"
+	.include "data/text/spanish/eon_ticket.inc"
+	.include "data/text/spanish/berries.inc"
+	.include "data/text/spanish/flavor_text.inc"
+	.include "data/text/spanish/trainers.inc"
+	.include "data/text/spanish/save.inc"
+	.include "data/text/spanish/new_game_intro.inc"
+	.include "data/text/spanish/pokedude.inc"
+.endif
+.if TEXT_ITALIAN == TRUE
+	.include "data/text/italian/fame_checker.inc"
+	.include "data/text/italian/sign_lady.inc"
+	.include "data/text/italian/trainer_card.inc"
+	.include "data/text/italian/help_system.inc"
+	.include "data/text/italian/day_care.inc"
+	.include "data/text/italian/safari_zone.inc"
+	.include "data/text/italian/competitive_brothers.inc"
+	.include "data/text/italian/eon_ticket.inc"
+	.include "data/text/italian/berries.inc"
+	.include "data/text/italian/flavor_text.inc"
+	.include "data/text/italian/trainers.inc"
+	.include "data/text/italian/save.inc"
+	.include "data/text/italian/new_game_intro.inc"
+	.include "data/text/italian/pokedude.inc"
+.endif
+.if TEXT_FRENCH == TRUE
+	.include "data/text/french/fame_checker.inc"
+	.include "data/text/french/sign_lady.inc"
+	.include "data/text/french/trainer_card.inc"
+	.include "data/text/french/help_system.inc"
+	.include "data/text/french/day_care.inc"
+	.include "data/text/french/safari_zone.inc"
+	.include "data/text/french/competitive_brothers.inc"
+	.include "data/text/french/eon_ticket.inc"
+	.include "data/text/french/berries.inc"
+	.include "data/text/french/flavor_text.inc"
+	.include "data/text/french/trainers.inc"
+	.include "data/text/french/save.inc"
+	.include "data/text/french/new_game_intro.inc"
+	.include "data/text/french/pokedude.inc"
+.endif
+.if TEXT_GERMAN == TRUE
+	.include "data/text/german/fame_checker.inc"
+	.include "data/text/german/sign_lady.inc"
+	.include "data/text/german/trainer_card.inc"
+	.include "data/text/german/help_system.inc"
+	.include "data/text/german/day_care.inc"
+	.include "data/text/german/safari_zone.inc"
+	.include "data/text/german/competitive_brothers.inc"
+	.include "data/text/german/eon_ticket.inc"
+	.include "data/text/german/berries.inc"
+	.include "data/text/german/flavor_text.inc"
+	.include "data/text/german/trainers.inc"
+	.include "data/text/german/save.inc"
+	.include "data/text/german/new_game_intro.inc"
+	.include "data/text/german/pokedude.inc"
+.endif
+.if TEXT_ENGLISH == TRUE
+	.include "data/text/fame_checker.inc"
+	.include "data/text/sign_lady.inc"
+	.include "data/text/trainer_card.inc"
+	.include "data/text/help_system.inc"
+	.include "data/text/day_care.inc"
 	.include "data/text/safari_zone.inc"
 	.include "data/text/competitive_brothers.inc"
 	.include "data/text/eon_ticket.inc"
 	.include "data/text/berries.inc"
 	.include "data/text/flavor_text.inc"
-	.include "data/scripts/hole.inc"
 	.include "data/text/trainers.inc"
-	.include "data/scripts/move_tutors.inc"
-	.include "data/scripts/trainer_tower.inc"
-	.include "data/scripts/test.inc"
 	.include "data/text/save.inc"
 	.include "data/text/new_game_intro.inc"
 	.include "data/text/pokedude.inc"

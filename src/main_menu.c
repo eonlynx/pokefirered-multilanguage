@@ -499,6 +499,7 @@ static void Task_ExecuteMainMenuSelection(u8 taskId)
             FreeAllWindowBuffers();
             DestroyTask(taskId);
             StartNewGameScene();
+            gSaveBlock2Ptr->playerLanguage = playerLanguage;
             break;
         case MAIN_MENU_CONTINUE:
             gPlttBufferUnfaded[0] = RGB_BLACK;
@@ -506,6 +507,7 @@ static void Task_ExecuteMainMenuSelection(u8 taskId)
             gExitStairsMovementDisabled = FALSE;
             FreeAllWindowBuffers();
             TryStartQuestLogPlayback(taskId);
+            gSaveBlock2Ptr->playerLanguage = playerLanguage;
             break;
         case MAIN_MENU_MYSTERYGIFT:
             SetMainCallback2(CB2_InitMysteryGift);

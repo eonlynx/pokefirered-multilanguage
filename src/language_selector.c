@@ -10,6 +10,9 @@
 #include "language_selector.h"
 #include "main.h"
 #include "scanline_effect.h"
+#include "sound.h"
+#include "constants/language_selector.h"
+#include "constants/songs.h"
 
 static const u16 gEnglishLanguagePal[] = INCBIN_U16("graphics/language_selector/english.gbapal");
 static const u32 gEnglishLanguageTiles[] = INCBIN_U32("graphics/language_selector/english.4bpp.lz");
@@ -58,14 +61,6 @@ static const u32 gSelLanguageMap[] = INCBIN_U32("graphics/language_selector/lang
 #define LANG_BTN_SELECTED_WIDTH 30
 
 #define LANG_SELECTED_PLTT_OFFSET 6
-
-enum {
-    LANG_EN,
-    LANG_DE,
-    LANG_FR,
-    LANG_ES,
-    LANG_IT
-};
 
 static void Task_LanguageSelector(u8 taskId);
 static void VBlankCB_LanguageSelector(void);
@@ -155,6 +150,7 @@ static void Task_LanguageSelector(u8 taskId)
             else
                 tCursor = LANG_COUNT - 1;
 
+            PlaySE(SE_BAG_CURSOR);
             LoadBg(tCursor);
         }
         else if (JOY_NEW(DPAD_DOWN))
@@ -164,10 +160,13 @@ static void Task_LanguageSelector(u8 taskId)
             else
                 tCursor = 0;
 
+            PlaySE(SE_BAG_CURSOR);
             LoadBg(tCursor);
         }
         else if (JOY_NEW(A_BUTTON | START_BUTTON))
         {
+            playerLanguage = tCursor;
+            PlaySE(SE_SELECT);
             BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
             tState++;
         }

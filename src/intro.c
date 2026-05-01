@@ -996,7 +996,10 @@ static bool8 SetUpCopyrightScreen(void)
         break;
     case 142:
         ResetSerial();
-        SetMainCallback2(CB2_LanguageSelector);
+        if (gSaveBlock2Ptr->playerLanguage == NULL)
+            SetMainCallback2(CB2_LanguageSelector);
+        else
+            SetMainCallback2(CB2_WaitFadeBeforeSetUpIntro);
         break;
     }
     return TRUE;
