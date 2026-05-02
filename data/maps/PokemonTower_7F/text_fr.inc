@@ -1,41 +1,41 @@
-PokemonTower_7F_Text_Grunt1Intro::
+PokemonTower_7F_Text_Grunt1Intro_FR::
 	.string "Que veux-tu?\n"
 	.string "Que cherches-tu?$"
 
-PokemonTower_7F_Text_Grunt1Defeat::
+PokemonTower_7F_Text_Grunt1Defeat_FR::
 	.string "Rhaaaa!\n"
 	.string "J'abandonne!$"
 
-PokemonTower_7F_Text_Grunt1PostBattle::
+PokemonTower_7F_Text_Grunt1PostBattle_FR::
 	.string "Je ne t'oublierai pas!$"
 
-PokemonTower_7F_Text_Grunt2Intro::
+PokemonTower_7F_Text_Grunt2Intro_FR::
 	.string "Ce vieil homme est venu nous\n"
 	.string "demander de ne plus troubler les\l"
 	.string "gentils POKéMON!\p"
 	.string "Alors on a discuté tranquillement\n"
 	.string "entre adultes.$"
 
-PokemonTower_7F_Text_Grunt2Defeat::
+PokemonTower_7F_Text_Grunt2Defeat_FR::
 	.string "Argh!\n"
 	.string "Assez!$"
 
-PokemonTower_7F_Text_Grunt2PostBattle::
+PokemonTower_7F_Text_Grunt2PostBattle_FR::
 	.string "Les POKéMON ne servent qu'à\n"
 	.string "gagner de l'argent!\p"
 	.string "Reste en dehors de nos affaires!$"
 
-PokemonTower_7F_Text_Grunt3Intro::
+PokemonTower_7F_Text_Grunt3Intro_FR::
 	.string "Y'a personne à sauver ici!$"
 
-PokemonTower_7F_Text_Grunt3Defeat::
+PokemonTower_7F_Text_Grunt3Defeat_FR::
 	.string "Hmm!\n"
 	.string "N'affronte pas la TEAM ROCKET!$"
 
-PokemonTower_7F_Text_Grunt3PostBattle::
+PokemonTower_7F_Text_Grunt3PostBattle_FR::
 	.string "Tu ne t'en sortiras pas comme ça!$"
 
-PokemonTower_7F_Text_MrFujiThankYouFollowMe::
+PokemonTower_7F_Text_MrFujiThankYouFollowMe_FR::
 	.string "MR. FUJI: Hé?\n"
 	.string "Tu es là pour me sauver?\p"
 	.string "Merci! Mais je suis venu ici de\n"

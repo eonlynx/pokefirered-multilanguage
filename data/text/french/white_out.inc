@@ -1,8 +1,8 @@
-Text_FirstShouldRestoreMonsHealth::
+Text_FirstShouldRestoreMonsHealth_FR::
 	.string "Avant toute chose, vous devriez\n"
 	.string "faire soigner vos POKéMON.$"
 
-Text_MonsHealedShouldBuyPotions::
+Text_MonsHealedShouldBuyPotions_FR::
 	.string "Vos POKéMON ont été soignés.\p"
 	.string "Si les PV de vos POKéMON sont\n"
 	.string "faibles, venez nous voir.\p"
@@ -12,19 +12,19 @@ Text_MonsHealedShouldBuyPotions::
 	.string "Nous vous souhaitons\n"
 	.string "bonne chance.$"
 
-Text_MonsHealed::
+Text_MonsHealed_FR::
 	.string "Vos POKéMON ont été soignés.\p"
 	.string "Nous vous souhaitons\n"
 	.string "bonne chance.$"
 
-Text_HadQuiteAnExperienceTakeRest::
+Text_HadQuiteAnExperienceTakeRest_FR::
 	.string "MAMAN: Comment ça va, \n"
 	.string "{PLAYER}?\p"
 	.string "Tu as dû vivre des aventures\n"
 	.string "épuisantes.\p"
 	.string "Tu devrais faire une sieste.$"
 
-Text_MomExplainHPGetPotions::
+Text_MomExplainHPGetPotions_FR::
 	.string "MAMAN: Eh bien, toi et tes\n"
 	.string "POKéMON avez l'air d'aller mieux.\p"
 	.string "Je viens d'avoir des nouvelles\n"
@@ -40,12 +40,12 @@ Text_MomExplainHPGetPotions::
 	.string "Rends-moi fière, mon bouchon.\n"
 	.string "Fais attention à toi!$"
 
-Text_WhitedOutLostMoney::
+Text_WhitedOutLostMoney_FR::
 	.string "{PLAYER} n'a plus de POKéMON!\p"
 	.string "{PLAYER} panique et perd {STR_VAR_1}¥…\p"
 	.string "… … … …\p"
 	.string "{PLAYER} est hors-jeu!$"
 
-Text_WhitedOut::
+Text_WhitedOut_FR::
 	.string "{PLAYER} n'a plus de POKéMON!\p"
 	.string "{PLAYER} est hors-jeu!$"

@@ -1,4 +1,4 @@
-OneIsland_House2_Text_IWantToStayHereForever::
+OneIsland_House2_Text_IWantToStayHereForever_FR::
 	.string "Tous les jeunes veulent aller\n"
 	.string "vivre dans les grandes villes.\p"
 	.string "Mais moi, je veux rester ici\n"

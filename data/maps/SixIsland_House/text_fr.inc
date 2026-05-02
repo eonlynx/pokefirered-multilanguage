@@ -1,4 +1,4 @@
-SixIsland_House_Text_GoodPlaceForNatureAndHistory::
+SixIsland_House_Text_GoodPlaceForNatureAndHistory_FR::
 	.string "Il n'y a vraiment rien de bien\n"
 	.string "intéressant pour les jeunes ici.\p"
 	.string "Mais historiquement, cet endroit\n"

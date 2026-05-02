@@ -1,4 +1,4 @@
-CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
+CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers_IT::
     .string "Gli integratori di abilità dei\n"
     .string "POKéMON si vendono solo qui!\p"
     .string "PS-SU aumenta i PS massimi\n"
@@ -10,12 +10,12 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
     .string "Usa il CARBURANTE per aumentare la\n"
     .string "VELOCITÀ.$"
 
-CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
+CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers_IT::
     .string "Sono qui per gli integratori di\n"
     .string "abilità dei POKéMON!\p"
     .string "Le PROTEINE potenziano l'ATTACCO.\p"
     .string "Il FERRO aumenta la DIFESA!$"
 
-CeladonCity_DepartmentStore_5F_Text_Drugstore::
+CeladonCity_DepartmentStore_5F_Text_Drugstore_IT::
     .string "4ºP: FARMACIA$"
 

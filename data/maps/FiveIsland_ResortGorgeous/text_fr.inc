@@ -1,89 +1,89 @@
-FiveIsland_ResortGorgeous_Text_DaisyIntro::
+FiveIsland_ResortGorgeous_Text_DaisyIntro_FR::
 	.string "Grâce à ces mains d'artiste,\n"
 	.string "la victoire sera à moi.$"
 
-FiveIsland_ResortGorgeous_Text_DaisyDefeat::
+FiveIsland_ResortGorgeous_Text_DaisyDefeat_FR::
 	.string "C'est pas possible…\n"
 	.string "Je suis rouge de honte…$"
 
-FiveIsland_ResortGorgeous_Text_DaisyPostBattle::
+FiveIsland_ResortGorgeous_Text_DaisyPostBattle_FR::
 	.string "Noooon, mes tubes de peinture\n"
 	.string "se sont répandus partout!$"
 
-FiveIsland_ResortGorgeous_Text_CelinaIntro::
+FiveIsland_ResortGorgeous_Text_CelinaIntro_FR::
 	.string "Excuse-moi! Tu ne vois pas que\n"
 	.string "j'essaie de peindre, là.$"
 
-FiveIsland_ResortGorgeous_Text_CelinaDefeat::
+FiveIsland_ResortGorgeous_Text_CelinaDefeat_FR::
 	.string "C'est complètement loupé!\n"
 	.string "J'ai plus qu'à recommencer.$"
 
-FiveIsland_ResortGorgeous_Text_CelinaPostBattle::
+FiveIsland_ResortGorgeous_Text_CelinaPostBattle_FR::
 	.string "Voilà, regarde un peu par là…\n"
 	.string "Parfait, ne bouge plus!$"
 
-FiveIsland_ResortGorgeous_Text_RaynaIntro::
+FiveIsland_ResortGorgeous_Text_RaynaIntro_FR::
 	.string "Hmm…\n"
 	.string "La perspective est ratée…$"
 
-FiveIsland_ResortGorgeous_Text_RaynaDefeat::
+FiveIsland_ResortGorgeous_Text_RaynaDefeat_FR::
 	.string "Oh, tu m'en as fait voir de toutes\n"
 	.string "les couleurs.$"
 
-FiveIsland_ResortGorgeous_Text_RaynaPostBattle::
+FiveIsland_ResortGorgeous_Text_RaynaPostBattle_FR::
 	.string "Le ciel et la mer. Ils changent\n"
 	.string "sans arrêt de couleur.\p"
 	.string "Je crois que je vais me mettre à\n"
 	.string "la photo, c'est plus simple.$"
 
-FiveIsland_ResortGorgeous_Text_JackiIntro::
+FiveIsland_ResortGorgeous_Text_JackiIntro_FR::
 	.string "Je suis venue rendre visite à\n"
 	.string "un ami, si ça t'intéresse.$"
 
-FiveIsland_ResortGorgeous_Text_JackiDefeat::
+FiveIsland_ResortGorgeous_Text_JackiDefeat_FR::
 	.string "Oh, pas mal.$"
 
-FiveIsland_ResortGorgeous_Text_JackiPostBattle::
+FiveIsland_ResortGorgeous_Text_JackiPostBattle_FR::
 	.string "J'adore les combats de POKéMON\n"
 	.string "sous une brise légère.$"
 
-FiveIsland_ResortGorgeous_Text_GillianIntro::
+FiveIsland_ResortGorgeous_Text_GillianIntro_FR::
 	.string "J'aimerais faire construire une\n"
 	.string "piscine juste pour mes POKéMON.$"
 
-FiveIsland_ResortGorgeous_Text_GillianDefeat::
+FiveIsland_ResortGorgeous_Text_GillianDefeat_FR::
 	.string "Eh ben mon cochon!$"
 
-FiveIsland_ResortGorgeous_Text_GillianPostBattle::
+FiveIsland_ResortGorgeous_Text_GillianPostBattle_FR::
 	.string "Plutôt qu'une piscine, un solarium\n"
 	.string "serait formidable.$"
 
-FiveIsland_ResortGorgeous_Text_DestinIntro::
+FiveIsland_ResortGorgeous_Text_DestinIntro_FR::
 	.string "Je suis un bon sprinter. Personne\n"
 	.string "ne peut me rattraper.$"
 
-FiveIsland_ResortGorgeous_Text_DestinDefeat::
+FiveIsland_ResortGorgeous_Text_DestinDefeat_FR::
 	.string "Oups, j'ai dû trop me précipiter.$"
 
-FiveIsland_ResortGorgeous_Text_DestinPostBattle::
+FiveIsland_ResortGorgeous_Text_DestinPostBattle_FR::
 	.string "Quand je cours avec le vent, j'ai\n"
 	.string "l'impression de voler.$"
 
-FiveIsland_ResortGorgeous_Text_TobyIntro::
+FiveIsland_ResortGorgeous_Text_TobyIntro_FR::
 	.string "Vivre ici, avec ces embruns,\n"
 	.string "me remplit d'énergie.$"
 
-FiveIsland_ResortGorgeous_Text_TobyDefeat::
+FiveIsland_ResortGorgeous_Text_TobyDefeat_FR::
 	.string "Pas sympa ça!$"
 
-FiveIsland_ResortGorgeous_Text_TobyPostBattle::
+FiveIsland_ResortGorgeous_Text_TobyPostBattle_FR::
 	.string "Faut pas le prendre comme ça.\n"
 	.string "C'est débile!$"
 
-FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow::
+FiveIsland_ResortGorgeous_Text_SelphyThanksYouMayGoNow_FR::
 	.string "THEMIS: Merci.\p"
 	.string "Tu peux y aller maintenant.$"
 
-FiveIsland_ResortGorgeous_Text_SelphysHouse::
+FiveIsland_ResortGorgeous_Text_SelphysHouse_FR::
 	.string "MAISON DE THEMIS$"
 

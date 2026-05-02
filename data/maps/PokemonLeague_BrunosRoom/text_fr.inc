@@ -1,4 +1,4 @@
-PokemonLeague_BrunosRoom_Text_Intro::
+PokemonLeague_BrunosRoom_Text_Intro_FR::
 	.string "Mon nom est ALDO du CONSEIL 4!\p"
 	.string "Notre passion à mes POKéMON\n"
 	.string "et moi, c'est la muscu!\p"
@@ -10,7 +10,7 @@ PokemonLeague_BrunosRoom_Text_Intro::
 	.string "J'vais en faire du yaourt!\p"
 	.string "A table!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_RematchIntro::
+PokemonLeague_BrunosRoom_Text_RematchIntro_FR::
 	.string "Je suis ALDO du CONSEIL 4!\p"
 	.string "Notre passion à mes POKéMON\n"
 	.string "et moi, c'est la muscu!\p"
@@ -22,11 +22,11 @@ PokemonLeague_BrunosRoom_Text_RematchIntro::
 	.string "J'vais en faire du yaourt!\p"
 	.string "A table!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_Defeat::
+PokemonLeague_BrunosRoom_Text_Defeat_FR::
 	.string "Pourquoi?\n"
 	.string "Et mes muscles?$"
 
-PokemonLeague_BrunosRoom_Text_PostBattle::
+PokemonLeague_BrunosRoom_Text_PostBattle_FR::
 	.string "Bien joué!\n"
 	.string "Ton prochain adversaire t'attend!$"
 

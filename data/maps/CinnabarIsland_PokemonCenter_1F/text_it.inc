@@ -1,4 +1,4 @@
-CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
+CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked_IT::
     .string "Sono venuta fino all'ISOLA\n"
     .string "CANNELLA per vedere la PALESTRA,\l"
     .string "ma è chiusa!\p"
@@ -8,7 +8,7 @@ CinnabarIsland_PokemonCenter_1F_Text_CinnabarGymLocked::
     .string "Pare che ci vivesse un amico del\n"
     .string "CAPOPALESTRA.$"
 
-CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
+CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom_IT::
     .string "Hai tanti amici?\p"
     .string "Certo, collegarsi con quelli che\n"
     .string "già conosci è divertente.\p"
@@ -16,21 +16,21 @@ CinnabarIsland_PokemonCenter_1F_Text_VisitUnionRoom::
     .string "nella SALA CONTATTO?\p"
     .string "Potresti fare nuove conoscenze!$"
 
-CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves::
+CinnabarIsland_PokemonCenter_1F_Text_EvolutionCanWaitForNewMoves_IT::
     .string "I POKéMON possono imparare altre\n"
     .string "tecniche, anche se l'evoluzione\l"
     .string "viene interrotta.\p"
     .string "L'evoluzione può avvenire dopo\n"
     .string "l'apprendimento di nuove mosse.$"
 
-CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland::
+CinnabarIsland_PokemonCenter_1F_Text_ReadyToSailToOneIsland_IT::
     .string "Ehi, mi hai fatto aspettare!\n"
     .string "Allora, siamo pronti per andare\l"
     .string "a PRIMISOLA?$"
 
-CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet::
+CinnabarIsland_PokemonCenter_1F_Text_OhNotDoneYet_IT::
     .string "Ah, non ancora?$"
 
-CinnabarIsland_PokemonCenter_1F_Text_LetsGo::
+CinnabarIsland_PokemonCenter_1F_Text_LetsGo_IT::
     .string "Andiamo, allora!$"
 

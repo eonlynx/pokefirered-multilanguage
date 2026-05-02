@@ -1,22 +1,22 @@
-FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
+FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke_IT::
     .string "Il soprannome del GUARDIANO è\n"
     .string "SLOWPOKE.\p"
     .string "Ha il suo stesso sguardo un po'\n"
     .string "perso!$"
 
-FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
+FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable_IT::
     .string "Il GUARDIANO SLOWPOKE sa\n"
     .string "molto sui POKéMON!\p"
     .string "Ha anche alcuni fossili di rari\n"
     .string "POKéMON estinti!$"
 
-FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
+FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden_IT::
     .string "SLOWPOKE, il GUARDIANO, mi ha\n"
     .string "detto qualcosa, ma non ho capito\l"
     .string "niente.\p"
     .string "Ha difficoltà ad esprimersi!$"
 
-FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
+FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone_IT::
     .string "Il GUARDIANO SLOWPOKE sta facendo\n"
     .string "una campagna promozionale.\p"
     .string "Prova ad andare fino al punto più\n"

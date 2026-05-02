@@ -1,17 +1,17 @@
-SaffronCity_House_Text_DontLookAtMyLetter::
+SaffronCity_House_Text_DontLookAtMyLetter_DE::
 	.string "... vielen Dank für deinen Brief!\n"
 	.string "Bis bald...\p"
 	.string "Heh!\n"
 	.string "Lies meinen Brief nicht!$"
 
-SaffronCity_House_Text_Pidgey::
+SaffronCity_House_Text_Pidgey_DE::
 	.string "TAUBSI: TAUBSI!$"
 
-SaffronCity_House_Text_GettingCopycatPokeDoll::
+SaffronCity_House_Text_GettingCopycatPokeDoll_DE::
 	.string "Ich mag die NACHAHMERIN!\n"
 	.string "Ich kaufe ihr eine POKéPUPPE!$"
 
-SaffronCity_House_Text_ExplainPPUp::
+SaffronCity_House_Text_ExplainPPUp_DE::
 	.string "Ich habe ein AP-PLUS geschenkt\n"
 	.string "bekommen!\p"
 	.string "Es erhöht die ANGRIFFSPUNKTE einer\n"

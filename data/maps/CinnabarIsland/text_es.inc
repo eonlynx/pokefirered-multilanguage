@@ -1,37 +1,37 @@
-CinnabarIsland_Text_DoorIsLocked::
+CinnabarIsland_Text_DoorIsLocked_ES::
     .string "La puerta está cerrada...$"
 
-CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
+CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab_ES::
     .string "BLAINE, del GIMNASIO CANELA,\n"
     .string "es un hombre raro que lleva años\l"
     .string "viviendo aquí.\p"
     .string "Antes de que construyeran el\n"
     .string "LABORATORIO, ya vivía aquí.$"
 
-CinnabarIsland_Text_ScientistsExperimentInMansion::
+CinnabarIsland_Text_ScientistsExperimentInMansion_ES::
     .string "Los científicos experimentan\n"
     .string "en el edificio quemado.\p"
     .string "Es el mismo edificio al que llaman\n"
     .string "MANSIÓN POKéMON.$"
 
-CinnabarIsland_Text_IslandSign::
+CinnabarIsland_Text_IslandSign_ES::
     .string "ISLA CANELA\n"
     .string "La feroz ciudad del ardiente\l"
     .string "deseo.$"
 
-CinnabarIsland_Text_PokemonLab::
+CinnabarIsland_Text_PokemonLab_ES::
     .string "LABORATORIO POKéMON$"
 
-CinnabarIsland_Text_GymSign::
+CinnabarIsland_Text_GymSign_ES::
     .string "LÍDER del GIMNASIO POKéMON\n"
     .string "de CANELA: BLAINE\l"
     .string "¡El maestro de los acertijos!$"
 
-CinnabarIsland_Text_HeyIfItIsntPlayer::
+CinnabarIsland_Text_HeyIfItIsntPlayer_ES::
     .string "¡Anda!\n"
     .string "¡Pero si es {PLAYER}!$"
 
-CinnabarIsland_Text_ComeWithMeToOneIsland::
+CinnabarIsland_Text_ComeWithMeToOneIsland_ES::
     .string "Eh, soy BILL.\n"
     .string "¡Qué de tiempo!\p"
     .string "Espero que sigas usando mi sistema\n"
@@ -45,10 +45,10 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
     .string "¿Qué te parece?\n"
     .string "¿Te apetece venirte conmigo?$"
 
-CinnabarIsland_Text_AllRightLetsGo::
+CinnabarIsland_Text_AllRightLetsGo_ES::
     .string "Guay, pues venga.$"
 
-CinnabarIsland_Text_IllBeWaitingInPokeCenter::
+CinnabarIsland_Text_IllBeWaitingInPokeCenter_ES::
     .string "¿No tienes tiempo o qué?\p"
     .string "Bueno, pues vale. De todas formas\n"
     .string "el barco no ha llegado aún.\p"
@@ -57,14 +57,14 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
     .string "Cuando hayas acabado de hacer\n"
     .string "tus cosas, ya sabes dónde estoy.$"
 
-CinnabarIsland_Text_MyPalsBoatArrived::
+CinnabarIsland_Text_MyPalsBoatArrived_ES::
     .string "Anda, el barco de mi amigo\n"
     .string "ha llegado también...\p"
     .string "¡Lo ha mandado expresamente\n"
     .string "a CANELA para que pueda ir\l"
     .string "a verlo!$"
 
-CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
+CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain_ES::
     .string "Eh, menudo viajecito, ¿eh?\p"
     .string "Creo que le has caído genial\n"
     .string "a mi colega CELIO.\p"

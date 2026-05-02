@@ -1,10 +1,10 @@
-PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow::
+PewterCity_House2_Text_MonsLearnTechniquesAsTheyGrow_IT::
     .string "I POKéMON imparano nuove tecniche\n"
     .string "crescendo!\p"
     .string "Alcune però dovrà insegnarle\n"
     .string "l'ALLENATORE!$"
 
-PewterCity_House2_Text_MonsEasierCatchIfStatused::
+PewterCity_House2_Text_MonsEasierCatchIfStatused_IT::
     .string "Un POKéMON che ha subito\n"
     .string "un problema di stato è più\l"
     .string "facile da catturare.\p"

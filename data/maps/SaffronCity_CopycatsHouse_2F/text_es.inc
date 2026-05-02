@@ -1,4 +1,4 @@
-SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
+SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale_ES::
     .string "{PLAYER}: ¡Hola!\n"
     .string "¿Te gustan los POKéMON?\p"
     .string "{PLAYER}: ¿No?\n"
@@ -8,7 +8,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMale::
     .string "COPIONA: ¿Qué? ¿Que deje\n"
     .string "de imitar? ¡Es mi hobby favorito!$"
 
-SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
+SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale_ES::
     .string "{PLAYER}: ¡Hola!\n"
     .string "¿Te gustan los POKéMON?\p"
     .string "{PLAYER}: ¿No?\n"
@@ -18,7 +18,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemale::
     .string "COPIONA: ¿Qué? ¿Que deje\n"
     .string "de imitar? ¡Es mi hobby favorito!$"
 
-Text_MimicTeach::
+Text_MimicTeach_ES::
     .string "¡Uauuu!\n"
     .string "¡Un POKé MUÑECO!\p"
     .string "¿Es para mí?\n"
@@ -26,15 +26,15 @@ Text_MimicTeach::
     .string "¿Sabes una cosa? Podría\n"
     .string "enseñarte el movimiento MIMÉTICO.$"
 
-Text_MimicDeclined::
+Text_MimicDeclined_ES::
     .string "¿No tienes interés en MIMÉTICO?$"
 
-Text_MimicWhichMon::
+Text_MimicWhichMon_ES::
     .string "¡Bien, a mí me encanta!\n"
     .string "¿A qué POKéMON quieres que\l"
     .string "le enseñe MIMÉTICO?$"
 
-Text_MimicTaughtMale::
+Text_MimicTaughtMale_ES::
     .string "{PLAYER}: ¡Hola!\n"
     .string "¡Gracias por lo de antes!\p"
     .string "{PLAYER}: ¿Sí?\p"
@@ -43,7 +43,7 @@ Text_MimicTaughtMale::
     .string "COPIONA: ¿Verdad?\n"
     .string "¡Es muy divertido!$"
 
-Text_MimicTaughtFemale::
+Text_MimicTaughtFemale_ES::
     .string "{PLAYER}: ¡Hola!\n"
     .string "¡Gracias por lo de antes!\p"
     .string "{PLAYER}: ¿Sí?\p"
@@ -52,10 +52,10 @@ Text_MimicTaughtFemale::
     .string "COPIONA: ¿Verdad?\n"
     .string "¡Es muy divertido!$"
 
-SaffronCity_CopycatsHouse_2F_Text_TooMuchInBag::
+SaffronCity_CopycatsHouse_2F_Text_TooMuchInBag_ES::
     .string "にもつが　いっぱいね！$"
 
-SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMaleJP::
+SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMaleJP_ES::
     .string "{PLAYER}“やあ！　こんにちは！\n"
     .string "きみ　ポケモン　すきかい？\p"
     .string "{PLAYER}“ぼく　じゃなくって\n"
@@ -67,7 +67,7 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyMaleJP::
     .string "だって　あたし　\n"
     .string "ものまね　しゅみ　なんだ　もん！”$"
 
-SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP::
+SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP_ES::
     .string "{PLAYER}“こんにちは！\n"
     .string "ポケモン　すきなのね？\p"
     .string "{PLAYER}“わたし　じゃなくって\n"
@@ -79,25 +79,25 @@ SaffronCity_CopycatsHouse_2F_Text_MimickingFavoriteHobbyFemaleJP::
     .string "だって　あたし\n"
     .string "ものまね　しゅみ　なんだ　もん！$"
 
-SaffronCity_CopycatsHouse_2F_Text_Doduo::
+SaffronCity_CopycatsHouse_2F_Text_Doduo_ES::
     .string "DODUO: ¡Dodu!\p"
     .string "¡ESPEJO, ESPEJITO! ¿QUIÉN ES\n"
     .string "LA MÁS BELLA DE TODAS?$"
 
-SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll::
+SaffronCity_CopycatsHouse_2F_Text_RareMonOnlyDoll_ES::
     .string "¡Éste es un POKéMON raro!\n"
     .string "¿Eh? ¡Pero si es un muñeco!$"
 
-SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket::
+SaffronCity_CopycatsHouse_2F_Text_MarioWearingABucket_ES::
     .string "¡Un juego de MARIO con un cubo\n"
     .string "en la cabeza!$"
 
-SaffronCity_CopycatsHouse_2F_Text_MySecrets::
+SaffronCity_CopycatsHouse_2F_Text_MySecrets_ES::
     .string "...\p"
     .string "¡Éstos son mis secretos!\p"
     .string "Habilidad: imitar.\n"
     .string "Hobby: coleccionar muñecos.\l"
     .string "POKéMON favorito: ¡CLEFAIRY!$"
 
-SaffronCity_CopycatsHouse_2F_Text_HuhCantSee::
+SaffronCity_CopycatsHouse_2F_Text_HuhCantSee_ES::
     .string "？　みえないぞ‥$"

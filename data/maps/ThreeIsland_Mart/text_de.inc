@@ -1,17 +1,17 @@
-ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger::
+ThreeIsland_Mart_Text_TrueThatCeldadonDeptStoreBigger_DE::
 	.string "Stimmt das?\p"
 	.string "Das EINKAUFSZENTRUM in\n"
 	.string "PRISMANIA CITY ist sehr viel\l"
 	.string "größer als dieses Geschäft?$"
 
-ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest::
+ThreeIsland_Mart_Text_PeopleHealWithBerriesFromForest_DE::
 	.string "Ich kaufe hier manchmal Medizin.\p"
 	.string "Viele Leute heilen POKéMON mit\n"
 	.string "BEEREN aus dem BEERENFORST.\p"
 	.string "Schließlich sind BEEREN umsonst\n"
 	.string "und ihr Vorrat ist unerschöpflich!$"
 
-ThreeIsland_Mart_Text_BikersWereAboutToTrashMart::
+ThreeIsland_Mart_Text_BikersWereAboutToTrashMart_DE::
 	.string "Diese BIKER wollten den POKéMON-\n"
 	.string "SUPERMARKT in Schutt und Asche\l"
 	.string "legen.\l"

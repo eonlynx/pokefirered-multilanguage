@@ -1,4 +1,4 @@
-SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
+SixIsland_Mart_Text_AgathaOldestEverEliteFourMember_DE::
 	.string "Spiele viel mit POKéMON und\n"
 	.string "führe ein langes Leben!\p"
 	.string "Nimm z.B. AGATHE!\p"
@@ -7,7 +7,7 @@ SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
 	.string "Sie ist mein Ansporn nach\n"
 	.string "Größerem zu streben.$"
 
-SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter::
+SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter_DE::
 	.string "Ich sollte Briefpapier kaufen und\n"
 	.string "ihm schreiben…$"
 

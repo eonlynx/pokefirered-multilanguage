@@ -1,17 +1,17 @@
-Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
+Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers_DE::
 	.string "Ihr Element macht manche POKéMON\n"
 	.string "anderen gegenüber stärker bzw.\l"
 	.string "schwächer!$"
 
-Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
+Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000_DE::
 	.string "Ich habe für ein nutzloses NUGGET\n"
 	.string "5000¥ bekommen!$"
 
-Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
+Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender_DE::
 	.string "Ich habe gehört, dass in LAVANDIA\n"
 	.string "böse GEISTER spuken!$"
 
-Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
+Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons_DE::
 	.string "Oh… {PLAYER}!\n"
 	.string "Ich habe schon nach dir gesucht!\p"
 	.string "Ich bin es, der allzeit präsente\n"
@@ -25,17 +25,17 @@ Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
 	.string "Hast du mindestens 20 verschiedene\n"
 	.string "POKéMON in deinem Besitz?$"
 
-Route10_PokemonCenter_1F_Text_GreatHereYouGo::
+Route10_PokemonCenter_1F_Text_GreatHereYouGo_DE::
 	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
 	.string "POKéMON gefangen! Einfach klasse!\p"
 	.string "Hier, das hast du dir redlich\n"
 	.string "verdient!$"
 
-Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide::
+Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide_DE::
 	.string "{PLAYER} erhält\n"
 	.string "EWIGSTEIN!$"
 
-Route10_PokemonCenter_1F_Text_ExplainEverstone::
+Route10_PokemonCenter_1F_Text_ExplainEverstone_DE::
 	.string "Durch die Entwicklung der\n"
 	.string "POKéMON wird der POKéDEX\l"
 	.string "erweitert.\l"

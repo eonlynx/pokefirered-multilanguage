@@ -1,4 +1,4 @@
-ThreeIsland_House2_Text_CantMakeThisSpoonBend::
+ThreeIsland_House2_Text_CantMakeThisSpoonBend_IT::
     .string "Urrrrrrrrgggghhhh…\n"
     .string "Kwaaaaah!\p"
     .string "…È inutile! Non riuscirò\n"
@@ -7,7 +7,7 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
     .string "Comincio a credere di non avere\n"
     .string "nessun potere psichico…$"
 
-ThreeIsland_House2_Text_IAdmireSabrina::
+ThreeIsland_House2_Text_IAdmireSabrina_IT::
     .string "Conosci la ragazza che è\n"
     .string "CAPOPALESTRA a ZAFFERANOPOLI?\p"
     .string "Usa POKéMON di tipo PSICO, vero?\p"

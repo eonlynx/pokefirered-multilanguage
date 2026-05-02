@@ -1,16 +1,16 @@
-VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
+VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild_DE::
 	.string "Auch wenn sie den gleichen Level\n"
 	.string "haben, können die Fähigkeiten von\l"
 	.string "POKéMON trotzdem verschieden sein.\p"
 	.string "Das POKéMON eines TRAINERs ist\n"
 	.string "stärker als ein wild lebendes.$"
 
-VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
+VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking_DE::
 	.string "Mein POKéMON wurde vergiftet!\n"
 	.string "Das Gift hat es lange nach dem\l"
 	.string "Kampf besiegt!$"
 
-VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
+VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes_DE::
 	.string "Es stimmt, dass ein POKéMON mit\n"
 	.string "einem hohen Level sehr stark ist...\p"
 	.string "Allerdings haben alle POKéMON\n"
@@ -19,7 +19,7 @@ VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
 	.string "Daher gibt es kein Universal-\n"
 	.string "POKéMON.$"
 
-VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
+VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain_DE::
 	.string "Der Zwang erneut mit jemandem\n"
 	.string "zu kämpfen…\p"
 	.string "Hast du diesen Zwang je verspürt?\n"
@@ -29,14 +29,14 @@ VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
 	.string "Also hab ich dies weggegeben.\n"
 	.string "Nimm bitte auch eines!$"
 
-VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
+VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches_DE::
 	.string "Setze dieses Gerät ein und du\n"
 	.string "findest TRAINER, die einen\l"
 	.string "Rückkampf möchten.\l"
 	.string "Du musst allerdings die Batterie\l"
 	.string "aufladen, um es zu betreiben!$"
 
-VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
+VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker_DE::
 	.string "Wie man den KAMPFFAHNDER einsetzt?\n"
 	.string "Das ist einfach!\p"
 	.string "Er macht biep, biep, biep und\n"

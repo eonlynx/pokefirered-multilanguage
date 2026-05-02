@@ -1,4 +1,4 @@
-FiveIsland_House2_Text_MeadowBelongedToFamily::
+FiveIsland_House2_Text_MeadowBelongedToFamily_IT::
     .string "Questo PRATO appartiene alla mia\n"
     .string "famiglia da parecchie generazioni.\p"
     .string "Avrei dovuto costruirci una bella\n"

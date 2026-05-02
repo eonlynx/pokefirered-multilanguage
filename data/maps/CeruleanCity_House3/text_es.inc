@@ -1,4 +1,4 @@
-CeruleanCity_House3_Text_PleaseTradeWithMyHusband::
+CeruleanCity_House3_Text_PleaseTradeWithMyHusband_ES::
     .string "A mi marido le gusta intercambiar\n"
     .string "POKéMON.\p"
     .string "Si eres coleccionista, ¿podrías\n"

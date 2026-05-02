@@ -1,4 +1,4 @@
-PewterCity_Gym_Text_BrockIntro::
+PewterCity_Gym_Text_BrockIntro_FR::
 	.string "Je suis PIERRE! Je suis le\n"
 	.string "CHAMPION d'ARGENTA!\p"
 	.string "Je crois en la grande force de\n"
@@ -13,7 +13,7 @@ PewterCity_Gym_Text_BrockIntro::
 @ NOTE: This defeat text actually causes a buffer overflow. It's too long for the gDisplayedStringBattle
 @ buffer that it's put into, and it stomps all over the gBattleTextBuffs after, as well as the otherwise
 @ unused array after that, sFlickerArray. Perhaps that's the reason why said array exists.
-PewterCity_Gym_Text_BrockDefeat::
+PewterCity_Gym_Text_BrockDefeat_FR::
 	.string "Hmm…\n"
 	.string "Beau combat. J'étais trop sûr de\l"
 	.string "moi, c'est pour ça que j'ai perdu.\p"
@@ -29,14 +29,14 @@ PewterCity_Gym_Text_BrockDefeat::
 	.string "La technique FLASH peut être\n"
 	.string "utilisée!$"
 
-PewterCity_Gym_Text_TakeThisWithYou::
+PewterCity_Gym_Text_TakeThisWithYou_FR::
 	.string "Attends!\n"
 	.string "Prends ça avec toi!$"
 
-PewterCity_Gym_Text_ReceivedTM39FromBrock::
+PewterCity_Gym_Text_ReceivedTM39FromBrock_FR::
 	.string "{PLAYER} reçoit la CT39!$"
 
-PewterCity_Gym_Text_ExplainTM39::
+PewterCity_Gym_Text_ExplainTM39_FR::
 	.string "Une CT (Capsule Tech.) contient\n"
 	.string "une attaque à enseigner à un\l"
 	.string "POKéMON!\p"
@@ -48,7 +48,7 @@ PewterCity_Gym_Text_ExplainTM39::
 	.string "lancera des rochers sur\p"
 	.string "son ennemi pour baisser sa vitesse.$"
 
-PewterCity_Gym_Text_BrockPostBattle::
+PewterCity_Gym_Text_BrockPostBattle_FR::
 	.string "Il y a plusieurs types de\n"
 	.string "DRESSEURS dans le monde!\p"
 	.string "Tu sembles être un DRESSEUR\n"
@@ -56,34 +56,34 @@ PewterCity_Gym_Text_BrockPostBattle::
 	.string "Va à l'ARENE d'AZURIA pour tester\n"
 	.string "tes capacités.$"
 
-PewterCity_Gym_Text_DontHaveRoomForThis::
+PewterCity_Gym_Text_DontHaveRoomForThis_FR::
 	.string "Ton inventaire est plein!$"
 
-PewterCity_Gym_Text_LiamIntro::
+PewterCity_Gym_Text_LiamIntro_FR::
 	.string "Une minute!\p"
 	.string "Tu es encore loin de pouvoir\n"
 	.string "te battre contre PIERRE.\p"
 	.string "Tu vas devoir m'affronter avant!$"
 
-PewterCity_Gym_Text_LiamDefeat::
+PewterCity_Gym_Text_LiamDefeat_FR::
 	.string "Zut!\p"
 	.string "J'aurais dû te laisser passer!$"
 
-PewterCity_Gym_Text_LiamPostBattle::
+PewterCity_Gym_Text_LiamPostBattle_FR::
 	.string "Tu sais te battre…\n"
 	.string "Mais pas aussi bien que PIERRE!$"
 
-PewterCity_Gym_Text_LetMeTakeYouToTheTop::
+PewterCity_Gym_Text_LetMeTakeYouToTheTop_FR::
 	.string "Salut graine de CHAMPION!\p"
 	.string "Je ne suis pas DRESSEUR mais\n"
 	.string "mes conseils sont avisés!\p"
 	.string "Laisse-moi te mener à la victoire!$"
 
-PewterCity_Gym_Text_LetsGetHappening::
+PewterCity_Gym_Text_LetsGetHappening_FR::
 	.string "OK!\n"
 	.string "C'est parti!$"
 
-PewterCity_Gym_Text_TryDifferentPartyOrders::
+PewterCity_Gym_Text_TryDifferentPartyOrders_FR::
 	.string "Le 1er POKéMON apparaissant dans\n"
 	.string "un combat est celui à gauche dans\l"
 	.string "la LISTE POKéMON!\p"
@@ -92,20 +92,20 @@ PewterCity_Gym_Text_TryDifferentPartyOrders::
 	.string "Essaye différents ordres pour\n"
 	.string "t'adapter à ton adversaire.$"
 
-PewterCity_Gym_Text_ItsFreeLetsGetHappening::
+PewterCity_Gym_Text_ItsFreeLetsGetHappening_FR::
 	.string "C'est gratuit, profites-en! $"
 
-PewterCity_Gym_Text_YoureChampMaterial::
+PewterCity_Gym_Text_YoureChampMaterial_FR::
 	.string "Je le savais!\n"
 	.string "Tu as l'âme d'un CHAMPION!$"
 
-PewterCity_Gym_Text_GymStatue::
+PewterCity_Gym_Text_GymStatue_FR::
 	.string "ARENE POKéMON d'ARGENTA\n"
 	.string "CHAMPION: PIERRE\p"
 	.string "VAINQUEURS:\n"
 	.string "{RIVAL}$"
 
-PewterCity_Gym_Text_GymStatuePlayerWon::
+PewterCity_Gym_Text_GymStatuePlayerWon_FR::
 	.string "ARENE POKéMON d'ARGENTA\n"
 	.string "CHAMPION: PIERRE\p"
 	.string "VAINQUEURS:\n"

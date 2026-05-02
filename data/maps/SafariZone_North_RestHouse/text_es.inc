@@ -1,14 +1,14 @@
-SafariZone_East_Text_KeepAnyItemFoundOnSafari::
+SafariZone_East_Text_KeepAnyItemFoundOnSafari_ES::
     .string "Puedes quedarte con cualquier\n"
     .string "objeto encontrado en esta zona.\p"
     .string "¡Pero te quedarás sin tiempo si\n"
     .string "intentas coger todos a la vez!$"
 
-SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
+SafariZone_East_Text_PrizeInDeepestPartOfSafariZone_ES::
     .string "Dirígete al ZONA más profunda del\n"
     .string "SAFARI. ¡Ganarás un premio!$"
 
-SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
+SafariZone_East_Text_MyEeveeEvolvedIntoFlareon_ES::
     .string "¡Mi EEVEE evolucionó y\n"
     .string "se transformó en un FLAREON!\p"
     .string "¡Pero el EEVEE de un amigo se\n"

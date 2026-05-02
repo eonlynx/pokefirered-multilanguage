@@ -1,4 +1,4 @@
-CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
+CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers_ES::
     .string "¡Los dispositivos de mejora de los\n"
     .string "POKéMON sólo se venden aquí!\p"
     .string "MÁS PS aumenta los PS básicos\n"
@@ -10,12 +10,12 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
     .string "Usa CARBURANTE para aumentar\n"
     .string "la VELOCIDAD.$"
 
-CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
+CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers_ES::
     .string "¡He venido a por dispositivos de\n"
     .string "mejora de los POKéMON!\p"
     .string "Las PROTEÍNAS aumentan la potencia\n"
     .string "del ATAQUE.\p"
     .string "El HIERRO aumenta la DEFENSA.$"
 
-CeladonCity_DepartmentStore_5F_Text_Drugstore::
+CeladonCity_DepartmentStore_5F_Text_Drugstore_ES::
     .string "P4: FARMACIA$"

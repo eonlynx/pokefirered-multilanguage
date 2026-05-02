@@ -1,4 +1,4 @@
-OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
+OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore_IT::
     .string "Hhhm!\n"
     .string "Aaah!\p"
     .string "L'acqua è fantastica!\n"
@@ -7,28 +7,28 @@ OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
     .string "proprio al centro, chiudere\l"
     .string "gli occhi e rilassarti!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
+OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder_IT::
     .string "E dopo un bel bagno mi mangio una\n"
     .string "zuppa di pesce fumante!\p"
     .string "Così mi riscaldo anche lo stomaco!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
+OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed_IT::
     .string "L'acqua è tiepida,\n"
     .string "rilassante…\p"
     .string "{PLAYER} e la sua squadra\n"
     .string "hanno recuperato le forze!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
+OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic_IT::
     .string "Fare il bagno nell'acqua termale fa\n"
     .string "benissimo, o almeno così dicono!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
+OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs_IT::
     .string "Hai visto che bella pelle levigata\n"
     .string "che ho, nonostante l'età?\p"
     .string "È merito dell'acqua di queste\n"
     .string "terme!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
+OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion_IT::
     .string "Non c'è niente di meglio di un\n"
     .string "bagno nell'acqua termale\l"
     .string "dopo una giornata di lavoro!\p"
@@ -38,7 +38,7 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "una lotta e rimettere in sesto i\l"
     .string "suoi POKéMON.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
+OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa_IT::
     .string "Dove ci sono i vulcani, spesso si\n"
     .string "trovano anche sorgenti termali.\p"
     .string "Queste TERME LAVICHE sono\n"
@@ -48,7 +48,7 @@ OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Beh, ormai non mi serve più…\l"
     .string "Posso darlo a te!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06::
+OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06_IT::
     .string "SPACCAROCCIA stritola le rocce\n"
     .string "come se fossero grissini!$"
 

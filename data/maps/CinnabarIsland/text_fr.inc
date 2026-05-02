@@ -1,35 +1,35 @@
-CinnabarIsland_Text_DoorIsLocked::
+CinnabarIsland_Text_DoorIsLocked_FR::
 	.string "La porte est fermée…$"
 
-CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
+CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab_FR::
 	.string "AUGUSTE, de l'ARENE de\n"
 	.string "CRAMOIS'ILE est un type étrange.\p"
 	.string "Il vit ici depuis bien avant la\n"
 	.string "construction du LABORATOIRE.$"
 
-CinnabarIsland_Text_ScientistsExperimentInMansion::
+CinnabarIsland_Text_ScientistsExperimentInMansion_FR::
 	.string "Des scientifiques font de drôles\n"
 	.string "d'expériences près d'ici.\p"
 	.string "Tu sais, dans le bâtiment qu'on\n"
 	.string "appelle le MANOIR POKéMON.$"
 
-CinnabarIsland_Text_IslandSign::
+CinnabarIsland_Text_IslandSign_FR::
 	.string "CRAMOIS'ILE\n"
 	.string "Vive comme les flammes$"
 
-CinnabarIsland_Text_PokemonLab::
+CinnabarIsland_Text_PokemonLab_FR::
 	.string "LABO POKéMON$"
 
-CinnabarIsland_Text_GymSign::
+CinnabarIsland_Text_GymSign_FR::
 	.string "ARENE POKéMON de CRAMOIS'ILE \n"
 	.string "CHAMPION: AUGUSTE\l"
 	.string "Le maître du quiz!$"
 
-CinnabarIsland_Text_HeyIfItIsntPlayer::
+CinnabarIsland_Text_HeyIfItIsntPlayer_FR::
 	.string "Hein?\n"
 	.string "Mais c'est bien toi, {PLAYER}!$"
 
-CinnabarIsland_Text_ComeWithMeToOneIsland::
+CinnabarIsland_Text_ComeWithMeToOneIsland_FR::
 	.string "C'est moi, LEO!\n"
 	.string "Ça fait un bail dis-moi!\p"
 	.string "J'espère que tu utilises toujours\n"
@@ -43,10 +43,10 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "T'en penses quoi? Tu viens\n"
 	.string "avec moi?$"
 
-CinnabarIsland_Text_AllRightLetsGo::
+CinnabarIsland_Text_AllRightLetsGo_FR::
 	.string "Très bien alors, on y va!$"
 
-CinnabarIsland_Text_IllBeWaitingInPokeCenter::
+CinnabarIsland_Text_IllBeWaitingInPokeCenter_FR::
 	.string "Quoi!?\n"
 	.string "T'as pas le temps?\p"
 	.string "Bon, tant pis. Le bateau n'est pas\n"
@@ -55,13 +55,13 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
 	.string "qui est là-bas.\p"
 	.string "Passe-me voir quand ça te dit.$"
 
-CinnabarIsland_Text_MyPalsBoatArrived::
+CinnabarIsland_Text_MyPalsBoatArrived_FR::
 	.string "Le bateau de mon ami vient\n"
 	.string "d'arriver.\p"
 	.string "Il l'a envoyé à CRAMOIS'ILE\n"
 	.string "spécialement pour moi.$"
 
-CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
+CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain_FR::
 	.string "Pfiuu, quel voyage.\p"
 	.string "On dirait que CILEO apprécie\n"
 	.string "beaucoup ta compagnie.\p"

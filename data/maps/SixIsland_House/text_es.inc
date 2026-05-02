@@ -1,4 +1,4 @@
-SixIsland_House_Text_GoodPlaceForNatureAndHistory::
+SixIsland_House_Text_GoodPlaceForNatureAndHistory_ES::
     .string "Aquí la gente joven no encuentra\n"
     .string "nada de su interés.\p"
     .string "Pero éste es un lugar único por la\n"

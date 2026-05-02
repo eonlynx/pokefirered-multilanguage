@@ -1,4 +1,4 @@
-FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
+FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland_IT::
     .string "LORELEI: C'è un pensiero che mi\n"
     .string "tormenta.\p"
     .string "Se mentre mi trovo nella LEGA\n"
@@ -6,7 +6,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
     .string "mia isola, non lo saprei mai!\p"
     .string "Forse è meglio che resti qui!$"
 
-FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
+FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile_IT::
     .string "LORELEI: Grazie a te, tutti i\n"
     .string "problemi di queste isole sono\l"
     .string "finalmente risolti.\p"
@@ -14,13 +14,13 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
     .string "c'è più motivo che io resti qui!\p"
     .string "Tornerò presto alla LEGA POKéMON.$"
 
-FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
+FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow_IT::
     .string "Non chiedermi cosa ci riserva\n"
     .string "il futuro, ma…\p"
     .string "…so solo che mi impegnerò al\n"
     .string "massimo perché tutto vada per\l"
     .string "il meglio!$"
 
-FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
+FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore_IT::
     .string "Ci sono tantissime bambole POKéMON!$"
 

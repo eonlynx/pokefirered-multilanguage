@@ -1,4 +1,4 @@
-ThreeIsland_House5_Text_ImNotLostelle::
+ThreeIsland_House5_Text_ImNotLostelle_IT::
     .string "Io?\n"
     .string "No, io non sono LISETTA.\p"
     .string "Credo che sia andata al\n"
@@ -6,7 +6,7 @@ ThreeIsland_House5_Text_ImNotLostelle::
     .string "Ci va a raccogliere le BACCHE\n"
     .string "per preparare il pranzo.$"
 
-ThreeIsland_House5_Text_IllGoPlayWithLostelle::
+ThreeIsland_House5_Text_IllGoPlayWithLostelle_IT::
     .string "Credo che andrò a giocare con\n"
     .string "LISETTA, oggi.$"
 

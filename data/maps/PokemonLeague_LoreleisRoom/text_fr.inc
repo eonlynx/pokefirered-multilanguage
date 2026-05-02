@@ -1,4 +1,4 @@
-PokemonLeague_LoreleisRoom_Text_Intro::
+PokemonLeague_LoreleisRoom_Text_Intro_FR::
 	.string "Bienvenue à la LIGUE POKéMON!\p"
 	.string "Je zuis OLGA du CONZEIL 4!\p"
 	.string "Je zuis la maîtrezze des\n"
@@ -9,7 +9,7 @@ PokemonLeague_LoreleisRoom_Text_Intro::
 	.string "Ach! Ach! Ach!\n"
 	.string "Z'est parti!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_RematchIntro::
+PokemonLeague_LoreleisRoom_Text_RematchIntro_FR::
 	.string "Bienvenue à la LIGUE POKéMON!\p"
 	.string "Moi, OLGA du CONZEIL 4\n"
 	.string "zuis de retour!\p"
@@ -21,10 +21,10 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
 	.string "Ach! Ach! Ach!\n"
 	.string "Z'est reparti!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_Defeat::
+PokemonLeague_LoreleisRoom_Text_Defeat_FR::
 	.string "Za devait pas ze passer comme za!$"
 
-PokemonLeague_LoreleisRoom_Text_PostBattle::
+PokemonLeague_LoreleisRoom_Text_PostBattle_FR::
 	.string "Tu sais te battre.\n"
 	.string "Z'est bien.\p"
 	.string "Mais la LIGUE POKéMON te rézerve\n"

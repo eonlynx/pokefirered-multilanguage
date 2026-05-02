@@ -1,5 +1,5 @@
 @ The 5 texts below are supposed to be in FourIsland_House1
-Text_BodySlamTeach::
+Text_BodySlamTeach_DE::
 	.string "Fertig?\n"
 	.string "Boing!\p"
 	.string "Wir tragen einen BODYSLAM-Kampf\n"
@@ -11,28 +11,28 @@ Text_BodySlamTeach::
 	.string "Soll ich BODYSLAM einem deiner\l"
 	.string "POKéMON beibringen?$"
 
-Text_BodySlamDeclined::
+Text_BodySlamDeclined_DE::
 	.string "Komme wieder!\n"
 	.string "Boing!$"
 
-Text_BodySlamWhichMon::
+Text_BodySlamWhichMon_DE::
 	.string "Welches POKéMON soll\n"
 	.string "BODYSLAM erlernen?$"
 
-Text_BodySlamTaught::
+Text_BodySlamTaught_DE::
 	.string "Hoho!$"
 
-FourIsland_House1_Text_FatMan::
+FourIsland_House1_Text_FatMan_DE::
 	.string "それ　ぼよーん！\n"
 	.string "おまえ　おもいなあー！$"
 
-FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
+FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave_DE::
 	.string "Dort gibt es eine seltene Art\n"
 	.string "EIS-POKéMON in der Höhle.\p"
 	.string "Viele Besucher kommen nur,\n"
 	.string "um dieses POKéMON zu sehen.$"
 
-FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
+FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore_DE::
 	.string "Oh! Ein POKéMON-EI?\n"
 	.string "… ich habe keine Ahnung!\p"
 	.string "… oh, Moment, in der\n"
@@ -42,7 +42,7 @@ FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
 	.string "schon EIER auf ihrem\l"
 	.string "Grundstück gefunden!$"
 
-FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
+FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived_DE::
 	.string "Was ist los?\p"
 	.string "Die letzte Ausgabe vom POKéMON\n"
 	.string "JOURNAL ist noch nicht auf dieser\l"

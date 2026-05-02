@@ -1,85 +1,85 @@
-FuchsiaCity_Text_DidYouTrySafariGame::
+FuchsiaCity_Text_DidYouTrySafariGame_FR::
 	.string "Connais-tu le jeu du SAFARI?\p"
 	.string "Certains POKéMON n'apparaissent\n"
 	.string "qu'à cet endroit.$"
 
-FuchsiaCity_Text_SafariZoneZooInFront::
+FuchsiaCity_Text_SafariZoneZooInFront_FR::
 	.string "Il y a un zoo devant l'entrée du\n"
 	.string "PARC SAFARI.\p"
 	.string "Le jeu du SAFARI permet d'attraper\n"
 	.string "des POKéMON.$"
 
-FuchsiaCity_Text_WheresSara::
+FuchsiaCity_Text_WheresSara_FR::
 	.string "NICO: Mais où est JULIA? Elle est\n"
 	.string "tout l'temps en retard.$"
 
-FuchsiaCity_Text_ItemBallInThere::
+FuchsiaCity_Text_ItemBallInThere_FR::
 	.string "Cette BALL, mais…\n"
 	.string "Oh, c'est un POKéMON!$"
 
-FuchsiaCity_Text_CitySign::
+FuchsiaCity_Text_CitySign_FR::
 	.string "PARMANIE\n"
 	.string "Rose comme la passion$"
 
-FuchsiaCity_Text_SafariZoneSign::
+FuchsiaCity_Text_SafariZoneSign_FR::
 	.string "LE PARADIS DES POKéMON\n"
 	.string "PARC SAFARI$"
 
-FuchsiaCity_Text_SafariGameSign::
+FuchsiaCity_Text_SafariGameSign_FR::
 	.string "JEU SAFARI\n"
 	.string "Attrape-les tous!$"
 
-FuchsiaCity_Text_WardensHomeSign::
+FuchsiaCity_Text_WardensHomeSign_FR::
 	.string "PARC SAFARI\n"
 	.string "MAISON DU GARDIEN$"
 
-FuchsiaCity_Text_SafariZoneOfficeSign::
+FuchsiaCity_Text_SafariZoneOfficeSign_FR::
 	.string "LE PARADIS DES\n"
 	.string "POKéMON \p"
 	.string "Bienvenue au PARC SAFARI$"
 
-FuchsiaCity_Text_GymSign::
+FuchsiaCity_Text_GymSign_FR::
 	.string "ARENE POKéMON de PARMANIE \n"
 	.string "CHAMPION: KOGA\l"
 	.string "Le ninja aux poisons redoutables$"
 
-FuchsiaCity_Text_ChanseySign::
+FuchsiaCity_Text_ChanseySign_FR::
 	.string "Nom: LEVEINARD\p"
 	.string "Il faut une chance incroyable\n"
 	.string "pour en capturer un.$"
 
-FuchsiaCity_Text_VoltorbSign::
+FuchsiaCity_Text_VoltorbSign_FR::
 	.string "Nom: VOLTORBE\p"
 	.string "Portrait craché d'une POKé BALL.$"
 
-FuchsiaCity_Text_KangaskhanSign::
+FuchsiaCity_Text_KangaskhanSign_FR::
 	.string "Nom: KANGOUREX\p"
 	.string "Ce POKéMON élève son petit dans sa\n"
 	.string "poche ventrale.$"
 
-FuchsiaCity_Text_SlowpokeSign::
+FuchsiaCity_Text_SlowpokeSign_FR::
 	.string "Nom: RAMOLOSS\p"
 	.string "Sympa mais très lent!$"
 
-FuchsiaCity_Text_LaprasSign::
+FuchsiaCity_Text_LaprasSign_FR::
 	.string "Nom: LOKHLASS\p"
 	.string "Le roi des mers.$"
 
-FuchsiaCity_Text_OmanyteSign::
+FuchsiaCity_Text_OmanyteSign_FR::
 	.string "Nom: AMONITA\p"
 	.string "Un POKéMON créé à partir\n"
 	.string "d'un fossile.$"
 
-FuchsiaCity_Text_KabutoSign::
+FuchsiaCity_Text_KabutoSign_FR::
 	.string "Nom: KABUTO\p"
 	.string "Un POKéMON créé à partir\n"
 	.string "d'un fossile.$"
 
 @ Unused. May have been meant to be the placeholder text for the zoo mons, similar to RB's "!" text
-FuchsiaCity_Text_Ellipsis::
+FuchsiaCity_Text_Ellipsis_FR::
 	.string "……$"
 
-Text_SubstituteTeach::
+Text_SubstituteTeach_FR::
 	.string "J'aimerais tellement être un bébé\n"
 	.string "KANGOUREX.\p"
 	.string "Si je pouvais, je me clonerais\n"
@@ -91,20 +91,20 @@ Text_SubstituteTeach::
 	.string "Tu veux que j'apprenne CLONAGE\n"
 	.string "à un de tes POKéMON?$"
 
-Text_SubstituteDeclined::
+Text_SubstituteDeclined_FR::
 	.string "Oh, vraiment?\p"
 	.string "Dommage, le CLONAGE a\n"
 	.string "l'air sympa.$"
 
-Text_SubstituteWhichMon::
+Text_SubstituteWhichMon_FR::
 	.string "A quel POKéMON enseigner\n"
 	.string "CLONAGE?$"
 
-Text_SubstituteTaught::
+Text_SubstituteTaught_FR::
 	.string "Aaah, je donnerais tout pour être\n"
 	.string "dans la poche d'un KANGOUREX.$"
 
-FuchsiaCity_Text_MyFatherIsGymLeader::
+FuchsiaCity_Text_MyFatherIsGymLeader_FR::
 	.string "Mon père est le CHAMPION d'ARENE\n"
 	.string "de cette ville.\p"
 	.string "Je m'entraîne pour utiliser des\n"

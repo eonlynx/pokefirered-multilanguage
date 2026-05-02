@@ -1,4 +1,4 @@
-FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
+FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland_FR::
 	.string "OLGA: Je n'arrête pas de penzer\n"
 	.string "à quelque choze.\p"
 	.string "Z'il devait arriver malheur zur mon\n"
@@ -9,7 +9,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
 	.string "Est-ce que za fait de moi\n"
 	.string "quelqu'un d'irresponzable?$"
 
-FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
+FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile_FR::
 	.string "OLGA: Zo, alors tu as réuzzi à\n"
 	.string "régler les problèmes?\p"
 	.string "Z'est fantaztique!\p"
@@ -19,12 +19,12 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
 	.string "Je vais bientôt repartir pour la\n"
 	.string "LIGUE POKéMON.$"
 
-FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
+FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow_FR::
 	.string "Je ne zais pas ze qui peut se\n"
 	.string "pazzer dans le futur, mais…\p"
 	.string "Tant que je zerai là, je\n"
 	.string "protégerai zette île.$"
 
-FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
+FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore_FR::
 	.string "Il y a plein de poupées POKéMON.$"
 

@@ -1,4 +1,4 @@
-PokemonLeague_ChampionsRoom_Text_Intro::
+PokemonLeague_ChampionsRoom_Text_Intro_DE::
 	.string "{RIVAL}: Hallo!\p"
 	.string "Auf diesen Moment warte ich schon\n"
 	.string "lange, {PLAYER}!\p"
@@ -19,7 +19,7 @@ PokemonLeague_ChampionsRoom_Text_Intro::
 	.string "Ich bin der mächtigste TRAINER der\n"
 	.string "Welt!$"
 
-PokemonLeague_ChampionsRoom_Text_RematchIntro::
+PokemonLeague_ChampionsRoom_Text_RematchIntro_DE::
 	.string "{RIVAL}: Hallo!\p"
 	.string "Du bist zurück, {PLAYER}!\n"
 	.string "Das ist großartig!\p"
@@ -40,7 +40,7 @@ PokemonLeague_ChampionsRoom_Text_RematchIntro::
 	.string "Ich bin der mächtigste TRAINER der\n"
 	.string "Welt!$"
 
-PokemonLeague_ChampionsRoom_Text_Defeat::
+PokemonLeague_ChampionsRoom_Text_Defeat_DE::
 	.string "NEIN!\n"
 	.string "Das kann nicht wahr sein! Meine\l"
 	.string "besten POKéMON sind geschlagen!\p"
@@ -49,7 +49,7 @@ PokemonLeague_ChampionsRoom_Text_Defeat::
 	.string "LIGA-CHAMPION zu werden?\p"
 	.string "Das ist nicht fair!$"
 
-PokemonLeague_ChampionsRoom_Text_Victory::
+PokemonLeague_ChampionsRoom_Text_Victory_DE::
 	.string "はーはッ！\n"
 	.string "かった！　かった！　かった！\p"
 	.string "{PLAYER}に　まける　ような\n"
@@ -60,7 +60,7 @@ PokemonLeague_ChampionsRoom_Text_Victory::
 	.string "ほめて　つかわす！\n"
 	.string "はーッ！　はーはッはッ！$"
 
-PokemonLeague_ChampionsRoom_Text_PostBattle::
+PokemonLeague_ChampionsRoom_Text_PostBattle_DE::
 	.string "Wieso?\n"
 	.string "Wieso habe ich verloren?\p"
 	.string "Ich habe meine POKéMON doch sehr\n"
@@ -69,10 +69,10 @@ PokemonLeague_ChampionsRoom_Text_PostBattle::
 	.string "CHAMPION der POKéMON LIGA!\p"
 	.string "Aber ich gönne dir das nicht!$"
 
-PokemonLeague_ChampionsRoom_Text_OakPlayer::
+PokemonLeague_ChampionsRoom_Text_OakPlayer_DE::
 	.string "EICH: {PLAYER}!$"
 
-PokemonLeague_ChampionsRoom_Text_OakCongratulations::
+PokemonLeague_ChampionsRoom_Text_OakCongratulations_DE::
 	.string "EICH: Du hast also gewonnen!\n"
 	.string "Glückwunsch!\p"
 	.string "Du bist der neue Champion der\n"
@@ -83,7 +83,7 @@ PokemonLeague_ChampionsRoom_Text_OakCongratulations::
 	.string "{PLAYER}, du bist schon viel\n"
 	.string "erfahrener!$"
 
-PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
+PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival_DE::
 	.string "EICH: {RIVAL}!\n"
 	.string "Du hast mich sehr enttäuscht!\p"
 	.string "Als ich hörte, du hättest die TOP\n"
@@ -97,7 +97,7 @@ PokemonLeague_ChampionsRoom_Text_OakImDisappointedRival::
 	.string "entgegengebracht!\p"
 	.string "So wirst du niemals Sieger werden!$"
 
-PokemonLeague_ChampionsRoom_Text_OakPlayerComeWithMe::
+PokemonLeague_ChampionsRoom_Text_OakPlayerComeWithMe_DE::
 	.string "EICH: {PLAYER}!\p"
 	.string "Du hast begriffen, dass dein Sieg\n"
 	.string "nicht allein dein Verdienst war!\p"

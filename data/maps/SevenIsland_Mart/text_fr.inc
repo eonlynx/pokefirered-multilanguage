@@ -1,14 +1,14 @@
-SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn::
+SevenIsland_Mart_Text_MonHavePersonalitiesOfTheirOwn_FR::
 	.string "Les POKéMON ont leur propre\n"
 	.string "personnalité, comme les gens.\p"
 	.string "Mon PIKACHU est PRESSE. C'est\n"
 	.string "un POKéMON très rapide.$"
 
-SevenIsland_Mart_Text_PreparationsCompleteForRuins::
+SevenIsland_Mart_Text_PreparationsCompleteForRuins_FR::
 	.string "OK, je suis enfin prêt pour partir\n"
 	.string "explorer les RUINES.$"
 
-SevenIsland_Mart_Text_NeedToFishOnSevenIsland::
+SevenIsland_Mart_Text_NeedToFishOnSevenIsland_FR::
 	.string "Il ne me reste plus qu'à aller\n"
 	.string "pêcher sur l'ILE 7.\p"
 	.string "Comme ça, je les aurai toutes\n"

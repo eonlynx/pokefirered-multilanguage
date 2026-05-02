@@ -1,4 +1,4 @@
-FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
+FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons_DE::
 	.string "Du reist überall hin, oder?\p"
 	.string "Aber du nimmst Rücksicht auf\n"
 	.string "deine POKéMON, oder?\p"
@@ -6,38 +6,38 @@ FiveIsland_WaterLabyrinth_Text_LetMeTakeLookAtMons::
 	.string "…………\l"
 	.string "……$"
 
-FiveIsland_WaterLabyrinth_Text_HmmISeeIsee::
+FiveIsland_WaterLabyrinth_Text_HmmISeeIsee_DE::
 	.string "Ah, hmm…\n"
 	.string "So, so…$"
 
-FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis::
+FiveIsland_WaterLabyrinth_Text_TreatMonRightHaveThis_DE::
 	.string "Ah, wirklich beeindruckend.\n"
 	.string "Du behandelst deine POKéMON gut.\p"
 	.string "Ich denke, ich kann dir das\n"
 	.string "überlassen.\p"
 	.string "Bitte, nimm dies!$"
 
-FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan::
+FiveIsland_WaterLabyrinth_Text_ReceivedEggFromMan_DE::
 	.string "{PLAYER} erhält ein EI.$"
 
-FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty::
+FiveIsland_WaterLabyrinth_Text_DontHaveSpaceInYourParty_DE::
 	.string "… leider hast du keinen Platz\n"
 	.string "in deinem Team.\p"
 	.string "Hole es dir später ab!$"
 
 @ Unused
-FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg::
+FiveIsland_WaterLabyrinth_Text_YouveComeBackForTheEgg_DE::
 	.string "やあ\n"
 	.string "タマゴを　もらいに\l"
 	.string "きて　くれたんだね$"
 
-FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou::
+FiveIsland_WaterLabyrinth_Text_GladIMetSomeoneLikeYou_DE::
 	.string "Ich habe das EI auf meinen Reisen\n"
 	.string "bekommen.\p"
 	.string "Ich bin froh, jemanden wie dich\n"
 	.string "getroffen zu haben.$"
 
-FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
+FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy_DE::
 	.string "Oh, hallo!\n"
 	.string "Das ist ein süßes {STR_VAR_2}.\p"
 	.string "Beim Betrachten fällt mir ein\n"
@@ -48,15 +48,15 @@ FiveIsland_WaterLabyrinth_Text_CuteMonRemindsMeOfDaisy::
 	.string "Der Name dieses kleinen Mädchens…\n"
 	.string "Ich glaube er lautete SARAH.$"
 
-FiveIsland_WaterLabyrinth_Text_AlizeIntro::
+FiveIsland_WaterLabyrinth_Text_AlizeIntro_DE::
 	.string "Dies ist die perfekte Umgebung,\n"
 	.string "um POKéMON zu trainieren.$"
 
-FiveIsland_WaterLabyrinth_Text_AlizeDefeat::
+FiveIsland_WaterLabyrinth_Text_AlizeDefeat_DE::
 	.string "Deine POKéMON sind bewundernswert\n"
 	.string "trainiert.$"
 
-FiveIsland_WaterLabyrinth_Text_AlizePostBattle::
+FiveIsland_WaterLabyrinth_Text_AlizePostBattle_DE::
 	.string "Ich glaube, du hast das Talent für\n"
 	.string "einen guten ZÜCHTER.$"
 

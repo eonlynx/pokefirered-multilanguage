@@ -1,34 +1,34 @@
-CinnabarIsland_Text_DoorIsLocked::
+CinnabarIsland_Text_DoorIsLocked_IT::
     .string "La porta è chiusa…$"
 
-CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
+CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab_IT::
     .string "BLAINE della PALESTRA dell'ISOLA\n"
     .string "CANNELLA è un uomo strano che\l"
     .string "vive qui da decenni.$"
 
-CinnabarIsland_Text_ScientistsExperimentInMansion::
+CinnabarIsland_Text_ScientistsExperimentInMansion_IT::
     .string "Gli scienziati fanno esperimenti\n"
     .string "nell'edificio incendiato.\p"
     .string "Sai, quello che chiamano VILLA\n"
     .string "POKéMON!$"
 
-CinnabarIsland_Text_IslandSign::
+CinnabarIsland_Text_IslandSign_IT::
     .string "ISOLA CANNELLA\n"
     .string "Città ardente!$"
 
-CinnabarIsland_Text_PokemonLab::
+CinnabarIsland_Text_PokemonLab_IT::
     .string "LABORATORIO POKéMON$"
 
-CinnabarIsland_Text_GymSign::
+CinnabarIsland_Text_GymSign_IT::
     .string "CAPOPALESTRA dell'ISOLA CANNELLA:\n"
     .string "BLAINE\l"
     .string "Il cervellotico maestro di quiz!$"
 
-CinnabarIsland_Text_HeyIfItIsntPlayer::
+CinnabarIsland_Text_HeyIfItIsntPlayer_IT::
     .string "Ehi!\n"
     .string "Ma tu non sei {PLAYER}?!$"
 
-CinnabarIsland_Text_ComeWithMeToOneIsland::
+CinnabarIsland_Text_ComeWithMeToOneIsland_IT::
     .string "Non mi riconosci? Sono BILL!\n"
     .string "Ne è passato del tempo, eh?\p"
     .string "Usi sempre il mio PC, vero?\p"
@@ -39,10 +39,10 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
     .string "Ci stavo giusto andando: perché\n"
     .string "non mi accompagni?$"
 
-CinnabarIsland_Text_AllRightLetsGo::
+CinnabarIsland_Text_AllRightLetsGo_IT::
     .string "Andiamo, allora!$"
 
-CinnabarIsland_Text_IllBeWaitingInPokeCenter::
+CinnabarIsland_Text_IllBeWaitingInPokeCenter_IT::
     .string "Ah, prima hai qualcosa da\n"
     .string "sbrigare?\p"
     .string "Non ti preoccupare. Intanto,\n"
@@ -52,13 +52,13 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
     .string "qui vicino.\p"
     .string "Appena vuoi partire, ci vediamo lì.$"
 
-CinnabarIsland_Text_MyPalsBoatArrived::
+CinnabarIsland_Text_MyPalsBoatArrived_IT::
     .string "Ah, bene. È arrivata anche\n"
     .string "l'imbarcazione del mio amico.\p"
     .string "L'ha mandata apposta a prendermi\n"
     .string "qui all'ISOLA CANNELLA.$"
 
-CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
+CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain_IT::
     .string "Che bella gita, vero?\p"
     .string "Il mio amico CELIO ha gradito\n"
     .string "molto la tua compagnia.\p"

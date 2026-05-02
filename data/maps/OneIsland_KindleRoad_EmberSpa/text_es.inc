@@ -1,4 +1,4 @@
-OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
+OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore_ES::
     .string "¡Mmmmm!\n"
     .string "¡Qué maravilla!\p"
     .string "¡Ooooooooh! ¡Esto es vida!\n"
@@ -7,30 +7,30 @@ OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
     .string "Quédate aquí un ratito y relájate.\n"
     .string "Qué agradable sentir el calor...$"
 
-OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
+OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder_ES::
     .string "La mejor parte del baño viene\n"
     .string "cuando me salgo del agua.\p"
     .string "No hay nada como tomar un buen\n"
     .string "plato de sopa de pescado caliente\l"
     .string "para conservar el calorcito. Mmm...$"
 
-OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
+OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed_ES::
     .string "El agua está en su punto.\n"
     .string "Tiene la temperatura ideal...\p"
     .string "¡{PLAYER} y sus POKéMON están\n"
     .string "en forma de nuevo!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
+OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic_ES::
     .string "Dicen que los baños termales\n"
     .string "son terapéuticos.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
+OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs_ES::
     .string "¿Has visto cómo tengo la piel?\n"
     .string "Suave y tersa como la de un bebé.\p"
     .string "¡Las aguas termales me están\n"
     .string "dejando hecha una rosa!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
+OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion_ES::
     .string "Tras un duro día de entrenamiento,\n"
     .string "no hay nada como un buen baño\l"
     .string "termal.\p"
@@ -39,7 +39,7 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
     .string "No sólo para recuperarse él,\n"
     .string "también lo hace por sus POKéMON.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
+OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa_ES::
     .string "Las aguas termales tienen una\n"
     .string "relación estrecha con los volcanes.\p"
     .string "Yo fui quien montó el BALNEARIO\n"
@@ -50,6 +50,6 @@ OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
     .string "Entonces, usé esto. Creo que\n"
     .string "ya puedo desprenderme de ello.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06::
+OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06_ES::
     .string "Podrás destrozar rocas como\n"
     .string "si fueran nueces.$"

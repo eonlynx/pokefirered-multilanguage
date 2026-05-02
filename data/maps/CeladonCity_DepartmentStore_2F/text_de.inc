@@ -1,17 +1,17 @@
-CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
+CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel_DE::
 	.string "SUPERSCHUTZ hält POKéMON auf\n"
 	.string "Distanz...\p"
 	.string "Es ist besser als normaler SCHUTZ!$"
 
-CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
+CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings_DE::
 	.string "Vor längeren Ausflügen solltest du\n"
 	.string "BELEBER kaufen.$"
 
-CeladonCity_DepartmentStore_2F_Text_FloorSign::
+CeladonCity_DepartmentStore_2F_Text_FloorSign_DE::
 	.string "Nützliche Items für TRAINER!\p"
 	.string "1S: ZUBEHÖR FÜR TRAINER$"
 
-CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
+CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes_DE::
 	.string "Es gibt einen Kunden namens\n"
 	.string "SIEGFRIED, der gelegentlich\l"
 	.string "vorbeikommt.\l"

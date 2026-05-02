@@ -1,5 +1,5 @@
 @ The 5 texts below are supposed to be in FourIsland_House1
-Text_BodySlamTeach::
+Text_BodySlamTeach_IT::
     .string "Pronto?\n"
     .string "Boing!\p"
     .string "Stiamo facendo una gara di\n"
@@ -11,23 +11,23 @@ Text_BodySlamTeach::
     .string "CORPOSCONTRO ad uno dei\l"
     .string "tuoi POKéMON?$"
 
-Text_BodySlamDeclined::
+Text_BodySlamDeclined_IT::
     .string "Beh, quando cambi idea,\n"
     .string "mi trovi qui!\l"
     .string "Boing!$"
 
-Text_BodySlamWhichMon::
+Text_BodySlamWhichMon_IT::
     .string "A quale POKéMON devo insegnare\n"
     .string "CORPOSCONTRO?$"
 
-Text_BodySlamTaught::
+Text_BodySlamTaught_IT::
     .string "Boioing!$"
 
-FourIsland_House1_Text_FatMan::
+FourIsland_House1_Text_FatMan_IT::
     .string "それ　ぼよーん！\n"
     .string "おまえ　おもいなあー！$"
 
-FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
+FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave_IT::
     .string "In questa grotta vive una rara\n"
     .string "specie di POKéMON di tipo\l"
     .string "GHIACCIO.\p"
@@ -35,7 +35,7 @@ FourIsland_PokemonCenter_1F_Text_RareIceMonsInCave::
     .string "la speranza di vedere quel\l"
     .string "POKéMON.$"
 
-FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
+FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore_IT::
     .string "Come? Un UOVO POKéMON?\n"
     .string "…Non so cosa sia.\p"
     .string "…Ah, aspetta un attimo.\n"
@@ -44,7 +44,7 @@ FourIsland_PokemonCenter_1F_Text_DayCarePeopleFoundEggBefore::
     .string "Pare che i proprietari abbiano\n"
     .string "trovato delle UOVA in passato.$"
 
-FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived::
+FourIsland_PokemonCenter_1F_Text_NewPokemonJournalHasntArrived_IT::
     .string "Ah, davvero?\p"
     .string "Davvero su quest'isola non è\n"
     .string "ancora arrivato il POKéGIORNALE?$"

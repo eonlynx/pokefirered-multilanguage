@@ -1,4 +1,4 @@
-OneIsland_Text_BillLetsGoSeeCelio::
+OneIsland_Text_BillLetsGoSeeCelio_FR::
 	.string "LEO: On y est!\n"
 	.string "Voilà l'ILE 1.\p"
 	.string "Il y a plusieurs îles dans le coin,\n"
@@ -10,11 +10,11 @@ OneIsland_Text_BillLetsGoSeeCelio::
 	.string "Mais tu auras une meilleure idée\n"
 	.string "en le rencontrant, allons-y!$"
 
-Text_WhereDoYouWantToSail::
+Text_WhereDoYouWantToSail_FR::
 	.string "Ohé, moussaillon!\n"
 	.string "Où veux-tu aller?$"
 
-OneIsland_Text_LuckyToHaveCelioHere::
+OneIsland_Text_LuckyToHaveCelioHere_FR::
 	.string "Sur cette île, nous sommes vraiment\n"
 	.string "au milieu de nulle part.\p"
 	.string "Nous avons beaucoup de chance\n"
@@ -26,7 +26,7 @@ OneIsland_Text_LuckyToHaveCelioHere::
 	.string "Je ne suis pas sûr de comprendre,\n"
 	.string "mais CILEO est vraiment génial.$"
 
-OneIsland_Text_HavePCLinkageWithKanto::
+OneIsland_Text_HavePCLinkageWithKanto_FR::
 	.string "Ma petite-fille est toute excitée\n"
 	.string "par une nouvelle invention.\p"
 	.string "Elle dit que nous sommes connectés\n"
@@ -34,7 +34,7 @@ OneIsland_Text_HavePCLinkageWithKanto::
 	.string "Je ne suis pas sûr de comprendre,\n"
 	.string "mais CILEO est vraiment génial.$"
 
-OneIsland_Text_HavePCLinkageWithHoenn::
+OneIsland_Text_HavePCLinkageWithHoenn_FR::
 	.string "Ma petite-fille est toute excitée\n"
 	.string "par une nouvelle invention.\p"
 	.string "Elle dit que nous sommes enfin\n"
@@ -44,19 +44,19 @@ OneIsland_Text_HavePCLinkageWithHoenn::
 	.string "Ce serait le mari idéal pour ma\n"
 	.string "petite-fille.$"
 
-OneIsland_Text_IslandSign::
+OneIsland_Text_IslandSign_FR::
 	.string "ILE 1\n"
 	.string "Les amis se réunissent ici$"
 
-OneIsland_Text_PokemonNetCenterSign::
+OneIsland_Text_PokemonNetCenterSign_FR::
 	.string "Pour relier le monde entier\n"
 	.string "CENTRE RESEAU POKéMON$"
 
 @ Unused
-OneIsland_Text_ReturnToCinnabar::
+OneIsland_Text_ReturnToCinnabar_FR::
 	.string "グレンタウンに　もどりますか？$"
 
-OneIsland_Text_IsntWarmClimateHereGreat::
+OneIsland_Text_IsntWarmClimateHereGreat_FR::
 	.string "Bonjour, tu fais du tourisme?\n"
 	.string "Tu aimes le coin?$"
 

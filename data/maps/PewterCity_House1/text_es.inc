@@ -1,10 +1,10 @@
-PewterCity_House1_Text_Nidoran::
+PewterCity_House1_Text_Nidoran_ES::
     .string "NIDORAN♂: ¡Nidor!$"
 
-PewterCity_House1_Text_NidoranSit::
+PewterCity_House1_Text_NidoranSit_ES::
     .string "¡Siéntate, NIDORAN!$"
 
-PewterCity_House1_Text_TradeMonsAreFinicky::
+PewterCity_House1_Text_TradeMonsAreFinicky_ES::
     .string "Nuestro POKéMON es forastero,\n"
     .string "y es difícil de manejar.\p"
     .string "Un forastero es un POKéMON\n"

@@ -1,17 +1,17 @@
-Pokedude_Text_SpeedierBattlerGoesFirst::
+Pokedude_Text_SpeedierBattlerGoesFirst_IT::
 	.string "GUIDO: L'avversario\n"
 	.string "più veloce attacca per primo.$"
 
-Pokedude_Text_MyRattataFasterThanPidgey::
+Pokedude_Text_MyRattataFasterThanPidgey_IT::
 	.string "Pare che il mio RATTATA sia\n"
 	.string "stato più rapido del PIDGEY.$"
 
-Pokedude_Text_BattlersTakeTurnsAttacking::
+Pokedude_Text_BattlersTakeTurnsAttacking_IT::
 	.string "A turno, i contendenti si attaccano\n"
 	.string "cercando di ridurre i PS\l"
 	.string "del nemico.$"
 
-Pokedude_Text_MyRattataWonGetsEXP::
+Pokedude_Text_MyRattataWonGetsEXP_IT::
 	.string "Visto? Il mio RATTATA è riuscito\n"
 	.string "a ridurre a zero i PS\l"
 	.string "dell'avversario, vincendo!\p"
@@ -23,28 +23,28 @@ Pokedude_Text_MyRattataWonGetsEXP::
 	.string "Crescere di livello rende i vostri\n"
 	.string "POKéMON più forti!$"
 
-Pokedude_Text_UhOhRattataPoisoned::
+Pokedude_Text_UhOhRattataPoisoned_IT::
 	.string "GUIDO: Il mio RATTATA è stato\n"
 	.string "avvelenato!\p"
 	.string "Un POKéMON avvelenato perde\n"
 	.string "costantemente PS.$"
 
-Pokedude_Text_HealStatusRightAway::
+Pokedude_Text_HealStatusRightAway_IT::
 	.string "Cercate sempre di risolvere\n"
 	.string "immediatamente i problemi di stato\l"
 	.string "dei vostri POKéMON!$"
 
-Pokedude_Text_UsingItemTakesTurn::
+Pokedude_Text_UsingItemTakesTurn_IT::
 	.string "Tuttavia, per l'uso di uno\n"
 	.string "strumento su un proprio\l"
 	.string "POKéMON si utilizza un turno.\p"
 	.string "Ora, è il turno dell'avversario.$"
 
-Pokedude_Text_YayWeManagedToWin::
+Pokedude_Text_YayWeManagedToWin_IT::
 	.string "Wow!\n"
 	.string "Abbiamo vinto!$"
 
-Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
+Pokedude_Text_WaterNotVeryEffectiveAgainstGrass_IT::
 	.string "GUIDO: BOLLA è una mossa di tipo\n"
 	.string "ACQUA.\p"
 	.string "ODDISH è un POKéMON di tipo\n"
@@ -56,7 +56,7 @@ Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
 	.string "efficace e arreca solo metà del\l"
 	.string "danno normale.$"
 
-Pokedude_Text_GrassEffectiveAgainstWater::
+Pokedude_Text_GrassEffectiveAgainstWater_IT::
 	.string "Questo fa male!\p"
 	.string "L'attacco che avete appena visto\n"
 	.string "è ASSORBIMENTO, di tipo ERBA.\p"
@@ -66,17 +66,17 @@ Pokedude_Text_GrassEffectiveAgainstWater::
 	.string "superefficace, arrecando danno\l"
 	.string "doppio.$"
 
-Pokedude_Text_LetsTryShiftingMons::
+Pokedude_Text_LetsTryShiftingMons_IT::
 	.string "Non è facile vincere con una\n"
 	.string "combinazione così negativa.\p"
 	.string "Meglio sostituire il POKéMON.$"
 
-Pokedude_Text_ShiftingUsesTurn::
+Pokedude_Text_ShiftingUsesTurn_IT::
 	.string "Per la sostituzione di un POKéMON\n"
 	.string "si utilizza un turno.\p"
 	.string "Ora è il turno dell'avversario!$"
 
-Pokedude_Text_ButterfreeDoubleResistsGrass::
+Pokedude_Text_ButterfreeDoubleResistsGrass_IT::
 	.string "BUTTERFREE è un POKéMON di tipo\n"
 	.string "COLEOTTERO/VOLANTE.\p"
 	.string "Contro un POKéMON COLEOTTERO,\n"
@@ -89,7 +89,7 @@ Pokedude_Text_ButterfreeDoubleResistsGrass::
 	.string "COLEOTTERO/VOLANTE, subisce\l"
 	.string "solo 1/4 del danno normale!$"
 
-Pokedude_Text_ButterfreeGoodAgainstOddish::
+Pokedude_Text_ButterfreeGoodAgainstOddish_IT::
 	.string "ODDISH è un POKéMON di tipo\n"
 	.string "ERBA/VELENO.\p"
 	.string "Contro di lui, un attacco di tipo\n"
@@ -100,18 +100,18 @@ Pokedude_Text_ButterfreeGoodAgainstOddish::
 	.string "danno normale.\p"
 	.string "Ecco qui!$"
 
-Pokedude_Text_YeahWeWon::
+Pokedude_Text_YeahWeWon_IT::
 	.string "Grandioso!\n"
 	.string "Abbiamo vinto!$"
 
-Pokedude_Text_WeakenMonBeforeCatching::
+Pokedude_Text_WeakenMonBeforeCatching_IT::
 	.string "GUIDO: Quando volete catturare un\n"
 	.string "POKéMON, non vi conviene lanciare\l"
 	.string "immediatamente una POKé BALL.\p"
 	.string "Prima, cercate di indebolirlo\n"
 	.string "riducendo i suoi PS.$"
 
-Pokedude_Text_BestIfTargetStatused::
+Pokedude_Text_BestIfTargetStatused_IT::
 	.string "Ancora meglio se il POKéMON che\n"
 	.string "volete catturare ha un problema\l"
 	.string "di stato.\p"
@@ -119,18 +119,18 @@ Pokedude_Text_BestIfTargetStatused::
 	.string "addormentato o paralizzato è più\l"
 	.string "facilmente catturabile.$"
 
-Pokedude_Text_CantDoubleUpOnStatus::
+Pokedude_Text_CantDoubleUpOnStatus_IT::
 	.string "Ricordate, però: i problemi di\n"
 	.string "stato non si possono accumulare.\p"
 	.string "Non potete far addormentare un\n"
 	.string "POKéMON che è già paralizzato,\l"
 	.string "per esempio.$"
 
-Pokedude_Text_LetMeThrowBall::
+Pokedude_Text_LetMeThrowBall_IT::
 	.string "Bene!\n"
 	.string "Ora tiro la mia bella POKé BALL!$"
 
-Pokedude_Text_PickBestKindOfBall::
+Pokedude_Text_PickBestKindOfBall_IT::
 	.string "Ci sono diversi tipi di POKé BALL.\p"
 	.string "Cercate sempre di usare quella più\n"
 	.string "adatta alle condizioni e al\l"

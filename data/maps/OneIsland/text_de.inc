@@ -1,4 +1,4 @@
-OneIsland_Text_BillLetsGoSeeCelio::
+OneIsland_Text_BillLetsGoSeeCelio_DE::
 	.string "BILL: Wir sind da!\n"
 	.string "Das ist EILAND EINS!\p"
 	.string "Hier gibt es mehrere Inseln und\n"
@@ -10,11 +10,11 @@ OneIsland_Text_BillLetsGoSeeCelio::
 	.string "… warum ich dir das erzähle?\n"
 	.string "Lass uns zu CELIO gehen!$"
 
-Text_WhereDoYouWantToSail::
+Text_WhereDoYouWantToSail_DE::
 	.string "Ahoi!\n"
 	.string "Wohin soll es gehen?$"
 
-OneIsland_Text_LuckyToHaveCelioHere::
+OneIsland_Text_LuckyToHaveCelioHere_DE::
 	.string "Wir sind hier auf einer Insel mitten\n"
 	.string "im Nichts.\p"
 	.string "Wir freuen uns, dass ein aufrechter\n"
@@ -26,7 +26,7 @@ OneIsland_Text_LuckyToHaveCelioHere::
 	.string "Ich bin mir nicht sicher, aber\n"
 	.string "CELIO ist der Mann dafür!$"
 
-OneIsland_Text_HavePCLinkageWithKanto::
+OneIsland_Text_HavePCLinkageWithKanto_DE::
 	.string "Meine Enkelin war ob einer neuen\n"
 	.string "Erfindung ganz aufgeregt.\p"
 	.string "Sie sagte, dass wir jetzt via PC\n"
@@ -35,7 +35,7 @@ OneIsland_Text_HavePCLinkageWithKanto::
 	.string "Ich bin mir nicht sicher, aber\n"
 	.string "CELIO ist der Mann dafür!$"
 
-OneIsland_Text_HavePCLinkageWithHoenn::
+OneIsland_Text_HavePCLinkageWithHoenn_DE::
 	.string "Meine Enkelin war ob einer neuen\n"
 	.string "Erfindung ganz aufgeregt.\p"
 	.string "Sie sagte, dass wir jetzt via PC\n"
@@ -44,20 +44,20 @@ OneIsland_Text_HavePCLinkageWithHoenn::
 	.string "Ich bin mir nicht sicher, aber\n"
 	.string "CELIO ist der Mann dafür!$"
 
-OneIsland_Text_IslandSign::
+OneIsland_Text_IslandSign_DE::
 	.string "EILAND EINS\n"
 	.string "Freunde treffen sich auf der\l"
 	.string "Knoteninsel$"
 
-OneIsland_Text_PokemonNetCenterSign::
+OneIsland_Text_PokemonNetCenterSign_DE::
 	.string "Über die POKéMON-Welt hinaus!\n"
 	.string "POKéMON NETZWERK-CENTER$"
 
 @ Unused
-OneIsland_Text_ReturnToCinnabar::
+OneIsland_Text_ReturnToCinnabar_DE::
 	.string "グレンタウンに　もどりますか？$"
 
-OneIsland_Text_IsntWarmClimateHereGreat::
+OneIsland_Text_IsntWarmClimateHereGreat_DE::
 	.string "Hallo, auf Besichtigungstour?\n"
 	.string "Ist das warme Klima hier nicht\l"
 	.string "großartig?$"

@@ -1,8 +1,8 @@
-SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
+SSAnne_2F_Room3_Text_SeenMonsFerryPeople_FR::
 	.string "Tiens! J'ai vu des POKéMON\n"
 	.string "transporter des gens sur l'eau!$"
 
-SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
+SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown_FR::
 	.string "Les POKéMON peuvent couper des\n"
 	.string "petits buissons avec COUPE.\p"
 	.string "Mais n'oublie pas! COUPE est\n"

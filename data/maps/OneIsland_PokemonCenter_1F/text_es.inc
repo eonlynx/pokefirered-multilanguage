@@ -1,55 +1,55 @@
-OneIsland_PokemonCenter_1F_Text_BillHeyThereCelio::
+OneIsland_PokemonCenter_1F_Text_BillHeyThereCelio_ES::
     .string "BILL: ¡Eh, oye!\n"
     .string "¡CELIO!$"
 
-OneIsland_PokemonCenter_1F_Text_CelioCantBelieveYouCameOut::
+OneIsland_PokemonCenter_1F_Text_CelioCantBelieveYouCameOut_ES::
     .string "CELIO: ¡Hombre, BILL!\n"
     .string "¡No puedo creerme que estés aquí!$"
 
-OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComing::
+OneIsland_PokemonCenter_1F_Text_BillHowsYourResearchComing_ES::
     .string "BILL: ¡Pues claro, hombre!\n"
     .string "¿Qué tal van tus investigaciones?\p"
     .string "Eh..., ay, perdona...$"
 
-OneIsland_PokemonCenter_1F_Text_ThisIsMyBuddyCelio::
+OneIsland_PokemonCenter_1F_Text_ThisIsMyBuddyCelio_ES::
     .string "{PLAYER}, éste es mi amigo CELIO.\n"
     .string "Es un flipado de los ordenadores.$"
 
-OneIsland_PokemonCenter_1F_Text_PlayerIsRisingPokemonChamp::
+OneIsland_PokemonCenter_1F_Text_PlayerIsRisingPokemonChamp_ES::
     .string "BILL: CELIO, te presento\n"
     .string "a {PLAYER}, aspirante a ganar\l"
     .string "la LIGA POKéMON.$"
 
-OneIsland_PokemonCenter_1F_Text_PlayerIsReigningPokemonChamp::
+OneIsland_PokemonCenter_1F_Text_PlayerIsReigningPokemonChamp_ES::
     .string "BILL: CELIO, te presento\n"
     .string "a {PLAYER}, ¡ha ganado la LIGA\l"
     .string "POKéMON!$"
 
-OneIsland_PokemonCenter_1F_Text_CelioThatsReallyImpressive::
+OneIsland_PokemonCenter_1F_Text_CelioThatsReallyImpressive_ES::
     .string "CELIO: ¡Anda, fíjate tú!\p"
     .string "Yo la verdad es que soy un negado\n"
     .string "para los combates.\p"
     .string "Pero oye, me alegro de conocerte.$"
 
-OneIsland_PokemonCenter_1F_Text_BillBringMeUpToSpeed::
+OneIsland_PokemonCenter_1F_Text_BillBringMeUpToSpeed_ES::
     .string "BILL: Bueno, cuéntame, cuéntame,\n"
     .string "¿qué tal va la máquina esa en la\l"
     .string "que estabas trabajando?$"
 
-OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYours::
+OneIsland_PokemonCenter_1F_Text_CelioPCsCantLinkWithYours_ES::
     .string "CELIO: Va bien, va bien, pero es\n"
     .string "que estamos en el quinto pino\p"
     .string "y no hay forma de conectar los PCs\n"
     .string "de aquí con tu PC, BILL.$"
 
-OneIsland_PokemonCenter_1F_Text_BillLetMeHelpYou::
+OneIsland_PokemonCenter_1F_Text_BillLetMeHelpYou_ES::
     .string "BILL: ¿Ah, no? Mmm, ¿me dejas\n"
     .string "que eche un vistazo?\p"
     .string "Un segundo... Oye, pues yo creo\n"
     .string "que podemos conseguir que\l"
     .string "funcione. ¿Me dejas que te ayude?$"
 
-OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
+OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer_ES::
     .string "{PLAYER}, ¿te importa esperarme\n"
     .string "un momento?\p"
     .string "O, mejor, ¿me haces un favor?\p"
@@ -64,38 +64,38 @@ OneIsland_PokemonCenter_1F_Text_CanYouDeliverThisMeteoritePlayer::
     .string "¿Te importaría acercarle\n"
     .string "este METEORITO?$"
 
-OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill::
+OneIsland_PokemonCenter_1F_Text_AcceptedMeteoriteFromBill_ES::
     .string "{PLAYER} obtuvo el METEORITO\n"
     .string "de manos de BILL.$"
 
-OneIsland_PokemonCenter_1F_Text_CelioPleaseTakeThis::
+OneIsland_PokemonCenter_1F_Text_CelioPleaseTakeThis_ES::
     .string "CELIO: {PLAYER}, toma, llévate esto\n"
     .string "si vas a ir a ISLA SECUNDA.$"
 
-OneIsland_PokemonCenter_1F_Text_PassLetsYouTravelBetweenIslands::
+OneIsland_PokemonCenter_1F_Text_PassLetsYouTravelBetweenIslands_ES::
     .string "CELIO: Es un TICKET para el ferry\n"
     .string "que conecta las islas.\p"
     .string "Con él podrás viajar entre las\n"
     .string "ISLAS PRIMA, SECUNDA y TERA.\p"
     .string "¡Ah, y llévate esto también!$"
 
-OneIsland_PokemonCenter_1F_Text_ReceivedExtraPageForTownMap::
+OneIsland_PokemonCenter_1F_Text_ReceivedExtraPageForTownMap_ES::
     .string "¡{PLAYER} obtuvo una página más\n"
     .string "del MAPA!$"
 
-OneIsland_PokemonCenter_1F_Text_ReceivedTownMap::
+OneIsland_PokemonCenter_1F_Text_ReceivedTownMap_ES::
     .string "¡{PLAYER} obtuvo el MAPA!$"
 
-OneIsland_PokemonCenter_1F_Text_BillCatchYouLater::
+OneIsland_PokemonCenter_1F_Text_BillCatchYouLater_ES::
     .string "BILL: ¡Bueno, después nos vemos!\n"
     .string "¡Dale recuerdos de mi parte!$"
 
-OneIsland_PokemonCenter_1F_Text_HmmHowAboutLikeThis::
+OneIsland_PokemonCenter_1F_Text_HmmHowAboutLikeThis_ES::
     .string "Mmm...\p"
     .string "¿Y si intentamos ponerlo de otra\n"
     .string "forma?...$"
 
-OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMore::
+OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMore_ES::
     .string "¡Eh, {PLAYER}!\p"
     .string "¿Has visto? ¡Hemos conseguido\n"
     .string "la conexión con el PC!\p"
@@ -104,55 +104,55 @@ OneIsland_PokemonCenter_1F_Text_GotPCWorkingStrollAWhileMore::
     .string "¿Por qué no te das un paseo\n"
     .string "mientras?$"
 
-OneIsland_PokemonCenter_1F_Text_SorryForBeingPoorHost::
+OneIsland_PokemonCenter_1F_Text_SorryForBeingPoorHost_ES::
     .string "CELIO: Siento haber entretenido\n"
     .string "tanto a BILL.\p"
     .string "Y siento también haber sido tan\n"
     .string "mal anfitrión.$"
 
-OneIsland_PokemonCenter_1F_Text_UsualPCServicesUnavailable::
+OneIsland_PokemonCenter_1F_Text_UsualPCServicesUnavailable_ES::
     .string "Los servicios habituales del PC\n"
     .string "no están disponibles...$"
 
-OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayer::
+OneIsland_PokemonCenter_1F_Text_BillOhHeyPlayer_ES::
     .string "BILL: ¡Anda, {PLAYER}!\n"
     .string "¿Qué tal?$"
 
-OneIsland_PokemonCenter_1F_Text_BillWeGotItDone::
+OneIsland_PokemonCenter_1F_Text_BillWeGotItDone_ES::
     .string "BILL: ¿Qué has estado haciendo\n"
     .string "tanto tiempo? ¿Qué tal, bien?\p"
     .string "¡Nosotros ya lo tenemos! ¡Los PCs\n"
     .string "están a punto y van de maravilla!$"
 
-OneIsland_PokemonCenter_1F_Text_CelioJobWentQuick::
+OneIsland_PokemonCenter_1F_Text_CelioJobWentQuick_ES::
     .string "CELIO: La verdad es que ha sido\n"
     .string "más rápido de lo que pensaba.\p"
     .string "BILL es un cerebrito.$"
 
-OneIsland_PokemonCenter_1F_Text_BillYouveLearnedALot::
+OneIsland_PokemonCenter_1F_Text_BillYouveLearnedALot_ES::
     .string "BILL: ¡Qué va, hombre! ¡Si todo\n"
     .string "estaba prácticamente hecho!\p"
     .string "CELIO, el mérito es tuyo.\n"
     .string "Sabes un montón.$"
 
-OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehe::
+OneIsland_PokemonCenter_1F_Text_CelioOhReallyEhehe_ES::
     .string "CELIO: ¿Tú crees?\n"
     .string "Bueno, pues vale. Je.$"
 
-OneIsland_PokemonCenter_1F_Text_BillWeShouldHeadBackToKanto::
+OneIsland_PokemonCenter_1F_Text_BillWeShouldHeadBackToKanto_ES::
     .string "BILL: Bueno, pues ya está.\n"
     .string "Por mi parte, yo he acabado.\l"
     .string "Vámonos ya de vuelta a KANTO.\p"
     .string "CELIO, nos vemos.$"
 
-OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometime::
+OneIsland_PokemonCenter_1F_Text_CelioPromiseIllShowYouAroundSometime_ES::
     .string "CELIO: {PLAYER}, siento mucho que\n"
     .string "hayas tenido que marcharte sin\l"
     .string "nadie que te acompañara.\p"
     .string "Te prometo que te enseñaré\n"
     .string "la isla en otra ocasión.$"
 
-OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine::
+OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine_ES::
     .string "CELIO: ¡Hola!\n"
     .string "¡Siempre estás de aquí para allá!\p"
     .string "¿Que qué tal voy?\p"
@@ -161,7 +161,7 @@ OneIsland_PokemonCenter_1F_Text_CelioImModifyingMyNetworkMachine::
     .string "¡Espero que la uses antes que\n"
     .string "nadie cuando esté lista, {PLAYER}!$"
 
-OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
+OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful_ES::
     .string "CELIO: {PLAYER}, ¿qué tal\n"
     .string "te ha ido?\p"
     .string "¿De verdad? ¿Has atrapado más\n"
@@ -169,7 +169,7 @@ OneIsland_PokemonCenter_1F_Text_CelioCaughtMoreMonMaybeICanBeUseful::
     .string "Pues ¿sabes qué? A lo mejor puedo\n"
     .string "ayudarte.$"
 
-OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
+OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway_ES::
     .string "En este momento estoy modificando\n"
     .string "la MÁQUINA de REDES.\p"
     .string "Estoy ajustándola para que puedan\n"
@@ -179,7 +179,7 @@ OneIsland_PokemonCenter_1F_Text_YoullBeTradingFromTrainersFarAway::
     .string "exóticos POKéMON de ENTRENADORES\l"
     .string "que están muy lejos de aquí.$"
 
-OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
+OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone_ES::
     .string "Pero falta un pequeño detalle.\p"
     .string "Para que funcione la conexión,\n"
     .string "se necesita una gema especial.\p"
@@ -188,7 +188,7 @@ OneIsland_PokemonCenter_1F_Text_NeedsSpecialGemstone::
     .string "no he encontrado ninguna.\p"
     .string "Averigua dónde estará...$"
 
-OneIsland_PokemonCenter_1F_Text_TryingToFindGem::
+OneIsland_PokemonCenter_1F_Text_TryingToFindGem_ES::
     .string "Durante mis investigaciones\n"
     .string "también he intentado encontrar\l"
     .string "la gema.\p"
@@ -199,27 +199,27 @@ OneIsland_PokemonCenter_1F_Text_TryingToFindGem::
     .string "Pero en esta ocasión, quiero hacer\n"
     .string "las cosas por mí mismo.$"
 
-OneIsland_PokemonCenter_1F_Text_OhThats::
+OneIsland_PokemonCenter_1F_Text_OhThats_ES::
     .string "¡Ahí va!\n"
     .string "¡Pero si es...!$"
 
-OneIsland_PokemonCenter_1F_Text_HandedRubyToCelio::
+OneIsland_PokemonCenter_1F_Text_HandedRubyToCelio_ES::
     .string "{PLAYER} le entregó el RUBÍ\n"
     .string "a CELIO.$"
 
-OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor::
+OneIsland_PokemonCenter_1F_Text_MayIAskOneMoreFavor_ES::
     .string "¡Muchas gracias!\n"
     .string "¡{PLAYER}, eres increíble!\p"
     .string "... ... ... ... ... ...\p"
     .string "Eh...\n"
     .string "¿Puedo pedirte un favor enorme?$"
 
-OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelp::
+OneIsland_PokemonCenter_1F_Text_PleaseINeedYourHelp_ES::
     .string "No es ninguna cosa rara...,\n"
     .string "no te preocupes.\l"
     .string "Es que necesito que me ayudes.$"
 
-OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands::
+OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands_ES::
     .string "Mientras estudiaba las gemas,\n"
     .string "descubrí algo importante.\p"
     .string "Hay otra que forma pareja\n"
@@ -231,26 +231,26 @@ OneIsland_PokemonCenter_1F_Text_AnotherGemstoneInSeviiIslands::
     .string "{PLAYER}, ¿me dejas un segundo\n"
     .string "el TICKET del ferry y el MAPA?$"
 
-OneIsland_PokemonCenter_1F_Text_ReturnedTriPassForRainbowPass::
+OneIsland_PokemonCenter_1F_Text_ReturnedTriPassForRainbowPass_ES::
     .string "{PLAYER} devolvió el TRI-TICKET\n"
     .string "y recibió el IRIS-TICKET.$"
 
-OneIsland_PokemonCenter_1F_Text_ObtainedExtraMapPage::
+OneIsland_PokemonCenter_1F_Text_ObtainedExtraMapPage_ES::
     .string "¡Y obtuviste una página más\n"
     .string "del MAPA!$"
 
-OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands::
+OneIsland_PokemonCenter_1F_Text_PassLetYouGetToAllIslands_ES::
     .string "Éste es mi TICKET para el ferry.\p"
     .string "Con él, podrás viajar entre las\n"
     .string "islas de ARCHI7.\p"
     .string "{PLAYER}, tienes que ayudarme,\n"
     .string "por favor.$"
 
-OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio::
+OneIsland_PokemonCenter_1F_Text_HandedSapphireToCelio_ES::
     .string "{PLAYER} le entregó el ZAFIRO\n"
     .string "a CELIO.$"
 
-OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime::
+OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime_ES::
     .string "CELIO: Así que ésta es la\n"
     .string "compañera del RUBÍ...\p"
     .string "{PLAYER}, has debido de pasar por\n"
@@ -261,15 +261,15 @@ OneIsland_PokemonCenter_1F_Text_ThankYouGiveMeTime::
     .string "Ahora me toca a mí hacer algo\n"
     .string "por ti. Dame algo de tiempo.$"
 
-OneIsland_PokemonCenter_1F_Text_OkayThisIsGood::
+OneIsland_PokemonCenter_1F_Text_OkayThisIsGood_ES::
     .string "Muy bien, a ver...$"
 
-OneIsland_PokemonCenter_1F_Text_LinkedUpWithLanette::
+OneIsland_PokemonCenter_1F_Text_LinkedUpWithLanette_ES::
     .string "¡Ya está!\n"
     .string "¡He conseguido establecer conexión\l"
     .string "con AREDIA!$"
 
-OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
+OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou_ES::
     .string "¡{PLAYER}!\n"
     .string "¡{PLAYER}, lo he conseguido!\p"
     .string "¡He conseguido establecer conexión\n"
@@ -281,7 +281,7 @@ OneIsland_PokemonCenter_1F_Text_ManagedToLinkWithHoennThankYou::
     .string "Gracias a ti, mi sueño se ha hecho\n"
     .string "realidad...$"
 
-OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck::
+OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck_ES::
     .string "No...\n"
     .string "No estoy llorando, no...\p"
     .string "Ya está, ya se me pasa...\p"
@@ -289,12 +289,12 @@ OneIsland_PokemonCenter_1F_Text_WishYouBestOfLuck::
     .string "conseguir exóticos POKéMON, eh?\p"
     .string "¡Que tengas mucha suerte!$"
 
-OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou::
+OneIsland_PokemonCenter_1F_Text_CelioHearingRumorsAboutYou_ES::
     .string "CELIO: ¡Hola!\p"
     .string "{PLAYER}, últimamente se habla\n"
     .string "mucho sobre ti...$"
 
-OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra::
+OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra_ES::
     .string "{PLAYER}, ¿qué POKéMON te gusta\n"
     .string "más?\p"
     .string "BILL es un POKéMANÍACO,\n"
@@ -302,7 +302,7 @@ OneIsland_PokemonCenter_1F_Text_BillsFirstMonWasAbra::
     .string "Creo que el primero que atrapó\n"
     .string "fue un ABRA.$"
 
-OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod::
+OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod_ES::
     .string "A todo esto, {PLAYER}, tú eres\n"
     .string "de PUEBLO PALETA, ¿no?\p"
     .string "Me han comentado que es un sitio\n"
@@ -314,30 +314,30 @@ OneIsland_PokemonCenter_1F_Text_BillsHometownInGoldenrod::
     .string "La verdad es que me gustaría\n"
     .string "ir algún día.$"
 
-OneIsland_PokemonCenter_1F_Text_BillCantStomachMilk::
+OneIsland_PokemonCenter_1F_Text_BillCantStomachMilk_ES::
     .string "{PLAYER}, ¿hay algo que te siente\n"
     .string "mal?\p"
     .string "Creo que BILL no tolera muy bien\n"
     .string "la leche. Le da dolor de estómago.$"
 
-OneIsland_PokemonCenter_1F_Text_CameFromPalletDontKnowIt::
+OneIsland_PokemonCenter_1F_Text_CameFromPalletDontKnowIt_ES::
     .string "¡Eh, tú no eres de aquí!\n"
     .string "¿De dónde vienes?\p"
     .string "¿PUEBLO PALETA?...\n"
     .string "¡No me suena de nada!$"
 
-OneIsland_PokemonCenter_1F_Text_EnormousVolcanoOnIsland::
+OneIsland_PokemonCenter_1F_Text_EnormousVolcanoOnIsland_ES::
     .string "En esta isla hay un volcán enorme.\p"
     .string "Hace poco entró en erupción.\n"
     .string "Ahora sería buen momento\l"
     .string "para hacer escalada.$"
 
-OneIsland_PokemonCenter_1F_Text_WishICouldTradeWithBoyfriend::
+OneIsland_PokemonCenter_1F_Text_WishICouldTradeWithBoyfriend_ES::
     .string "Ojalá pudiera intercambiar POKéMON\n"
     .string "con mi chico, que vive muy lejos\l"
     .string "de aquí...$"
 
-OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
+OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend_ES::
     .string "¡He podido intercambiar POKéMON\n"
     .string "con mi chico!\l"
     .string "¡Con lo lejos que está!\p"
@@ -345,23 +345,23 @@ OneIsland_PokemonCenter_1F_Text_TradedWithFarAwayBoyfriend::
     .string "lo debemos a CELIO y a ti.\p"
     .string "¡Así que gracias!$"
 
-OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustment::
+OneIsland_PokemonCenter_1F_Text_MachineUnderAdjustment_ES::
     .string "MÁQUINA de REDES\n"
     .string "Nivel de conexión: 0\p"
     .string "Sistema de Almacenamiento\n"
     .string "de POKéMON, no disponible...$"
 
-OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKanto::
+OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKanto_ES::
     .string "MÁQUINA de REDES\n"
     .string "Nivel de conexión: 1\p"
     .string "Conexión establecida con la región\n"
     .string "de KANTO.$"
 
-OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKantoAndHoenn::
+OneIsland_PokemonCenter_1F_Text_MachineLinkedWithKantoAndHoenn_ES::
     .string "MÁQUINA de REDES\n"
     .string "Nivel de conexión: 2\p"
     .string "Conexión establecida con las\n"
     .string "regiones de KANTO y HOENN.$"
 
-OneIsland_PokemonCenter_1F_Text_ObtainedTriPass::
+OneIsland_PokemonCenter_1F_Text_ObtainedTriPass_ES::
     .string "¡Obtuviste el TRI-TICKET!$"

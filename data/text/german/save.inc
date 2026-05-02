@@ -1,21 +1,21 @@
-gText_WouldYouLikeToSaveTheGame::
+gText_WouldYouLikeToSaveTheGame_DE::
 	.string "Möchtest du das Spiel speichern?$"
 
-gText_AlreadySaveFile_WouldLikeToOverwrite::
+gText_AlreadySaveFile_WouldLikeToOverwrite_DE::
 	.string "Es gibt bereits einen Spielstand.\n"
 	.string "Spielstand überschreiben?$"
 
-gText_SavingDontTurnOffThePower::
+gText_SavingDontTurnOffThePower_DE::
 	.string "SPEICHERN... BITTE DAS GERÄT\n"
 	.string "NICHT AUSSCHALTEN.$"
 
-gText_PlayerSavedTheGame::
+gText_PlayerSavedTheGame_DE::
 	.string "{PLAYER} hat das Spiel gespeichert.$"
 
-gText_SaveFailed2::
+gText_SaveFailed2_DE::
 	.string "セーブに　しっぱい　しました‥$"
 
-gText_DifferentGameFile::
+gText_DifferentGameFile_DE::
 	.string "ACHTUNG!\p"
 	.string "Es gibt bereits einen Spielstand.\p"
 	.string "Wenn jetzt gesichert wird, geht\n"

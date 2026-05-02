@@ -1,29 +1,29 @@
-Route4_Text_TrippedOverGeodude::
+Route4_Text_TrippedOverGeodude_DE::
 	.string "Aua! Ich bin über ein KLEINSTEIN\n"
 	.string "gestolpert, ein STEIN-POKéMON!$"
 
-Route4_Text_CrissyIntro::
+Route4_Text_CrissyIntro_DE::
 	.string "Ich bin hier, um Pilz-POKéMON zu\n"
 	.string "fangen!$"
 
-Route4_Text_CrissyDefeat::
+Route4_Text_CrissyDefeat_DE::
 	.string "Ach, Pilz-POKéMON sind ja so süß!$"
 
-Route4_Text_CrissyPostBattle::
+Route4_Text_CrissyPostBattle_DE::
 	.string "Es dürfte hier keine Pilz-POKéMON\n"
 	.string "mehr geben.\p"
 	.string "Ich glaube, ich habe alle\n"
 	.string "gefangen.$"
 
-Route4_Text_MtMoonEntrance::
+Route4_Text_MtMoonEntrance_DE::
 	.string "MONDBERG\n"
 	.string "Tunneleingang$"
 
-Route4_Text_RouteSign::
+Route4_Text_RouteSign_DE::
 	.string "ROUTE 4\n"
 	.string "MONDBERG - AZURIA CITY$"
 
-Text_MegaPunchTeach::
+Text_MegaPunchTeach_DE::
 	.string "Ein Schlag von roher Gewalt!\p"
 	.string "Mit zerstörerischer, verheerender\n"
 	.string "Wirkung.\p"
@@ -34,24 +34,24 @@ Text_MegaPunchTeach::
 	.string "Soll ein POKéMON diese Attacke\l"
 	.string "erlernen?$"
 
-Text_MegaPunchDeclined::
+Text_MegaPunchDeclined_DE::
 	.string "Du kommst wieder, wenn du die\n"
 	.string "Bedeutung von MEGAHIEB\l"
 	.string "erkannt hast.$"
 
-Text_MegaPunchWhichMon::
+Text_MegaPunchWhichMon_DE::
 	.string "Schön!\n"
 	.string "Welches POKéMON soll MEGAHIEB\l"
 	.string "erlernen?$"
 
-Text_MegaPunchTaught::
+Text_MegaPunchTaught_DE::
 	.string "Nun sind wir Freunde, was Hiebe\n"
 	.string "angeht!\p"
 	.string "Du solltest gehen, ehe dich der\n"
 	.string "arme, fehlgeleitete Kerl, der dort \l"
 	.string "drüben nur Tritte trainiert, sieht.$"
 
-Text_MegaKickTeach::
+Text_MegaKickTeach_DE::
 	.string "Ein Tritt von brutaler Energie!\p"
 	.string "Mit zerstörerischer, verheerender\n"
 	.string "Wirkung.\p"
@@ -61,24 +61,24 @@ Text_MegaKickTeach::
 	.string "Ich werde MEGAKICK einem\l"
 	.string "POKéMON beibringen.$"
 
-Text_MegaKickDeclined::
+Text_MegaKickDeclined_DE::
 	.string "Du kommst angekrochen, wenn du die\n"
 	.string "wahre Bedeutung von MEGAKICK\l"
 	.string "erkennst.$"
 
-Text_MegaKickWhichMon::
+Text_MegaKickWhichMon_DE::
 	.string "In Ordnung!\n"
 	.string "Welches POKéMON soll MEGAKICK\l"
 	.string "erlernen?$"
 
-Text_MegaKickTaught::
+Text_MegaKickTaught_DE::
 	.string "Nun sind wir Freunde, was Tritte\n"
 	.string "angeht!\p"
 	.string "Du solltest gehen, ehe dich der\n"
 	.string "arme, fehlgeleitete Kerl, der dort \l"
 	.string "drüben nur Hiebe trainiert, sieht.$"
 
-Route4_Text_PeopleLikeAndRespectBrock::
+Route4_Text_PeopleLikeAndRespectBrock_DE::
 	.string "Oh, das ist ja der FELSORDEN!\n"
 	.string "Du hast ihn von ROCKO bekommen,\l"
 	.string "oder?\l"

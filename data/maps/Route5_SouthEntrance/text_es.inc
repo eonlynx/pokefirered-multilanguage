@@ -1,13 +1,13 @@
-Route5_SouthEntrance_Text_ThirstyOnGuardDuty::
+Route5_SouthEntrance_Text_ThirstyOnGuardDuty_ES::
     .string "Estoy de guardia. ¡Uauu!\n"
     .string "¡Qué sed tengo!\p"
     .string "Espera. La ruta está cerrada.$"
 
-Route5_SouthEntrance_Text_ThatTeaLooksTasty::
+Route5_SouthEntrance_Text_ThatTeaLooksTasty_ES::
     .string "Mmm, ese TÉ que llevas ahí...\n"
     .string "Tiene una pinta buenísima...$"
 
-Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
+Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards_ES::
     .string "¿Cómo? ¿Que me lo puedo tomar?\n"
     .string "¡Vaya, gracias!\l"
     .string "... ...\l"
@@ -19,5 +19,5 @@ Route5_SouthEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Le daré un poco de TÉ a mis\n"
     .string "compañeros.$"
 
-Route5_SouthEntrance_Text_HiHowsItGoing::
+Route5_SouthEntrance_Text_HiHowsItGoing_ES::
     .string "¡Oye! ¡Gracias por las bebidas!$"

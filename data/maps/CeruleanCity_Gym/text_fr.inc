@@ -1,4 +1,4 @@
-CeruleanCity_Gym_Text_MistyIntro::
+CeruleanCity_Gym_Text_MistyIntro_FR::
 	.string "Tiens, un nouveau visage!\p"
 	.string "Si tu veux être un vrai DRESSEUR,\n"
 	.string "il te faut une stratégie pour tes\l"
@@ -8,11 +8,11 @@ CeruleanCity_Gym_Text_MistyIntro::
 	.string "Ma tactique? Attaquer\n"
 	.string "avec des POKéMON EAU!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-CeruleanCity_Gym_Text_ExplainTM03::
+CeruleanCity_Gym_Text_ExplainTM03_FR::
 	.string "La CT03 contient VIBRAQUA!\p"
 	.string "Apprends-la à un POKéMON EAU!$"
 
-CeruleanCity_Gym_Text_ExplainCascadeBadge::
+CeruleanCity_Gym_Text_ExplainCascadeBadge_FR::
 	.string "Le BADGECASCADE oblige tous les\n"
 	.string "POKéMON d'un niveau inférieur à 30\l"
 	.string "à t'obéir!\p"
@@ -25,48 +25,48 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
 	.string "ouvrir de nouveaux chemins!\p"
 	.string "Tu gagnes aussi ma CT favorite!$"
 
-CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
+CeruleanCity_Gym_Text_ReceivedTM03FromMisty_FR::
 	.string "{PLAYER} reçoit\n"
 	.string "la CT03!$"
 
-CeruleanCity_Gym_Text_BetterMakeRoomForThis::
+CeruleanCity_Gym_Text_BetterMakeRoomForThis_FR::
 	.string "Ton inventaire est plein!$"
 
-CeruleanCity_Gym_Text_MistyDefeat::
+CeruleanCity_Gym_Text_MistyDefeat_FR::
 	.string "Whouha!\n"
 	.string "T'es super balèze!\p"
 	.string "Très bien!\p"
 	.string "Je te donne le BADGECASCADE pour\n"
 	.string "m'avoir battue!$"
 
-CeruleanCity_Gym_Text_DianaIntro::
+CeruleanCity_Gym_Text_DianaIntro_FR::
 	.string "Je suis assez bonne pour toi!\p"
 	.string "ONDINE attendra!$"
 
-CeruleanCity_Gym_Text_DianaDefeat::
+CeruleanCity_Gym_Text_DianaDefeat_FR::
 	.string "Oh!\n"
 	.string "J'me suis fait écraser!$"
 
-CeruleanCity_Gym_Text_DianaPostBattle::
+CeruleanCity_Gym_Text_DianaPostBattle_FR::
 	.string "Tu dois te battre contre d'autres\n"
 	.string "DRESSEURS pour connaître ton\l"
 	.string "vrai niveau.$"
 
-CeruleanCity_Gym_Text_LuisIntro::
+CeruleanCity_Gym_Text_LuisIntro_FR::
 	.string "Plaouff!\p"
 	.string "J'suis preums!\n"
 	.string "Baston!$"
 
-CeruleanCity_Gym_Text_LuisDefeat::
+CeruleanCity_Gym_Text_LuisDefeat_FR::
 	.string "Glargh!\n"
 	.string "C'est dingue!$"
 
-CeruleanCity_Gym_Text_LuisPostBattle::
+CeruleanCity_Gym_Text_LuisPostBattle_FR::
 	.string "ONDINE est super forte!\p"
 	.string "Elle ne va pas se faire avoir par\n"
 	.string "quelqu'un comme toi!$"
 
-CeruleanCity_Gym_Text_GymGuyAdvice::
+CeruleanCity_Gym_Text_GymGuyAdvice_FR::
 	.string "Salut à toi!\n"
 	.string "Futur CHAMPION!\p"
 	.string "Un conseil?\p"
@@ -77,18 +77,18 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
 	.string "Ou, tu peux aussi les griller avec\n"
 	.string "des POKéMON ELECTRIK.$"
 
-CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
+CeruleanCity_Gym_Text_WeMakePrettyGoodTeam_FR::
 	.string "Tu as battu ONDINE! Génial!\p"
 	.string "Toi et moi, on forme une super\n"
 	.string "équipe!$"
 
-CeruleanCity_Gym_Text_GymStatue::
+CeruleanCity_Gym_Text_GymStatue_FR::
 	.string "ARENE POKéMON d'AZURIA\n"
 	.string "CHAMPION: ONDINE\p"
 	.string "VAINQUEURS:\n"
 	.string "{RIVAL}$"
 
-CeruleanCity_Gym_Text_GymStatuePlayerWon::
+CeruleanCity_Gym_Text_GymStatuePlayerWon_FR::
 	.string "ARENE POKéMON d'AZURIA\n"
 	.string "CHAMPION: ONDINE\p"
 	.string "VAINQUEURS:\n"

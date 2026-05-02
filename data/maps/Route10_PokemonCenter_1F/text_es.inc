@@ -1,16 +1,16 @@
-Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
+Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers_ES::
     .string "¡Los POKéMON de ciertos elementos\n"
     .string "son más o menos fuertes que otros!$"
 
-Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
+Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000_ES::
     .string "¡Vendí una inútil PEPITA\n"
     .string "por 5.000¥!$"
 
-Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
+Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender_ES::
     .string "¡Dicen que hay fantasmas en\n"
     .string "PUEBLO LAVANDA!$"
 
-Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
+Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons_ES::
     .string "¡Hola! ¿Te acuerdas de mí?\n"
     .string "¡Soy AYUDANTE del PROF. OAK!\p"
     .string "¡Si ya tienes 20 tipos de POKéMON,\n"
@@ -19,18 +19,18 @@ Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
     .string "Dime, {PLAYER}. ¿Tienes ya al menos\n"
     .string "20 tipos de POKéMON?$"
 
-Route10_PokemonCenter_1F_Text_GreatHereYouGo::
+Route10_PokemonCenter_1F_Text_GreatHereYouGo_ES::
     .string "¡Bien! ¡Has logrado {STR_VAR_3} tipos\n"
     .string "de POKéMON!\p"
     .string "¡Enhorabuena!\n"
     .string "¡Aquí tienes!$"
 
-Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide::
+Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide_ES::
     .string "¡{PLAYER} obtuvo la\n"
     .string "PIEDRAETERNA de manos\l"
     .string "del AYUDANTE!$"
 
-Route10_PokemonCenter_1F_Text_ExplainEverstone::
+Route10_PokemonCenter_1F_Text_ExplainEverstone_ES::
     .string "Si dejas evolucionar a los\n"
     .string "POKéMON, tu POKéDEX\l"
     .string "se verá beneficiada.\p"

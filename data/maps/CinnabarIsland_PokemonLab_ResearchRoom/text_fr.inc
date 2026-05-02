@@ -1,8 +1,8 @@
-CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons_FR::
 	.string "EVOLI peut évoluer en un type\n"
 	.string "de POKéMON parmi trois différents.$"
 
-CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail_FR::
 	.string "Il y a un e-mail!\p"
 	.string "… … …\p"
 	.string "Il existe trois POKéMON oiseau \n"
@@ -15,6 +15,6 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
 	.string "De : L'EQUIPE DE RECHERCHE\n"
 	.string "POKéMON …$"
 
-CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe_FR::
 	.string "Une pipe en ambre!$"
 

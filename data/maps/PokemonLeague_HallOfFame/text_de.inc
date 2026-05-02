@@ -1,4 +1,4 @@
-PokemonLeague_HallOfFame_Text_OakCongratulations::
+PokemonLeague_HallOfFame_Text_OakCongratulations_DE::
 	.string "EICH: Herzlichen Glückwunsch,\n"
 	.string "{PLAYER}!\p"
 	.string "Das hier ist die POKéMON-\n"

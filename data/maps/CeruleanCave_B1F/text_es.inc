@@ -1,2 +1,2 @@
-CeruleanCave_B1F_Text_Mew::
+CeruleanCave_B1F_Text_Mew_ES::
     .string "¡Mew!$"

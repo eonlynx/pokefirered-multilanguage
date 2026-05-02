@@ -1289,216 +1289,216 @@ TwoIsland_JoyfulGameCorner_EventScript_ShowDodrioBerryPickingRecords::
 	releaseall
 	end
 
-CableClub_Text_WelcomeWhichCableClubService::
+CableClub_Text_WelcomeWhichCableClubService_ES::
 	.string "Éste es el CLUB del CABLE\n"
 	.string "POKéMON.\p"
 	.string "¿Qué podemos hacer por ti?$"
 
-CableClub_Text_WhichService::
+CableClub_Text_WhichService_ES::
 	.string "¿Qué podemos hacer por ti?$"
 
-CableClub_Text_TradeMonsUsingLinkCable::
+CableClub_Text_TradeMonsUsingLinkCable_ES::
 	.string "Intercambiar PKMN con otro jugador\n"
 	.string "usando el cable Game Link de GBA.$"
 
-CableClub_Text_BattleUsingLinkCable::
+CableClub_Text_BattleUsingLinkCable_ES::
 	.string "Usando el cable Game Link de GBA,\n"
 	.string "podrás luchar contra alguien.$"
 
 @ Unused, translated in Emerald
-CableClub_Text_CloseThisMenu::
+CableClub_Text_CloseThisMenu_ES::
 	.string "おわります$"
 
-CableClub_Text_NeedTwoMonsForDoubleBattle::
+CableClub_Text_NeedTwoMonsForDoubleBattle_ES::
 	.string "Para un COMBATE DOBLE, necesitas\n"
 	.string "tener al menos dos POKéMON.$"
 
-CableClub_Text_NeedTwoMonsToTrade::
+CableClub_Text_NeedTwoMonsToTrade_ES::
 	.string "Para intercambiar POKéMON,\n"
 	.string "necesitas tener al menos dos.$"
 
-CableClub_Text_CantTradeEnigmaBerry::
+CableClub_Text_CantTradeEnigmaBerry_ES::
 	.string "Los POKéMON que tengan BAYAS\n"
 	.string "{STR_VAR_1} no se pueden intercambiar.$"
 
-CableClub_Text_PleaseWaitBCancel::
+CableClub_Text_PleaseWaitBCancel_ES::
 	.string "Espera unos instantes.\n"
 	.string "Pulsa el Botón B para cancelar.$"
 
-CableClub_Text_WhenAllPlayersReadyAConfirmBCancel::
+CableClub_Text_WhenAllPlayersReadyAConfirmBCancel_ES::
 	.string "Cuando todos estén listos...\n"
 	.string "Botón A: confirmar\l"
 	.string "Botón B: cancelar$"
 
-CableClub_Text_StartLinkWithXPlayersAConfirmBCancel::
+CableClub_Text_StartLinkWithXPlayersAConfirmBCancel_ES::
 	.string "Comenzar la conexión con los\n"
 	.string "siguientes jugadores: {STR_VAR_1}...\l"
 	.string "Botón A: confirmar\l"
 	.string "Botón B: cancelar$"
 
-CableClub_Text_AwaitingLinkupBCancel::
+CableClub_Text_AwaitingLinkupBCancel_ES::
 	.string "Esperando conexión...\n"
 	.string "Botón B: cancelar$"
 
 @ Unused, translated in Emerald
-CableClub_Text_OkayToSaveProgress::
+CableClub_Text_OkayToSaveProgress_ES::
 	.string "はじめる　まえに　レポートを\n"
 	.string "かきますが　よろしいですか？$"
 
-CableClub_Text_PleaseEnter::
+CableClub_Text_PleaseEnter_ES::
 	.string "Adelante.$"
 
-CableClub_Text_DirectYouToYourRoom::
+CableClub_Text_DirectYouToYourRoom_ES::
 	.string "Te voy a llevar a tu sala.$"
 
-CableClub_Text_SomeoneIsNotReadyToLink::
+CableClub_Text_SomeoneIsNotReadyToLink_ES::
 	.string "Uno de los jugadores no está listo\n"
 	.string "para realizar la conexión.\p"
 	.string "Vuelve cuando todos estéis listos.$"
 
-CableClub_Text_LinkErrorPleaseReset::
+CableClub_Text_LinkErrorPleaseReset_ES::
 	.string "Error de conexión... Comprueba el\n"
 	.string "cable Game Link, apaga la consola\l"
 	.string "(OFF) y vuelve a encenderla (ON).$"
 
-CableClub_Text_PlayersMadeDifferentSelections::
+CableClub_Text_PlayersMadeDifferentSelections_ES::
 	.string "Los demás jugadores parecen haber\n"
 	.string "seleccionado opciones diferentes.$"
 
-CableClub_Text_PleaseVisitAgain::
+CableClub_Text_PleaseVisitAgain_ES::
 	.string "Vuelve cuando quieras.$"
 
-CableClub_Text_IncorrectNumberOfParticipants::
+CableClub_Text_IncorrectNumberOfParticipants_ES::
 	.string "El número de jugadores no es\n"
 	.string "correcto.$"
 
-CableClub_Text_CantSingleBattleWithXPlayers::
+CableClub_Text_CantSingleBattleWithXPlayers_ES::
 	.string "No se puede jugar al modo de\n"
 	.string "combate INDIVIDUAL con {STR_VAR_1}\l"
 	.string "jugadores.$"
 
-CableClub_Text_CantDoubleBattleWithXPlayers::
+CableClub_Text_CantDoubleBattleWithXPlayers_ES::
 	.string "No se puede jugar al modo de\n"
 	.string "combate DOBLE con {STR_VAR_1} jugadores.$"
 
-CableClub_Text_NeedFourPlayers::
+CableClub_Text_NeedFourPlayers_ES::
 	.string "Se necesitan cuatro jugadores para\n"
 	.string "jugar a este modo de combate.$"
 
-CableClub_Text_PleaseConfirmNumberAndRestart::
+CableClub_Text_PleaseConfirmNumberAndRestart_ES::
 	.string "Confirma el número de jugadores\n"
 	.string "y vuelve a empezar.$"
 
-Text_TerminateLinkIfYouLeaveRoom::
+Text_TerminateLinkIfYouLeaveRoom_ES::
 	.string "Si sales de la sala, se pondrá fin\n"
 	.string "a la conexión. ¿Estás de acuerdo?$"
 
-Text_TerminateLinkConfirmation::
+Text_TerminateLinkConfirmation_ES::
 	.string "Finalizando conexión... \n"
 	.string "Te acompañamos fuera de la sala.\l"
 	.string "Espera un momento.$"
 
-Text_TrainerTooBusyToNotice::
+Text_TrainerTooBusyToNotice_ES::
 	.string "Este ENTRENADOR no te hace\n"
 	.string "ni caso...$"
 
-Text_LookedAtPlayersTrainerCard::
+Text_LookedAtPlayersTrainerCard_ES::
 	.string "¡Bingo! ¡Puedes mirar la FICHA\n"
 	.string "de ENTRENADOR de {STR_VAR_1}!$"
 
-Text_LookedAtPlayersTrainerCardColored::
+Text_LookedAtPlayersTrainerCardColored_ES::
 	.string "¡Bingo! ¡Puedes mirar la FICHA\n"
 	.string "de ENTRENADOR de {STR_VAR_1}!\p"
 	.string "¡Es de color {STR_VAR_2}!$"
 
-Text_TakeSeatStartBattle::
+Text_TakeSeatStartBattle_ES::
 	.string "Puedes comenzar el combate.$"
 
-Text_TakeSeatStartTrade::
+Text_TakeSeatStartTrade_ES::
 	.string "Puedes comenzar el intercambio.$"
 
 @ Unused, leftover from RS
-RecordCorner_Text_ThanksForComing::
+RecordCorner_Text_ThanksForComing_ES::
 	.string "ごりよう　ありがとう　ございました$"
 
-CableClub_Text_TrainerCardDataOverwritten::
+CableClub_Text_TrainerCardDataOverwritten_ES::
 	.string "Se van a sobrescribir los datos\n"
 	.string "de la FICHA de ENTRENADOR.$"
 
-CableClub_Text_HopeToSeeYouAgain::
+CableClub_Text_HopeToSeeYouAgain_ES::
 	.string "¡Vuelve cuando quieras!$"
 
-CableClub_Text_NotSetUpForFarAwayRegion::
+CableClub_Text_NotSetUpForFarAwayRegion_ES::
 	.string "Lo siento mucho.\p"
 	.string "Aún no podemos realizar\n"
 	.string "intercambios con ENTRENADORES\l"
 	.string "de otra región...$"
 
-CableClub_Text_OtherTrainerNotReady::
+CableClub_Text_OtherTrainerNotReady_ES::
 	.string "El otro ENTRENADOR no está listo.$"
 
-CableClub_Text_YouHaveAMonThatCantBeTaken::
+CableClub_Text_YouHaveAMonThatCantBeTaken_ES::
 	.string "Tienes al menos un POKéMON\n"
 	.string "que no se puede enviar.$"
 
-CableClub_Text_AdapterNotConnected::
+CableClub_Text_AdapterNotConnected_ES::
 	.string "El Conector inalámbrico de GBA\n"
 	.string "no está bien conectado.$"
 
-CableClub_Text_ParticipantsStepUpToCounter::
+CableClub_Text_ParticipantsStepUpToCounter_ES::
 	.string "Los principiantes deben pasar\n"
 	.string "por el mostrador de recepción.$"
 
 @ Unused, translated in Emerald
-CableClub_Text_Hello::
+CableClub_Text_Hello_ES::
 	.string "こんにちは！$"
 
 @ Unused, translated in Emerald
-CableClub_Text_PleaseWait::
+CableClub_Text_PleaseWait_ES::
 	.string "しょうしょう　おまちください$"
 
-CableClub_Text_YouMayTradeHere::
+CableClub_Text_YouMayTradeHere_ES::
 	.string "Aquí puedes intercambiar POKéMON\n"
 	.string "con un amigo.$"
 
-CableClub_Text_YouMayBattleHere::
+CableClub_Text_YouMayBattleHere_ES::
 	.string "Aquí puedes luchar contra tus\n"
 	.string "amigos.$"
 
-CableClub_Text_CanMakeBerryPowder::
+CableClub_Text_CanMakeBerryPowder_ES::
 	.string "Para hacer POLVO de BAYA, hacen\n"
 	.string "falta de dos a cinco ENTRENADORES.$"
 
 @ Unused, Record Mix nopped
-CableClub_Text_CanMixRecords::
+CableClub_Text_CanMixRecords_ES::
 	.string "ワイヤレス　クラブでの\n"
 	.string "あそびかたを　せつめいします$"
 
-CableClub_Text_CancelSelectedItem::
+CableClub_Text_CancelSelectedItem_ES::
 	.string "Cancelar la selección.$"
 
 @ Unused, translated in Emerald
-CableClub_Text_WhichBattleMode::
+CableClub_Text_WhichBattleMode_ES::
 	.string "どちらの　しょうぶに　しますか？$"
 
 @ Unused, translated in Emerald
-CableClub_Text_ReturnsToPreviousStep::
+CableClub_Text_ReturnsToPreviousStep_ES::
 	.string "ひとつ　まえに　もどります$"
 
-CableClub_Text_NeedBerryForBerryCrush::
+CableClub_Text_NeedBerryForBerryCrush_ES::
 	.string "Para usar el MACHACABAYAS,\n"
 	.string "necesitas al menos una BAYA.$"
 
-CableClub_Text_NeedTwoMonsForUnionRoom::
+CableClub_Text_NeedTwoMonsForUnionRoom_ES::
 	.string "Para entrar en la SALA UNIÓN,\n"
 	.string "debes tener al menos dos POKéMON.$"
 
-CableClub_Text_NoEnigmaBerryInUnionRoom::
+CableClub_Text_NoEnigmaBerryInUnionRoom_ES::
 	.string "Los POKéMON que tienen BAYAS\n"
 	.string "{STR_VAR_1} no pueden entrar en la\l"
 	.string "SALA UNIÓN.$"
 
-CableClub_Text_UnionRoomAdapterNotConnected::
+CableClub_Text_UnionRoomAdapterNotConnected_ES::
 	.string "Ésta es la SALA UNIÓN del CLUB\n"
 	.string "INALÁMBRICO POKéMON.\p"
 	.string "Vaya, tu Conector inalámbrico\n"
@@ -1506,19 +1506,19 @@ CableClub_Text_UnionRoomAdapterNotConnected::
 	.string "Vuelve más tarde.$"
 
 @ Unused, translated in Emerald
-CableClub_Text_OhExcuseMe::
+CableClub_Text_OhExcuseMe_ES::
 	.string "あ‥‥\n"
 	.string "おきゃくさま！$"
 
-Text_PlayerIsPlayingRightNowGoForIt::
+Text_PlayerIsPlayingRightNowGoForIt_ES::
 	.string "¡Parece que {STR_VAR_1} está jugando\n"
 	.string "ahora mismo! ¡Conéctate!$"
 
-Text_DescribeWhichGame::
+Text_DescribeWhichGame_ES::
 	.string "Si quieres te explico las reglas.\p"
 	.string "¿De qué juego te hablo?$"
 
-Text_PokemonJumpInfo::
+Text_PokemonJumpInfo_ES::
 	.string "“SALTO POKéMON”\p"
 	.string "Consigue que a tus POKéMON no les\n"
 	.string "atrape la LIANA usando el Botón A.\p"
@@ -1532,7 +1532,7 @@ Text_PokemonJumpInfo::
 	.string "Si todos saltan a la vez,\n"
 	.string "pueden ocurrir cosas estupendas.$"
 
-Text_DodrioBerryPickingInfo::
+Text_DodrioBerryPickingInfo_ES::
 	.string "“DODRIO A POR BAYAS”\p"
 	.string "Dile a DODRIO que pille las BAYAS\n"
 	.string "que pueda con los tres picos que\l"
@@ -1543,47 +1543,47 @@ Text_DodrioBerryPickingInfo::
 	.string "Para poder jugar a este juego,\n"
 	.string "hay que tener un DODRIO.$"
 
-Text_TalkToManToPlay::
+Text_TalkToManToPlay_ES::
 	.string "Si quieres jugar a un juego,\n"
 	.string "díselo a mi compañero.$"
 
-Text_WelcomeCanYouWait::
+Text_WelcomeCanYouWait_ES::
 	.string "¡Hola! ¡Gracias al sistema de\n"
 	.string "comunicación inalámbrica,\l"
 	.string "podrás jugar a juegos!\p"
 	.string "¿Puedes esperar un segundo?$"
 
-CableClub_Text_ComeAgain::
+CableClub_Text_ComeAgain_ES::
 	.string "¡Bueno, hasta otra!$"
 
-Text_AdapterNotConnectedMinigame::
+Text_AdapterNotConnectedMinigame_ES::
 	.string "El Conector inalámbrico de GBA\n"
 	.string "no está conectado.\p"
 	.string "¡Vuelve cuando lo tengas!$"
 
-Text_PlayWhichGame::
+Text_PlayWhichGame_ES::
 	.string "¿A qué juego quieres jugar?$"
 
-Text_EnterWhichPokemon::
+Text_EnterWhichPokemon_ES::
 	.string "¿Con qué POKéMON quieres\n"
 	.string "participar?$"
 
-Text_AllGoodToGo::
+Text_AllGoodToGo_ES::
 	.string "¡Muy bien! ¡Pues adelante!\n"
 	.string "¡A por todas!$"
 
 @ Unused, translated in Emerald
-Text_LeavingDoComeAgain::
+Text_LeavingDoComeAgain_ES::
 	.string "きょうは　けえるのか？\n"
 	.string "またこいよ！$"
 
-EventScript_ExplainPokemonJumpRequirements::
+EventScript_ExplainPokemonJumpRequirements_ES::
 	.string "Creo que no tienes POKéMON\n"
 	.string "aptos para participar...\p"
 	.string "¿Quieres que te diga cuáles son\n"
 	.string "los que pueden participar?$"
 
-Text_ShortJumpingPokemonAllowed::
+Text_ShortJumpingPokemonAllowed_ES::
 	.string "En “SALTO POKéMON” pueden\n"
 	.string "participar los POKéMON que midan\l"
 	.string "unos 70 cm o menos.\p"
@@ -1593,7 +1593,7 @@ Text_ShortJumpingPokemonAllowed::
 	.string "nadan, cavan o vuelan.\p"
 	.string "Bueno, pues ya lo sabes.$"
 
-Text_OnlyDodrioAllowed::
+Text_OnlyDodrioAllowed_ES::
 	.string "“DODRIO A POR BAYAS”...\n"
 	.string "Yo creo que el nombre lo explica\l"
 	.string "todo, ¿no?\p"
@@ -1601,27 +1601,27 @@ Text_OnlyDodrioAllowed::
 	.string "tener al menos un DODRIO.$"
 
 @ Unused, translated in Emerald
-Text_RetryFromStartPlease::
+Text_RetryFromStartPlease_ES::
 	.string "もういちど　はじめから\n"
 	.string "やりなおして　みて　くれ$"
 
-CableClub_Text_WelcomeWhichDirectCornerRoom::
+CableClub_Text_WelcomeWhichDirectCornerRoom_ES::
 	.string "Ésta es la ZONA DIRECTA del CLUB\n"
 	.string "INALÁMBRICO POKéMON.\p"
 	.string "Aquí puedes comunicarte\n"
 	.string "directamente con tus amigos.\p"
 	.string "¿En qué sala quieres entrar?$"
 
-CableClub_Text_TradePokemon::
+CableClub_Text_TradePokemon_ES::
 	.string "¿Quieres cambiar POKéMON?$"
 
-CableClub_Text_PlayWhichBattleMode::
+CableClub_Text_PlayWhichBattleMode_ES::
 	.string "¿Qué modo de combate quieres?$"
 
-CableClub_Text_UseBerryCrush::
+CableClub_Text_UseBerryCrush_ES::
 	.string "¿Quieres usar el MACHACABAYAS?$"
 
-CableClub_Text_ExplainBattleModes::
+CableClub_Text_ExplainBattleModes_ES::
 	.string "Hay tres modos de combate.\p"
 	.string "El COMBATE INDIVIDUAL es para dos\n"
 	.string "ENTRENADORES con uno o más\l"
@@ -1639,24 +1639,24 @@ CableClub_Text_ExplainBattleModes::
 	.string "Cada ENTRENADOR puede usar un\n"
 	.string "POKéMON cada vez.$"
 
-CableClub_Text_ChooseGroupLeaderOfTwo::
+CableClub_Text_ChooseGroupLeaderOfTwo_ES::
 	.string "Un jugador debe ser LÍDER.\p"
 	.string "Y el otro, “UNIRSE\n"
 	.string "al GRUPO”.$"
 
-CableClub_Text_ChooseGroupLeaderOfFour::
+CableClub_Text_ChooseGroupLeaderOfFour_ES::
 	.string "Un jugador debe ser LÍDER\n"
 	.string "del GRUPO.\p"
 	.string "Y los otros, “UNIRSE\n"
 	.string "al GRUPO”.$"
 
-CableClub_Text_ChooseGroupLeader::
+CableClub_Text_ChooseGroupLeader_ES::
 	.string "Un jugador debe ser LÍDER\n"
 	.string "del GRUPO.\p"
 	.string "Y los otros, “UNIRSE\n"
 	.string "al GRUPO”.$"
 
-CableClub_Text_WelcomeUnionRoomEnter::
+CableClub_Text_WelcomeUnionRoomEnter_ES::
 	.string "Ésta es la SALA UNIÓN del CLUB\n"
 	.string "INALÁMBRICO POKéMON.\p"
 	.string "Aquí puedes comunicarte\n"
@@ -1664,7 +1664,7 @@ CableClub_Text_WelcomeUnionRoomEnter::
 	.string "a los que puede que no conozcas.\p"
 	.string "¿Quieres entrar en la SALA?$"
 
-CableClub_Text_UnionRoomInfo::
+CableClub_Text_UnionRoomInfo_ES::
 	.string "Los ENTRENADORES de la SALA UNIÓN\n"
 	.string "serán los jugadores que tengas\l"
 	.string "cerca y hayan entrado en la SALA.\p"
@@ -1680,11 +1680,11 @@ CableClub_Text_UnionRoomInfo::
 	.string "POKéMON para realizar intercambios.\p"
 	.string "¿Quieres entrar en la SALA?$"
 
-CableClub_Text_EnjoyUnionRoom::
+CableClub_Text_EnjoyUnionRoom_ES::
 	.string "Espero que disfrutes en la SALA\n"
 	.string "UNIÓN.$"
 
-CableClub_Text_FirstTimeRightThisWay::
+CableClub_Text_FirstTimeRightThisWay_ES::
 	.string "¡Hola!\n"
 	.string "Me llamo TEALA.\p"
 	.string "Es la primera vez que vienes, ¿no?\p"
@@ -1695,7 +1695,7 @@ CableClub_Text_FirstTimeRightThisWay::
 	.string "de nuestro CENTRO POKéMON.\p"
 	.string "Por aquí, por favor.$"
 
-CableClub_Text_ExplainWirelessClubFirstTime::
+CableClub_Text_ExplainWirelessClubFirstTime_ES::
 	.string "En el primer piso de los CENTROS\n"
 	.string "POKéMON hay dos salas.\p"
 	.string "Primero te hablaré de la sala de\n"
@@ -1721,14 +1721,14 @@ CableClub_Text_ExplainWirelessClubFirstTime::
 	.string "Espero que disfrutes del sistema\n"
 	.string "de comunicación inalámbrica.$"
 
-CableClub_Text_AskAboutLinking::
+CableClub_Text_AskAboutLinking_ES::
 	.string "¡Hola, {PLAYER}!\p"
 	.string "Soy yo, TEALA, la recepcionista\n"
 	.string "del 1.{SUPER_ER} Piso del CENTRO POKéMON.\p"
 	.string "¿Necesitas información sobre\n"
 	.string "cómo realizar la conexión?$"
 
-CableClub_Text_ExplainWirelessClub::
+CableClub_Text_ExplainWirelessClub_ES::
 	.string "Te voy a explicar cómo funciona\n"
 	.string "el CLUB INALÁMBRICO POKéMON.\p"
 	.string "Éste es el piso de arriba y tiene\n"
@@ -1759,6 +1759,6 @@ CableClub_Text_ExplainWirelessClub::
 	.string "Espero que disfrutes del sistema\n"
 	.string "de comunicación inalámbrica.$"
 
-CableClub_Text_HopeYouEnjoyWirelessSystem::
+CableClub_Text_HopeYouEnjoyWirelessSystem_ES::
 	.string "Espero que disfrutes del sistema\n"
 	.string "de comunicación inalámbrica.$"

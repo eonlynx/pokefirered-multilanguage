@@ -1,22 +1,22 @@
-gText_WouldYouLikeToSaveTheGame::
+gText_WouldYouLikeToSaveTheGame_IT::
 	.string "Vuoi salvare il gioco?$"
 
-gText_AlreadySaveFile_WouldLikeToOverwrite::
+gText_AlreadySaveFile_WouldLikeToOverwrite_IT::
 	.string "Sono presenti dati di gioco salvati.\n"
 	.string "Vuoi sovrascriverli?$"
 
-gText_SavingDontTurnOffThePower::
+gText_SavingDontTurnOffThePower_IT::
 	.string "SALVATAGGIO IN CORSO…\n"
 	.string "NON SPEGNERE!$"
 
-gText_PlayerSavedTheGame::
+gText_PlayerSavedTheGame_IT::
 	.string "{PLAYER} ha salvato i dati di\n"
 	.string "gioco.$"
 
-gText_SaveFailed2::
+gText_SaveFailed2_IT::
 	.string "セーブに　しっぱい　しました‥$"
 
-gText_DifferentGameFile::
+gText_DifferentGameFile_IT::
 	.string "ATTENZIONE!\n"
 	.string "In memoria è presente il\l"
 	.string "salvataggio di un'altra partita.\p"

@@ -1,16 +1,16 @@
-Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests::
+Route2_ViridianForest_NorthEntrance_Text_ManyMonsOnlyInForests_ES::
     .string "Muchos POKéMON sólo viven\n"
     .string "en bosques y cuevas.\p"
     .string "¡Tienes que mirar por todas partes\n"
     .string "para conseguirlos todos!$"
 
-Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees::
+Route2_ViridianForest_NorthEntrance_Text_CanCutSkinnyTrees_ES::
     .string "¿Has visto los arbustos que hay\n"
     .string "junto al camino?\p"
     .string "Puedes cortarlos con un movimiento\n"
     .string "especial de los POKéMON.$"
 
-Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution::
+Route2_ViridianForest_NorthEntrance_Text_CanCancelEvolution_ES::
     .string "¿Sabes que se puede cancelar\n"
     .string "la evolución de un POKéMON?\p"
     .string "Cuando un POKéMON esté\n"

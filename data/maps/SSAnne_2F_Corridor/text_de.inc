@@ -1,10 +1,10 @@
-SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
+SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner_DE::
 	.string "Dieses luxuriöse Traumschiff fährt\n"
 	.string "exklusiv für TRAINER zur See!\p"
 	.string "In jedem Hafen besuchen uns\n"
 	.string "ausschließlich geladene TRAINER!$"
 
-SSAnne_2F_Corridor_Text_RivalIntro::
+SSAnne_2F_Corridor_Text_RivalIntro_DE::
 	.string "{RIVAL}: Sieh an!\n"
 	.string "{PLAYER}!\p"
 	.string "Ich wusste, ich würde dich hier\n"
@@ -19,18 +19,18 @@ SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "POKéMON!\p"
 	.string "Versuch dein Glück in hohem Gras!$"
 
-SSAnne_2F_Corridor_Text_RivalDefeat::
+SSAnne_2F_Corridor_Text_RivalDefeat_DE::
 	.string "Mist!\p"
 	.string "Na ja, wenigstens trainierst du\n"
 	.string "deine POKéMON!$"
 
-SSAnne_2F_Corridor_Text_RivalVictory::
+SSAnne_2F_Corridor_Text_RivalVictory_DE::
 	.string "{PLAYER}‥！\n"
 	.string "ふなよい　してるのか！\p"
 	.string "もっと　からだ\n"
 	.string "きたえた　ほうが　いいぜ！$"
 
-SSAnne_2F_Corridor_Text_RivalPostBattle::
+SSAnne_2F_Corridor_Text_RivalPostBattle_DE::
 	.string "{RIVAL}: Es soll angeblich ein\n"
 	.string "großer Meister im Umgang mit dem\l"
 	.string "ZERSCHNEIDER an Bord sein.\p"

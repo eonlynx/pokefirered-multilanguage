@@ -1,4 +1,4 @@
-Text_RockSlideTeach::
+Text_RockSlideTeach_ES::
     .string "En montañas como ésta, hay peligro\n"
     .string "de desprendimientos.\p"
     .string "Imagínate qué horror que empiecen\n"
@@ -8,20 +8,20 @@ Text_RockSlideTeach::
     .string "¿No te da miedo?\n"
     .string "¿Quieres aprender AVALANCHA?$"
 
-Text_RockSlideDeclined::
+Text_RockSlideDeclined_ES::
     .string "Te da miedo, no lo niegues.$"
 
-Text_RockSlideWhichMon::
+Text_RockSlideWhichMon_ES::
     .string "¿A qué POKéMON quieres que\n"
     .string "le enseñe AVALANCHA?$"
 
-Text_RockSlideTaught::
+Text_RockSlideTaught_ES::
     .string "Yo no lo usaría en un túnel...$"
 
-SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
+SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow_ES::
     .string "¡Las ROCAS pueden cambiar\n"
     .string "el flujo del agua!$"
 
-SeafoamIslands_B4F_Text_DangerFastCurrent::
+SeafoamIslands_B4F_Text_DangerFastCurrent_ES::
     .string "¡PELIGRO!\n"
     .string "¡Rápidos!$"

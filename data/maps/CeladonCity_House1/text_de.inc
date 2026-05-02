@@ -1,14 +1,14 @@
-CeladonCity_House1_Text_SlotsReelInTheDough::
+CeladonCity_House1_Text_SlotsReelInTheDough_DE::
 	.string "Haha!\p"
 	.string "Mit den Spielautomaten verdienen\n"
 	.string "wir uns eine goldene Nase!$"
 
-CeladonCity_House1_Text_ShippedMonsAsSlotPrizes::
+CeladonCity_House1_Text_ShippedMonsAsSlotPrizes_DE::
 	.string "BOSS!\p"
 	.string "Wir haben gerade 2000 POKéMON als\n"
 	.string "Preise versandt!$"
 
-CeladonCity_House1_Text_DontTouchGameCornerPoster::
+CeladonCity_House1_Text_DontTouchGameCornerPoster_DE::
 	.string "Schenke dem Poster in der\n"
 	.string "SPIELHALLE keine Beachtung.\p"
 	.string "Dahinter ist kein versteckter\n"
@@ -16,6 +16,6 @@ CeladonCity_House1_Text_DontTouchGameCornerPoster::
 
 @ Text for the replaced altars in the rocket chiefs house / celadon mansion
 @ In English RB, this is westernized as "It's a sculpture of DIGLETT.", and is removed altogether in FRLG
-Text_ItsABuddhistAltar::
+Text_ItsABuddhistAltar_DE::
 	.string "ぶつだん　だ‥$"
 

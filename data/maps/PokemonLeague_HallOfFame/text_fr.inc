@@ -1,4 +1,4 @@
-PokemonLeague_HallOfFame_Text_OakCongratulations::
+PokemonLeague_HallOfFame_Text_OakCongratulations_FR::
 	.string "CHEN: Hum-hum!\n"
 	.string "Félicitations {PLAYER}!\p"
 	.string "Cet étage est réservé au\n"

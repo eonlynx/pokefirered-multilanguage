@@ -1,4 +1,4 @@
-SSAnne_1F_Corridor_Text_LeStrongSilentType::
+SSAnne_1F_Corridor_Text_LeStrongSilentType_DE::
 	.string "Moin, moin, du Landradde!\n"
 	.string "Ich bin der Steward auf diesem\l"
 	.string "Kahn!\p"
@@ -7,7 +7,7 @@ SSAnne_1F_Corridor_Text_LeStrongSilentType::
 	.string "Verdammich, gesprächig bist du\n"
 	.string "aber nicht!$"
 
-SSAnne_1F_Corridor_Text_PassengersAreRestless::
+SSAnne_1F_Corridor_Text_PassengersAreRestless_DE::
 	.string "Viele Passagiere sind hyperaktiv!\p"
 	.string "Sie langweilen sich und sehnen sich\n"
 	.string "nach einem Kampf!$"

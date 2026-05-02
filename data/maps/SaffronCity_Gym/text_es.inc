@@ -1,4 +1,4 @@
-SaffronCity_Gym_Text_SabrinaIntro::
+SaffronCity_Gym_Text_SabrinaIntro_ES::
     .string "¡He visto que venías!\p"
     .string "¡Tengo poderes psíquicos desde\n"
     .string "que era niña!\p"
@@ -7,21 +7,21 @@ SaffronCity_Gym_Text_SabrinaIntro::
     .string "¡Odio luchar, pero si quieres\n"
     .string "puedo enseñarte mis poderes!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-SaffronCity_Gym_Text_SabrinaDefeat::
+SaffronCity_Gym_Text_SabrinaDefeat_ES::
     .string "¡Estoy impresionada!\n"
     .string "Acepto mi derrota.\p"
     .string "¡Admito que no he sido lo bastante\n"
     .string "fuerte y por eso he perdido!\p"
     .string "¡Has ganado la MEDALLA PANTANO!$"
 
-SaffronCity_Gym_Text_SabrinaPostBattle::
+SaffronCity_Gym_Text_SabrinaPostBattle_ES::
     .string "Todo el mundo tiene poderes\n"
     .string "mentales, pero la gente no lo\l"
     .string "sabe.\p"
     .string "La mente es muy poderosa, pero\n"
     .string "no todo el mundo la aprovecha.$"
 
-SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
+SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis_ES::
     .string "¡Con la MEDALLA PANTANO, todo\n"
     .string "POKéMON con nivel inferior a 70 te\l"
     .string "obedecerá!\p"
@@ -33,107 +33,107 @@ SaffronCity_Gym_Text_ExplainMarshBadgeTakeThis::
     .string "problema!\p"
     .string "¡Espera, llévate esta MT!$"
 
-SaffronCity_Gym_Text_ReceivedTM04FromSabrina::
+SaffronCity_Gym_Text_ReceivedTM04FromSabrina_ES::
     .string "¡{PLAYER} obtuvo la MT04\n"
     .string "de manos de SABRINA!$"
 
-SaffronCity_Gym_Text_ExplainTM04::
+SaffronCity_Gym_Text_ExplainTM04_ES::
     .string "¡La MT04 contiene PAZ MENTAL!\p"
     .string "Hace concentrarse a los POKéMON\n"
     .string "para que aumente su AT. ESP. \l"
     .string "y su DEF. ESP.$"
 
-SaffronCity_Gym_Text_BagFullOfOtherItems::
+SaffronCity_Gym_Text_BagFullOfOtherItems_ES::
     .string "¡Tu mochila está llena de otros\n"
     .string "objetos!$"
 
-SaffronCity_Gym_Text_AmandaIntro::
+SaffronCity_Gym_Text_AmandaIntro_ES::
     .string "¡SABRINA es más joven que yo,\n"
     .string "pero la respeto!$"
 
-SaffronCity_Gym_Text_AmandaDefeat::
+SaffronCity_Gym_Text_AmandaDefeat_ES::
     .string "¡Vaya fallo!$"
 
-SaffronCity_Gym_Text_AmandaPostBattle::
+SaffronCity_Gym_Text_AmandaPostBattle_ES::
     .string "¡En una pelea de iguales, ganará\n"
     .string "quien tenga más voluntad!\p"
     .string "¡Si quieres ganar a SABRINA,\n"
     .string "piensa sólo en ganar!$"
 
-SaffronCity_Gym_Text_JohanIntro::
+SaffronCity_Gym_Text_JohanIntro_ES::
     .string "¿Te asusta nuestro poder oculto?$"
 
-SaffronCity_Gym_Text_JohanDefeat::
+SaffronCity_Gym_Text_JohanDefeat_ES::
     .string "¡Jamás lo hubiera pensado!$"
 
-SaffronCity_Gym_Text_JohanPostBattle::
+SaffronCity_Gym_Text_JohanPostBattle_ES::
     .string "¡Los POKéMON psíquicos temen sólo\n"
     .string "a los bichos y a los fantasmas!$"
 
-SaffronCity_Gym_Text_StacyIntro::
+SaffronCity_Gym_Text_StacyIntro_ES::
     .string "Los POKéMON acaban pareciéndose\n"
     .string "a sus ENTRENADORES.\p"
     .string "¡Pues tus POKéMON parecen fuertes!$"
 
-SaffronCity_Gym_Text_StacyDefeat::
+SaffronCity_Gym_Text_StacyDefeat_ES::
     .string "¡Lo sabía!$"
 
-SaffronCity_Gym_Text_StacyPostBattle::
+SaffronCity_Gym_Text_StacyPostBattle_ES::
     .string "¡Debo enseñarles mejores técnicas\n"
     .string "a mis POKéMON!\p"
     .string "¡Sobre todo del tipo PSÍQUICO!$"
 
-SaffronCity_Gym_Text_TyronIntro::
+SaffronCity_Gym_Text_TyronIntro_ES::
     .string "Sabes que tu fuerza no bastará\n"
     .string "para ganar en el mundo de los\l"
     .string "POKéMON, ¿no?$"
 
-SaffronCity_Gym_Text_TyronDefeat::
+SaffronCity_Gym_Text_TyronDefeat_ES::
     .string "¡No me lo puedo creer!$"
 
-SaffronCity_Gym_Text_TyronPostBattle::
+SaffronCity_Gym_Text_TyronPostBattle_ES::
     .string "¡SABRINA ganó al MAESTRO de\n"
     .string "KARATE de la puerta de al lado!$"
 
-SaffronCity_Gym_Text_TashaIntro::
+SaffronCity_Gym_Text_TashaIntro_ES::
     .string "¡Tú y yo!\n"
     .string "Nuestros POKéMON deben luchar.$"
 
-SaffronCity_Gym_Text_TashaDefeat::
+SaffronCity_Gym_Text_TashaDefeat_ES::
     .string "¡He perdido al final!$"
 
-SaffronCity_Gym_Text_TashaPostBattle::
+SaffronCity_Gym_Text_TashaPostBattle_ES::
     .string "Sabía que esto iba a pasar.$"
 
-SaffronCity_Gym_Text_CameronIntro::
+SaffronCity_Gym_Text_CameronIntro_ES::
     .string "¡SABRINA es joven, pero es nuestra\n"
     .string "LÍDER!\p"
     .string "¡No llegarás a ella fácilmente!$"
 
-SaffronCity_Gym_Text_CameronDefeat::
+SaffronCity_Gym_Text_CameronDefeat_ES::
     .string "¡No he podido concentrarme!$"
 
-SaffronCity_Gym_Text_CameronPostBattle::
+SaffronCity_Gym_Text_CameronPostBattle_ES::
     .string "En AZAFRÁN había dos\n"
     .string "GIMNASIOS POKéMON.\p"
     .string "¡El DOJO-KARATE de aquí al lado\n"
     .string "perdió su condición de GIMNASIO\l"
     .string "cuando los machacamos!$"
 
-SaffronCity_Gym_Text_PrestonIntro::
+SaffronCity_Gym_Text_PrestonIntro_ES::
     .string "¡El GIMNASIO POKéMON de AZAFRÁN\n"
     .string "es famoso por sus médiums!\p"
     .string "¡Quieres ver a SABRINA!\n"
     .string "¡Lo sé!$"
 
-SaffronCity_Gym_Text_PrestonDefeat::
+SaffronCity_Gym_Text_PrestonDefeat_ES::
     .string "¡Arrrgg!$"
 
-SaffronCity_Gym_Text_PrestonPostBattle::
+SaffronCity_Gym_Text_PrestonPostBattle_ES::
     .string "¡Tienes razón! ¡Usé la telepatía\n"
     .string "para leer tu mente!$"
 
-SaffronCity_Gym_Text_GymGuyAdvice::
+SaffronCity_Gym_Text_GymGuyAdvice_ES::
     .string "¡Hola, aspirante al título!\p"
     .string "¡Los POKéMON de SABRINA usan el\n"
     .string "poder de la mente, no la fuerza!\p"
@@ -143,18 +143,18 @@ SaffronCity_Gym_Text_GymGuyAdvice::
     .string "¡Se debilitan casi antes de poder\n"
     .string "prepararse!$"
 
-SaffronCity_Gym_Text_GymGuyPostVictory::
+SaffronCity_Gym_Text_GymGuyPostVictory_ES::
     .string "¿Poder mental?\p"
     .string "¡Si yo lo tuviera me haría rico en\n"
     .string "las tragaperras!$"
 
-SaffronCity_Gym_Text_GymStatue::
+SaffronCity_Gym_Text_GymStatue_ES::
     .string "LÍDER del GIMNASIO POKéMON\n"
     .string "de AZAFRÁN: SABRINA\p"
     .string "ENTRENADOR GANADOR:\n"
     .string "{RIVAL}$"
 
-SaffronCity_Gym_Text_GymStatuePlayerWon::
+SaffronCity_Gym_Text_GymStatuePlayerWon_ES::
     .string "LÍDER del GIMNASIO POKéMON\n"
     .string "de AZAFRÁN: SABRINA\p"
     .string "ENTRENADORES GANADORES:\n"

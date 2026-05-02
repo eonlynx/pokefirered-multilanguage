@@ -1,10 +1,10 @@
-CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
+CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons_FR::
 	.string "Sacré LEO!\p"
 	.string "Il donnerait n'importe quoi pour\n"
 	.string "mettre la main sur un POKéMON\l"
 	.string "rare!$"
 
-CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
+CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac_FR::
 	.string "Tu connais LEO?\p"
 	.string "On raconte que c'est un vrai\n"
 	.string "POKéMANIAC!\p"
@@ -13,12 +13,12 @@ CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
 	.string "Nous sommes tous un peu \n"
 	.string "POKéMANIAC, non?$"
 
-CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
+CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons_FR::
 	.string "LEO a une sacrée collection de\n"
 	.string "POKéMON!\p"
 	.string "Et des rares, en plus…$"
 
-CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
+CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs_FR::
 	.string "Tu devrais aller à l'étage pour\n"
 	.string "faire des échanges avec tes amis.\p"
 	.string "Tu peux avoir plus de POKéMON\n"

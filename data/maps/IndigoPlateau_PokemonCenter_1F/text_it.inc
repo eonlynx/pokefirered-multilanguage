@@ -1,4 +1,4 @@
-IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
+IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice_IT::
     .string "Ehi!\n"
     .string "Aspirante CAMPIONE!\p"
     .string "Alla LEGA POKéMON dovrai\n"
@@ -7,14 +7,14 @@ IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
     .string "Se perdi, dovrai iniziare da capo!\n"
     .string "Fai attenzione!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
+IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck_IT::
     .string "Qui ha inizio la sfida contro i\n"
     .string "SUPERQUATTRO, uno dopo l'altro!\p"
     .string "Se vinci si aprirà una porta per\n"
     .string "l'ALLENATORE successivo!\l"
     .string "Buona fortuna!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
+IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing_IT::
     .string "Mi dispiace, ma hai fatto tutta\n"
     .string "questa strada per niente.\p"
     .string "LORELEI dei SUPERQUATTRO è\n"
@@ -22,7 +22,7 @@ IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
     .string "Pertanto, la LEGA POKéMON è\n"
     .string "chiusa fino al suo ritorno.$"
 
-IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
+IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs_IT::
     .string "I POKéMON di tipo SPETTRO di\n"
     .string "AGATHA sono orribilmente forti!\p"
     .string "Ho potenziato al massimo i miei\n"
@@ -32,7 +32,7 @@ IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
     .string "ed è anche una testa calda!\p"
     .string "Niente la spaventa!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway::
+IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway_IT::
     .string "Ho sentito dire che il cugino di\n"
     .string "LANCE, dei SUPERQUATTRO,\l"
     .string "è CAPOPALESTRA da qualche parte.\p"

@@ -1,4 +1,4 @@
-FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
+FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland_IT::
     .string "Su quest'isola è nata e cresciuta\n"
     .string "una ragazza che è diventata un\l"
     .string "grande ALLENATORE.\p"
@@ -7,7 +7,7 @@ FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
     .string "Quando era solo una ragazzina,\l"
     .string "le ho insegnato tutto sui POKéMON.$"
 
-FourIsland_Mart_Text_IcefallCaveIsFrigid::
+FourIsland_Mart_Text_IcefallCaveIsFrigid_IT::
     .string "In generale, le isole del\n"
     .string "SETTIPELAGO godono di un clima\l"
     .string "piuttosto mite.\p"

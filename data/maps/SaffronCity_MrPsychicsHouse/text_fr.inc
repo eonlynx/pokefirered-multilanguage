@@ -1,16 +1,16 @@
-SaffronCity_MrPsychicsHouse_Text_YouWantedThis::
+SaffronCity_MrPsychicsHouse_Text_YouWantedThis_FR::
 	.string "… Chut! Pas un mot!\p"
 	.string "Tu veux ça?$"
 
-SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic::
+SaffronCity_MrPsychicsHouse_Text_ReceivedTM29FromMrPsychic_FR::
 	.string "{PLAYER} obtient la\n"
 	.string "CT29!$"
 
-SaffronCity_MrPsychicsHouse_Text_ExplainTM29::
+SaffronCity_MrPsychicsHouse_Text_ExplainTM29_FR::
 	.string "CT29: PSYKO!\p"
 	.string "Cette attaque diminue le SPECIAL\n"
 	.string "de la cible.$"
 
-SaffronCity_MrPsychicsHouse_Text_YouveNoRoom::
+SaffronCity_MrPsychicsHouse_Text_YouveNoRoom_FR::
 	.string "Ton inventaire est plein!$"
 

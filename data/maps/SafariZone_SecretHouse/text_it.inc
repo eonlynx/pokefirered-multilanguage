@@ -1,4 +1,4 @@
-SafariZone_SecretHouse_Text_CongratsYouveWon::
+SafariZone_SecretHouse_Text_CongratsYouveWon_IT::
     .string "Ah! Finalmente!\p"
     .string "Sei la prima persona che\n"
     .string "raggiunge la CASA SEGRETA!\p"
@@ -6,11 +6,11 @@ SafariZone_SecretHouse_Text_CongratsYouveWon::
     .string "vinto il nostro premio.\p"
     .string "Congratulazioni!$"
 
-SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant::
+SafariZone_SecretHouse_Text_ReceivedHM03FromAttendant_IT::
     .string "{PLAYER} riceve\n"
     .string "la MN03!$"
 
-SafariZone_SecretHouse_Text_ExplainSurf::
+SafariZone_SecretHouse_Text_ExplainSurf_IT::
     .string "La MN03 è SURF!\p"
     .string "Con SURF, un POKéMON ti\n"
     .string "potrà trasportare sull'acqua!\p"
@@ -18,7 +18,7 @@ SafariZone_SecretHouse_Text_ExplainSurf::
     .string "Potrai usarla quante volte vorrai!\p"
     .string "È un gran bel premio, sai?$"
 
-SafariZone_SecretHouse_Text_DontHaveRoomForPrize::
+SafariZone_SecretHouse_Text_DontHaveRoomForPrize_IT::
     .string "Non hai spazio per questo premio\n"
     .string "favoloso!$"
 

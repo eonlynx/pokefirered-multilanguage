@@ -1,24 +1,24 @@
-FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish::
+FiveIsland_ResortGorgeous_House_Text_PleaseHearMyWish_DE::
 	.string "KEA: Oh?\n"
 	.string "Kenne ich dich von irgendwo?\p"
 	.string "Aber das macht nichts!\p"
 	.string "Ich langweile mich so.\n"
 	.string "Hör bitte meinen Wunsch!$"
 
-FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease::
+FiveIsland_ResortGorgeous_House_Text_WishToSeeMonPlease_DE::
 	.string "Ich möchte ein POKéMON sehen.\n"
 	.string "Ein bezauberndes {STR_VAR_1}!\p"
 	.string "Ich möchte es sofort und hier.\n"
 	.string "Bitte, erfülle mir diesen Traum!$"
 
-FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting::
+FiveIsland_ResortGorgeous_House_Text_OhImTiredOfWaiting_DE::
 	.string "KEA:Oh, ich bin dessen so müde!\n"
 	.string "Ich bin müde, auf dich zu warten!\p"
 	.string "Ich verzeihe dir dieses Mal,\n"
 	.string "aber bitte enttäusche mich\l"
 	.string "beim nächsten Mal nicht mehr!$"
 
-FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
+FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou_DE::
 	.string "KEA: Oh, hallo!\p"
 	.string "Oh, wie grandios! Das muss das\n"
 	.string "{STR_VAR_1} sein, das du für mich\l"
@@ -36,35 +36,35 @@ FiveIsland_ResortGorgeous_House_Text_MonYouCaughtForMeThankYou::
 	.string "SEBASTIAN!\n"
 	.string "Du wirst hier dringend gebraucht!$"
 
-FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady::
+FiveIsland_ResortGorgeous_House_Text_ButlerYesMyLady_DE::
 	.string "Butler: Sie haben gerufen?$"
 
-FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation::
+FiveIsland_ResortGorgeous_House_Text_SelphyGiveTokenOfAppreciation_DE::
 	.string "KEA: Besorgen sie dieser\n"
 	.string "Person ein Zeichen meiner\l"
 	.string "Wertschätzung!$"
 
-FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid::
+FiveIsland_ResortGorgeous_House_Text_ButlerIShallDoAsYouBid_DE::
 	.string "Butler: Wie Sie wünschen!$"
 
-FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks::
+FiveIsland_ResortGorgeous_House_Text_ButlerPleaseAcceptThisAsHerThanks_DE::
 	.string "Butler: Vielen Dank, dass sie\n"
 	.string "Lady KEA zufrieden stellten!\p"
 	.string "Nehmen sie das als kleines\n"
 	.string "Dankeschön…$"
 
-FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull::
+FiveIsland_ResortGorgeous_House_Text_ButlerBagAppearsToBeFull_DE::
 	.string "Butler: Es scheint, ihr Beutel\n"
 	.string "ist bedauerlicherweise voll!$"
 
-FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing::
+FiveIsland_ResortGorgeous_House_Text_OhHowDisappointing_DE::
 	.string "Oh…\n"
 	.string "Wie schade!$"
 
-FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck::
+FiveIsland_ResortGorgeous_House_Text_SelphyWishYouBestOfLuck_DE::
 	.string "KEA: Viel Glück!$"
 
-FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun::
+FiveIsland_ResortGorgeous_House_Text_LadySelphySmileHasBrillianceOfSun_DE::
 	.string "Butler: Das Lächeln von Lady\n"
 	.string "KEA ist so strahlend wie\l"
 	.string "die Sonne.\l"

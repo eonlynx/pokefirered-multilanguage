@@ -1,4 +1,4 @@
-Text_UltimateMoveThatMon::
+Text_UltimateMoveThatMon_FR::
 	.string "J'ai amélioré la capacité ultime\n"
 	.string "de ce type…\p"
 	.string "Quelqu'un voudrait-il la\n"
@@ -7,11 +7,11 @@ Text_UltimateMoveThatMon::
 	.string "T-toi…\n"
 	.string "C-ce {STR_VAR_1}…$"
 
-Text_JustMistaken::
+Text_JustMistaken_FR::
 	.string "… Non…\n"
 	.string "C'était une erreur.$"
 
-Text_AllowMeToTeachMonUltimateMove::
+Text_AllowMeToTeachMonUltimateMove_FR::
 	.string "Oh, c'est lui!\n"
 	.string "C'est LE POKéMON!\p"
 	.string "Ce {STR_VAR_1} mérite d'apprendre\n"
@@ -20,32 +20,32 @@ Text_AllowMeToTeachMonUltimateMove::
 	.string "Laisseras-tu {STR_VAR_1} apprendre\n"
 	.string "{STR_VAR_2}?$"
 
-Text_YouRejectIt::
+Text_YouRejectIt_FR::
 	.string "Koaa! T'es pas d'accord?\n"
 	.string "Je ne renoncerai pas!$"
 
-Text_LetMeConferUltimateMove::
+Text_LetMeConferUltimateMove_FR::
 	.string "Tu veux bien?\p"
 	.string "Alors laisse-moi enseigner\n"
 	.string "{STR_VAR_2} à ton {STR_VAR_1}.$"
 
-Text_TaughtMove::
+Text_TaughtMove_FR::
 	.string "Ah… ah… ah…\p"
 	.string "Je ne pensais pas avoir la chance\n"
 	.string "de pouvoir un jour l'enseigner…$"
 
-Text_MakeBestUseOfMove::
+Text_MakeBestUseOfMove_FR::
 	.string "J'espère que tu en feras le\n"
 	.string "meilleur usage!$"
 
-Text_PassedOnEverythingIKnow::
+Text_PassedOnEverythingIKnow_FR::
 	.string "Gasp…\p"
 	.string "Je n'ai aucun regret. J'ai vu tout\n"
 	.string "ce que je devais voir.\p"
 	.string "Je peux terminer ma vie en sachant\n"
 	.string "que mon œuvre est accomplie.$"
 
-Text_FeelRejuvenated::
+Text_FeelRejuvenated_FR::
 	.string "Je me sens libérée maintenant que\n"
 	.string "je t'ai transmis mon savoir.\p"
 	.string "En fait, je me sens renaître, comme\n"

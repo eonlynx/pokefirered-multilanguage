@@ -1,17 +1,17 @@
-SaffronCity_House_Text_DontLookAtMyLetter::
+SaffronCity_House_Text_DontLookAtMyLetter_ES::
     .string "Gracias por escribir.\n"
     .string "¡Espero verte pronto!\p"
     .string "¡Oye!\n"
     .string "¡No mires mi carta!$"
 
-SaffronCity_House_Text_Pidgey::
+SaffronCity_House_Text_Pidgey_ES::
     .string "PIDGEY: ¡Pid, pid!$"
 
-SaffronCity_House_Text_GettingCopycatPokeDoll::
+SaffronCity_House_Text_GettingCopycatPokeDoll_ES::
     .string "¡La COPIONA es muy mona!\n"
     .string "¡Voy a darle un POKé MUÑECO!$"
 
-SaffronCity_House_Text_ExplainPPUp::
+SaffronCity_House_Text_ExplainPPUp_ES::
     .string "Recibí MÁS PP como regalo.\p"
     .string "¡Sirve para aumentar los PP de\n"
     .string "un movimiento de un POKéMON!\p"

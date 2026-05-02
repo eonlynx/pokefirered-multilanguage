@@ -1,4 +1,4 @@
-Route1_Text_WorkAtPokeMartTakeSample::
+Route1_Text_WorkAtPokeMartTakeSample_DE::
 	.string "Hi! Ich arbeite in einem POKéMON-\n"
 	.string "SUPERMARKT.\p"
 	.string "Wir verkaufen viele praktische\n"
@@ -8,22 +8,22 @@ Route1_Text_WorkAtPokeMartTakeSample::
 	.string "Am besten gebe ich dir ein\n"
 	.string "Werbegeschenk! Hier, bitte!$"
 
-Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
+Route1_Text_ComeSeeUsIfYouNeedPokeBalls_DE::
 	.string "Willst du POKéMON fangen? Wir\n"
 	.string "haben auch POKéBÄLLE im Sortiment!$"
 
-Route1_Text_PutPotionAway::
+Route1_Text_PutPotionAway_DE::
 	.string "{PLAYER} steckt den TRANK in die\n"
 	.string "ITEM-TASCHE des BEUTELs.$"
 
-Route1_Text_CanJumpFromLedges::
+Route1_Text_CanJumpFromLedges_DE::
 	.string "Siehst du die Stufen hier?\p"
 	.string "Du kannst nicht hinaufklettern,\n"
 	.string "dafür aber herunterspringen!\p"
 	.string "So kommst du viel schneller nach\n"
 	.string "ALABASTIA zurück.$"
 
-Route1_Text_RouteSign::
+Route1_Text_RouteSign_DE::
 	.string "ROUTE 1\n"
 	.string "ALABASTIA - VERTANIA CITY$"
 

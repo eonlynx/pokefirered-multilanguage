@@ -1,4 +1,4 @@
-PewterCity_Gym_Text_BrockIntro::
+PewterCity_Gym_Text_BrockIntro_ES::
     .string "¡Soy BROCK! ¡LÍDER del\n"
     .string "GIMNASIO de PLATEADA!\p"
     .string "¡Creo en la gran resistencia de la\n"
@@ -14,7 +14,7 @@ PewterCity_Gym_Text_BrockIntro::
 @ NOTE: This defeat text actually causes a buffer overflow. It's too long for the gDisplayedStringBattle
 @ buffer that it's put into, and it stomps all over the gBattleTextBuffs after, as well as the otherwise
 @ unused array after that, sFlickerArray. Perhaps that's the reason why said array exists.
-PewterCity_Gym_Text_BrockDefeat::
+PewterCity_Gym_Text_BrockDefeat_ES::
     .string "Te he subestimado.\p"
     .string "¡Como prueba de tu victoria, aquí\n"
     .string "tienes la MEDALLA ROCA!\p"
@@ -26,15 +26,15 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "¡Y la técnica del DESTELLO podrá\n"
     .string "ser utilizada en todo momento!$"
 
-PewterCity_Gym_Text_TakeThisWithYou::
+PewterCity_Gym_Text_TakeThisWithYou_ES::
     .string "¡Espera!\n"
     .string "¡Lleva esto contigo!$"
 
-PewterCity_Gym_Text_ReceivedTM39FromBrock::
+PewterCity_Gym_Text_ReceivedTM39FromBrock_ES::
     .string "¡{PLAYER} obtuvo la MT39\n"
     .string "de manos de BROCK!$"
 
-PewterCity_Gym_Text_ExplainTM39::
+PewterCity_Gym_Text_ExplainTM39_ES::
     .string "¡La MT incluye un ataque que\n"
     .string "puede ser enseñado a los POKéMON!\p"
     .string "¡Pero sólo puedes usarla una vez!\p"
@@ -44,7 +44,7 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "¡Podrás lanzar rocas al rival\n"
     .string "y bajar su VELOCIDAD!$"
 
-PewterCity_Gym_Text_BrockPostBattle::
+PewterCity_Gym_Text_BrockPostBattle_ES::
     .string "¡En el mundo hay todo tipo de\n"
     .string "ENTRENADORES!\p"
     .string "¡Pareces ser muy hábil\n"
@@ -52,24 +52,24 @@ PewterCity_Gym_Text_BrockPostBattle::
     .string "¡Vete al GIMNASIO de CELESTE y\n"
     .string "pon a prueba tus habilidades!$"
 
-PewterCity_Gym_Text_DontHaveRoomForThis::
+PewterCity_Gym_Text_DontHaveRoomForThis_ES::
     .string "¡No tienes sitio para esto!$"
 
-PewterCity_Gym_Text_LiamIntro::
+PewterCity_Gym_Text_LiamIntro_ES::
     .string "¡Alto ahí, enclenque!\p"
     .string "¡Todavía estás a años luz de retar\n"
     .string "a BROCK!$"
 
-PewterCity_Gym_Text_LiamDefeat::
+PewterCity_Gym_Text_LiamDefeat_ES::
     .string "¡Vaya!\p"
     .string "¡Años luz no suponen tiempo!\n"
     .string "¡Miden distancia!$"
 
-PewterCity_Gym_Text_LiamPostBattle::
+PewterCity_Gym_Text_LiamPostBattle_ES::
     .string "¡Eres bastante fuerte, pero no\n"
     .string "tanto como BROCK!$"
 
-PewterCity_Gym_Text_LetMeTakeYouToTheTop::
+PewterCity_Gym_Text_LetMeTakeYouToTheTop_ES::
     .string "¡Puedo decirte lo que se requiere\n"
     .string "para ser un campeón de POKéMON!\p"
     .string "¡No soy ENTRENADOR, pero puedo\n"
@@ -77,11 +77,11 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
     .string "¡Déjame que te lleve a la\n"
     .string "victoria!$"
 
-PewterCity_Gym_Text_LetsGetHappening::
+PewterCity_Gym_Text_LetsGetHappening_ES::
     .string "¡Muy bien!\n"
     .string "¡Vamos allá!$"
 
-PewterCity_Gym_Text_TryDifferentPartyOrders::
+PewterCity_Gym_Text_TryDifferentPartyOrders_ES::
     .string "¡El 1.{SUPER_ER} POKéMON que sale a luchar\n"
     .string "es el primero de la LISTA\l"
     .string "de los POKéMON!\p"
@@ -89,21 +89,21 @@ PewterCity_Gym_Text_TryDifferentPartyOrders::
     .string "podría facilitarte las cosas\l"
     .string "en combate!$"
 
-PewterCity_Gym_Text_ItsFreeLetsGetHappening::
+PewterCity_Gym_Text_ItsFreeLetsGetHappening_ES::
     .string "¡Es gratis!\n"
     .string "¡Venga!$"
 
-PewterCity_Gym_Text_YoureChampMaterial::
+PewterCity_Gym_Text_YoureChampMaterial_ES::
     .string "¡Lo sabía!\n"
     .string "¡Tienes madera!$"
 
-PewterCity_Gym_Text_GymStatue::
+PewterCity_Gym_Text_GymStatue_ES::
     .string "LÍDER del GIMNASIO POKéMON\n"
     .string "de PLATEADA: BROCK\p"
     .string "ENTRENADOR GANADOR:\n"
     .string "{RIVAL}$"
 
-PewterCity_Gym_Text_GymStatuePlayerWon::
+PewterCity_Gym_Text_GymStatuePlayerWon_ES::
     .string "LÍDER del GIMNASIO POKéMON\n"
     .string "de PLATEADA: BROCK\p"
     .string "ENTRENADORES GANADORES:\n"

@@ -1,4 +1,4 @@
-Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
+Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30_IT::
     .string "Ciao! Ti ricordi di me?\n"
     .string "Sono l'ASSISTENTE del PROF. OAK!\p"
     .string "Se nel POKéDEX hai i dati di\n"
@@ -8,17 +8,17 @@ Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
     .string "su almeno {STR_VAR_1} specie di\l"
     .string "POKéMON?$"
 
-Route11_EastEntrance_2F_Text_GreatHereYouGo::
+Route11_EastEntrance_2F_Text_GreatHereYouGo_IT::
     .string "Bene! Hai raccolto dati su {STR_VAR_3}\n"
     .string "specie di POKéMON!\p"
     .string "Congratulazioni!\n"
     .string "Tieni! Te lo sei meritato!$"
 
-Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
+Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide_IT::
     .string "{PLAYER} riceve\n"
     .string "{STR_VAR_2}!$"
 
-Route11_EastEntrance_2F_Text_ExplainItemfinder::
+Route11_EastEntrance_2F_Text_ExplainItemfinder_IT::
     .string "Ci sono strumenti invisibili per\n"
     .string "terra.\p"
     .string "Il DETECTOR ti aiuterà a scovarli.\p"
@@ -27,17 +27,17 @@ Route11_EastEntrance_2F_Text_ExplainItemfinder::
     .string "La ricerca vera e propria devi\n"
     .string "farla tu!$"
 
-Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
+Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad_IT::
     .string "Guardo con il binocolo…\p"
     .string "Un enorme POKéMON\n"
     .string "dorme in mezzo\l"
     .string "alla strada!$"
 
-Route11_EastEntrance_2F_Text_WhatABreathtakingView::
+Route11_EastEntrance_2F_Text_WhatABreathtakingView_IT::
     .string "Guardo con il binocolo…\p"
     .string "C'è un magnifico panorama da qui!$"
 
-Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
+Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender_IT::
     .string "Guardo con il binocolo…\p"
     .string "Per andare da CELESTOPOLI a\n"
     .string "LAVANDONIA la sola via è il\l"

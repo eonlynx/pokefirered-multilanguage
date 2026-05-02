@@ -1,4 +1,4 @@
-TwoIsland_House_Text_TeachMonMoveForMushroom::
+TwoIsland_House_Text_TeachMonMoveForMushroom_IT::
     .string "Ciao, sono l'ESPERTO MOSSE!\p"
     .string "Conosco ogni singola mossa dei\n"
     .string "POKéMON.\p"
@@ -9,42 +9,42 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
     .string "In cambio, insegnerò una mossa\n"
     .string "ad uno dei tuoi POKéMON!$"
 
-TwoIsland_House_Text_WantMeToTeachMove::
+TwoIsland_House_Text_WantMeToTeachMove_IT::
     .string "Sniff sniff sniff…\p"
     .string "Hai dei FUNGHI, vero?\n"
     .string "Sento il profumo!\p"
     .string "Vuoi che insegni una mossa ad\n"
     .string "uno dei tuoi POKéMON?$"
 
-TwoIsland_House_Text_TutorWhichMon::
+TwoIsland_House_Text_TutorWhichMon_IT::
     .string "Che POKéMON vuoi istruire?$"
 
-TwoIsland_House_Text_TeachWhichMove::
+TwoIsland_House_Text_TeachWhichMove_IT::
     .string "Che mossa devo insegnargli?$"
 
-TwoIsland_House_Text_NoMoveICanTeachThatMon::
+TwoIsland_House_Text_NoMoveICanTeachThatMon_IT::
     .string "Sono spiacente…\p"
     .string "Non credo di avere alcuna mossa da\n"
     .string "insegnare a quel POKéMON.$"
 
-TwoIsland_House_Text_IllNeedMushroomOrTwo::
+TwoIsland_House_Text_IllNeedMushroomOrTwo_IT::
     .string "Beh, avrei bisogno di uno o due\n"
     .string "FUNGHI. Cosa puoi darmi?$"
 
-TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
+TwoIsland_House_Text_HandedOverTwoTinyMushrooms_IT::
     .string "{PLAYER} gli dà in cambio\n"
     .string "due MINIFUNGHI.$"
 
-TwoIsland_House_Text_HandedOverOneBigMushroom::
+TwoIsland_House_Text_HandedOverOneBigMushroom_IT::
     .string "{PLAYER} gli dà in cambio\n"
     .string "un GRANDE FUNGO.$"
 
-TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
+TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove_IT::
     .string "Se vuoi che insegni una mossa ai\n"
     .string "tuoi POKéMON, devi darmi uno\l"
     .string "o due FUNGHI.$"
 
-TwoIsland_House_Text_CantTeachAnEgg::
+TwoIsland_House_Text_CantTeachAnEgg_IT::
     .string "Eh? Non conosco alcuna mossa per\n"
     .string "quell'UOVO.$"
 

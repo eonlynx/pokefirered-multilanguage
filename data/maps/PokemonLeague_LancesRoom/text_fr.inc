@@ -1,4 +1,4 @@
-PokemonLeague_LancesRoom_Text_Intro::
+PokemonLeague_LancesRoom_Text_Intro_FR::
 	.string "Ah! Enfin… J'ai entendu parler\n"
 	.string "de toi, {PLAYER}!\p"
 	.string "Je règne sur le CONSEIL 4!\n"
@@ -14,7 +14,7 @@ PokemonLeague_LancesRoom_Text_Intro::
 	.string "honte sonne pour toi…\p"
 	.string "L'entends-tu, {PLAYER}!?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_RematchIntro::
+PokemonLeague_LancesRoom_Text_RematchIntro_FR::
 	.string "Ah! C'est encore toi,\n"
 	.string "{PLAYER}!\p"
 	.string "Je règne sur le CONSEIL 4!\n"
@@ -30,12 +30,12 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
 	.string "honte sonne pour toi…\p"
 	.string "L'entends-tu, {PLAYER}?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_Defeat::
+PokemonLeague_LancesRoom_Text_Defeat_FR::
 	.string "Incroyable!\p"
 	.string "Tu as bien mérité le titre de…\n"
 	.string "MAITRE POKéMON!$"
 
-PokemonLeague_LancesRoom_Text_PostBattle::
+PokemonLeague_LancesRoom_Text_PostBattle_FR::
 	.string "Comment mes dragons ont-ils\n"
 	.string "pu succomber à tes attaques,\l"
 	.string "{PLAYER}?\p"

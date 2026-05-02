@@ -1,9 +1,9 @@
 @ Unclear where this is originally from
-Route11_EastEntrance_1F_Text_BagIsFull::
+Route11_EastEntrance_1F_Text_BagIsFull_FR::
 	.string "{PLAYER}{KUN}の　バッグ\n"
 	.string "いっぱい　みたい　だね$"
 
-Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
+Route11_EastEntrance_1F_Text_ManInLavenderRatesNames_FR::
 	.string "C'est dur de donner un surnom sympa\n"
 	.string "à ses POKéMON!\p"
 	.string "A LAVANVILLE, un vieil homme\n"
@@ -11,7 +11,7 @@ Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
 	.string "Il peut même \n"
 	.string "t'aider à les renommer!$"
 
-Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
+Route11_EastEntrance_1F_Text_RockTunnelToReachLavender_FR::
 	.string "Si tu veux aller à LAVANVILLE,\n"
 	.string "passe par la GROTTE.\p"
 	.string "Tu peux l'emprunter en passant\n"

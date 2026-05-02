@@ -1,14 +1,14 @@
-Route7_EastEntrance_Text_ThirstyOnGuardDuty::
+Route7_EastEntrance_Text_ThirstyOnGuardDuty_DE::
 	.string "Ich schiebe hier Wache.\n"
 	.string "Ohhh... ich bin so durstig...\p"
 	.string "Halt! Stopp!\n"
 	.string "Der Durchgang ist gesperrt!$"
 
-Route7_EastEntrance_Text_ThatTeaLooksTasty::
+Route7_EastEntrance_Text_ThatTeaLooksTasty_DE::
 	.string "Oh, dieser TEE…\n"
 	.string "Er riecht so lecker…$"
 
-Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
+Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards_DE::
 	.string "Häh? Ich kann ihn haben?\n"
 	.string "Wow, das ist nett, danke!\l"
 	.string "……\l"
@@ -22,6 +22,6 @@ Route7_EastEntrance_Text_ThanksIllShareTeaWithGuards::
 	.string "Ich teile den TEE mit den anderen\n"
 	.string "Wächtern!$"
 
-Route7_EastEntrance_Text_HiHowsItGoing::
+Route7_EastEntrance_Text_HiHowsItGoing_DE::
 	.string "Hallo! Danke für die Erfrischung!$"
 

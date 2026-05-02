@@ -1,9 +1,9 @@
-OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
+OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays_IT::
     .string "Nelle giornate di sole, esco sempre\n"
     .string "a guardare il vulcano.\p"
     .string "È una specie di rituale, sai?$"
 
-OneIsland_House1_Text_LastTimeMtEmberErupted::
+OneIsland_House1_Text_LastTimeMtEmberErupted_IT::
     .string "Quando ha eruttato il MONTE BRACE\n"
     .string "l'ultima volta? E chi si ricorda?!$"
 

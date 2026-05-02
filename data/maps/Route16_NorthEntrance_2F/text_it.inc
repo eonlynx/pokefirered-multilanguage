@@ -1,21 +1,21 @@
-Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
+Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend_IT::
     .string "Vado a fare un giro con la mia\n"
     .string "ragazza!$"
 
-Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
+Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes_IT::
     .string "Andiamo a fare un giro in\n"
     .string "BICICLETTA!$"
 
-Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
+Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore_IT::
     .string "Guardo con il binocolo…\p"
     .string "È il CENTRO COMMERCIALE di\n"
     .string "AZZURROPOLI!$"
 
-Route16_NorthEntrance_2F_Text_LongPathOverWater::
+Route16_NorthEntrance_2F_Text_LongPathOverWater_IT::
     .string "Guardo con il binocolo…\p"
     .string "C'è una lunga via sull'acqua!$"
 
-Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
+Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40_IT::
     .string "Ciao! Ti ricordi di me?\n"
     .string "Sono l'ASSISTENTE del PROF. OAK!\p"
     .string "Se nel POKéDEX hai i dati di\n"
@@ -25,17 +25,17 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
     .string "su almeno 40 specie di\l"
     .string "POKéMON?$"
 
-Route16_NorthEntrance_2F_Text_GreatHereYouGo::
+Route16_NorthEntrance_2F_Text_GreatHereYouGo_IT::
     .string "Bene! Hai raccolto dati su {STR_VAR_3}\n"
     .string "specie di POKéMON!\p"
     .string "Congratulazioni!\n"
     .string "Tieni! Te lo sei meritato!$"
 
-Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
+Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide_IT::
     .string "{PLAYER} riceve\n"
     .string "MONETAMULETO!$"
 
-Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
+Route16_NorthEntrance_2F_Text_ExplainAmuletCoin_IT::
     .string "MONETAMULETO è uno strumento che\n"
     .string "può essere tenuto da un POKéMON.\p"
     .string "Se un POKéMON con questo strumento\n"

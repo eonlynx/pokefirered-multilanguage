@@ -1,15 +1,15 @@
-LavenderTown_House2_Text_WantMeToRateNicknames::
+LavenderTown_House2_Text_WantMeToRateNicknames_FR::
 	.string "Salut tout le monde! Je suis le\n"
 	.string "SPECIALISTE DES NOMS!\p"
 	.string "Dis-moi, tu serais pas du\n"
 	.string "genre à vouloir donner un p'tit\l"
 	.string "nom à un de tes POKéMON?$"
 
-LavenderTown_House2_Text_CritiqueWhichMonsNickname::
+LavenderTown_House2_Text_CritiqueWhichMonsNickname_FR::
 	.string "Le surnom de quel POKéMON veux-tu\n"
 	.string "que j'examine?$"
 
-LavenderTown_House2_Text_GiveItANicerName::
+LavenderTown_House2_Text_GiveItANicerName_FR::
 	.string "{STR_VAR_1}?\n"
 	.string "Mouais, c'est pas mal!\p"
 	.string "Mais tu voudrais pas que je lui\n"
@@ -17,22 +17,22 @@ LavenderTown_House2_Text_GiveItANicerName::
 	.string "qui aurait plus de… Mieux, quoi!\p"
 	.string "Bon, alors?$"
 
-LavenderTown_House2_Text_WhatShallNewNicknameBe::
+LavenderTown_House2_Text_WhatShallNewNicknameBe_FR::
 	.string "Bon, alors quel va être le nouveau\n"
 	.string "surnom?$"
 
-LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
+LavenderTown_House2_Text_FromNowOnShallBeKnownAsName_FR::
 	.string "Très bien! A partir de maintenant,\n"
 	.string "ce POKéMON sera surnommé\l"
 	.string "{STR_VAR_1}!\p"
 	.string "C'est mieux qu'avant!\n"
 	.string "Tu en as de la chance!$"
 
-LavenderTown_House2_Text_ISeeComeVisitAgain::
+LavenderTown_House2_Text_ISeeComeVisitAgain_FR::
 	.string "Je vois.\n"
 	.string "Reviens me voir.$"
 
-LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
+LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName_FR::
 	.string "Ça y est! A partir de maintenant,\n"
 	.string "ce POKéMON sera surnommé\l"
 	.string "{STR_VAR_1}!\p"
@@ -41,13 +41,13 @@ LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
 	.string "il est bien mieux!\p"
 	.string "Tu en as de la chance!$"
 
-LavenderTown_House2_Text_TrulyImpeccableName::
+LavenderTown_House2_Text_TrulyImpeccableName_FR::
 	.string "{STR_VAR_1}?\n"
 	.string "C'est un nom parfait, fais-moi\l"
 	.string "confiance, je m'y connais!\p"
 	.string "Prends soin de {STR_VAR_1}.$"
 
-LavenderTown_House2_Text_ThatIsMerelyAnEgg::
+LavenderTown_House2_Text_ThatIsMerelyAnEgg_FR::
 	.string "Voyons, voyons…\n"
 	.string "Ce n'est qu'un OEUF!$"
 

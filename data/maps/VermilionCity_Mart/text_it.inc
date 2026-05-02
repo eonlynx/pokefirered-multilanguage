@@ -1,4 +1,4 @@
-VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
+VermilionCity_Mart_Text_TeamRocketAreWickedPeople_IT::
     .string "C'è della gente cattiva che usa i\n"
     .string "POKéMON per atti criminosi.\p"
     .string "Quelli di TEAM ROCKET trafficano\n"
@@ -6,7 +6,7 @@ VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
     .string "Abbandonano i POKéMON che non\n"
     .string "ritengono utili o commerciabili.$"
 
-VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
+VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer_IT::
     .string "Credo che ci siano POKéMON buoni e\n"
     .string "cattivi, tutto dipende da chi li\l"
     .string "addestra.$"

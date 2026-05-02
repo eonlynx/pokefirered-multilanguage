@@ -1,84 +1,84 @@
-SixIsland_OutcastIsland_Text_RocketIntro::
+SixIsland_OutcastIsland_Text_RocketIntro_FR::
 	.string "Il n'y a pas de POKéMON rare\n"
 	.string "par ici! Pas un seul!$"
 
-SixIsland_OutcastIsland_Text_RocketDefeat::
+SixIsland_OutcastIsland_Text_RocketDefeat_FR::
 	.string "… Hein?$"
 
-SixIsland_OutcastIsland_Text_RocketPostBattle::
+SixIsland_OutcastIsland_Text_RocketPostBattle_FR::
 	.string "Dis-moi, t'as pas vu de POKéMON\n"
 	.string "rare, hein?$"
 
-SixIsland_OutcastIsland_Text_TylorIntro::
+SixIsland_OutcastIsland_Text_TylorIntro_FR::
 	.string "J'ai pas du tout de chance.\p"
 	.string "Il me faudrait une victoire pour\n"
 	.string "me remonter le moral.$"
 
-SixIsland_OutcastIsland_Text_TylorDefeat::
+SixIsland_OutcastIsland_Text_TylorDefeat_FR::
 	.string "Non, pas de chance du tout…$"
 
-SixIsland_OutcastIsland_Text_TylorPostBattle::
+SixIsland_OutcastIsland_Text_TylorPostBattle_FR::
 	.string "Je ne peux pas rentrer chez moi\n"
 	.string "sans avoir attrapé quelque chose.\p"
 	.string "J'crois que je suis pas près de\n"
 	.string "rentrer…$"
 
-SixIsland_OutcastIsland_Text_MymoIntro::
+SixIsland_OutcastIsland_Text_MymoIntro_FR::
 	.string "Haaa… Haaaa…\p"
 	.string "Je suis venu jusqu'ici depuis le\n"
 	.string "port de l'ILE 6 sans m'arrêter.$"
 
-SixIsland_OutcastIsland_Text_MymoDefeat::
+SixIsland_OutcastIsland_Text_MymoDefeat_FR::
 	.string "Haaa… Haaaa…$"
 
-SixIsland_OutcastIsland_Text_MymoPostBattle::
+SixIsland_OutcastIsland_Text_MymoPostBattle_FR::
 	.string "Je n'ai fait que la moitié…\n"
 	.string "J'suis crevé…$"
 
-SixIsland_OutcastIsland_Text_NicoleIntro::
+SixIsland_OutcastIsland_Text_NicoleIntro_FR::
 	.string "C'est pas facile d'envoyer des\n"
 	.string "POKéMON tout en nageant, tu sais?$"
 
-SixIsland_OutcastIsland_Text_NicoleDefeat::
+SixIsland_OutcastIsland_Text_NicoleDefeat_FR::
 	.string "Au moins j'ai pas perdu à la nage…$"
 
-SixIsland_OutcastIsland_Text_NicolePostBattle::
+SixIsland_OutcastIsland_Text_NicolePostBattle_FR::
 	.string "Est-ce que tu vas sur l'île qui se\n"
 	.string "trouve plus loin?\p"
 	.string "Je n'ai pas vu grand chose\n"
 	.string "d'intéressant là-bas.$"
 
-SixIsland_OutcastIsland_Text_AvaIntro::
+SixIsland_OutcastIsland_Text_AvaIntro_FR::
 	.string "AVA: C'est parti pour un combat\n"
 	.string "marin deux contre deux!$"
 
-SixIsland_OutcastIsland_Text_AvaDefeat::
+SixIsland_OutcastIsland_Text_AvaDefeat_FR::
 	.string "AVA: Oh, t'es formidable!\n"
 	.string "J'dirais même plus, t'es unique!$"
 
-SixIsland_OutcastIsland_Text_AvaPostBattle::
+SixIsland_OutcastIsland_Text_AvaPostBattle_FR::
 	.string "AVA: Tu sais, je préfère mille fois\n"
 	.string "la mer à toutes les piscines.$"
 
-SixIsland_OutcastIsland_Text_AvaNotEnoughMons::
+SixIsland_OutcastIsland_Text_AvaNotEnoughMons_FR::
 	.string "AVA: Tu veux te battre contre\n"
 	.string "nous?\p"
 	.string "Pour ça, il te faut au moins\n"
 	.string "deux POKéMON.$"
 
-SixIsland_OutcastIsland_Text_GebIntro::
+SixIsland_OutcastIsland_Text_GebIntro_FR::
 	.string "GED: Grande sœur, au secours!\n"
 	.string "Viens te battre avec moi!$"
 
-SixIsland_OutcastIsland_Text_GebDefeat::
+SixIsland_OutcastIsland_Text_GebDefeat_FR::
 	.string "GED: Grande sœur, j'ai sous-estimé\n"
 	.string "ce combat.$"
 
-SixIsland_OutcastIsland_Text_GebPostBattle::
+SixIsland_OutcastIsland_Text_GebPostBattle_FR::
 	.string "GED: je m'accroche à ma sœur\n"
 	.string "parce que j'ai pas pied.$"
 
-SixIsland_OutcastIsland_Text_GebNotEnoughMons::
+SixIsland_OutcastIsland_Text_GebNotEnoughMons_FR::
 	.string "GED: Allez, viens te battre avec\n"
 	.string "nous!\p"
 	.string "…Oh, t'as pas deux POKéMON?$"

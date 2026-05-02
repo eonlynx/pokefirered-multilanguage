@@ -1,4 +1,4 @@
-PokemonLeague_BrunosRoom_Text_Intro::
+PokemonLeague_BrunosRoom_Text_Intro_IT::
     .string "Sono BRUNO dei SUPERQUATTRO!\p"
     .string "Con un rigoroso allenamento, le\n"
     .string "persone e i POKéMON possono\l"
@@ -10,7 +10,7 @@ PokemonLeague_BrunosRoom_Text_Intro::
     .string "forza sovrumana!\p"
     .string "Ahahah!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_RematchIntro::
+PokemonLeague_BrunosRoom_Text_RematchIntro_IT::
     .string "Sono BRUNO dei SUPERQUATTRO!\p"
     .string "Con un rigoroso allenamento, le\n"
     .string "persone e i POKéMON possono\l"
@@ -22,11 +22,11 @@ PokemonLeague_BrunosRoom_Text_RematchIntro::
     .string "forza sovrumana!\p"
     .string "Ahahah!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_Defeat::
+PokemonLeague_BrunosRoom_Text_Defeat_IT::
     .string "Come?\n"
     .string "Ho perso davvero?!$"
 
-PokemonLeague_BrunosRoom_Text_PostBattle::
+PokemonLeague_BrunosRoom_Text_PostBattle_IT::
     .string "Il mio compito è finito! Vai!\n"
     .string "Un'altra sfida ti sta aspettando!$"
 

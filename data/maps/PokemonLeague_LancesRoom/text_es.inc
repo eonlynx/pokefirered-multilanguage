@@ -1,4 +1,4 @@
-PokemonLeague_LancesRoom_Text_Intro::
+PokemonLeague_LancesRoom_Text_Intro_ES::
     .string "¡{PLAYER}!\p"
     .string "¡Ah! ¡He oído hablar de ti,\n"
     .string "{PLAYER}!\p"
@@ -15,7 +15,7 @@ PokemonLeague_LancesRoom_Text_Intro::
     .string "¡Tu desafío en la LIGA termina\n"
     .string "conmigo, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_RematchIntro::
+PokemonLeague_LancesRoom_Text_RematchIntro_ES::
     .string "¡Ah!\n¡{PLAYER}, has vuelto!\p"
     .string "¡Dirijo al ALTO MANDO!\p"
     .string "¡Puedes llamarme LANCE,\n"
@@ -30,10 +30,10 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
     .string "¡Tu desafío en la LIGA termina\n"
     .string "conmigo, {PLAYER}!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_Defeat::
+PokemonLeague_LancesRoom_Text_Defeat_ES::
     .string "¡Pues sí!\p¡Odio admitirlo, pero eres una\npasada con los POKéMON!$"
 
-PokemonLeague_LancesRoom_Text_PostBattle::
+PokemonLeague_LancesRoom_Text_PostBattle_ES::
     .string "¡{PLAYER}, sigo sin poder creerme\n"
     .string "que mis dragones hayan sucumbido\l"
     .string "a tus ataques!\p"

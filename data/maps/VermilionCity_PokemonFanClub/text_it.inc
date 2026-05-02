@@ -1,27 +1,27 @@
-VermilionCity_PokemonFanClub_Text_AdmirePikachusTail::
+VermilionCity_PokemonFanClub_Text_AdmirePikachusTail_IT::
     .string "Non è bella la coda del mio\n"
     .string "PIKACHU?$"
 
-VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute::
+VermilionCity_PokemonFanClub_Text_PikachuTwiceAsCute_IT::
     .string "Il mio PIKACHU è molto più carino\n"
     .string "di questo!$"
 
-VermilionCity_PokemonFanClub_Text_AdoreMySeel::
+VermilionCity_PokemonFanClub_Text_AdoreMySeel_IT::
     .string "Io adoooro il mio SEEL!\p"
     .string "Devi vedere com'è contento\n"
     .string "quando l'abbraccio!$"
 
-VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive::
+VermilionCity_PokemonFanClub_Text_SeelFarMoreAttractive_IT::
     .string "Perbacco!\p"
     .string "Il mio SEEL è molto più bello!$"
 
-VermilionCity_PokemonFanClub_Text_Pikachu::
+VermilionCity_PokemonFanClub_Text_Pikachu_IT::
     .string "PIKACHU: Pika! Pikaciu!$"
 
-VermilionCity_PokemonFanClub_Text_Seel::
+VermilionCity_PokemonFanClub_Text_Seel_IT::
     .string "SEEL: Eeel!$"
 
-VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
+VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons_IT::
     .string "Sono il presidente del POKéMON FAN\n"
     .string "CLUB!\p"
     .string "Ho più di 100 POKéMON!\p"
@@ -30,7 +30,7 @@ VermilionCity_PokemonFanClub_Text_DidYouComeToHearAboutMyMons::
     .string "Bene…\p"
     .string "Vuoi sapere tutto sui miei POKéMON?$"
 
-VermilionCity_PokemonFanClub_Text_ChairmansStory::
+VermilionCity_PokemonFanClub_Text_ChairmansStory_IT::
     .string "Stupendo, allora ascolta…!\p"
     .string "Il mio preferito è RAPIDASH…\p"
     .string "È… grazioso… carino… veloce\n"
@@ -46,11 +46,11 @@ VermilionCity_PokemonFanClub_Text_ChairmansStory::
     .string "Grazie per l'attenzione!\n"
     .string "Prendi questo!$"
 
-VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman::
+VermilionCity_PokemonFanClub_Text_ReceivedBikeVoucherFromChairman_IT::
     .string "{PLAYER} riceve\n"
     .string "il BUONO BICI!$"
 
-VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
+VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher_IT::
     .string "Con quel BUONO puoi avere una\n"
     .string "BICI al NEGOZIO di BICI di\l"
     .string "CELESTOPOLI.\p"
@@ -60,31 +60,31 @@ VermilionCity_PokemonFanClub_Text_ExplainBikeVoucher::
     .string "Non ho bisogno di una BICICLETTA!\p"
     .string "Spero che ti piaccia pedalare!$"
 
-VermilionCity_PokemonFanClub_Text_ComeBackToHearStory::
+VermilionCity_PokemonFanClub_Text_ComeBackToHearStory_IT::
     .string "Torna quando hai voglia di sentire\n"
     .string "le mie storie!$"
 
-VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain::
+VermilionCity_PokemonFanClub_Text_DidntComeToSeeAboutMonsAgain_IT::
     .string "Ciao, {PLAYER}!\p"
     .string "Sei qui per sentir parlare dei miei\n"
     .string "POKéMON?\p"
     .string "No?\n"
     .string "Che peccato!$"
 
-VermilionCity_PokemonFanClub_Text_MakeRoomForThis::
+VermilionCity_PokemonFanClub_Text_MakeRoomForThis_IT::
     .string "Fai spazio per questo!$"
 
-VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon::
+VermilionCity_PokemonFanClub_Text_ChairmanVeryVocalAboutPokemon_IT::
     .string "Il presidente è un po' logorroico\n"
     .string "sui POKéMON.$"
 
-VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers::
+VermilionCity_PokemonFanClub_Text_ListenPolitelyToOtherTrainers_IT::
     .string "Ascoltiamo gli altri ALLENATORI!$"
 
-VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack::
+VermilionCity_PokemonFanClub_Text_SomeoneBragsBragBack_IT::
     .string "Se uno si vanta, fallo anche tu!$"
 
-VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons::
+VermilionCity_PokemonFanClub_Text_ChairmanReallyAdoresHisMons_IT::
     .string "Il nostro PRESIDENTE adora i suoi\n"
     .string "POKéMON. \p"
     .string "Ma la persona che in assoluto è\n"

@@ -1,15 +1,15 @@
-VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
+VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild_ES::
     .string "Aunque sean del mismo nivel, los\n"
     .string "POKéMON pueden tener diferentes\l"
     .string "habilidades.\p"
     .string "Un POKéMON entrenado es más fuerte\n"
     .string "que uno salvaje.$"
 
-VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
+VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking_ES::
     .string "¡Mi POKéMON fue envenenado y\n"
     .string "se debilitó mientras caminábamos!$"
 
-VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
+VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes_ES::
     .string "Es cierto que un POKéMON de un\n"
     .string "nivel superior es más fuerte.\p"
     .string "Pero todos los POKéMON son\n"
@@ -17,7 +17,7 @@ VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
     .string "Es decir, que no hay POKéMON\n"
     .string "invulnerables.$"
 
-VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
+VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain_ES::
     .string "Esa necesidad de luchar de nuevo\n"
     .string "con gente a la que ya te has\l"
     .string "enfrentado...\p"
@@ -29,14 +29,14 @@ VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
     .string "Y me dieron esto.\n"
     .string "¡Toma uno para ti!$"
 
-VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
+VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches_ES::
     .string "Usa este dispositivo para ver qué\n"
     .string "ENTRENADOR quiere luchar de\l"
     .string "nuevo contigo.\p"
     .string "Ten en cuenta que debes cargar\n"
     .string "la batería.$"
 
-VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
+VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker_ES::
     .string "¿Que cómo se usa el BUSCAPELEA?\n"
     .string "No tiene mayor misterio.\p"
     .string "Al usarlo, emitirá un ruidito que\n"

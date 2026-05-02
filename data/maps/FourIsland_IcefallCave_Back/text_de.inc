@@ -1,16 +1,16 @@
-FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons::
+FourIsland_IcefallCave_Back_Text_LoreleiKeepHandsOffMons_DE::
 	.string "LORELEI: Lasst eure Griffel von\n"
 	.string "den POKéMON in der Höhle!\p"
 	.string "Tut, was ich euch sage oder ihr\n"
 	.string "werdet mich kennen lernen!$"
 
-FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe::
+FourIsland_IcefallCave_Back_Text_ShutItLadyLeaveUsBe_DE::
 	.string "Ah, sei still, Göre, und lass uns\n"
 	.string "in Frieden!\p"
 	.string "Nicht, dass deine Brillengläser\n"
 	.string "beschlagen!$"
 
-FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
+FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut_DE::
 	.string "LORELEI: {PLAYER}?!?\n"
 	.string "Was machst du denn hier?\p"
 	.string "Wir unterhalten uns später. Ich\n"
@@ -22,16 +22,16 @@ FourIsland_IcefallCave_Back_Text_LoreleiPlayerHelpMeKickPoachersOut::
 	.string "Bist du bereit?\n"
 	.string "Du übernimmst diesen, los!$"
 
-FourIsland_IcefallCave_Back_Text_GruntIntro::
+FourIsland_IcefallCave_Back_Text_GruntIntro_DE::
 	.string "W-Was!?!\p"
 	.string "Wer sagt, dass wir mit den POKéMON\n"
 	.string "nicht das anstellen können, was wir\l"
 	.string "wollen?$"
 
-FourIsland_IcefallCave_Back_Text_GruntDefeat::
+FourIsland_IcefallCave_Back_Text_GruntDefeat_DE::
 	.string "Das haben wir nicht geplant!$"
 
-FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
+FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons_DE::
 	.string "LORELEI: Umpf!\n"
 	.string "Wie erbärmlich schwach!\p"
 	.string "Du!\n"
@@ -41,11 +41,11 @@ FourIsland_IcefallCave_Back_Text_LoreleiWhereHaveYouTakenMons::
 	.string "Ich zerschlage eure Organisation,\n"
 	.string "ein für alle Mal.$"
 
-FourIsland_IcefallCave_Back_Text_NotTellingYouThat::
+FourIsland_IcefallCave_Back_Text_NotTellingYouThat_DE::
 	.string "U-unmöglich!\n"
 	.string "Das werde ich nie verraten!$"
 
-FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
+FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou_DE::
 	.string "LORELEI: Falls du es mir nicht\n"
 	.string "sagst, werden wir dich einfrieren.\p"
 	.string "Mein LAPRAS ist außer sich für\n"
@@ -54,7 +54,7 @@ FourIsland_IcefallCave_Back_Text_LoreleiWellDeepFreezeYou::
 	.string "Los, LAPRAS!\l"
 	.string "EISSTRAHL…$"
 
-FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
+FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland_DE::
 	.string "Bitte nicht! O.K.!\n"
 	.string "Ich sage es dir!\p"
 	.string "Die POKéMON sind im ROCKET-LAGER\n"
@@ -65,7 +65,7 @@ FourIsland_IcefallCave_Back_Text_OkayRocketWareHouseFiveIsland::
 	.string "je bis zum ROCKET-LAGER schaffst!\p"
 	.string "HARHARHAR!$"
 
-FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful::
+FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful_DE::
 	.string "{PLAYER}, danke!\n"
 	.string "Aber das ist grausam…\p"
 	.string "Ich bin auf diesen Eilanden geboren\n"

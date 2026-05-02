@@ -1,4 +1,4 @@
-OneIsland_Text_BillLetsGoSeeCelio::
+OneIsland_Text_BillLetsGoSeeCelio_ES::
     .string "BILL: Bueno, ya estamos aquí.\n"
     .string "Esto es ISLA PRIMA.\p"
     .string "Como indica su nombre,\n"
@@ -11,11 +11,11 @@ OneIsland_Text_BillLetsGoSeeCelio::
     .string "Bueno, que me enrollo como las\n"
     .string "persianas, ¡vamos a ver a CELIO!$"
 
-Text_WhereDoYouWantToSail::
+Text_WhereDoYouWantToSail_ES::
     .string "¡Hola, caracola!\n"
     .string "¿Adónde vamos?$"
 
-OneIsland_Text_LuckyToHaveCelioHere::
+OneIsland_Text_LuckyToHaveCelioHere_ES::
     .string "La verdad es que esta isla está\n"
     .string "plantada en medio de la nada,\l"
     .string "pero bueno...\p"
@@ -28,7 +28,7 @@ OneIsland_Text_LuckyToHaveCelioHere::
     .string "En fin..., yo lo que sé es que\n"
     .string "estamos encantados con CELIO.$"
 
-OneIsland_Text_HavePCLinkageWithKanto::
+OneIsland_Text_HavePCLinkageWithKanto_ES::
     .string "Mi nieta estaba un poco nerviosa\n"
     .string "por un reciente descubrimiento.\p"
     .string "Según dijo, ahora tenemos conexión\n"
@@ -36,7 +36,7 @@ OneIsland_Text_HavePCLinkageWithKanto::
     .string "En fin..., yo lo que sé es que\n"
     .string "estamos encantados con CELIO.$"
 
-OneIsland_Text_HavePCLinkageWithHoenn::
+OneIsland_Text_HavePCLinkageWithHoenn_ES::
     .string "Mi nieta estaba un poco nerviosa\n"
     .string "por un reciente descubrimiento.\p"
     .string "Según dijo, ahora tenemos conexión\n"
@@ -46,18 +46,18 @@ OneIsland_Text_HavePCLinkageWithHoenn::
     .string "¡La verdad es que sería el marido\n"
     .string "perfecto para mi nieta!$"
 
-OneIsland_Text_IslandSign::
+OneIsland_Text_IslandSign_ES::
     .string "ISLA PRIMA\n"
     .string "Punto de encuentro para todos.$"
 
-OneIsland_Text_PokemonNetCenterSign::
+OneIsland_Text_PokemonNetCenterSign_ES::
     .string "CENTRO DE RED POKéMON\n"
     .string "¡Un mundo POKéMON en conexión!$"
 
 @ Unused
-OneIsland_Text_ReturnToCinnabar::
+OneIsland_Text_ReturnToCinnabar_ES::
     .string "グレンタウンに　もどりますか？$"
 
-OneIsland_Text_IsntWarmClimateHereGreat::
+OneIsland_Text_IsntWarmClimateHereGreat_ES::
     .string "¿Qué? ¿Disfrutando del paisaje?\n"
     .string "El tiempo es fabuloso, ¿eh?$"

@@ -1,4 +1,4 @@
-SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis::
+SSAnne_2F_Room1_Text_SleepingMonLookedLikeThis_FR::
 	.string "De tous mes voyages, je n'ai\n"
 	.string "jamais vu un POKéMON dormir\l"
 	.string "autant!\p"

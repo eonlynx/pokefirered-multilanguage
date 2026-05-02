@@ -1,4 +1,4 @@
-LavenderTown_Mart_Text_SearchingForStatRaiseItems::
+LavenderTown_Mart_Text_SearchingForStatRaiseItems_IT::
     .string "Cerco strumenti che aumentino le\n"
     .string "abilità dei POKéMON durante la\l"
     .string "lotta.\p"
@@ -8,18 +8,18 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
     .string "X, VELOCITÀ X e SPECIAL X.\p"
     .string "Sai dove posso trovarli?$"
 
-LavenderTown_Mart_Text_DidYouBuyRevives::
+LavenderTown_Mart_Text_DidYouBuyRevives_IT::
     .string "Lo sai che con il REVITALIZZANTE\n"
     .string "si ricaricano i POKéMON esausti?$"
 
-LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
+LavenderTown_Mart_Text_TrainerDuosCanChallengeYou_IT::
     .string "A volte incontri ALLENATORI che\n"
     .string "combattono in coppia, usando due\l"
     .string "POKéMON contemporaneamente.\p"
     .string "Per sfidarli, devi mandare in campo\n"
     .string "anche tu due POKéMON insieme.$"
 
-LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
+LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000_IT::
     .string "この　あいだ　やまおくで\n"
     .string "きんのたまを　ひろい　ましてね！\p"
     .string "つかえない　しなもの　ですが\n"

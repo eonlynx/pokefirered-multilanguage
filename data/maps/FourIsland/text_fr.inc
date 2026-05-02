@@ -1,13 +1,13 @@
-FourIsland_Text_IslandSign::
+FourIsland_Text_IslandSign_FR::
 	.string "ILE 4\n"
 	.string "La chaleureuse île glacée$"
 
-FourIsland_Text_LoreleiHasReturned::
+FourIsland_Text_LoreleiHasReturned_FR::
 	.string "OLGA est de retour.\p"
 	.string "Elle a dû trouver la vie en ville\n"
 	.string "trop stressante.$"
 
-FourIsland_Text_LoreleiMetLaprasAsChild::
+FourIsland_Text_LoreleiMetLaprasAsChild_FR::
 	.string "OLGA est revenue.\p"
 	.string "Son LOKHLASS, ça doit être\n"
 	.string "celui qu'elle a depuis son enfance.\p"
@@ -16,7 +16,7 @@ FourIsland_Text_LoreleiMetLaprasAsChild::
 	.string "Ce POKéMON a dû passer des\n"
 	.string "années avec elle.$"
 
-FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
+FourIsland_Text_RivalAlreadyGotEggBeSmellingYa_FR::
 	.string "{RIVAL}: Hey!\n"
 	.string "{PLAYER}!\p"
 	.string "Qu'est-ce que tu fais aux\n"
@@ -38,7 +38,7 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
 	.string "avec toi.\p"
 	.string "Allez, tchao!$"
 
-FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
+FourIsland_Text_LoreleiHasLotsOfStuffedDolls_FR::
 	.string "Oh, tu m'as trouvée!\n"
 	.string "Mais ne dis rien à OLGA!\p"
 	.string "Tu savais qu'elle a une collection\n"
@@ -46,12 +46,12 @@ FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
 	.string "Sa collection grandit à chaque fois\n"
 	.string "qu'elle revient sur l'ILE 4.$"
 
-FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
+FourIsland_Text_MadeSlushieUsingIcefallCaveIce_FR::
 	.string "Oooh, c'est frais!\p"
 	.string "J'me suis fait un cornet avec ce\n"
 	.string "que j'ai ramassé dans la GROTTE\l"
 	.string "DE GLACE.$"
 
-FourIsland_Text_LoreleisHouse::
+FourIsland_Text_LoreleisHouse_FR::
 	.string "MAISON D'OLGA$"
 

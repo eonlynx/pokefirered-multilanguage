@@ -1,14 +1,14 @@
-CeruleanCity_House1_Text_AnyInterestInBerries::
+CeruleanCity_House1_Text_AnyInterestInBerries_IT::
     .string "Posso ricavare diversi medicamenti\n"
     .string "dalla FARINA di BACCHE, sai?\p"
     .string "Medicamenti di tutti i tipi!\p"
     .string "Ti interessano le BACCHE?$"
 
-CeruleanCity_House1_Text_HaveJustTheThing::
+CeruleanCity_House1_Text_HaveJustTheThing_IT::
     .string "Beh, allora ho proprio ciò che\n"
     .string "fa per te!$"
 
-CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
+CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner_IT::
     .string "Sai che c'è una novità nei CENTRI\n"
     .string "POKéMON?\p"
     .string "Se vai al primo piano, nella SALA\n"
@@ -26,33 +26,33 @@ CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
     .string "POKéMON, nella SALA DIRETTA.\p"
     .string "So di poter contare su di te!$"
 
-CeruleanCity_House1_Text_WhyMustYouLieNoBerries::
+CeruleanCity_House1_Text_WhyMustYouLieNoBerries_IT::
     .string "Perché mi racconti bugie?\p"
     .string "Quante BACCHE hai?\n"
     .string "Cosa?! Neanche una?!$"
 
-CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings::
+CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings_IT::
     .string "Non ti interessano le BACCHE?\p"
     .string "Guarda che è importante\n"
     .string "interessarsi un po' a tutto, nella\l"
     .string "vita!$"
 
-CeruleanCity_House1_Text_HaveYouBroughtBerryPowder::
+CeruleanCity_House1_Text_HaveYouBroughtBerryPowder_IT::
     .string "Allora? Mi hai portato della\n"
     .string "FARINA di BACCHE?$"
 
-CeruleanCity_House5_Text_ExchangeWithWhat::
+CeruleanCity_House5_Text_ExchangeWithWhat_IT::
     .string "Cosa vuoi in cambio?$"
 
-CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
+CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem_IT::
     .string "Bene: vuoi scambiare la tua FARINA\n"
     .string "di BACCHE con 1 {STR_VAR_1}?$"
 
-CeruleanCity_House1_Text_DontHaveEnoughBerryPowder::
+CeruleanCity_House1_Text_DontHaveEnoughBerryPowder_IT::
     .string "Ehi, non hai abbastanza FARINA di\n"
     .string "BACCHE!$"
 
-CeruleanCity_House1_Text_TradeMoreBerryPowder::
+CeruleanCity_House1_Text_TradeMoreBerryPowder_IT::
     .string "Questa FARINA di BACCHE è\n"
     .string "eccellente.\p"
     .string "Ne ricaverò degli ottimi\n"
@@ -60,11 +60,11 @@ CeruleanCity_House1_Text_TradeMoreBerryPowder::
     .string "Vuoi scambiare dell'altra FARINA\n"
     .string "di BACCHE per qualcos'altro?$"
 
-CeruleanCity_House1_Text_HopeToSeeYouAgain::
+CeruleanCity_House1_Text_HopeToSeeYouAgain_IT::
     .string "Bene, come vuoi. Spero di\n"
     .string "rivederti presto!$"
 
-CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
+CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder_IT::
     .string "Torna a trovarmi quando vuoi\n"
     .string "scambiare la tua FARINA di BACCHE!$"
 

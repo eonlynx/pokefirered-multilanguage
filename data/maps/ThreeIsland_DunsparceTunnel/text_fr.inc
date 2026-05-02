@@ -1,4 +1,4 @@
-ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
+ThreeIsland_DunsparceTunnel_Text_ProspectingForGold_FR::
 	.string "Hé toi!\n"
 	.string "Comment ça va?\p"
 	.string "Tu veux savoir ce que je fais?\n"
@@ -6,7 +6,7 @@ ThreeIsland_DunsparceTunnel_Text_ProspectingForGold::
 	.string "Quand je serai riche, j'achèterai\n"
 	.string "une maison à KANTO.$"
 
-ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
+ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou_FR::
 	.string "Hé toi!\n"
 	.string "Comment ça va?\p"
 	.string "T'es au courant? J'ai trouvé de\n"
@@ -15,11 +15,11 @@ ThreeIsland_DunsparceTunnel_Text_StruckGoldThisIsForYou::
 	.string "Allez, prends ça,\n"
 	.string "ça me fait plaisir!$"
 
-ThreeIsland_DunsparceTunnel_Text_ThatsANugget::
+ThreeIsland_DunsparceTunnel_Text_ThatsANugget_FR::
 	.string "C'est une PEPITE.\p"
 	.string "Tu verras, ça vaut du pognon!$"
 
-ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull::
+ThreeIsland_DunsparceTunnel_Text_WhoopsBagCrammedFull_FR::
 	.string "Crotte, ton SAC est plein!\n"
 	.string "Je te la donnerai une autre fois.$"
 

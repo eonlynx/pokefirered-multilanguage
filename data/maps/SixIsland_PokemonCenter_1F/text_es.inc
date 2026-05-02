@@ -1,11 +1,11 @@
-SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland::
+SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland_ES::
     .string "Llevo diez años buscando\n"
     .string "las RUINAS.\p"
     .string "No, mucho más, ¡llevo veinte!\p"
     .string "Creo que en esta isla hay algo\n"
     .string "raro.$"
 
-SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
+SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem_ES::
     .string "Tú ya sabes que hay POKéMON que\n"
     .string "evolucionan durante el intercambio,\l"
     .string "¿no?\p"
@@ -13,7 +13,7 @@ SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
     .string "objeto concreto para evolucionar\l"
     .string "durante el intercambio?$"
 
-SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
+SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere_ES::
     .string "{RIVAL}: ¡Eh, {PLAYER}!\n"
     .string "¿Qué tal llevas la POKéDEX?\p"
     .string "Parece imposible conseguir todos\n"

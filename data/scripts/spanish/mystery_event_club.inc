@@ -1,6 +1,6 @@
 .equ GAVE_PROFILE,  VAR_TEMP_1
 
-MysteryEventClub_EventScript_Woman::
+MysteryEventClub_EventScript_Woman_ES::
 	lock
 	faceplayer
 	goto_if_eq GAVE_PROFILE, TRUE, EventScript_AlreadyGaveProfile

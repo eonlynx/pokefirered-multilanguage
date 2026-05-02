@@ -1,22 +1,22 @@
-CeladonCity_Condominiums_1F_Text_Meowth::
+CeladonCity_Condominiums_1F_Text_Meowth_FR::
 	.string "MIAOUSS: Miaou!$"
 
-CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
+CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead_FR::
 	.string "Tu devrais pas dépenser tout\n"
 	.string "ton argent dans les boissons.\p"
 	.string "Essaie-ça à la place.$"
 
-CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
+CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea_FR::
 	.string "Contre la soif, il n'y a rien de\n"
 	.string "mieux que le THE.$"
 
-CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
+CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany_FR::
 	.string "Mes chers POKéMON me tiennent\n"
 	.string "compagnie.\p"
 	.string "MIAOUSS rapporte même\n"
 	.string "de l'argent!$"
 
-CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
+CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea_FR::
 	.string "Oh, bonjour poussin.\n"
 	.string "As-tu aimé mon THE?\p"
 	.string "Au fait, ne viendrais-tu pas de\n"
@@ -27,13 +27,13 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
 	.string "Elle va souvent au CENTRE\n"
 	.string "COMMERCIAL pour en acheter.$"
 
-CeladonCity_Condominiums_1F_Text_Clefairy::
+CeladonCity_Condominiums_1F_Text_Clefairy_FR::
 	.string "MELOFEE: Féé! Fééééféééé!$"
 
-CeladonCity_Condominiums_1F_Text_Nidoran::
+CeladonCity_Condominiums_1F_Text_Nidoran_FR::
 	.string "NIDORAN♀: Nido! Nidoodoo!$"
 
-CeladonCity_Condominiums_1F_Text_ManagersSuite::
+CeladonCity_Condominiums_1F_Text_ManagersSuite_FR::
 	.string "MANOIR CELADON\n"
 	.string "Suite présidentielle$"
 

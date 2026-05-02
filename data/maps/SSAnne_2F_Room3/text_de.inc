@@ -1,8 +1,8 @@
-SSAnne_2F_Room3_Text_SeenMonsFerryPeople::
+SSAnne_2F_Room3_Text_SeenMonsFerryPeople_DE::
 	.string "Ich habe schon Leute auf POKéMON\n"
 	.string "übers Wasser gleiten sehen!$"
 
-SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown::
+SSAnne_2F_Room3_Text_SomeTreesCanBeCutDown_DE::
 	.string "POKéMON können Büsche mit dem\n"
 	.string "ZERSCHNEIDER klein hacken.\p"
 	.string "Aber vergiss nicht, ZERSCHNEIDER\n"

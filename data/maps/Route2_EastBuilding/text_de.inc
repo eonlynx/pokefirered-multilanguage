@@ -1,4 +1,4 @@
-Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
+Route2_EastBuilding_Text_GiveHM05IfSeen10Mons_DE::
 	.string "Hallo! Erinnerst du dich?\n"
 	.string "Ich bin PROF. EICHs ASSISTENT!\p"
 	.string "Wenn du mindestens 10 verschiedene\n"
@@ -7,21 +7,21 @@ Route2_EastBuilding_Text_GiveHM05IfSeen10Mons::
 	.string "Also, {PLAYER}, hast du 10\n"
 	.string "unterschiedliche POKéMON gefangen?$"
 
-Route2_EastBuilding_Text_GreatHereYouGo::
+Route2_EastBuilding_Text_GreatHereYouGo_DE::
 	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
 	.string "POKéMON gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"
 
-Route2_EastBuilding_Text_ReceivedHM05FromAide::
+Route2_EastBuilding_Text_ReceivedHM05FromAide_DE::
 	.string "{PLAYER} erhält\n"
 	.string "VM05!$"
 
-Route2_EastBuilding_Text_ExplainHM05::
+Route2_EastBuilding_Text_ExplainHM05_DE::
 	.string "Mit der VM BLITZ kann man selbst\n"
 	.string "die dunkelsten Höhlen erhellen.$"
 
-Route2_EastBuilding_Text_CanGetThroughRockTunnel::
+Route2_EastBuilding_Text_CanGetThroughRockTunnel_DE::
 	.string "Sobald eines deiner POKéMON BLITZ\n"
 	.string "erlernt hat, kannst du dich in den\l"
 	.string "FELSTUNNEL wagen!$"

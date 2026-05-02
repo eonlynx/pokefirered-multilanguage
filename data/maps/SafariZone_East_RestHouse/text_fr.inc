@@ -1,13 +1,13 @@
-SafariZone_East_Text_HowManyDidYouCatch::
+SafariZone_East_Text_HowManyDidYouCatch_FR::
 	.string "T'en as capturé combien? Moi j'suis\n"
 	.string "naze!$"
 
-SafariZone_East_Text_CaughtChanseyAllWorthwhile::
+SafariZone_East_Text_CaughtChanseyAllWorthwhile_FR::
 	.string "J'ai trouvé un LEVEINARD!\p"
 	.string "J'ai bien fait de chercher pendant\n"
 	.string "4 heures!$"
 
-SafariZone_East_Text_TiredFromAllTheFun::
+SafariZone_East_Text_TiredFromAllTheFun_FR::
 	.string "Pffff!\n"
 	.string "J'en ai marre!$"
 

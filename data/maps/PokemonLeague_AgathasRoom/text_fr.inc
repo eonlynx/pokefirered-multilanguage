@@ -1,4 +1,4 @@
-PokemonLeague_AgathasRoom_Text_Intro::
+PokemonLeague_AgathasRoom_Text_Intro_FR::
 	.string "Je suis AGATHA du CONSEIL 4!\p"
 	.string "CHEN mise de grands espoirs\n"
 	.string "sur toi!\p"
@@ -12,7 +12,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
 	.string "comment les grands DRESSEURS\l"
 	.string "combattent!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_RematchIntro::
+PokemonLeague_AgathasRoom_Text_RematchIntro_FR::
 	.string "Je suis AGATHA du CONSEIL 4!\p"
 	.string "Tu es le DRESSEUR que CHEN\n"
 	.string "a pris sous son aile, non?\p"
@@ -26,11 +26,11 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
 	.string "comment les grands DRESSEURS\l"
 	.string "combattent!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_Defeat::
+PokemonLeague_AgathasRoom_Text_Defeat_FR::
 	.string "Oh ho!\n"
 	.string "Pas mal, tu as du talent!$"
 
-PokemonLeague_AgathasRoom_Text_PostBattle::
+PokemonLeague_AgathasRoom_Text_PostBattle_FR::
 	.string "Mmmm…\p"
 	.string "Je vois pourquoi le vieux CHEN\n"
 	.string "t'apprécie autant!\p"

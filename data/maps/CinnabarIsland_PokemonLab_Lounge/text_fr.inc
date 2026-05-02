@@ -1,4 +1,4 @@
-CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon::
+CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon_FR::
 	.string "J'ai trouvé cet étrange fossile sur\n"
 	.string "le MONT SELENITE!\p"
 	.string "On dirait un POKéMON préhistorique!$"

@@ -1,10 +1,10 @@
-CeruleanCity_House4_Text_NothingEntertaining::
+CeruleanCity_House4_Text_NothingEntertaining_FR::
 	.string "… Aaah…\n"
 	.string "Tellement de temps et rien à faire…\p"
 	.string "Y'aurait pas un truc amusant à\n"
 	.string "faire dans le coin?$"
 
-CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
+CeruleanCity_House4_Text_NewNewsInformativeHaveThis_FR::
 	.string "Ah!\n"
 	.string "C'est l'heure des infos!\p"
 	.string "Hmm…\n"
@@ -14,7 +14,7 @@ CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
 	.string "Pour te remercier, je voudrais\n"
 	.string "te donner ceci.$"
 
-CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
+CeruleanCity_House4_Text_IncredibleNewsHaveBerries_FR::
 	.string "Oh oh!\n"
 	.string "Des nouvelles fraîches!\p"
 	.string "Hm…\p"
@@ -25,20 +25,20 @@ CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
 	.string "Tiens, prends ces BAIES en\n"
 	.string "remerciement!$"
 
-CeruleanCity_House4_Text_WishCouldShareNewsWithOthers::
+CeruleanCity_House4_Text_WishCouldShareNewsWithOthers_FR::
 	.string "Cette nouvelle est trop incroyable\n"
 	.string "pour la garder pour nous…\p"
 	.string "Je voudrais la raconter à tout le\n"
 	.string "monde…$"
 
-CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis::
+CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis_FR::
 	.string "Tu as fait suivre l'info pour moi?\p"
 	.string "L'important avec l'information, c'est\n"
 	.string "de la partager.\p"
 	.string "En remerciement, je voudrais te\n"
 	.string "donner ceci.$"
 
-CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
+CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries_FR::
 	.string "Tu as encore fait suivre\n"
 	.string "l'information? Formidable!\p"
 	.string "Il faut que le plus de monde\n"
@@ -47,11 +47,11 @@ CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
 	.string "Pour te remercier, je vais te\n"
 	.string "donner encore plus de BAIES.$"
 
-CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
+CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews_FR::
 	.string "Avec toutes ces nouvelles,\n"
 	.string "je risque plus de m'ennuyer!$"
 
-CeruleanCity_House4_Text_YourBerryPouchIsFull::
+CeruleanCity_House4_Text_YourBerryPouchIsFull_FR::
 	.string "Hmm? Ta POCHE A BAIES est pleine.\n"
 	.string "Dommage pour le cadeau alors.$"
 

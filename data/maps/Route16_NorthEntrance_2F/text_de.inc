@@ -1,21 +1,21 @@
-Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend::
+Route16_NorthEntrance_2F_Text_OnBikeRideWithGirlfriend_DE::
 	.string "Ich mache mit meiner Freundin einen\n"
 	.string "Ausflug!$"
 
-Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes::
+Route16_NorthEntrance_2F_Text_RidingTogetherOnNewBikes_DE::
 	.string "Wir werden mit dem Rad fahren!$"
 
-Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore::
+Route16_NorthEntrance_2F_Text_ItsCeladonDeptStore_DE::
 	.string "Du schaust durch das Fernrohr.\p"
 	.string "Du siehst das EINKAUFSZENTRUM von\n"
 	.string "PRISMANIA CITY!$"
 
-Route16_NorthEntrance_2F_Text_LongPathOverWater::
+Route16_NorthEntrance_2F_Text_LongPathOverWater_DE::
 	.string "Du schaust durch das Fernrohr.\p"
 	.string "Dort führt ein langer Weg über das\n"
 	.string "Wasser!$"
 
-Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
+Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40_DE::
 	.string "Hallo! Erinnerst du dich?\n"
 	.string "Ich bin PROF. EICHs\l"
 	.string "ASSISTENT!\p"
@@ -25,17 +25,17 @@ Route16_NorthEntrance_2F_Text_GiveAmuletCoinIfCaught40::
 	.string "Also, {PLAYER}, hast du 40\n"
 	.string "unterschiedliche POKéMON gefangen?$"
 
-Route16_NorthEntrance_2F_Text_GreatHereYouGo::
+Route16_NorthEntrance_2F_Text_GreatHereYouGo_DE::
 	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
 	.string "POKéMON gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"
 
-Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide::
+Route16_NorthEntrance_2F_Text_ReceivedAmuletCoinFromAide_DE::
 	.string "{PLAYER} erhält\n"
 	.string "MÜNZAMULETT!$"
 
-Route16_NorthEntrance_2F_Text_ExplainAmuletCoin::
+Route16_NorthEntrance_2F_Text_ExplainAmuletCoin_DE::
 	.string "Ein MÜNZAMULETT kann von\n"
 	.string "einem POKéMON getragen werden.\p"
 	.string "Nimmt das POKéMON an einem\n"

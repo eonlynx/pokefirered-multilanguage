@@ -1,4 +1,4 @@
-ThreeIsland_House3_Text_WantedToLiveSomewhereQuiet::
+ThreeIsland_House3_Text_WantedToLiveSomewhereQuiet_IT::
     .string "Ho comprato questa casa perché\n"
     .string "volevo abitare in un posto\l"
     .string "tranquillo.\p"

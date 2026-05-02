@@ -1,4 +1,4 @@
-IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
+IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice_ES::
     .string "¡Hola, aspirante al título!\p"
     .string "En la LIGA POKéMON tendrás que\n"
     .string "luchar contra todos los miembros\l"
@@ -8,14 +8,14 @@ IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
     .string "¡Eso es todo!\n"
     .string "¡A por ellos!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
+IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck_ES::
     .string "¡Ahora lucharás contra todos los\n"
     .string "del ALTO MANDO, sin excepción!\p"
     .string "¡Si ganas, se abrirá una puerta\n"
     .string "y pasarás al siguiente ENTRENADOR!\l"
     .string "¡Buena suerte!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
+IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing_ES::
     .string "Lo siento, pero has perdido\n"
     .string "el tiempo viniendo hasta aquí.\p"
     .string "LORELEI, del ALTO MANDO,\n"
@@ -23,7 +23,7 @@ IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
     .string "Así que la LIGA POKéMON está\n"
     .string "cerrada de momento.$"
 
-IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
+IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs_ES::
     .string "Los POKéMON de tipo FANTASMA\n"
     .string "de AGATHA son escalofriantemente\l"
     .string "fuertes.\p"
@@ -38,7 +38,7 @@ IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
     .string "¡Como empiece a gritar, lo llevas\n"
     .string "claro!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway::
+IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway_ES::
     .string "Yo creo que lo de ser del ALTO\n"
     .string "MANDO se lleva en la sangre.\p"
     .string "Por lo que sé, un primo de LANCE\n"

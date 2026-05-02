@@ -1,4 +1,4 @@
-ThreeIsland_BerryForest_Text_HelpScaryPokemon::
+ThreeIsland_BerryForest_Text_HelpScaryPokemon_ES::
     .string "PEDRITA: Buuuua... ¡BUAAAA!...\n"
     .string "¡Ayúdame, ayúdame!\p"
     .string "POKéMON ho-horrible...\n"
@@ -7,34 +7,34 @@ ThreeIsland_BerryForest_Text_HelpScaryPokemon::
     .string "Teno miedo...\n"
     .string "Quiedo id a casa...$"
 
-ThreeIsland_BerryForest_Text_HereItComesAgain::
+ThreeIsland_BerryForest_Text_HereItComesAgain_ES::
     .string "¡Ta ahí, ta ahí!\n"
     .string "¡Fuela, fuela! ¡Teno miedo!\p"
     .string "¡Buaaaaaaaaa!\n"
     .string "¡Papiiiiiiiiii!$"
 
-ThreeIsland_BerryForest_Text_ThankYouHaveThis::
+ThreeIsland_BerryForest_Text_ThankYouHaveThis_ES::
     .string "Aaaah... POKéMON malo...\n"
     .string "¡Acias!\p"
     .string "PEDRITA quedía BAYAS.\p"
     .string "Toma, cara ti.$"
 
-ThreeIsland_BerryForest_Text_LetsGoHome::
+ThreeIsland_BerryForest_Text_LetsGoHome_ES::
     .string "¿Quién ede?\p"
     .string "PEDRITA sustada, lleva a casa\n"
     .string "con papi a PEDRITA.\p"
     .string "¡A casa con papi!\n"
     .string "¡Con papi!$"
 
-ThreeIsland_BerryForest_Text_BerryPouchIsFull::
+ThreeIsland_BerryForest_Text_BerryPouchIsFull_ES::
     .string "El SACO de las BAYAS está lleno.$"
 
-ThreeIsland_BerryForest_Text_WelcomeToBerryForest::
+ThreeIsland_BerryForest_Text_WelcomeToBerryForest_ES::
     .string "Éste es el BOSQUE BAYA.\p"
     .string "¡Hay que compartir BAYAS\n"
     .string "con la gente y los POKéMON!$"
 
-ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons::
+ThreeIsland_BerryForest_Text_BewareWildBerryLovingMons_ES::
     .string "Atención:\n"
     .string "Presencia de POKéMON salvajes\l"
     .string "devoradores de BAYAS.$"

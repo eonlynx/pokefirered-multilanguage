@@ -1,15 +1,15 @@
-SafariZone_East_Text_KeepAnyItemFoundOnSafari::
+SafariZone_East_Text_KeepAnyItemFoundOnSafari_DE::
 	.string "Alle Items, die du findest, gehören\n"
 	.string "dir!\p"
 	.string "Aber dir wird die Zeit davonlaufen,\n"
 	.string "wenn du alle auf einmal einsammeln\l"
 	.string "möchtest!$"
 
-SafariZone_East_Text_PrizeInDeepestPartOfSafariZone::
+SafariZone_East_Text_PrizeInDeepestPartOfSafariZone_DE::
 	.string "Gehe in die SAFARI-ZONE! Du kannst\n"
 	.string "dort einen Preis gewinnen!$"
 
-SafariZone_East_Text_MyEeveeEvolvedIntoFlareon::
+SafariZone_East_Text_MyEeveeEvolvedIntoFlareon_DE::
 	.string "Mein EVOLI hat sich zu FLAMARA\n"
 	.string "entwickelt!\p"
 	.string "Aber bei einem Freund hat sich\n"

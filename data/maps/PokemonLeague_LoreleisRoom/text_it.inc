@@ -1,4 +1,4 @@
-PokemonLeague_LoreleisRoom_Text_Intro::
+PokemonLeague_LoreleisRoom_Text_Intro_IT::
     .string "Ti do il benvenuto alla LEGA\n"
     .string "POKéMON!\p"
     .string "Sono LORELEI dei SUPERQUATTRO!\p"
@@ -10,7 +10,7 @@ PokemonLeague_LoreleisRoom_Text_Intro::
     .string "Ahahah!\n"
     .string "Cominciamo?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_RematchIntro::
+PokemonLeague_LoreleisRoom_Text_RematchIntro_IT::
     .string "Ti do il benvenuto alla LEGA\n"
     .string "POKéMON!\p"
     .string "Sono LORELEI dei\n"
@@ -25,10 +25,10 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
     .string "Ahahah!\n"
     .string "Cominciamo?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_Defeat::
+PokemonLeague_LoreleisRoom_Text_Defeat_IT::
     .string "Questo non era previsto…$"
 
-PokemonLeague_LoreleisRoom_Text_PostBattle::
+PokemonLeague_LoreleisRoom_Text_PostBattle_IT::
     .string "Sei più forte di quanto pensassi!\n"
     .string "Vai avanti!\p"
     .string "Questo era solo un assaggio della\n"

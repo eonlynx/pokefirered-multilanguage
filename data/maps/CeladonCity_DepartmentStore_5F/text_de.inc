@@ -1,4 +1,4 @@
-CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
+CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers_DE::
 	.string "Nur hier kannst du leistungs-\n"
 	.string "fördernde Mittel für deine POKéMON\l"
 	.string "kaufen!\p"
@@ -10,13 +10,13 @@ CeladonCity_DepartmentStore_5F_Text_ExplainStatEnhancers::
 	.string "SP. VER. eines POKéMON.\p"
 	.string "CARBON erhöht die INITIATIVE.$"
 
-CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers::
+CeladonCity_DepartmentStore_5F_Text_HereForStatEnhancers_DE::
 	.string "Ich bin wegen der leistungs-\n"
 	.string "fördernden Mittel für POKéMON hier.\p"
 	.string "PROTEIN steigert die ANGRIFFS-\n"
 	.string "STÄRKE.\p"
 	.string "EISEN stärkt die ABWEHR!$"
 
-CeladonCity_DepartmentStore_5F_Text_Drugstore::
+CeladonCity_DepartmentStore_5F_Text_Drugstore_DE::
 	.string "4S: DROGERIE$"
 

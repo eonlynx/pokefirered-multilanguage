@@ -1,23 +1,23 @@
-CeladonCity_Condominiums_1F_Text_Meowth::
+CeladonCity_Condominiums_1F_Text_Meowth_IT::
     .string "MEOWTH: Miao!$"
 
-CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead::
+CeladonCity_Condominiums_1F_Text_TryThisDrinkInstead_IT::
     .string "Le bevande ghiacciate sono care,\n"
     .string "e non dissetano.\p"
     .string "Prova questo, invece!$"
 
-CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea::
+CeladonCity_Condominiums_1F_Text_NothingBeatsThirstLikeTea_IT::
     .string "Quando si ha sete, non c'è niente\n"
     .string "di meglio di una tazza di TÈ\l"
     .string "bollente.$"
 
-CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany::
+CeladonCity_Condominiums_1F_Text_MyDearMonsKeepMeCompany_IT::
     .string "Il mio caro POKéMON mi fa\n"
     .string "compagnia!\p"
     .string "Pensa che MEOWTH contribuisce\n"
     .string "persino alle spese domestiche!$"
 
-CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
+CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea_IT::
     .string "Ciao! Ti è piaciuto il TÈ?\p"
     .string "A proposito, vieni per caso da\n"
     .string "BIANCAVILLA?\p"
@@ -28,13 +28,13 @@ CeladonCity_Condominiums_1F_Text_DaisyComesToBuyTea::
     .string "al CENTRO COMMERCIALE\l"
     .string "di AZZURROPOLI.$"
 
-CeladonCity_Condominiums_1F_Text_Clefairy::
+CeladonCity_Condominiums_1F_Text_Clefairy_IT::
     .string "CLEFAIRY: Cle cleclecle!$"
 
-CeladonCity_Condominiums_1F_Text_Nidoran::
+CeladonCity_Condominiums_1F_Text_Nidoran_IT::
     .string "NIDORAN♀: Nidoor! Nidoorr!$"
 
-CeladonCity_Condominiums_1F_Text_ManagersSuite::
+CeladonCity_Condominiums_1F_Text_ManagersSuite_IT::
     .string "VILLAZZURRA\n"
     .string "La suite presidenziale$"
 

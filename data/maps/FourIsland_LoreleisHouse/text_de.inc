@@ -1,4 +1,4 @@
-FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
+FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland_DE::
 	.string "LORELEI: Etwas betrübt meinen\n"
 	.string "Geist!\p"
 	.string "Falls auf der Insel, auf der ich\n"
@@ -10,7 +10,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
 	.string "Heimat verantwortungslos\l"
 	.string "gegenüberstehe…$"
 
-FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
+FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile_DE::
 	.string "LORELEI: Du hast hier also\n"
 	.string "alle Probleme lösen können?\p"
 	.string "Das ist großartig!\p"
@@ -20,14 +20,14 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
 	.string "Ich kehre bald zur POKéMON\n"
 	.string "LIGA zurück!$"
 
-FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
+FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow_DE::
 	.string "Ich weiß nicht, was die Zukunft\n"
 	.string "bringt, aber…\p"
 	.string "Ich werde tun, was in meiner\n"
 	.string "Macht steht, hier und jetzt.\l"
 	.string "Das ist alles, was ich tun kann!$"
 
-FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
+FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore_DE::
 	.string "POKéMON-Plüschpuppen in Hülle\n"
 	.string "und Fülle!$"
 

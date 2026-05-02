@@ -1,11 +1,11 @@
-PokemonTower_2F_Text_RivalIntro::
+PokemonTower_2F_Text_RivalIntro_DE::
 	.string "{RIVAL}: Hallo, {PLAYER}!\n"
 	.string "Was machst du hier?\l"
 	.string "Deine POKéMON sehen ganz fit aus!\p"
 	.string "Na ja, nach dem Kampf wird es\n"
 	.string "anders aussehen!$"
 
-PokemonTower_2F_Text_RivalDefeat::
+PokemonTower_2F_Text_RivalDefeat_DE::
 	.string "Was?\n"
 	.string "Du bist eine harte Nuss!\p"
 	.string "Ich bin es wohl etwas zu locker\n"
@@ -13,13 +13,13 @@ PokemonTower_2F_Text_RivalDefeat::
 
 @ Unused. Translated below
 @ Aw, man! They really kicked the bucket! Weak! Do them a favor and raise them more properly.
-PokemonTower_2F_Text_RivalVictory::
+PokemonTower_2F_Text_RivalVictory_DE::
 	.string "{RIVAL}“あーあ‥！\n"
 	.string "ほんとに　くたばっちまったぞ！\l"
 	.string "よわいなー！\l"
 	.string "もっと　ちゃんと　そだてて　やれよ$"
 
-PokemonTower_2F_Text_RivalPostBattle::
+PokemonTower_2F_Text_RivalPostBattle_DE::
 	.string "Wie macht sich dein POKéDEX,\n"
 	.string "Nervensäge? Ich habe kürzlich ein\l"
 	.string "TRAGOSSO gefangen!\p"
@@ -31,7 +31,7 @@ PokemonTower_2F_Text_RivalPostBattle::
 	.string "Ich muss weiter!\p"
 	.string "Dann bis später!$"
 
-PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
+PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts_DE::
 	.string "Selbst wir können die eigenwilligen\n"
 	.string "GEISTER nicht identifizieren!\p"
 	.string "Man benötigt das SILPH SCOPE, um\n"

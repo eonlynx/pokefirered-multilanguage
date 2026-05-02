@@ -1,11 +1,11 @@
-FiveIsland_House1_JPText_HusbandWentOffFishing::
+FiveIsland_House1_JPText_HusbandWentOffFishing_IT::
     .string "こんばんの　おかずは\n"
     .string "ようい　しなくて　いいぞ！\p"
     .string "って　だんなが\n"
     .string "つりに　いったん　だけど‥\l"
     .string "しんじて　いいのかねえ$"
 
-FiveIsland_House1_Text_HusbandWentOffFishing::
+FiveIsland_House1_Text_HusbandWentOffFishing_IT::
     .string "Sai cosa mi ha detto mio marito\n"
     .string "stamattina prima di andare a\l"
     .string "pescare?\p"

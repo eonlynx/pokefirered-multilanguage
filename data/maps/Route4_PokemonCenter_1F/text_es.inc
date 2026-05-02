@@ -1,49 +1,49 @@
-Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou::
+Route4_PokemonCenter_1F_Text_CanHaveSixMonsWithYou_ES::
     .string "Tengo 6 POKé BALLS en mi cinturón.\p"
     .string "Puedes llevar 6 POKéMON como\n"
     .string "mucho.$"
 
-Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean::
+Route4_PokemonCenter_1F_Text_TeamRocketAttacksCerulean_ES::
     .string "El TEAM ROCKET ataca a los\n"
     .string "ciudadanos de CELESTE...\p"
     .string "¡El TEAM ROCKET siempre sale\n"
     .string "en las noticias!$"
 
-Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500::
+Route4_PokemonCenter_1F_Text_LaddieBuyMagikarpForJust500_ES::
     .string "HOMBRE: ¡Hola, majo!\n"
     .string "¡Tengo una oferta sólo para ti!\p"
     .string "¡Te daré un MAGIKARP por 500¥\n"
     .string "de nada!\p"
     .string "¿Qué dices?$"
 
-Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500::
+Route4_PokemonCenter_1F_Text_SweetieBuyMagikarpForJust500_ES::
     .string "HOMBRE: ¡Hola, maja!\n"
     .string "¡Tengo una oferta sólo para ti!\p"
     .string "¡Te daré un MAGIKARP por 500¥\n"
     .string "de nada!\p"
     .string "¿Qué dices?$"
 
-Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp::
+Route4_PokemonCenter_1F_Text_PaidOutrageouslyForMagikarp_ES::
     .string "{PLAYER} pagó la cantidad de 500¥\n"
     .string "y compró el MAGIKARP...$"
 
-Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou::
+Route4_PokemonCenter_1F_Text_OnlyDoingThisAsFavorToYou_ES::
     .string "¿No? ¡Pues lo hacía como favor!$"
 
-Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon::
+Route4_PokemonCenter_1F_Text_NoRoomForMorePokemon_ES::
     .string "Mmmm... Tienes demasiados POKéMON.\n"
     .string "No queda sitio para éste...$"
 
-Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney::
+Route4_PokemonCenter_1F_Text_YoullNeedMoreMoney_ES::
     .string "¡No tienes suficiente dinero!$"
 
-Route4_PokemonCenter_1F_Text_IDontGiveRefunds::
+Route4_PokemonCenter_1F_Text_IDontGiveRefunds_ES::
     .string "HOMBRE: ¡Que sepas que no acepto\n"
     .string "devoluciones!$"
 
-Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC::
+Route4_PokemonCenter_1F_Text_ShouldStoreMonsUsingPC_ES::
     .string "¡Si tienes demasiados POKéMON,\n"
     .string "guárdalos en el PC!$"
 
-Route4_PokemonCenter_1F_Text_ItsANewspaper::
+Route4_PokemonCenter_1F_Text_ItsANewspaper_ES::
     .string "Un periódico...$"

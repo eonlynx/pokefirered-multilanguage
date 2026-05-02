@@ -1,32 +1,32 @@
-CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
+CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow_FR::
 	.string "Je sais tout sur le monde des\n"
 	.string "POKéMON et sur ta\l"
 	.string "GAME BOY ADVANCE!\p"
 	.string "Fais beaucoup d'échanges avec\n"
 	.string "tes amis!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
+CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee_FR::
 	.string "{PLAYER} obtient un EVOLI!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
+CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull_FR::
 	.string "ポケモンが　いっぱいだ\n"
 	.string "ボックスを　かえて　きなさい$"
 
-CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
+CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture_FR::
 	.string "Lecture POKéMON\p"
 	.string "Jouer avec l'adaptateur\n"
 	.string "sans fil GBA$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
+CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading_FR::
 	.string "Quel chapitre voulez-vous lire?$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub_FR::
 	.string "Le CLUB SANS FIL POKéMON est\n"
 	.string "à l'étage des CENTRES POKéMON.\p"
 	.string "Utilise un adaptateur sans fil GBA\n"
 	.string "pour te connecter avec des amis.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner_FR::
 	.string "Pour te connecter à un seul ami,\n"
 	.string "va à la SALLE LINK DIRECT.\p"
 	.string "C'est le comptoir de droite au\n"
@@ -34,7 +34,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
 	.string "Tu devrais essayer le COIN ECHANGE\n"
 	.string "ou le COLISEE avec un ami.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom_FR::
 	.string "Pour se connecter à plusieurs,\n"
 	.string "rends-toi à la SALLE UNION.\p"
 	.string "C'est le comptoir de gauche au\n"
@@ -42,7 +42,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
 	.string "La SALLE UNION est parfaite pour\n"
 	.string "faire de nouvelles connaissances.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
+CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs_FR::
 	.string "C'est un rapport sur les CT.\p"
 	.string "…\p"
 	.string "Il existe en tout 50 CT (Capsule\n"

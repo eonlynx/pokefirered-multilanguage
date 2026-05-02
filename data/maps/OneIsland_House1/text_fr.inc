@@ -1,8 +1,8 @@
-OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays::
+OneIsland_House1_Text_GazeUponVolcanoOnSunnyDays_FR::
 	.string "Les jours ensoleillés, je fais de\n"
 	.string "grandes balades autour du volcan.$"
 
-OneIsland_House1_Text_LastTimeMtEmberErupted::
+OneIsland_House1_Text_LastTimeMtEmberErupted_FR::
 	.string "Voyons voir. De quand date la\n"
 	.string "dernière éruption du MONT BRAISE?$"
 

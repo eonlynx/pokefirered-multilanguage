@@ -1,4 +1,4 @@
-UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness::
+UndergroundPath_SouthEntrance_Text_PeopleLoseThingsInTheDarkness_IT::
     .string "Capita spesso che qualcuno perda\n"
     .string "un oggetto nella VIA SOTTERRANEA.$"
 

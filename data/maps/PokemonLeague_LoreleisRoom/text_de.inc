@@ -1,4 +1,4 @@
-PokemonLeague_LoreleisRoom_Text_Intro::
+PokemonLeague_LoreleisRoom_Text_Intro_DE::
 	.string "Willkommen in der POKéMON LIGA!\p"
 	.string "Ich bin LORELEI und gehöre zu den\n"
 	.string "TOP VIER!\p"
@@ -11,7 +11,7 @@ PokemonLeague_LoreleisRoom_Text_Intro::
 	.string "Hahaha!\n"
 	.string "Bist du bereit?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_RematchIntro::
+PokemonLeague_LoreleisRoom_Text_RematchIntro_DE::
 	.string "Willkommen in der POKéMON LIGA!\p"
 	.string "Ich, LORELEI von den TOP\n"
 	.string "VIER, bin zurückgekehrt!\p"
@@ -25,10 +25,10 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
 	.string "Hahaha!\n"
 	.string "Bist du bereit?{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_Defeat::
+PokemonLeague_LoreleisRoom_Text_Defeat_DE::
 	.string "… es sollte nicht so laufen!$"
 
-PokemonLeague_LoreleisRoom_Text_PostBattle::
+PokemonLeague_LoreleisRoom_Text_PostBattle_DE::
 	.string "Du bist besser,\n"
 	.string "als ich dachte!\l"
 	.string "Geh ruhig weiter!\p"

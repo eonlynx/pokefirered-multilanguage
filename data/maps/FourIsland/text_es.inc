@@ -1,13 +1,13 @@
-FourIsland_Text_IslandSign::
+FourIsland_Text_IslandSign_ES::
     .string "ISLA QUARTA\n"
     .string "La isla cálida, azul y rara.$"
 
-FourIsland_Text_LoreleiHasReturned::
+FourIsland_Text_LoreleiHasReturned_ES::
     .string "LORELEI ha vuelto.\p"
     .string "Creo que la vida de la ciudad le\n"
     .string "resultaba demasiado estresante...$"
 
-FourIsland_Text_LoreleiMetLaprasAsChild::
+FourIsland_Text_LoreleiMetLaprasAsChild_ES::
     .string "LORELEI ha vuelto.\p"
     .string "Creo que el LAPRAS que tiene,\n"
     .string "es el mismo que atrapó de pequeña.\p"
@@ -16,7 +16,7 @@ FourIsland_Text_LoreleiMetLaprasAsChild::
     .string "Me parece que lo tiene desde\n"
     .string "entonces.$"
 
-FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
+FourIsland_Text_RivalAlreadyGotEggBeSmellingYa_ES::
     .string "{RIVAL}: ¡Eh, {PLAYER}!\p"
     .string "¿Qué estás haciendo en\n"
     .string "ARCHI7?\p"
@@ -38,7 +38,7 @@ FourIsland_Text_RivalAlreadyGotEggBeSmellingYa::
     .string "Yo me largo, no tengo tiempo.\p"
     .string "¡Nos vemos!$"
 
-FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
+FourIsland_Text_LoreleiHasLotsOfStuffedDolls_ES::
     .string "¡Me has encontrado!\n"
     .string "¡No se lo digas a LORELEI!\p"
     .string "¿Sabías que LORELEI tiene un\n"
@@ -46,11 +46,11 @@ FourIsland_Text_LoreleiHasLotsOfStuffedDolls::
     .string "¡Cada vez que vuelve a ISLA\n"
     .string "QUARTA, aumenta la colección!$"
 
-FourIsland_Text_MadeSlushieUsingIcefallCaveIce::
+FourIsland_Text_MadeSlushieUsingIcefallCaveIce_ES::
     .string "¡Uyyy, qué fresquito!\p"
     .string "Me he hecho un granizado con\n"
     .string "hielo de la CUEVA GLACIADA.\p"
     .string "¡Está fresquito y riquísimo!$"
 
-FourIsland_Text_LoreleisHouse::
+FourIsland_Text_LoreleisHouse_ES::
     .string "CASA DE LORELEI$"

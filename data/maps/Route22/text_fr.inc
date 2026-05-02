@@ -1,4 +1,4 @@
-Route22_Text_EarlyRivalIntro::
+Route22_Text_EarlyRivalIntro_FR::
 	.string "{RIVAL}: Hé! {PLAYER}!\p"
 	.string "Tu vas à la LIGUE POKéMON?\n"
 	.string "Laisse tomber!\p"
@@ -9,11 +9,11 @@ Route22_Text_EarlyRivalIntro::
 	.string "Au fait, ça se passe comment\n"
 	.string "l'entraînement de tes POKéMON?$"
 
-Route22_Text_EarlyRivalDefeat::
+Route22_Text_EarlyRivalDefeat_FR::
 	.string "Haha! C'est la chance des\n"
 	.string "débutants!$"
 
-Route22_Text_EarlyRivalPostBattle::
+Route22_Text_EarlyRivalPostBattle_FR::
 	.string "Il paraît qu'il y a des super\n"
 	.string "DRESSEURS dans la LIGUE POKéMON!\p"
 	.string "Je dois trouver un moyen de\n"
@@ -22,14 +22,14 @@ Route22_Text_EarlyRivalPostBattle::
 	.string "si tu veux les battre!$"
 
 @ Translated in RB as "{RIVAL}: What? Why do I have 2 POKéMON? You should catch some more too!"
-Route22_Text_RivalShouldCatchSomeMons::
+Route22_Text_RivalShouldCatchSomeMons_FR::
 	.string "{RIVAL}“なんだ？\n"
 	.string "ポケモン　2ひきも\l"
 	.string "もってるの　なぜか　だって？\p"
 	.string "おまえも\n"
 	.string "つかまえれば　いい　じゃん！$"
 
-Route22_Text_LateRivalIntro::
+Route22_Text_LateRivalIntro_FR::
 	.string "{RIVAL}: Tiens? {PLAYER}! Quelle\n"
 	.string "surprise, tu es là aussi?!\p"
 	.string "Alors comme ça tu vas à la LIGUE?\n"
@@ -41,11 +41,11 @@ Route22_Text_LateRivalIntro::
 	.string "avant la LIGUE POKéMON!\p"
 	.string "Allez, viens te battre!$"
 
-Route22_Text_LateRivalDefeat::
+Route22_Text_LateRivalDefeat_FR::
 	.string "Quoi!?\p"
 	.string "Je pensais juste à autre chose!$"
 
-Route22_Text_LateRivalPostBattle::
+Route22_Text_LateRivalPostBattle_FR::
 	.string "C'était un bon échauffement!\n"
 	.string "J'suis prêt pour la LIGUE POKéMON!\p"
 	.string "{PLAYER}, faut vraiment que tu\n"
@@ -54,7 +54,7 @@ Route22_Text_LateRivalPostBattle::
 	.string "le savoir. Tchao!$"
 
 @ Translated in RB as "{RIVAL}: Hahaha! {PLAYER}! That's your best? You're nowhere near as good as me, pal! Go train some more! You loser!"
-Route22_Text_LateRivalVictory::
+Route22_Text_LateRivalVictory_FR::
 	.string "{RIVAL}“ひゃははッ　{PLAYER}ー！\n"
 	.string "それで　がんばってるのかよ！\l"
 	.string "おれの　さいのうに　くらべりゃ\l"
@@ -62,7 +62,7 @@ Route22_Text_LateRivalVictory::
 	.string "もっと　れんしゅう　こいよ！\n"
 	.string "あははーッ！$"
 
-Route22_Text_LeagueGateSign::
+Route22_Text_LeagueGateSign_FR::
 	.string "LIGUE POKéMON\n"
 	.string "Entrée principale$"
 

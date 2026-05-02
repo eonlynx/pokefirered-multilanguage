@@ -1,18 +1,18 @@
-Route12_FishingHouse_Text_DoYouLikeToFish::
+Route12_FishingHouse_Text_DoYouLikeToFish_ES::
     .string "¡Soy hermano del GURÚ PESCADOR!\p"
     .string "¡Simplemente me encanta pescar!\p"
     .string "¿Te gusta pescar?$"
 
-Route12_FishingHouse_Text_TakeThisAndFish::
+Route12_FishingHouse_Text_TakeThisAndFish_ES::
     .string "¡Fenomenal!\n"
     .string "¡Me gusta tu estilo!\p"
     .string "¡Toma esto y pesca, anda!$"
 
-Route12_FishingHouse_Text_ReceivedSuperRod::
+Route12_FishingHouse_Text_ReceivedSuperRod_ES::
     .string "¡{PLAYER} obtuvo una SUPERCAÑA\n"
     .string "del hermano del GURÚ PESCADOR!$"
 
-Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
+Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe_ES::
     .string "¡La pesca es una forma de vida!\n"
     .string "¡Es un arte!\p"
     .string "¡En el mar, en los ríos, da igual,\n"
@@ -24,10 +24,10 @@ Route12_FishingHouse_Text_IfYouCatchBigMagikarpShowMe::
     .string "Pescar me gusta tanto como ver\n"
     .string "MAGIKARP enormes.$"
 
-Route12_FishingHouse_Text_OhThatsDisappointing::
+Route12_FishingHouse_Text_OhThatsDisappointing_ES::
     .string "Oh... Estoy tan decepcionado...$"
 
-Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
+Route12_FishingHouse_Text_TryFishingBringMeMagikarp_ES::
     .string "¡Hola, {PLAYER}!\p"
     .string "¡Utiliza la SUPERCAÑA en todo tipo\n"
     .string "de aguas! Puedes pescar diferentes\l"
@@ -36,47 +36,47 @@ Route12_FishingHouse_Text_TryFishingBringMeMagikarp::
     .string "¡Y no te olvides de traerme\n"
     .string "un MAGIKARP gigante!$"
 
-Route12_FishingHouse_Text_OhMagikarpAllowMeToSee::
+Route12_FishingHouse_Text_OhMagikarpAllowMeToSee_ES::
     .string "¡Hola, {PLAYER}!\n"
     .string "¡Anda, un MAGIKARP!\p"
     .string "¡Deja, deja que lo vea!$"
 
-Route12_FishingHouse_Text_WhoaXInchesTakeThis::
+Route12_FishingHouse_Text_WhoaXInchesTakeThis_ES::
     .string "¡Guaaaau, {STR_VAR_2} cm!\p"
     .string "¡Tienes una forma muy peculiar\n"
     .string "de entender el arte de la pesca!\p"
     .string "Toma esto, por favor.$"
 
-Route12_FishingHouse_Text_LookForwardToGreaterRecords::
+Route12_FishingHouse_Text_LookForwardToGreaterRecords_ES::
     .string "Espero que me traigas piezas aún\n"
     .string "mejores.$"
 
-Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast::
+Route12_FishingHouse_Text_HuhXInchesSameSizeAsLast_ES::
     .string "¿Mmm?\n"
     .string "¿{STR_VAR_2} cm?\p"
     .string "¡Pero si tiene el mismo tamaño\n"
     .string "que el anterior!$"
 
-Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp::
+Route12_FishingHouse_Text_HmmXInchesDoesntMeasureUp_ES::
     .string "Mmm...\n"
     .string "Este mide {STR_VAR_2} cm de largo...\p"
     .string "¡Pero si el de antes medía {STR_VAR_3} cm!$"
 
-Route12_FishingHouse_Text_DoesntLookLikeMagikarp::
+Route12_FishingHouse_Text_DoesntLookLikeMagikarp_ES::
     .string "Eh... me parece a mí que eso\n"
     .string "no es un MAGIKARP.$"
 
-Route12_FishingHouse_Text_NoRoomForGift::
+Route12_FishingHouse_Text_NoRoomForGift_ES::
     .string "¡Oh, no!\p"
     .string "¡Tenía un regalo para ti, pero no\n"
     .string "tienes sitio!$"
 
-Route12_FishingHouse_Text_MostGiganticMagikarpXInches::
+Route12_FishingHouse_Text_MostGiganticMagikarpXInches_ES::
     .string "¡Madre mía, es el MAGIKARP más\n"
     .string "grande que he visto en mi vida!\p"
     .string "¡{STR_VAR_3} cm!$"
 
-Route12_FishingHouse_Text_BlankChartOfSomeSort::
+Route12_FishingHouse_Text_BlankChartOfSomeSort_ES::
     .string "Es una especie de cuadro y\n"
     .string "está en blanco.\p"
     .string "Tiene casillas para anotar cosas.$"

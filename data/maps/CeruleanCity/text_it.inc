@@ -1,4 +1,4 @@
-CeruleanCity_Text_RivalIntro::
+CeruleanCity_Text_RivalIntro_IT::
     .string "{RIVAL}: Ciao {PLAYER}!\p"
     .string "Bazzichi ancora da queste parti,\n"
     .string "pappamolle?!\p"
@@ -7,12 +7,12 @@ CeruleanCity_Text_RivalIntro::
     .string "{PLAYER}, fammi un po' vedere cosa\n"
     .string "hai catturato!$"
 
-CeruleanCity_Text_RivalDefeat::
+CeruleanCity_Text_RivalDefeat_IT::
     .string "Ehi!\n"
     .string "Rilassati!\l"
     .string "Hai vinto!$"
 
-CeruleanCity_Text_RivalPostBattle::
+CeruleanCity_Text_RivalPostBattle_IT::
     .string "{RIVAL}: Ehi, la sai una cosa?\p"
     .string "Sono stato da BILL e mi sono fatto\n"
     .string "mostrare i suoi POKéMON rari!\p"
@@ -27,14 +27,14 @@ CeruleanCity_Text_RivalPostBattle::
     .string "Beh, meglio che mi dia una mossa!\n"
     .string "Ci becchiamo in giro!$"
 
-CeruleanCity_Text_OhRightLittlePresentAsFavor::
+CeruleanCity_Text_OhRightLittlePresentAsFavor_IT::
     .string "Ah, dimenticavo.\p"
     .string "Provo un po' di compassione per te.\n"
     .string "Dico davvero! Sei sempre lì che\l"
     .string "cerchi di essere alla mia altezza.\p"
     .string "Tieni, voglio farti un regalo.$"
 
-CeruleanCity_Text_ExplainFameCheckerSmellYa::
+CeruleanCity_Text_ExplainFameCheckerSmellYa_IT::
     .string "Te lo regalo perché so che ti\n"
     .string "piace spettegolare.\p"
     .string "A me non serve, visto che della\n"
@@ -43,11 +43,11 @@ CeruleanCity_Text_ExplainFameCheckerSmellYa::
     .string "davvero. Ci becchiamo in giro!$"
 
 @ RB translation: "Heh! You're no match for my genius!"
-CeruleanCity_Text_RivalVictory::
+CeruleanCity_Text_RivalVictory_IT::
     .string "なんたって！\n"
     .string "おれは　てんさい　だからよ！$"
 
-CeruleanCity_Text_GruntIntro::
+CeruleanCity_Text_GruntIntro_IT::
     .string "Ehi! Fuori!\n"
     .string "Non ti è permesso stare qui…\p"
     .string "Chi?\n"
@@ -55,33 +55,33 @@ CeruleanCity_Text_GruntIntro::
     .string "Sono un semplice passante!\n"
     .string "Non mi credi?{PLAY_BGM MUS_ENCOUNTER_ROCKET}$"
 
-CeruleanCity_Text_GruntDefeat::
+CeruleanCity_Text_GruntDefeat_IT::
     .string "RECLUTA: Stop! Mi arrendo!\n"
     .string "Me ne vado in silenzio!$"
 
-CeruleanCity_Text_OkayIllReturnStolenTM::
+CeruleanCity_Text_OkayIllReturnStolenTM_IT::
     .string "OK!\n"
     .string "Restituirò la MT che ho rubato!$"
 
-CeruleanCity_Text_RecoveredTM28FromGrunt::
+CeruleanCity_Text_RecoveredTM28FromGrunt_IT::
     .string "{PLAYER} recupera\n"
     .string "la MT28!$"
 
-CeruleanCity_Text_BetterGetMovingBye::
+CeruleanCity_Text_BetterGetMovingBye_IT::
     .string "Meglio che mi sbrighi!\n"
     .string "Ciao!$"
 
-CeruleanCity_Text_MakeRoomForThisCantRun::
+CeruleanCity_Text_MakeRoomForThisCantRun_IT::
     .string "Fai spazio per questa cosa!\p"
     .string "Non posso andare finché non te l'ho\n"
     .string "data!$"
 
-CeruleanCity_Text_TrainerLifeIsToughIsntIt::
+CeruleanCity_Text_TrainerLifeIsToughIsntIt_IT::
     .string "Anche tu un ALLENATORE, eh?\p"
     .string "Collezionare, lottare… che vita\n"
     .string "dura!$"
 
-CeruleanCity_Text_YouCanCutDownSmallTrees::
+CeruleanCity_Text_YouCanCutDownSmallTrees_IT::
     .string "Lo sapevi che con TAGLIO\n"
     .string "puoi abbattere piccoli alberi?\p"
     .string "Quell'alberello di fronte al\n"
@@ -89,7 +89,7 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
     .string "Forse puoi anche passare per\n"
     .string "un'altra strada, comunque.$"
 
-CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
+CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree_IT::
     .string "Se non fosse per quello SLOWBRO,\n"
     .string "potresti usare TAGLIO per\l"
     .string "abbattere l'alberello.\p"
@@ -98,35 +98,35 @@ CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
     .string "Forse puoi anche passare per\n"
     .string "un'altra strada, comunque.$"
 
-CeruleanCity_Text_PokemonEncyclopediaAmusing::
+CeruleanCity_Text_PokemonEncyclopediaAmusing_IT::
     .string "Stai creando un'enciclopedia sui\n"
     .string "POKéMON? Interessante!$"
 
-CeruleanCity_Text_PeopleHereWereRobbed::
+CeruleanCity_Text_PeopleHereWereRobbed_IT::
     .string "Questa gente è stata derubata.\p"
     .string "C'è sicuramente lo zampino di TEAM\n"
     .string "ROCKET in questo atroce crimine!\p"
     .string "La POLIZIA avrà senz'altro un\n"
     .string "bel da fare con quei ROCKET!$"
 
-CeruleanCity_Text_SlowbroUseSonicboom::
+CeruleanCity_Text_SlowbroUseSonicboom_IT::
     .string "OK! SLOWBRO!\n"
     .string "Usa SONICBOOM!$"
 
-CeruleanCity_Text_SlowbroPayAttention::
+CeruleanCity_Text_SlowbroPayAttention_IT::
     .string "Forza SLOWBRO, fai attenzione!$"
 
-CeruleanCity_Text_SlowbroPunch::
+CeruleanCity_Text_SlowbroPunch_IT::
     .string "SLOWBRO, sferra un pugno!$"
 
-CeruleanCity_Text_NoYouBlewItAgain::
+CeruleanCity_Text_NoYouBlewItAgain_IT::
     .string "No!\n"
     .string "Hai mancato ancora!$"
 
-CeruleanCity_Text_SlowbroWithdraw::
+CeruleanCity_Text_SlowbroWithdraw_IT::
     .string "SLOWBRO, RITIRATA!$"
 
-CeruleanCity_Text_HardToControlMonsObedience::
+CeruleanCity_Text_HardToControlMonsObedience_IT::
     .string "No! Non va bene!\p"
     .string "È così difficile controllare i\n"
     .string "POKéMON!\p"
@@ -134,25 +134,25 @@ CeruleanCity_Text_HardToControlMonsObedience::
     .string "dipende dalla tua abilità di\l"
     .string "ALLENATORE!$"
 
-CeruleanCity_Text_SlowbroTookSnooze::
+CeruleanCity_Text_SlowbroTookSnooze_IT::
     .string "SLOWBRO fa un pisolino…$"
 
-CeruleanCity_Text_SlowbroLoafingAround::
+CeruleanCity_Text_SlowbroLoafingAround_IT::
     .string "SLOWBRO fa il pigrone…$"
 
-CeruleanCity_Text_SlowbroTurnedAway::
+CeruleanCity_Text_SlowbroTurnedAway_IT::
     .string "SLOWBRO se n'è andato…$"
 
-CeruleanCity_Text_SlowbroIgnoredOrders::
+CeruleanCity_Text_SlowbroIgnoredOrders_IT::
     .string "SLOWBRO ignora gli ordini…$"
 
-CeruleanCity_Text_WantBrightRedBicycle::
+CeruleanCity_Text_WantBrightRedBicycle_IT::
     .string "Voglio una BICICLETTA rossa\n"
     .string "fiammante.\p"
     .string "La terrò in casa così non si\n"
     .string "sporcherà!$"
 
-CeruleanCity_Text_ThisIsCeruleanCave::
+CeruleanCity_Text_ThisIsCeruleanCave_IT::
     .string "Questa è la GROTTA CELESTE!\n"
     .string "Ci vivono POKéMON fortissimi!\p"
     .string "Può entrarci solo il CAMPIONE\n"
@@ -160,23 +160,23 @@ CeruleanCity_Text_ThisIsCeruleanCave::
     .string "Non prima di aver ottenuto un altro\n"
     .string "importante risultato, però.$"
 
-CeruleanCity_Text_CitySign::
+CeruleanCity_Text_CitySign_IT::
     .string "CELESTOPOLI\n"
     .string "Circondata da una misteriosa aura\l"
     .string "celeste$"
 
-CeruleanCity_Text_TrainerTipsHeldItems::
+CeruleanCity_Text_TrainerTipsHeldItems_IT::
     .string "CONSIGLI UTILI\p"
     .string "Puoi dare ad un POKéMON\n"
     .string "uno strumento da tenere.\p"
     .string "Alcuni strumenti tenuti possono\n"
     .string "anche essere usati nella lotta.$"
 
-CeruleanCity_Text_BikeShopSign::
+CeruleanCity_Text_BikeShopSign_IT::
     .string "NEGOZIO di BICI\n"
     .string "Per ben andar per prati e grotte!$"
 
-CeruleanCity_Text_GymSign::
+CeruleanCity_Text_GymSign_IT::
     .string "CAPOPALESTRA di CELESTOPOLI:\n"
     .string "MISTY\l"
     .string "La sirena maschiaccio!$"

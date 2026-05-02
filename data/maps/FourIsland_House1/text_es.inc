@@ -1,7 +1,7 @@
 @ Text for this file was split weirdly, and is instead in FourIsland_PokemonCenter_1F/text.inc
 @ Theres also an unused JP version of that text in this file instead
 
-JPText_BodySlamTeach::
+JPText_BodySlamTeach_ES::
     .string "そーれ　ぼよーん！\n"
     .string "どっちが　さきに　へたばるか？\l"
     .string "のしかかり　しょうぶ　してるんだ\p"
@@ -10,16 +10,16 @@ JPText_BodySlamTeach::
     .string "かわりに　きみの　ポケモンに\l"
     .string "のしかかり　おしえて　やろっか？$"
 
-JPText_BodySlamDeclined::
+JPText_BodySlamDeclined_ES::
     .string "また　おいで　ぼよーん！$"
 
-JPText_BodySlamWhichMon::
+JPText_BodySlamWhichMon_ES::
     .string "どの　ポケモンに\n"
     .string "おしえたい　かい？$"
 
-JPText_BodySlamTaught::
+JPText_BodySlamTaught_ES::
     .string "ぼよよーん！$"
 
-FourIsland_House1_Text_YoureAwfullyHeavy::
+FourIsland_House1_Text_YoureAwfullyHeavy_ES::
     .string "¡Hala, qué golpe!\n"
     .string "¡Qué fuerza tienes!$"

@@ -1,17 +1,17 @@
-Pokedude_Text_SpeedierBattlerGoesFirst::
+Pokedude_Text_SpeedierBattlerGoesFirst_FR::
 	.string "POTE POKéMON: Le combattant le\n"
 	.string "plus rapide attaque en premier.$"
 
-Pokedude_Text_MyRattataFasterThanPidgey::
+Pokedude_Text_MyRattataFasterThanPidgey_FR::
 	.string "On dirait que mon RATTATA a\n"
 	.string "été plus rapide que le ROUCOOL.$"
 
-Pokedude_Text_BattlersTakeTurnsAttacking::
+Pokedude_Text_BattlersTakeTurnsAttacking_FR::
 	.string "Les combattants attaquent à tour\n"
 	.string "de rôle pour réduire les PV de\p"
 	.string "leur adversaire.$"
 
-Pokedude_Text_MyRattataWonGetsEXP::
+Pokedude_Text_MyRattataWonGetsEXP_FR::
 	.string "Mon RATTATA a réduit les PV du\n"
 	.string "POKéMON ennemi à zéro:\p"
 	.string "c'est le gagnant!\p"
@@ -22,29 +22,29 @@ Pokedude_Text_MyRattataWonGetsEXP::
 	.string "En changeant de niveau, les\n"
 	.string "POKéMON deviennent plus forts.$"
 
-Pokedude_Text_UhOhRattataPoisoned::
+Pokedude_Text_UhOhRattataPoisoned_FR::
 	.string "POTE POKéMON: Oh, mon POKéMON\n"
 	.string "a été empoisonné…\p"
 	.string "Si un POKéMON est empoisonné,\n"
 	.string "il perd ses PV progressivement.$"
 
-Pokedude_Text_HealStatusRightAway::
+Pokedude_Text_HealStatusRightAway_FR::
 	.string "Si un de tes POKéMON a un\n"
 	.string "problème de statut, il faut le\p"
 	.string "soigner le plus rapidement\n"
 	.string "possible!$"
 
-Pokedude_Text_UsingItemTakesTurn::
+Pokedude_Text_UsingItemTakesTurn_FR::
 	.string "Mais utiliser un objet sur un\n"
 	.string "POKéMON compte comme un tour.\p"
 	.string "C'est au tour de l'adversaire de\n"
 	.string "jouer.$"
 
-Pokedude_Text_YayWeManagedToWin::
+Pokedude_Text_YayWeManagedToWin_FR::
 	.string "Ouais!\n"
 	.string "On a gagné!$"
 
-Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
+Pokedude_Text_WaterNotVeryEffectiveAgainstGrass_FR::
 	.string "POTE POKéMON: ECUME est une\n"
 	.string "capacité de type EAU.\p"
 	.string "La cible, MYSTHERBE, est un\n"
@@ -55,7 +55,7 @@ Pokedude_Text_WaterNotVeryEffectiveAgainstGrass::
 	.string "efficacité et inflige moins de\p"
 	.string "dégâts à l'adversaire.$"
 
-Pokedude_Text_GrassEffectiveAgainstWater::
+Pokedude_Text_GrassEffectiveAgainstWater_FR::
 	.string "Oh oh, c'est mauvais!\p"
 	.string "L'attaque VOL-VIE que tu viens de\n"
 	.string "voir est du type PLANTE.\p"
@@ -63,17 +63,17 @@ Pokedude_Text_GrassEffectiveAgainstWater::
 	.string "VOL-VIE est donc super efficace,\n"
 	.string "et ses dégâts sont doublés.$"
 
-Pokedude_Text_LetsTryShiftingMons::
+Pokedude_Text_LetsTryShiftingMons_FR::
 	.string "Tu auras du mal à gagner à cause\n"
 	.string "du rapport entre ces types.$"
 
-Pokedude_Text_ShiftingUsesTurn::
+Pokedude_Text_ShiftingUsesTurn_FR::
 	.string "Changer de POKéMON pendant un\n"
 	.string "combat coûte un tour.\p"
 	.string "C'est à l'adversaire de jouer\n"
 	.string "maintenant.$"
 
-Pokedude_Text_ButterfreeDoubleResistsGrass::
+Pokedude_Text_ButterfreeDoubleResistsGrass_FR::
 	.string "PAPILUSION est un POKéMON de\n"
 	.string "type INSECTE/VOL.\p"
 	.string "Contre ce POKéMON, une attaque\n"
@@ -88,7 +88,7 @@ Pokedude_Text_ButterfreeDoubleResistsGrass::
 	.string "il ne reçoit que le quart des\n"
 	.string "dégâts habituels.$"
 
-Pokedude_Text_ButterfreeGoodAgainstOddish::
+Pokedude_Text_ButterfreeGoodAgainstOddish_FR::
 	.string "MYSTHERBE est un POKéMON de\n"
 	.string "type PLANTE/POISON.\p"
 	.string "Une attaque de type VOL ou PSY\n"
@@ -97,18 +97,18 @@ Pokedude_Text_ButterfreeGoodAgainstOddish::
 	.string "le double de dégâts.\p"
 	.string "Allez, on y va!$"
 
-Pokedude_Text_YeahWeWon::
+Pokedude_Text_YeahWeWon_FR::
 	.string "Ouais!\n"
 	.string "On a gagné!$"
 
-Pokedude_Text_WeakenMonBeforeCatching::
+Pokedude_Text_WeakenMonBeforeCatching_FR::
 	.string "POTE POKéMON: Ne lance pas tes\n"
 	.string "POKé BALLS immédiatement quand\p"
 	.string "tu essaies d'attraper un POKéMON.\p"
 	.string "Il faut d'abord l'affaiblir en\n"
 	.string "diminuant ses PV.$"
 
-Pokedude_Text_BestIfTargetStatused::
+Pokedude_Text_BestIfTargetStatused_FR::
 	.string "OK, ça devrait suffire.\p"
 	.string "Mais ça serait encore mieux si la\n"
 	.string "cible avait un problème de statut.\p"
@@ -116,7 +116,7 @@ Pokedude_Text_BestIfTargetStatused::
 	.string "à attraper s'il était endormi\p"
 	.string "ou paralysé.$"
 
-Pokedude_Text_CantDoubleUpOnStatus::
+Pokedude_Text_CantDoubleUpOnStatus_FR::
 	.string "Avec ça, le POKéMON sera bien\n"
 	.string "plus facile à attraper!\p"
 	.string "Mais si tu paralyses un POKéMON, \n"
@@ -124,11 +124,11 @@ Pokedude_Text_CantDoubleUpOnStatus::
 	.string "En résumé, tu ne peux pas doubler\n"
 	.string "les problèmes de statut, compris?$"
 
-Pokedude_Text_LetMeThrowBall::
+Pokedude_Text_LetMeThrowBall_FR::
 	.string "OK, laisse-moi lancer une\n"
 	.string "POKé BALL!$"
 
-Pokedude_Text_PickBestKindOfBall::
+Pokedude_Text_PickBestKindOfBall_FR::
 	.string "Avant de lancer une POKé BALL,\n"
 	.string "pense à la condition et au type du\l"
 	.string "POKéMON pour choisir la BALL\l"

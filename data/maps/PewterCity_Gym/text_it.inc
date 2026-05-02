@@ -1,4 +1,4 @@
-PewterCity_Gym_Text_BrockIntro::
+PewterCity_Gym_Text_BrockIntro_IT::
     .string "Sono BROCK!\n"
     .string "Il CAPOPALESTRA di PLUMBEOPOLI!\p"
     .string "Il mio motto è determinazione e\n"
@@ -12,7 +12,7 @@ PewterCity_Gym_Text_BrockIntro::
 @ NOTE: This defeat text actually causes a buffer overflow. It's too long for the gDisplayedStringBattle
 @ buffer that it's put into, and it stomps all over the gBattleTextBuffs after, as well as the otherwise
 @ unused array after that, sFlickerArray. Perhaps that's the reason why said array exists.
-PewterCity_Gym_Text_BrockDefeat::
+PewterCity_Gym_Text_BrockDefeat_IT::
     .string "Ti avevo sottovalutato!\p"
     .string "Quale premio per la tua vittoria,\n"
     .string "ti conferisco la MEDAGLIA SASSO!\p"
@@ -28,15 +28,15 @@ PewterCity_Gym_Text_BrockDefeat::
     .string "in squadra deve conoscere questa\l"
     .string "mossa.$"
 
-PewterCity_Gym_Text_TakeThisWithYou::
+PewterCity_Gym_Text_TakeThisWithYou_IT::
     .string "Aspetta!\n"
     .string "Porta questo con te!$"
 
-PewterCity_Gym_Text_ReceivedTM39FromBrock::
+PewterCity_Gym_Text_ReceivedTM39FromBrock_IT::
     .string "{PLAYER} riceve\n"
     .string "la MT39!$"
 
-PewterCity_Gym_Text_ExplainTM39::
+PewterCity_Gym_Text_ExplainTM39_IT::
     .string "Una MT contiene una tecnica che\n"
     .string "puoi insegnare ad un POKéMON!\p"
     .string "Puoi usare la MT una sola volta!\n"
@@ -47,7 +47,7 @@ PewterCity_Gym_Text_ExplainTM39::
     .string "all'avversario per ridurne la\l"
     .string "VELOCITÀ.$"
 
-PewterCity_Gym_Text_BrockPostBattle::
+PewterCity_Gym_Text_BrockPostBattle_IT::
     .string "Nel mondo ci sono ALLENATORI di\n"
     .string "tutti i tipi!\p"
     .string "Sembri essere un ALLENATORE di\n"
@@ -55,24 +55,24 @@ PewterCity_Gym_Text_BrockPostBattle::
     .string "Vai nella PALESTRA di CELESTOPOLI\n"
     .string "e metti alla prova la tua abilità!$"
 
-PewterCity_Gym_Text_DontHaveRoomForThis::
+PewterCity_Gym_Text_DontHaveRoomForThis_IT::
     .string "Non hai più spazio per questo!$"
 
-PewterCity_Gym_Text_LiamIntro::
+PewterCity_Gym_Text_LiamIntro_IT::
     .string "Altolà!\n"
     .string "Dove vai?\p"
     .string "Ci vorranno anni luce prima che tu\n"
     .string "possa competere con BROCK!$"
 
-PewterCity_Gym_Text_LiamDefeat::
+PewterCity_Gym_Text_LiamDefeat_IT::
     .string "Uffa!\p"
     .string "Gli anni luce non indicano il tempo\n"
     .string "ma la distanza!$"
 
-PewterCity_Gym_Text_LiamPostBattle::
+PewterCity_Gym_Text_LiamPostBattle_IT::
     .string "Sei forte ma non quanto BROCK!$"
 
-PewterCity_Gym_Text_LetMeTakeYouToTheTop::
+PewterCity_Gym_Text_LetMeTakeYouToTheTop_IT::
     .string "Ehi!\n"
     .string "Hai tutte le carte in regola per\l"
     .string "fare grandi cose con i POKéMON!\p"
@@ -81,32 +81,32 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
     .string "Ti porterò ai massimi livelli!\p"
     .string "Allora, li vuoi un paio di consigli?$"
 
-PewterCity_Gym_Text_LetsGetHappening::
+PewterCity_Gym_Text_LetsGetHappening_IT::
     .string "Tutto ok?\n"
     .string "Allora via!$"
 
-PewterCity_Gym_Text_TryDifferentPartyOrders::
+PewterCity_Gym_Text_TryDifferentPartyOrders_IT::
     .string "Il primo POKéMON a scendere in\n"
     .string "campo è il primo della LISTA\l"
     .string "POKéMON!\p"
     .string "Cambiando l'ordine dei POKéMON,\n"
     .string "la lotta può essere più facile!$"
 
-PewterCity_Gym_Text_ItsFreeLetsGetHappening::
+PewterCity_Gym_Text_ItsFreeLetsGetHappening_IT::
     .string "Guarda che non si paga!\n"
     .string "Dai, senti qua!$"
 
-PewterCity_Gym_Text_YoureChampMaterial::
+PewterCity_Gym_Text_YoureChampMaterial_IT::
     .string "Come pensavo! Hai la stoffa del\n"
     .string "campione di POKéMON!$"
 
-PewterCity_Gym_Text_GymStatue::
+PewterCity_Gym_Text_GymStatue_IT::
     .string "CAPOPALESTRA di PLUMBEOPOLI:\n"
     .string "BROCK\p"
     .string "ALLENATORI VINCENTI:\n"
     .string "{RIVAL}$"
 
-PewterCity_Gym_Text_GymStatuePlayerWon::
+PewterCity_Gym_Text_GymStatuePlayerWon_IT::
     .string "CAPOPALESTRA di PLUMBEOPOLI:\n"
     .string "BROCK\p"
     .string "ALLENATORI VINCENTI:\n"

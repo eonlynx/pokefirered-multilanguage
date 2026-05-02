@@ -1,8 +1,8 @@
-CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons_DE::
 	.string "EVOLI kann sich zu einem von drei\n"
 	.string "verschiedenen POKéMON entwickeln.$"
 
-CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail_DE::
 	.string "Eine E-Mail ist angekommen!\p"
 	.string "...\p"
 	.string "ARKTOS, ZAPDOS und LAVADOS sind\n"
@@ -15,6 +15,6 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
 	.string "Von: POKéMON-FORSCHUNGSTEAM\p"
 	.string "...$"
 
-CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe_DE::
 	.string "Eine Pfeife aus Bernstein!$"
 

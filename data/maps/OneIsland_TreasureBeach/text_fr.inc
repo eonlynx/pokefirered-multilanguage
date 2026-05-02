@@ -1,16 +1,16 @@
-OneIsland_TreasureBeach_Text_AmaraIntro::
+OneIsland_TreasureBeach_Text_AmaraIntro_FR::
 	.string "Se faire balloter par les vagues…\n"
 	.string "J'adore!$"
 
-OneIsland_TreasureBeach_Text_AmaraDefeat::
+OneIsland_TreasureBeach_Text_AmaraDefeat_FR::
 	.string "J'ai perdu…\n"
 	.string "C'est vraiment trop injuste.$"
 
-OneIsland_TreasureBeach_Text_AmaraPostBattle::
+OneIsland_TreasureBeach_Text_AmaraPostBattle_FR::
 	.string "L'eau est vraiment à la température\n"
 	.string "idéale par ici.$"
 
-OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach::
+OneIsland_TreasureBeach_Text_GoodThingsWashUpOnBeach_FR::
 	.string "Le courant dépose souvent plein\n"
 	.string "d'objets sur la plage.\p"
 	.string "Je viens souvent voir s'il n'y a\n"

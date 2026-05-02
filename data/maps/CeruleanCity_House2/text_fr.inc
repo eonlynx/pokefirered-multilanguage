@@ -1,4 +1,4 @@
-CeruleanCity_House2_Text_RocketsStoleTMForDig::
+CeruleanCity_House2_Text_RocketsStoleTMForDig_FR::
 	.string "Ces ROCKET, ils sont si méchants!\p"
 	.string "Regarde ce qu'ils ont fait ici!\p"
 	.string "Ils m'ont volé une CT pour\n"
@@ -9,17 +9,17 @@ CeruleanCity_House2_Text_RocketsStoleTMForDig::
 	.string "Elle m'avait coûté les yeux de\n"
 	.string "la tête!$"
 
-CeruleanCity_House2_Text_TeachDiglettDigWithoutTM::
+CeruleanCity_House2_Text_TeachDiglettDigWithoutTM_FR::
 	.string "Contre mauvaise fortune bon cœur!\p"
 	.string "Je vais apprendre à mon\n"
 	.string "TAUPIQUEUR à creuser des\l"
 	.string "TUNNELS sans CT!$"
 
-CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood::
+CeruleanCity_House2_Text_TeamRocketTryingToDigIntoNoGood_FR::
 	.string "La TEAM ROCKET doit maintenant\n"
 	.string "creuser des TUNNELS partout!$"
 
-CeruleanCity_House2_Text_TeamRocketLeftWayOut::
+CeruleanCity_House2_Text_TeamRocketLeftWayOut_FR::
 	.string "La TEAM ROCKET a creusé une\n"
 	.string "nouvelle sortie!$"
 

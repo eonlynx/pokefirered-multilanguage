@@ -1,36 +1,36 @@
-LavenderTown_House2_Text_WantMeToRateNicknames::
+LavenderTown_House2_Text_WantMeToRateNicknames_DE::
 	.string "Hallo! Ich bin der offizielle\n"
 	.string "NAMEN-BEWERTER!\p"
 	.string "Soll ich die Spitznamen deiner\n"
 	.string "POKéMON bewerten?$"
 
-LavenderTown_House2_Text_CritiqueWhichMonsNickname::
+LavenderTown_House2_Text_CritiqueWhichMonsNickname_DE::
 	.string "Für welches POKéMON soll ich den\n"
 	.string "Kosenamen bewerten?$"
 
-LavenderTown_House2_Text_GiveItANicerName::
+LavenderTown_House2_Text_GiveItANicerName_DE::
 	.string "Der Spitzname ist {STR_VAR_1},\n"
 	.string "oder? Ein schöner Name!\p"
 	.string "Gefällt er dir noch immer, oder\n"
 	.string "möchtest du ihn ändern?\p"
 	.string "Was möchtest du?$"
 
-LavenderTown_House2_Text_WhatShallNewNicknameBe::
+LavenderTown_House2_Text_WhatShallNewNicknameBe_DE::
 	.string "Sehr schön! Und wie soll der neue\n"
 	.string "Kosename lauten?$"
 
-LavenderTown_House2_Text_FromNowOnShallBeKnownAsName::
+LavenderTown_House2_Text_FromNowOnShallBeKnownAsName_DE::
 	.string "Fertig! Von nun an heißt dein\n"
 	.string "POKéMON {STR_VAR_1}!\p"
 	.string "Das ist ein besserer Name als der\n"
 	.string "vorherige. Welch ein Glück für\l"
 	.string "dich!$"
 
-LavenderTown_House2_Text_ISeeComeVisitAgain::
+LavenderTown_House2_Text_ISeeComeVisitAgain_DE::
 	.string "Ich verstehe.\n"
 	.string "Komm mich wieder besuchen.$"
 
-LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
+LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName_DE::
 	.string "Fertig! Von nun an heißt dein\n"
 	.string "POKéMON {STR_VAR_1}!\p"
 	.string "Eigentlich unterscheidet sich der\n"
@@ -38,12 +38,12 @@ LavenderTown_House2_Text_FromNowOnShallBeKnownAsSameName::
 	.string "doch ist er um einiges besser!\p"
 	.string "Welch ein Glück!$"
 
-LavenderTown_House2_Text_TrulyImpeccableName::
+LavenderTown_House2_Text_TrulyImpeccableName_DE::
 	.string "{STR_VAR_1}! Ein wirklich tadelloser\n"
 	.string "Name!\p"
 	.string "Kümmere dich gut um {STR_VAR_1}!$"
 
-LavenderTown_House2_Text_ThatIsMerelyAnEgg::
+LavenderTown_House2_Text_ThatIsMerelyAnEgg_DE::
 	.string "Mhm, mhm...\n"
 	.string "Das ist eigentlich ein EI!$"
 

@@ -1,4 +1,4 @@
-Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
+Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30_DE::
 	.string "Hallo! Erinnerst du dich?\n"
 	.string "Ich bin PROF. EICHs ASSISTENT!\p"
 	.string "Wenn du mindestens {STR_VAR_1} verschiedene\n"
@@ -8,17 +8,17 @@ Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
 	.string "Also, {PLAYER}, hast du {STR_VAR_1}\n"
 	.string "unterschiedliche POKéMON gefangen?$"
 
-Route11_EastEntrance_2F_Text_GreatHereYouGo::
+Route11_EastEntrance_2F_Text_GreatHereYouGo_DE::
 	.string "Super! Du hast {STR_VAR_3} verschiedene\n"
 	.string "POKéMON gefangen!\p"
 	.string "Einfach klasse! Hier, das hast du\n"
 	.string "dir redlich verdient!$"
 
-Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
+Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide_DE::
 	.string "{PLAYER} erhält\n"
 	.string "{STR_VAR_2}!$"
 
-Route11_EastEntrance_2F_Text_ExplainItemfinder::
+Route11_EastEntrance_2F_Text_ExplainItemfinder_DE::
 	.string "Auf dem Boden liegen oft Items,\n"
 	.string "die man nicht sehen kann.\p"
 	.string "Der DETEKTOR spürt Items in deiner\n"
@@ -30,16 +30,16 @@ Route11_EastEntrance_2F_Text_ExplainItemfinder::
 	.string "Benutze ihn, um dich zu orientieren\n"
 	.string "und suche dann manuell!$"
 
-Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
+Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad_DE::
 	.string "Du schaust durch das Fernrohr.\p"
 	.string "Mitten auf dem Weg schläft ein\n"
 	.string "großes POKéMON!$"
 
-Route11_EastEntrance_2F_Text_WhatABreathtakingView::
+Route11_EastEntrance_2F_Text_WhatABreathtakingView_DE::
 	.string "Du schaust durch das Fernrohr.\p"
 	.string "Du hast eine wunderschöne Aussicht!$"
 
-Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
+Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender_DE::
 	.string "Du schaust durch das Fernrohr.\p"
 	.string "Der einzige Weg von AZURIA CITY\n"
 	.string "nach LAVANDIA führt durch den\l"

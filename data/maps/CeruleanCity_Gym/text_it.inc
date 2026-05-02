@@ -1,4 +1,4 @@
-CeruleanCity_Gym_Text_MistyIntro::
+CeruleanCity_Gym_Text_MistyIntro_IT::
     .string "Ciao! Non t'ho mai visto da queste\n"
     .string "parti!\p"
     .string "Gli ALLENATORI professionisti\n"
@@ -10,11 +10,11 @@ CeruleanCity_Gym_Text_MistyIntro::
     .string "totale con POKéMON di tipo\l"
     .string "ACQUA!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-CeruleanCity_Gym_Text_ExplainTM03::
+CeruleanCity_Gym_Text_ExplainTM03_IT::
     .string "La MT03 insegna IDROPULSAR!\p"
     .string "Usala sui POKéMON di tipo ACQUA!$"
 
-CeruleanCity_Gym_Text_ExplainCascadeBadge::
+CeruleanCity_Gym_Text_ExplainCascadeBadge_IT::
     .string "Con la MEDAGLIA CASCATA tutti i\n"
     .string "POKéMON fino al livello 30 ti\l"
     .string "obbediranno…\p"
@@ -26,45 +26,45 @@ CeruleanCity_Gym_Text_ExplainCascadeBadge::
     .string "aprire nuovi passaggi!\p"
     .string "Ti do anche la mia MT preferita!$"
 
-CeruleanCity_Gym_Text_ReceivedTM03FromMisty::
+CeruleanCity_Gym_Text_ReceivedTM03FromMisty_IT::
     .string "{PLAYER} riceve\n"
     .string "la MT03!$"
 
-CeruleanCity_Gym_Text_BetterMakeRoomForThis::
+CeruleanCity_Gym_Text_BetterMakeRoomForThis_IT::
     .string "Fai spazio per questo!$"
 
-CeruleanCity_Gym_Text_MistyDefeat::
+CeruleanCity_Gym_Text_MistyDefeat_IT::
     .string "Wow!\n"
     .string "Sei troppo forte!\p"
     .string "Molto bene!\p"
     .string "La MEDAGLIA CASCATA indicherà che\n"
     .string "mi hai sconfitto!$"
 
-CeruleanCity_Gym_Text_DianaIntro::
+CeruleanCity_Gym_Text_DianaIntro_IT::
     .string "Sono troppo forte per te!\p"
     .string "MISTY non si dovrà neppure\n"
     .string "scomodare!$"
 
-CeruleanCity_Gym_Text_DianaDefeat::
+CeruleanCity_Gym_Text_DianaDefeat_IT::
     .string "Mi hai sconfitto!$"
 
-CeruleanCity_Gym_Text_DianaPostBattle::
+CeruleanCity_Gym_Text_DianaPostBattle_IT::
     .string "Devi misurarti con altri ALLENATORI\n"
     .string "per vedere quanto vali davvero.$"
 
-CeruleanCity_Gym_Text_LuisIntro::
+CeruleanCity_Gym_Text_LuisIntro_IT::
     .string "Splash!\p"
     .string "Sono il primo!\n"
     .string "In guardia!$"
 
-CeruleanCity_Gym_Text_LuisDefeat::
+CeruleanCity_Gym_Text_LuisDefeat_IT::
     .string "Non può essere!$"
 
-CeruleanCity_Gym_Text_LuisPostBattle::
+CeruleanCity_Gym_Text_LuisPostBattle_IT::
     .string "MISTY migliora continuamente!\p"
     .string "Non perderà certo contro di te!$"
 
-CeruleanCity_Gym_Text_GymGuyAdvice::
+CeruleanCity_Gym_Text_GymGuyAdvice_IT::
     .string "Ehi!\n"
     .string "Aspirante CAMPIONE!\p"
     .string "Un consiglio!\p"
@@ -75,19 +75,19 @@ CeruleanCity_Gym_Text_GymGuyAdvice::
     .string "POKéMON di tipo ERBA!\p"
     .string "O fulminarli con l'elettricità!$"
 
-CeruleanCity_Gym_Text_WeMakePrettyGoodTeam::
+CeruleanCity_Gym_Text_WeMakePrettyGoodTeam_IT::
     .string "Hai battuto MISTY!\n"
     .string "Te l'avevo detto!\p"
     .string "Tu e io insieme facciamo una bella\n"
     .string "squadra!$"
 
-CeruleanCity_Gym_Text_GymStatue::
+CeruleanCity_Gym_Text_GymStatue_IT::
     .string "PALESTRA di CELESTOPOLI:\n"
     .string "MISTY\p"
     .string "ALLENATORI VINCENTI:\n"
     .string "{RIVAL}$"
 
-CeruleanCity_Gym_Text_GymStatuePlayerWon::
+CeruleanCity_Gym_Text_GymStatuePlayerWon_IT::
     .string "PALESTRA di CELESTOPOLI:\n"
     .string "MISTY\p"
     .string "ALLENATORI VINCENTI:\n"

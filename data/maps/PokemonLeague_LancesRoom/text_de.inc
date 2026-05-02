@@ -1,4 +1,4 @@
-PokemonLeague_LancesRoom_Text_Intro::
+PokemonLeague_LancesRoom_Text_Intro_DE::
 	.string "Ich habe bereits von dir gehört,\n"
 	.string "{PLAYER}!\p"
 	.string "Ich bin SIEGFRIED, Drachen-\n"
@@ -14,7 +14,7 @@ PokemonLeague_LancesRoom_Text_Intro::
 	.string "Für dich endet der Ausflug in die\n"
 	.string "POKéMON LIGA hier, {PLAYER}!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_RematchIntro::
+PokemonLeague_LancesRoom_Text_RematchIntro_DE::
 	.string "Ah!\n"
 	.string "Du bist also zurückgekehrt,\l"
 	.string "{PLAYER}!\p"
@@ -31,12 +31,12 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
 	.string "Für dich endet der Ausflug in die\n"
 	.string "POKéMON LIGA hier, {PLAYER}!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_Defeat::
+PokemonLeague_LancesRoom_Text_Defeat_DE::
 	.string "Es ist vorbei!\p"
 	.string "Unfassbar! Du bist wahrlich ein\n"
 	.string "POKéMON-MEISTER!$"
 
-PokemonLeague_LancesRoom_Text_PostBattle::
+PokemonLeague_LancesRoom_Text_PostBattle_DE::
 	.string "Es ist kaum zu glauben! Meine\n"
 	.string "Drachen sind an dir gescheitert,\l"
 	.string "{PLAYER}!\p"

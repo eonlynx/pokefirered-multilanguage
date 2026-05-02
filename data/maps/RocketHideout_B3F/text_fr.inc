@@ -1,24 +1,24 @@
-RocketHideout_B3F_Text_Grunt1Intro::
+RocketHideout_B3F_Text_Grunt1Intro_FR::
 	.string "Ne te mêle plus des affaires de la\n"
 	.string "TEAM ROCKET!$"
 
-RocketHideout_B3F_Text_Grunt1Defeat::
+RocketHideout_B3F_Text_Grunt1Defeat_FR::
 	.string "Paf!\n"
 	.string "J'suis au tapis!$"
 
-RocketHideout_B3F_Text_Grunt1PostBattle::
+RocketHideout_B3F_Text_Grunt1PostBattle_FR::
 	.string "Le SCOPE SYLPHE?\n"
 	.string "Le bidule que le chef a volé?\p"
 	.string "Il est là, quelque part…$"
 
-RocketHideout_B3F_Text_Grunt2Intro::
+RocketHideout_B3F_Text_Grunt2Intro_FR::
 	.string "On nous a prévenus de ton arrivée!$"
 
-RocketHideout_B3F_Text_Grunt2Defeat::
+RocketHideout_B3F_Text_Grunt2Defeat_FR::
 	.string "Quoi?\n"
 	.string "J'ai perdu? NON!$"
 
-RocketHideout_B3F_Text_Grunt2PostBattle::
+RocketHideout_B3F_Text_Grunt2PostBattle_FR::
 	.string "Allez, continue!\p"
 	.string "Mais il te faut la CLE ASC. pour\n"
 	.string "l'ascenseur!$"

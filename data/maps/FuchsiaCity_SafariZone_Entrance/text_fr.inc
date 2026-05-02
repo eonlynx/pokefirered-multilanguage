@@ -1,52 +1,52 @@
-FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone::
+FuchsiaCity_SafariZone_Entrance_Text_WelcomeToSafariZone_FR::
 	.string "Bienvenue au PARC SAFARI!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500::
+FuchsiaCity_SafariZone_Entrance_Text_PlaySafariGameFor500_FR::
 	.string "Pour juste 500¥, tu peux attraper\n"
 	.string "autant de POKéMON qu'il te plaira\l"
 	.string "dans le parc!\p"
 	.string "Qu'en dis-tu?$"
 
-FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls::
+FuchsiaCity_SafariZone_Entrance_Text_ThatllBe500WeOnlyUseSpecialBalls_FR::
 	.string "Ça fera 500¥ siouplaît!\p"
 	.string "Seul un certain type de POKé BALL\n"
 	.string "est utilisé ici.$"
 
-FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls::
+FuchsiaCity_SafariZone_Entrance_Text_PlayerReceived30SafariBalls_FR::
 	.string "{PLAYER} reçoit\n"
 	.string "30 SAFARI BALLS!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut::
+FuchsiaCity_SafariZone_Entrance_Text_CallYouOnPAWhenYouRunOut_FR::
 	.string "J'utiliserai le HAUT-PARLEUR\n"
 	.string "lorsque ton temps ou tes SAFARI\l"
 	.string "BALLS seront épuisés!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain::
+FuchsiaCity_SafariZone_Entrance_Text_OkayPleaseComeAgain_FR::
 	.string "Très bien!\n"
 	.string "A plus tard!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney::
+FuchsiaCity_SafariZone_Entrance_Text_OopsNotEnoughMoney_FR::
 	.string "Hop hop hop!\n"
 	.string "Pas d'sous!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly::
+FuchsiaCity_SafariZone_Entrance_Text_GoingToLeaveSafariZoneEarly_FR::
 	.string "On part déjà?$"
 
-FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls::
+FuchsiaCity_SafariZone_Entrance_Text_PleaseReturnSafariBalls_FR::
 	.string "Donne-moi donc tes SAFARI BALLS\n"
 	.string "neuves.$"
 
-FuchsiaCity_SafariZone_Entrance_Text_GoodLuck::
+FuchsiaCity_SafariZone_Entrance_Text_GoodLuck_FR::
 	.string "Bonne chance!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain::
+FuchsiaCity_SafariZone_Entrance_Text_CatchFairShareComeAgain_FR::
 	.string "Bonne chasse?\n"
 	.string "Allez… A plus tard!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone::
+FuchsiaCity_SafariZone_Entrance_Text_FirstTimeAtSafariZone_FR::
 	.string "C'est… c'est la première fois?$"
 
-FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
+FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone_FR::
 	.string "Le PARC SAFARI a 4 zones.\p"
 	.string "Tu y trouveras des POKéMON\n"
 	.string "différents dans chaque zone. \l"
@@ -67,6 +67,6 @@ FuchsiaCity_SafariZone_Entrance_Text_ExplainSafariZone::
 	.string "nouvelle boîte de POKéMON pour\l"
 	.string "avoir plus de place!$"
 
-FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere::
+FuchsiaCity_SafariZone_Entrance_Text_SorryYoureARegularHere_FR::
 	.string "Oh! Tu connais alors!$"
 

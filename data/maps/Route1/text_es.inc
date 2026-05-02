@@ -1,4 +1,4 @@
-Route1_Text_WorkAtPokeMartTakeSample::
+Route1_Text_WorkAtPokeMartTakeSample_ES::
     .string "¡Hola!\n"
     .string "Trabajo en una TIENDA POKéMON.\p"
     .string "Tenemos muchas cosas. Visítanos\n"
@@ -6,22 +6,22 @@ Route1_Text_WorkAtPokeMartTakeSample::
     .string "¡Mira, te daré una muestra!\n"
     .string "¡Aquí tienes!$"
 
-Route1_Text_ComeSeeUsIfYouNeedPokeBalls::
+Route1_Text_ComeSeeUsIfYouNeedPokeBalls_ES::
     .string "¡También tenemos POKé BALLS\n"
     .string "para capturar los POKéMON!$"
 
-Route1_Text_PutPotionAway::
+Route1_Text_PutPotionAway_ES::
     .string "{PLAYER} puso la POCIÓN\n"
     .string "en el BOLSILLO de OBJETOS\l"
     .string "de la MOCHILA.$"
 
-Route1_Text_CanJumpFromLedges::
+Route1_Text_CanJumpFromLedges_ES::
     .string "¿Ves esos bordes del camino?\p"
     .string "Dan miedo, pero puedes saltar\n"
     .string "por encima de ellos.\p"
     .string "¡De esa forma podrás volver más\n"
     .string "rápidamente a PUEBLO PALETA!$"
 
-Route1_Text_RouteSign::
+Route1_Text_RouteSign_ES::
     .string "RUTA 1:\n"
     .string "PUEBLO PALETA - CIUDAD VERDE$"

@@ -1,4 +1,4 @@
-PokemonLeague_AgathasRoom_Text_Intro::
+PokemonLeague_AgathasRoom_Text_Intro_ES::
     .string "¡Yo soy AGATHA, del ALTO MANDO!\p"
     .string "He oído que OAK te tiene\n"
     .string "mucha admiración, criatura.\p"
@@ -12,7 +12,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
     .string "¡{PLAYER}! ¡Yo te enseñaré cómo\n"
     .string "lucha un gran ENTRENADOR!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_RematchIntro::
+PokemonLeague_AgathasRoom_Text_RematchIntro_ES::
     .string "¡Yo soy AGATHA, del ALTO MANDO!\p"
     .string "He oído que eres el ojito derecho\n"
     .string "de OAK, ¿eh?\p"
@@ -26,10 +26,10 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "¡{PLAYER}! ¡Yo te enseñaré cómo\n"
     .string "lucha un gran ENTRENADOR!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_Defeat::
+PokemonLeague_AgathasRoom_Text_Defeat_ES::
     .string "¡Oh, oh!\n¡Eres bastante especial!$"
 
-PokemonLeague_AgathasRoom_Text_PostBattle::
+PokemonLeague_AgathasRoom_Text_PostBattle_ES::
     .string "¡Tú ganas!\p"
     .string "¡Ya sé por qué ese viejo\n"
     .string "inútil te aprecia tanto!\p"

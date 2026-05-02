@@ -1,20 +1,20 @@
 @ The text here is a copy/paste from Hoenn's Eon Ticket event, all unused and untranslated
 
-Text_DadLetterArrivedForYouPlayer::
+Text_DadLetterArrivedForYouPlayer_ES::
 	.string "パパ“{PLAYER}！　よく　きたな！\n"
 	.string "{PLAYER}あての　てがみが　とどけられたぞ$"
 
-Text_DadPassForShipNeverSeenBefore::
+Text_DadPassForShipNeverSeenBefore_ES::
 	.string "パパ“わたしも　みたことのない\n"
 	.string "ふねの　チケット　だな‥‥\l"
 	.string "ミナモに　いってみると　いいだろう$"
 
-Text_FerryToSlateportOhThatPass::
+Text_FerryToSlateportOhThatPass_ES::
 	.string "カイナいき　れんらくせん‥‥\p"
 	.string "あら？\n"
 	.string "その　チケットは‥‥！$"
 
-Text_YoureOneWhoBroughtOddPass::
+Text_YoureOneWhoBroughtOddPass_ES::
 	.string "ヘンテコな　チケットを\n"
 	.string "もってきたのは　おまえさんか？\p"
 	.string "おまえが　いこうと　しているのは\n"
@@ -24,21 +24,21 @@ Text_YoureOneWhoBroughtOddPass::
 	.string "ううむ　ふなのりの　ちが　さわぐぜ！\p"
 	.string "さあ　のりな！$"
 
-Text_NothingHereSailBackToLilycove::
+Text_NothingHereSailBackToLilycove_ES::
 	.string "なにもねえ　ちんけな　しま　だな‥‥\n"
 	.string "ミナモへ　かえるか？$"
 
-Text_SailHomeWeWill::
+Text_SailHomeWeWill_ES::
 	.string "よし！　かえると　するか！$"
 
-Text_AsYouLikeThen::
+Text_AsYouLikeThen_ES::
 	.string "そうかい\n"
 	.string "まあ　すきにするが　いいさ$"
 
-SouthernIsland_Interior_Text_Sign::
+SouthernIsland_Interior_Text_Sign_ES::
 	.string "すべての　ゆめは　もうひとつの　げんじつ\n"
 	.string "それを　わすれるべからず‥‥$"
 
-SouthernIsland_Exterior_Text_Sign::
+SouthernIsland_Exterior_Text_Sign_ES::
 	.string "きおく　かすみし　ものは\n"
 	.string "こころに　きざみつける　ことを　のぞむ‥‥$"

@@ -1,4 +1,4 @@
-FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
+FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland_DE::
 	.string "Ein wunderbarer, starker TRAINER\n"
 	.string "ist hier aufgewachsen.\p"
 	.string "Ich wette, du kennst sie auch. Es\n"
@@ -7,7 +7,7 @@ FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
 	.string "ich ihr viel über POKéMON\l"
 	.string "beigebracht!$"
 
-FourIsland_Mart_Text_IcefallCaveIsFrigid::
+FourIsland_Mart_Text_IcefallCaveIsFrigid_DE::
 	.string "SEVII EILAND liegt in \n"
 	.string "warmen Gefilden.\p"
 	.string "Aber es gibt eine Ausnahme, die\n"

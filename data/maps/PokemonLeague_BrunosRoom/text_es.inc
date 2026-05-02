@@ -1,4 +1,4 @@
-PokemonLeague_BrunosRoom_Text_Intro::
+PokemonLeague_BrunosRoom_Text_Intro_ES::
     .string "¡Yo soy BRUNO, del ALTO MANDO!\p"
     .string "¡Con un riguroso entrenamiento,\n"
     .string "la gente y los POKéMON pueden\l"
@@ -11,7 +11,7 @@ PokemonLeague_BrunosRoom_Text_Intro::
     .string "gran fuerza!\p"
     .string "¡Ja, ja, ja!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_RematchIntro::
+PokemonLeague_BrunosRoom_Text_RematchIntro_ES::
     .string "¡Yo soy BRUNO, del ALTO MANDO!\p"
     .string "¡Con un riguroso entrenamiento,\n"
     .string "la gente y los POKéMON pueden\l"
@@ -24,9 +24,9 @@ PokemonLeague_BrunosRoom_Text_RematchIntro::
     .string "gran fuerza!\p"
     .string "¡Ja, ja, ja!{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_Defeat::
+PokemonLeague_BrunosRoom_Text_Defeat_ES::
     .string "¿Qué?\n¿Cómo he podido perder?$"
 
-PokemonLeague_BrunosRoom_Text_PostBattle::
+PokemonLeague_BrunosRoom_Text_PostBattle_ES::
     .string "¡Yo ya he hecho mi trabajo!\n"
     .string "¡Te espera tu próximo desafío!$"

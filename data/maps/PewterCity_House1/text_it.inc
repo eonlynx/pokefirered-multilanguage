@@ -1,10 +1,10 @@
-PewterCity_House1_Text_Nidoran::
+PewterCity_House1_Text_Nidoran_IT::
     .string "NIDORAN♂: Nidoor!$"
 
-PewterCity_House1_Text_NidoranSit::
+PewterCity_House1_Text_NidoranSit_IT::
     .string "NIDORAN, cuccia!$"
 
-PewterCity_House1_Text_TradeMonsAreFinicky::
+PewterCity_House1_Text_TradeMonsAreFinicky_IT::
     .string "Questo è un POKéMON acquisito ed\n"
     .string "è difficile da trattare.\p"
     .string "Acquisito è un POKéMON scambiato\n"

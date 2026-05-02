@@ -1,7 +1,7 @@
-SafariZone_West_Text_RestHouse::
+SafariZone_West_Text_RestHouse_ES::
     .string "CASA DE REPOSO$"
 
-SafariZone_West_Text_PleaseFindWardensLostTeeth::
+SafariZone_West_Text_PleaseFindWardensLostTeeth_ES::
     .string "AVISO\p"
     .string "Encuentra los DIENTES de ORO\n"
     .string "perdidos del GUARDA del SAFARI.\l"
@@ -9,11 +9,11 @@ SafariZone_West_Text_PleaseFindWardensLostTeeth::
     .string "¡Se ofrece recompensa!\n"
     .string "Contactar con el GUARDA.$"
 
-SafariZone_West_Text_SearchForSecretHouse::
+SafariZone_West_Text_SearchForSecretHouse_ES::
     .string "PISTAS ENTRENADOR\p"
     .string "¡Operación Exploración de la zona!\n"
     .string "¡La búsqueda de la CASA SECRETA!$"
 
-SafariZone_West_Text_AreaSign::
+SafariZone_West_Text_AreaSign_ES::
     .string "ZONA 3\n"
     .string "ESTE: ZONA CENTRAL$"

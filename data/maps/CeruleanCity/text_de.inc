@@ -1,4 +1,4 @@
-CeruleanCity_Text_RivalIntro::
+CeruleanCity_Text_RivalIntro_DE::
 	.string "{RIVAL}: Hi, {PLAYER}!\p"
 	.string "Du bist also immer noch unterwegs!\p"
 	.string "Mir geht es bestens! Ich habe jede\n"
@@ -7,10 +7,10 @@ CeruleanCity_Text_RivalIntro::
 	.string "Zeig, was du gefangen hast,\n"
 	.string "{PLAYER}!$"
 
-CeruleanCity_Text_RivalDefeat::
+CeruleanCity_Text_RivalDefeat_DE::
 	.string "Heh, schon gut! Du hast gewonnen!$"
 
-CeruleanCity_Text_RivalPostBattle::
+CeruleanCity_Text_RivalPostBattle_DE::
 	.string "{RIVAL}: Soll ich dir was\n"
 	.string "verraten?\p"
 	.string "Ich war bei BILL und habe mir\n"
@@ -27,14 +27,14 @@ CeruleanCity_Text_RivalPostBattle::
 	.string "Na ja, ich hau ab!\n"
 	.string "Mach es gut!$"
 
-CeruleanCity_Text_OhRightLittlePresentAsFavor::
+CeruleanCity_Text_OhRightLittlePresentAsFavor_DE::
 	.string "Oh, ja, genau!\p"
 	.string "Du tust mir Leid. Nein, wirklich!\n"
 	.string "Du mühst dich immer so ab.\p"
 	.string "Darum will ich dir einen Gefallen\n"
 	.string "tun und schenke dir das!$"
 
-CeruleanCity_Text_ExplainFameCheckerSmellYa::
+CeruleanCity_Text_ExplainFameCheckerSmellYa_DE::
 	.string "Ein redseliges Plappermaul wie du!\n"
 	.string "Das ist wie für dich geschaffen!\p"
 	.string "Ich brauche es nicht, da ich mich\n"
@@ -43,44 +43,44 @@ CeruleanCity_Text_ExplainFameCheckerSmellYa::
 	.string "wirklich gehen. Tschüss!$"
 
 @ RB translation: "Heh! You're no match for my genius!"
-CeruleanCity_Text_RivalVictory::
+CeruleanCity_Text_RivalVictory_DE::
 	.string "なんたって！\n"
 	.string "おれは　てんさい　だからよ！$"
 
-CeruleanCity_Text_GruntIntro::
+CeruleanCity_Text_GruntIntro_DE::
 	.string "He! Bleib draußen! Du hast hier\n"
 	.string "nichts zu suchen! Was ich hier tue?\p"
 	.string "Ich bin nur ein unschuldiger\n"
 	.string "Passant! Was?\p"
 	.string "Glaubst du mir etwa nicht?$"
 
-CeruleanCity_Text_GruntDefeat::
+CeruleanCity_Text_GruntDefeat_DE::
 	.string "RÜPEL: Ist gut!\n"
 	.string "Ich gebe auf! Ich verschwinde!$"
 
-CeruleanCity_Text_OkayIllReturnStolenTM::
+CeruleanCity_Text_OkayIllReturnStolenTM_DE::
 	.string "O.K.! Ich gebe die gestohlene TM\n"
 	.string "zurück!$"
 
-CeruleanCity_Text_RecoveredTM28FromGrunt::
+CeruleanCity_Text_RecoveredTM28FromGrunt_DE::
 	.string "{PLAYER} erhält\n"
 	.string "TM28!$"
 
-CeruleanCity_Text_BetterGetMovingBye::
+CeruleanCity_Text_BetterGetMovingBye_DE::
 	.string "Ich gehe wohl besser!\n"
 	.string "Tschüss!$"
 
-CeruleanCity_Text_MakeRoomForThisCantRun::
+CeruleanCity_Text_MakeRoomForThisCantRun_DE::
 	.string "Mach Platz für dieses coole Item!\p"
 	.string "Ich kann erst gehen, wenn ich es\n"
 	.string "dir gegeben habe!$"
 
-CeruleanCity_Text_TrainerLifeIsToughIsntIt::
+CeruleanCity_Text_TrainerLifeIsToughIsntIt_DE::
 	.string "Du bist auch ein TRAINER?\p"
 	.string "Zu sammeln und zu kämpfen ist nicht\n"
 	.string "immer so leicht!$"
 
-CeruleanCity_Text_YouCanCutDownSmallTrees::
+CeruleanCity_Text_YouCanCutDownSmallTrees_DE::
 	.string "POKéMON können Büsche mit dem\n"
 	.string "ZERSCHNEIDER klein hacken.\p"
 	.string "Auch der kleine Baum vor dem\n"
@@ -88,7 +88,7 @@ CeruleanCity_Text_YouCanCutDownSmallTrees::
 	.string "Aber es gibt auch einen anderen\n"
 	.string "Weg!$"
 
-CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
+CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree_DE::
 	.string "Wenn das LAHMUS nicht im Weg wäre,\n"
 	.string "könntest du den kleinen Baum\l"
 	.string "fällen.\p"
@@ -97,59 +97,59 @@ CeruleanCity_Text_IfSlowbroWasntThereCouldCutTree::
 	.string "Aber es gibt auch einen anderen\n"
 	.string "Weg!$"
 
-CeruleanCity_Text_PokemonEncyclopediaAmusing::
+CeruleanCity_Text_PokemonEncyclopediaAmusing_DE::
 	.string "Du erstellst eine Enzyklopädie der\n"
 	.string "POKéMON? Das klingt lustig!$"
 
-CeruleanCity_Text_PeopleHereWereRobbed::
+CeruleanCity_Text_PeopleHereWereRobbed_DE::
 	.string "Die Leute hier wurden beraubt.\p"
 	.string "Das TEAM ROCKET steckt hinter dem\n"
 	.string "abscheulichen Verbrechen!\p"
 	.string "Sogar die POLIZEI ist gegen das\n"
 	.string "TEAM ROCKET machtlos!$"
 
-CeruleanCity_Text_SlowbroUseSonicboom::
+CeruleanCity_Text_SlowbroUseSonicboom_DE::
 	.string "O.K.! LAHMUS!\n"
 	.string "Setze ULTRASCHALL ein!$"
 
-CeruleanCity_Text_SlowbroPayAttention::
+CeruleanCity_Text_SlowbroPayAttention_DE::
 	.string "Los, mach schon, LAHMUS!$"
 
-CeruleanCity_Text_SlowbroPunch::
+CeruleanCity_Text_SlowbroPunch_DE::
 	.string "LAHMUS, schlage zu!$"
 
-CeruleanCity_Text_NoYouBlewItAgain::
+CeruleanCity_Text_NoYouBlewItAgain_DE::
 	.string "Oh nein!\n"
 	.string "Wieder nicht...$"
 
-CeruleanCity_Text_SlowbroWithdraw::
+CeruleanCity_Text_SlowbroWithdraw_DE::
 	.string "LAHMUS, ZURÜCK!$"
 
-CeruleanCity_Text_HardToControlMonsObedience::
+CeruleanCity_Text_HardToControlMonsObedience_DE::
 	.string "Nein, nicht!!! Es ist schwer, ein\n"
 	.string "POKéMON zu kontrollieren!\p"
 	.string "Ob dein POKéMON gehorcht, hängt\n"
 	.string "von deinen Fähigkeiten als TRAINER\l"
 	.string "ab!$"
 
-CeruleanCity_Text_SlowbroTookSnooze::
+CeruleanCity_Text_SlowbroTookSnooze_DE::
 	.string "LAHMUS macht ein Nickerchen...$"
 
-CeruleanCity_Text_SlowbroLoafingAround::
+CeruleanCity_Text_SlowbroLoafingAround_DE::
 	.string "LAHMUS bummelt herum...$"
 
-CeruleanCity_Text_SlowbroTurnedAway::
+CeruleanCity_Text_SlowbroTurnedAway_DE::
 	.string "LAHMUS wendet sich ab...$"
 
-CeruleanCity_Text_SlowbroIgnoredOrders::
+CeruleanCity_Text_SlowbroIgnoredOrders_DE::
 	.string "LAHMUS ignoriert die Befehle...$"
 
-CeruleanCity_Text_WantBrightRedBicycle::
+CeruleanCity_Text_WantBrightRedBicycle_DE::
 	.string "Ich hätte gern ein rotes FAHRRAD!\p"
 	.string "Aber ich würde nicht damit fahren,\n"
 	.string "damit es nicht schmutzig wird!$"
 
-CeruleanCity_Text_ThisIsCeruleanCave::
+CeruleanCity_Text_ThisIsCeruleanCave_DE::
 	.string "Die AZURIA HÖHLE!\n"
 	.string "Dort leben extrem starke POKéMON!\p"
 	.string "Nur außergewöhnlichen TRAINERn\n"
@@ -160,12 +160,12 @@ CeruleanCity_Text_ThisIsCeruleanCave::
 	.string "Und du solltest bereits Großes\n"
 	.string "geleistet haben.$"
 
-CeruleanCity_Text_CitySign::
+CeruleanCity_Text_CitySign_DE::
 	.string "AZURIA CITY\n"
 	.string "Eine mysteriöse blaue Aura umgibt\l"
 	.string "die Stadt!$"
 
-CeruleanCity_Text_TrainerTipsHeldItems::
+CeruleanCity_Text_TrainerTipsHeldItems_DE::
 	.string "TIPPS FÜR TRAINER\p"
 	.string "Einem POKéMON kann ein\n"
 	.string "Item zum Halten gegeben werden.\p"
@@ -173,12 +173,12 @@ CeruleanCity_Text_TrainerTipsHeldItems::
 	.string "POKéMON im Kampf eingesetzt\l"
 	.string "werden.$"
 
-CeruleanCity_Text_BikeShopSign::
+CeruleanCity_Text_BikeShopSign_DE::
 	.string "FAHRRADLADEN\n"
 	.string "Fahre leicht und schnell mit dem\l"
 	.string "Rad durch Höhlen und Gras!$"
 
-CeruleanCity_Text_GymSign::
+CeruleanCity_Text_GymSign_DE::
 	.string "AZURIA CITY POKéMON-ARENA\n"
 	.string "ARENALEITERIN: MISTY\l"
 	.string "Die Burschikose Meerjungfrau!$"

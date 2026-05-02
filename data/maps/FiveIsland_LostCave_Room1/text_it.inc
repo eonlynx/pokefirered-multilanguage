@@ -1,12 +1,12 @@
-FiveIsland_LostCave_Room1_Text_LawsonIntro::
+FiveIsland_LostCave_Room1_Text_LawsonIntro_IT::
     .string "Aaah…\p"
     .string "Non sapevo che questo posto\n"
     .string "fosse infestato dai fantasmi!$"
 
-FiveIsland_LostCave_Room1_Text_LawsonDefeat::
+FiveIsland_LostCave_Room1_Text_LawsonDefeat_IT::
     .string "Pietà!!!$"
 
-FiveIsland_LostCave_Room1_Text_LawsonPostBattle::
+FiveIsland_LostCave_Room1_Text_LawsonPostBattle_IT::
     .string "Sto provando ad uscire da qui, ma\n"
     .string "ritorno sempre nello stesso posto!\p"
     .string "Forse il numero di massi può\n"

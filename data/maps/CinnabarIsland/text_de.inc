@@ -1,32 +1,32 @@
-CinnabarIsland_Text_DoorIsLocked::
+CinnabarIsland_Text_DoorIsLocked_DE::
 	.string "Die Tür ist verschlossen...$"
 
-CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab::
+CinnabarIsland_Text_BlaineLivedHereSinceBeforeLab_DE::
 	.string "PYRO, der ARENALEITER der\n"
 	.string "ZINNOBERINSEL, ist ein seltsamer\l"
 	.string "Mann. Er lebt hier seit Jahren.$"
 
-CinnabarIsland_Text_ScientistsExperimentInMansion::
+CinnabarIsland_Text_ScientistsExperimentInMansion_DE::
 	.string "Forscher experimentieren in dem\n"
 	.string "ausgebrannten Gebäude.$"
 
-CinnabarIsland_Text_IslandSign::
+CinnabarIsland_Text_IslandSign_DE::
 	.string "ZINNOBERINSEL\n"
 	.string "Die Stadt brennender Leidenschaft!$"
 
-CinnabarIsland_Text_PokemonLab::
+CinnabarIsland_Text_PokemonLab_DE::
 	.string "POKéMON-LABOR$"
 
-CinnabarIsland_Text_GymSign::
+CinnabarIsland_Text_GymSign_DE::
 	.string "ZINNOBERINSEL POKéMON-ARENA\n"
 	.string "ARENALEITER: PYRO\l"
 	.string "Der Hitzköpfige Quizmaster!$"
 
-CinnabarIsland_Text_HeyIfItIsntPlayer::
+CinnabarIsland_Text_HeyIfItIsntPlayer_DE::
 	.string "Häh?\n"
 	.string "Wenn das nicht {PLAYER} ist!$"
 
-CinnabarIsland_Text_ComeWithMeToOneIsland::
+CinnabarIsland_Text_ComeWithMeToOneIsland_DE::
 	.string "Ich bin es, BILL.\n"
 	.string "Lange nicht gesehen!\p"
 	.string "Ich hoffe, du benutzt noch mein\n"
@@ -42,11 +42,11 @@ CinnabarIsland_Text_ComeWithMeToOneIsland::
 	.string "Wie wär es?\n"
 	.string "Hast du Lust mitzukommen?$"
 
-CinnabarIsland_Text_AllRightLetsGo::
+CinnabarIsland_Text_AllRightLetsGo_DE::
 	.string "Einverstanden!\n"
 	.string "Und los!$"
 
-CinnabarIsland_Text_IllBeWaitingInPokeCenter::
+CinnabarIsland_Text_IllBeWaitingInPokeCenter_DE::
 	.string "Wie, du bist zu beschäftigt?\p"
 	.string "Nun gut.\n"
 	.string "Das Schiff hat noch nicht angelegt.\p"
@@ -55,14 +55,14 @@ CinnabarIsland_Text_IllBeWaitingInPokeCenter::
 	.string "Hol mich ab, wenn du deine\n"
 	.string "Geschäfte erledigt hast.$"
 
-CinnabarIsland_Text_MyPalsBoatArrived::
+CinnabarIsland_Text_MyPalsBoatArrived_DE::
 	.string "Scheint, dass das Schiff von\n"
 	.string "meinem Freund auch angekommen\l"
 	.string "ist.\l"
 	.string "Er hat es extra zur ZINNOBERINSEL\l"
 	.string "geschickt, um mich abzuholen.$"
 
-CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain::
+CinnabarIsland_Text_IfYouHaveTriPassYouCanGoAgain_DE::
 	.string "Das war eine lange Fahrt, oder?\p"
 	.string "Mein Kamerad CELIO scheint deine\n"
 	.string "Gegenwart genossen zu haben.\p"

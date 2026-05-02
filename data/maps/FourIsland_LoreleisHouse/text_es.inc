@@ -1,4 +1,4 @@
-FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
+FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland_ES::
     .string "LORELEI: No me puedo quitar una\n"
     .string "cosa de la cabeza...\p"
     .string "Si ocurriera algo a la isla en la\n"
@@ -8,7 +8,7 @@ FourIsland_LoreleisHouse_Text_IfAnythingWereToHappenToIsland::
     .string "Entonces, sería responsable\n"
     .string "de lo ocurrido, ¿no?$"
 
-FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
+FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile_ES::
     .string "LORELEI: ¿Que tú has solucionado\n"
     .string "todos los problemas?\p"
     .string "Qué maravilla...\p"
@@ -18,12 +18,12 @@ FourIsland_LoreleisHouse_Text_IllReturnToLeagueInShortWhile::
     .string "¡En ese caso, me volveré a la\n"
     .string "LIGA POKéMON!$"
 
-FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow::
+FourIsland_LoreleisHouse_Text_WillDoWhatICanHereAndNow_ES::
     .string "No sé qué pasará dentro de un\n"
     .string "tiempo, así que...\p"
     .string "Haré lo que tenga que hacer\n"
     .string "aquí y ahora.$"
 
-FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore::
+FourIsland_LoreleisHouse_Text_StuffedMonDollsGalore_ES::
     .string "¡Qué cantidad de MUÑECOS POKéMON\n"
     .string "de peluche!$"

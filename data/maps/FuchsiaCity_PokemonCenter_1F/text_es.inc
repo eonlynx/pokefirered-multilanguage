@@ -1,17 +1,17 @@
-FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon::
+FuchsiaCity_PokemonCenter_1F_Text_CantBecomeGoodTrainerWithOneMon_ES::
     .string "No puedes ganar sólo con\n"
     .string "un POKéMON fuerte.\p"
     .string "Es difícil, pero conviene\n"
     .string "entrenarlos a todos por igual.$"
 
-FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian::
+FuchsiaCity_PokemonCenter_1F_Text_PokemonLeagueWestOfViridian_ES::
     .string "Hay un estrecho camino al oeste\n"
     .string "de CIUDAD VERDE.\p"
     .string "Lleva al CG de la LIGA POKéMON.\n"
     .string "El CG gobierna a todos los\l"
     .string "ENTRENADORES.$"
 
-FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex::
+FuchsiaCity_PokemonCenter_1F_Text_VisitSafariZoneForPokedex_ES::
     .string "Visita la ZONA del SAFARI si estás\n"
     .string "estudiando a los POKéMON.\p"
     .string "¡Allí encontrarás todo tipo de\n"

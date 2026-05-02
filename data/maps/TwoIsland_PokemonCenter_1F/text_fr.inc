@@ -1,9 +1,9 @@
-TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner::
+TwoIsland_PokemonCenter_1F_Text_HaveYouVisitedGameCorner_FR::
 	.string "Tu connais la SALLE DE JEU?\p"
 	.string "Si tu y vas, n'oublie pas d'amener\n"
 	.string "des amis avec toi.$"
 
-TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape::
+TwoIsland_PokemonCenter_1F_Text_OldLadyLivesOutOnCape_FR::
 	.string "Peu de monde habite sur\n"
 	.string "l'ILE 2.\p"
 	.string "Il y a une vieille fille qui habite\n"

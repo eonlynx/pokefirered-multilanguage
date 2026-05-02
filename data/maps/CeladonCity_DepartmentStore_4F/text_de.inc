@@ -1,16 +1,16 @@
-CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent::
+CeladonCity_DepartmentStore_4F_Text_GettingPokeDollAsPresent_DE::
 	.string "Ich kaufe ein Geschenk für meine\n"
 	.string "Freundin.\p"
 	.string "Sie freut sich bestimmt über eine\n"
 	.string "POKéPUPPE!$"
 
-CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll::
+CeladonCity_DepartmentStore_4F_Text_CanRunAwayWithPokeDoll_DE::
 	.string "Ich habe einen Tipp bekommen!\p"
 	.string "Du kannst vor wilden POKéMON\n"
 	.string "fliehen, wenn du sie mit einer\l"
 	.string "POKéPUPPE ablenkst!$"
 
-CeladonCity_DepartmentStore_4F_Text_FloorSign::
+CeladonCity_DepartmentStore_4F_Text_FloorSign_DE::
 	.string "Bereite anderen mit Geschenken eine\n"
 	.string "Freude!\p"
 	.string "3S: GESCHENKARTIKEL\p"

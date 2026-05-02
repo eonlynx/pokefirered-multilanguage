@@ -1,50 +1,50 @@
-Help_Text_WhatShouldIDo::
+Help_Text_WhatShouldIDo_IT::
 	.string "Cosa faccio in questa situazione?$"
 
-Help_Text_HowDoIDoThis::
+Help_Text_HowDoIDoThis_IT::
 	.string "Come si usa questo?$"
 
-Help_Text_WhatDoesThisTermMean::
+Help_Text_WhatDoesThisTermMean_IT::
 	.string "Cosa significa questo termine?$"
 
-Help_Text_AboutThisGame::
+Help_Text_AboutThisGame_IT::
 	.string "Informazioni sul gioco$"
 
-Help_Text_TypeMatchupList::
+Help_Text_TypeMatchupList_IT::
 	.string "Combinazioni tra i tipi$"
 
-Help_Text_Exit::
+Help_Text_Exit_IT::
 	.string "ESCI$"
 
-Help_Text_Cancel::
+Help_Text_Cancel_IT::
 	.string "ESCI$"
 
-Help_Text_TryDoingItOnYourOwn::
+Help_Text_TryDoingItOnYourOwn_IT::
 	.string "じぶんの ちからで やってみよう！$"
 
-Help_Text_DescWhatShouldIDo::
+Help_Text_DescWhatShouldIDo_IT::
 	.string "Suggerimenti per affrontare\n"
 	.string "situazioni difficili.$"
 
-Help_Text_DescHowDoIDoThis::
+Help_Text_DescHowDoIDoThis_IT::
 	.string "Informazioni dettagliate su varie\n"
 	.string "azioni nel gioco.$"
 
-Help_Text_DescWhatDoesThisTermMean::
+Help_Text_DescWhatDoesThisTermMean_IT::
 	.string "Informazioni dettagliate su alcuni\n"
 	.string "termini che appaiono nel gioco.$"
 
-Help_Text_DescAboutThisGame::
+Help_Text_DescAboutThisGame_IT::
 	.string "Informazioni dettagliate sul gioco.$"
 
-Help_Text_DescTypeMatchupList::
+Help_Text_DescTypeMatchupList_IT::
 	.string "Tabella delle combinazioni tra i\n"
 	.string "vari tipi di POKéMON e mosse.$"
 
-Help_Text_DescExit::
+Help_Text_DescExit_IT::
 	.string "Esci dalla GUIDA.$"
 
-Help_Text_Greetings::
+Help_Text_Greetings_IT::
 	.string "Ciao! Questa è una GUIDA al gioco.\n"
 	.string "Ogni volta che ti trovi in difficoltà,\l"
 	.string "puoi richiamare la GUIDA premendo\l"
@@ -53,139 +53,139 @@ Help_Text_Greetings::
 	.string "la situazione. Quindi consultali\l"
 	.string "spesso!$"
 
-Help_Text_PlayingForFirstTime::
+Help_Text_PlayingForFirstTime_IT::
 	.string "È la prima volta che gioco. Aiuto!$"
 
-Help_Text_WhatShouldIBeDoing::
+Help_Text_WhatShouldIBeDoing_IT::
 	.string "Cosa devo fare?$"
 
-Help_Text_CantGetOutOfRoom::
+Help_Text_CantGetOutOfRoom_IT::
 	.string "Non riesco ad uscire da una stanza.$"
 
-Help_Text_CantFindPersonIWant::
+Help_Text_CantFindPersonIWant_IT::
 	.string "Non riesco a trovare qualcuno.$"
 
-Help_Text_TalkedToEveryoneNowWhat::
+Help_Text_TalkedToEveryoneNowWhat_IT::
 	.string "Ho parlato con tutti: e adesso?$"
 
-Help_Text_SomeoneBlockingMyWay::
+Help_Text_SomeoneBlockingMyWay_IT::
 	.string "Qualcuno mi blocca la strada.$"
 
-Help_Text_ICantGoOn::
+Help_Text_ICantGoOn_IT::
 	.string "Non posso proseguire.$"
 
-Help_Text_OutOfThingsToDo::
+Help_Text_OutOfThingsToDo_IT::
 	.string "Non so più cosa fare.$"
 
-Help_Text_WhatHappenedToItemIGot::
+Help_Text_WhatHappenedToItemIGot_IT::
 	.string "Dov'è lo strumento che ho ottenuto?$"
 
-Help_Text_WhatAreMyAdventureBasics::
+Help_Text_WhatAreMyAdventureBasics_IT::
 	.string "Su cosa si basa la mia avventura?$"
 
-Help_Text_HowAreRoadsForestsDifferent::
+Help_Text_HowAreRoadsForestsDifferent_IT::
 	.string "Come sono i boschi?$"
 
-Help_Text_HowAreCavesDifferent::
+Help_Text_HowAreCavesDifferent_IT::
 	.string "Cosa devo sapere sulle grotte?$"
 
-Help_Text_HowDoIProgress::
+Help_Text_HowDoIProgress_IT::
 	.string "Come vado avanti nel gioco?$"
 
-Help_Text_WhenCanIUseItem::
+Help_Text_WhenCanIUseItem_IT::
 	.string "Quando posso usare gli strumenti?$"
 
-Help_Text_WhatsABattle::
+Help_Text_WhatsABattle_IT::
 	.string "Cos'è una lotta?$"
 
-Help_Text_HowDoIPrepareForBattle::
+Help_Text_HowDoIPrepareForBattle_IT::
 	.string "Come mi preparo per la lotta?$"
 
-Help_Text_WhatIsAMonsVitality::
+Help_Text_WhatIsAMonsVitality_IT::
 	.string "Cos'è la vitalità di un POKéMON?$"
 
-Help_Text_MyMonsAreHurt::
+Help_Text_MyMonsAreHurt_IT::
 	.string "I miei POKéMON sono stati colpiti!$"
 
-Help_Text_WhatIsStatusProblem::
+Help_Text_WhatIsStatusProblem_IT::
 	.string "Cos'è un problema di stato?$"
 
-Help_Text_WhatHappensIfAllMyMonsFaint::
+Help_Text_WhatHappensIfAllMyMonsFaint_IT::
 	.string "E se tutti i miei POKéMON vanno KO?$"
 
-Help_Text_CantCatchMons::
+Help_Text_CantCatchMons_IT::
 	.string "Non riesco a catturare i POKéMON.$"
 
-Help_Text_RanOutOfPotions::
+Help_Text_RanOutOfPotions_IT::
 	.string "Non ho più POZIONI.$"
 
-Help_Text_CanIBuyPokeBalls::
+Help_Text_CanIBuyPokeBalls_IT::
 	.string "Dove acquisto le POKé BALL?$"
 
-Help_Text_WhatsATrainer::
+Help_Text_WhatsATrainer_IT::
 	.string "Cos'è un ALLENATORE?$"
 
-Help_Text_HowDoIWinAgainstTrainer::
+Help_Text_HowDoIWinAgainstTrainer_IT::
 	.string "Come posso battere un ALLENATORE?$"
 
-Help_Text_WhereDoMonsAppear::
+Help_Text_WhereDoMonsAppear_IT::
 	.string "Dove appaiono i POKéMON?$"
 
-Help_Text_WhatAreMoves::
+Help_Text_WhatAreMoves_IT::
 	.string "Cosa sono le mosse dei POKéMON?$"
 
-Help_Text_WhatAreHiddenMoves::
+Help_Text_WhatAreHiddenMoves_IT::
 	.string "Cosa sono le MACCHINE NASCOSTE?$"
 
-Help_Text_WhatMovesShouldIUse::
+Help_Text_WhatMovesShouldIUse_IT::
 	.string "Quali mosse devo usare?$"
 
-Help_Text_WantToAddMoreMoves::
+Help_Text_WantToAddMoreMoves_IT::
 	.string "Voglio avere più mosse.$"
 
-Help_Text_WantToMakeMonStronger::
+Help_Text_WantToMakeMonStronger_IT::
 	.string "Voglio rafforzare i miei POKéMON.$"
 
-Help_Text_FoeMonsTooStrong::
+Help_Text_FoeMonsTooStrong_IT::
 	.string "I POKéMON nemici sono troppo forti.$"
 
-Help_Text_WhatDoIDoInCave::
+Help_Text_WhatDoIDoInCave_IT::
 	.string "Cosa posso fare in una grotta?$"
 
-Help_Text_NothingIWantToKnow::
+Help_Text_NothingIWantToKnow_IT::
 	.string "Non c'è niente che voglio sapere.$"
 
-Help_Text_WhatsPokemonCenter::
+Help_Text_WhatsPokemonCenter_IT::
 	.string "Cos'è un CENTRO POKéMON?$"
 
-Help_Text_WhatsPokemonMart::
+Help_Text_WhatsPokemonMart_IT::
 	.string "Cos'è un POKéMON-MARKET?$"
 
-Help_Text_WantToEndGame::
+Help_Text_WantToEndGame_IT::
 	.string "Come esco dal gioco?$"
 
-Help_Text_WhatsAMon::
+Help_Text_WhatsAMon_IT::
 	.string "Cos'è un POKéMON?$"
 
-Help_Text_WhatIsThatPersonLike::
+Help_Text_WhatIsThatPersonLike_IT::
 	.string "Informazioni su questa persona?$"
 
-Help_Text_WhatDoesHiddenMoveDo::
+Help_Text_WhatDoesHiddenMoveDo_IT::
 	.string "Cosa fa una MACCHINA NASCOSTA?$"
 
-Help_Text_WhatDoIDoInSafari::
+Help_Text_WhatDoIDoInSafari_IT::
 	.string "Cos'è il GIOCO SAFARI?$"
 
-Help_Text_WhatAreSafariRules::
+Help_Text_WhatAreSafariRules_IT::
 	.string "Quali regole ha il GIOCO SAFARI?$"
 
-Help_Text_WantToEndSafari::
+Help_Text_WantToEndSafari_IT::
 	.string "Come interrompo il GIOCO SAFARI?$"
 
-Help_Text_WhatIsAGym::
+Help_Text_WhatIsAGym_IT::
 	.string "Cos'è una PALESTRA?$"
 
-Help_Text_AnswerPlayingForFirstTime::
+Help_Text_AnswerPlayingForFirstTime_IT::
 	.string "Esplora il mondo dei POKéMON nei\n"
 	.string "panni del personaggio principale!\l"
 	.string "Parlando con le persone che incontri\l"
@@ -194,7 +194,7 @@ Help_Text_AnswerPlayingForFirstTime::
 	.string "traguardo di questa fantastica\l"
 	.string "avventura insieme ai tuoi POKéMON.$"
 
-Help_Text_AnswerWhatShouldIBeDoing::
+Help_Text_AnswerWhatShouldIBeDoing_IT::
 	.string "Quando incontri qualcuno, avvicinati\n"
 	.string "e premi il pulsante A per parlargli.\l"
 	.string "Allo stesso modo puoi controllare\l"
@@ -202,7 +202,7 @@ Help_Text_AnswerWhatShouldIBeDoing::
 	.string "Così, otterrai informazioni utili\l"
 	.string "per proseguire nel gioco.$"
 
-Help_Text_AnswerCantGetOutOfRoom::
+Help_Text_AnswerCantGetOutOfRoom_IT::
 	.string "Quando sei in una stanza, vicino\n"
 	.string "all'uscita o in prossimità di una\l"
 	.string "rampa di scale trovi sempre un\l"
@@ -211,7 +211,7 @@ Help_Text_AnswerCantGetOutOfRoom::
 	.string "pulsantiera di comando {PLUS} in\l"
 	.string "direzione dell'uscita o delle scale.$"
 
-Help_Text_AnswerCantFindPersonIWant::
+Help_Text_AnswerCantFindPersonIWant_IT::
 	.string "Non preoccuparti troppo.\n"
 	.string "Continua a esplorare, parla con\l"
 	.string "quelli che incontri, controlla i\l"
@@ -219,12 +219,12 @@ Help_Text_AnswerCantFindPersonIWant::
 	.string "persona che cerchi, devi spostarti\l"
 	.string "in un'altra località.$"
 
-Help_Text_AnswerTalkedToEveryoneNowWhat::
+Help_Text_AnswerTalkedToEveryoneNowWhat_IT::
 	.string "Prova a spostarti in un altro\n"
 	.string "villaggio, a perlustrare una\l"
 	.string "nuova strada o un altro luogo.$"
 
-Help_Text_AnswerSomeoneBlockingMyWay::
+Help_Text_AnswerSomeoneBlockingMyWay_IT::
 	.string "La causa potrebbe trovarsi nella\n"
 	.string "città in cui ti trovi, magari in un\l"
 	.string "edificio. Parla con le persone della\l"
@@ -233,7 +233,7 @@ Help_Text_AnswerSomeoneBlockingMyWay::
 	.string "Dopo averli aiutati, parla di nuovo\l"
 	.string "con la persona che blocca la strada.$"
 
-Help_Text_AnswerICantGoOn::
+Help_Text_AnswerICantGoOn_IT::
 	.string "Parla sempre con tutti, avvicinandoti\n"
 	.string "e premendo il pulsante A. Controlla\l"
 	.string "tutti gli oggetti, come rocce o\l"
@@ -242,14 +242,14 @@ Help_Text_AnswerICantGoOn::
 	.string "sembrano inaccessibili possono essere\l"
 	.string "attraversati normalmente.$"
 
-Help_Text_AnswerOutOfThingsToDo::
+Help_Text_AnswerOutOfThingsToDo_IT::
 	.string "Prova a perlustrare aree che non hai\n"
 	.string "ancora visto. Mentre ti sposti,\l"
 	.string "ricorda di controllare con il\l"
 	.string "pulsante A qualsiasi cosa catturi la\l"
 	.string "tua attenzione.$"
 
-Help_Text_AnswerWhatHappenedToItemIGot::
+Help_Text_AnswerWhatHappenedToItemIGot_IT::
 	.string "Qualsiasi strumento tu riceva da un\n"
 	.string "altro personaggio va a finire\l"
 	.string "automaticamente in una delle tre\l"
@@ -258,7 +258,7 @@ Help_Text_AnswerWhatHappenedToItemIGot::
 	.string "controlla la sezione “Come\l"
 	.string "si usa questo?” della GUIDA.$"
 
-Help_Text_AnswerWhatAreMyAdventureBasics::
+Help_Text_AnswerWhatAreMyAdventureBasics_IT::
 	.string "Se i tuoi POKéMON sono stati\n"
 	.string "colpiti durante la lotta, puoi farli\l"
 	.string "ritornare in forma in un CENTRO\l"
@@ -267,14 +267,14 @@ Help_Text_AnswerWhatAreMyAdventureBasics::
 	.string "scorta di POZIONI e altri strumenti\l"
 	.string "curativi in un POKéMON-MARKET.$"
 
-Help_Text_AnswerHowAreRoadsForestsDifferent::
+Help_Text_AnswerHowAreRoadsForestsDifferent_IT::
 	.string "I boschi sono percorsi che, a volte,\n"
 	.string "possono assumere l'aspetto di veri e\l"
 	.string "propri labirinti. Tutti i boschi hanno\l"
 	.string "una via d'entrata e una d'uscita,\l"
 	.string "cerca di non scoraggiarti!$"
 
-Help_Text_AnswerHowAreCavesDifferent::
+Help_Text_AnswerHowAreCavesDifferent_IT::
 	.string "Le grotte sono luoghi bui e pieni di\n"
 	.string "POKéMON selvatici che appaiono in\l"
 	.string "qualsiasi momento. Se ne hai bisogno,\l"
@@ -283,7 +283,7 @@ Help_Text_AnswerHowAreCavesDifferent::
 	.string "di una grotta potrebbe attenderti una\l"
 	.string "nuova città: quindi… persevera!$"
 
-Help_Text_AnswerHowDoIProgress::
+Help_Text_AnswerHowDoIProgress_IT::
 	.string "Lo scopo del gioco è allenare i\n"
 	.string "POKéMON e proseguire, con il loro\l"
 	.string "aiuto, nell'avventura. A volte ti \l"
@@ -291,7 +291,7 @@ Help_Text_AnswerHowDoIProgress::
 	.string "potrai risolvere raccogliendo\l"
 	.string "informazioni.$"
 
-Help_Text_AnswerWhenCanIUseItem::
+Help_Text_AnswerWhenCanIUseItem_IT::
 	.string "Ci sono diversi tipi di strumenti.\n"
 	.string "Alcuni si usano solo nella lotta,\l"
 	.string "altri soltanto durante l'esplorazione.\l"
@@ -300,7 +300,7 @@ Help_Text_AnswerWhenCanIUseItem::
 	.string "apposito messaggio ti avverte se non\l"
 	.string "puoi usarlo in quella situazione.$"
 
-Help_Text_AnswerWhatsABattle::
+Help_Text_AnswerWhatsABattle_IT::
 	.string "Nella lotta, i POKéMON cercano di\n"
 	.string "ridurre la vitalità dell'avversario,\l"
 	.string "espressa in PS. Quando i suoi PS\l"
@@ -309,14 +309,14 @@ Help_Text_AnswerWhatsABattle::
 	.string "vincitore ottiene punti ESP.,\l"
 	.string "necessari per salire di livello.$"
 
-Help_Text_AnswerHowDoIPrepareForBattle::
+Help_Text_AnswerHowDoIPrepareForBattle_IT::
 	.string "Prima di tutto, rimetti in sesto tutti\n"
 	.string "i POKéMON della tua squadra (quelli\l"
 	.string "insieme a te) in un CENTRO POKéMON.\l"
 	.string "Rifornisciti anche di strumenti\l"
 	.string "curativi in un POKéMON-MARKET.$"
 
-Help_Text_AnswerWhatIsAMonsVitality::
+Help_Text_AnswerWhatIsAMonsVitality_IT::
 	.string "La vitalità di un POKéMON si esprime\n"
 	.string "in PS. Ogni volta che un POKéMON\l"
 	.string "subisce un colpo nella lotta, perde\l"
@@ -325,14 +325,14 @@ Help_Text_AnswerWhatIsAMonsVitality::
 	.string "rimetterlo in sesto in un CENTRO\l"
 	.string "POKéMON o con strumenti specifici.$"
 
-Help_Text_AnswerMyMonsAreHurt::
+Help_Text_AnswerMyMonsAreHurt_IT::
 	.string "Un CENTRO POKéMON è una specie di\n"
 	.string "locanda, dove i POKéMON possono\l"
 	.string "recuperare energie e risolvere ogni\l"
 	.string "problema di stato. È un servizio\l"
 	.string "gratuito, quindi utilizzalo spesso!$"
 
-Help_Text_AnswerWhatIsStatusProblem::
+Help_Text_AnswerWhatIsStatusProblem_IT::
 	.string "L'attacco di un avversario può\n"
 	.string "causare in un POKéMON un problema\l"
 	.string "di stato. I problemi di stato sono:\l"
@@ -341,7 +341,7 @@ Help_Text_AnswerWhatIsStatusProblem::
 	.string "risolvere in un CENTRO POKéMON o\l"
 	.string "usando strumenti specifici.$"
 
-Help_Text_AnswerWhatHappensIfAllMyMonsFaint::
+Help_Text_AnswerWhatHappensIfAllMyMonsFaint_IT::
 	.string "Se tutti i POKéMON della squadra\n"
 	.string "sono esausti (KO), perdi SOLDI e\l"
 	.string "torni automaticamente a casa o in\l"
@@ -350,7 +350,7 @@ Help_Text_AnswerWhatHappensIfAllMyMonsFaint::
 	.string "CENTRI POKéMON e salva\l"
 	.string "frequentemente il gioco.$"
 
-Help_Text_AnswerCantCatchMons::
+Help_Text_AnswerCantCatchMons_IT::
 	.string "Se un POKéMON che hai cercato di\n"
 	.string "catturare si libera dalla POKé BALL,\l"
 	.string "la lotta continua. Prima di riprovare\l"
@@ -359,7 +359,7 @@ Help_Text_AnswerCantCatchMons::
 	.string "dimena nella POKé BALL, più è vicino\l"
 	.string "il momento della cattura.$"
 
-Help_Text_AnswerRanOutOfPotions::
+Help_Text_AnswerRanOutOfPotions_IT::
 	.string "Puoi acquistare strumenti nei centri\n"
 	.string "abitati, in qualsiasi POKéMON-MARKET.\l"
 	.string "Non si trovano POKéMON-MARKET sulle\l"
@@ -368,7 +368,7 @@ Help_Text_AnswerRanOutOfPotions::
 	.string "strumenti quando ti trovi in un centro\l"
 	.string "abitato.$"
 
-Help_Text_AnswerCanIBuyPokeBalls::
+Help_Text_AnswerCanIBuyPokeBalls_IT::
 	.string "Puoi acquistare POKé BALL nei centri\n"
 	.string "abitati, in qualsiasi POKéMON-MARKET.\l"
 	.string "Non si trovano POKéMON-MARKET sulle\l"
@@ -377,7 +377,7 @@ Help_Text_AnswerCanIBuyPokeBalls::
 	.string "POKé BALL quando ti trovi in un\l"
 	.string "centro abitato.$"
 
-Help_Text_AnswerWhatsATrainer::
+Help_Text_AnswerWhatsATrainer_IT::
 	.string "Un ALLENATORE è qualcuno che alleva\n"
 	.string "i POKéMON facendoli lottare. Li puoi\l"
 	.string "trovare ovunque, tranne che nei\l"
@@ -385,7 +385,7 @@ Help_Text_AnswerWhatsATrainer::
 	.string "occhi, non puoi sottrarti alla loro\l"
 	.string "sfida. Fai attenzione!$"
 
-Help_Text_AnswerHowDoIWinAgainstTrainer::
+Help_Text_AnswerHowDoIWinAgainstTrainer_IT::
 	.string "Per sconfiggere un ALLENATORE, usa\n"
 	.string "POKéMON il cui tipo è avvantaggiato\l"
 	.string "su quello dei POKéMON avversari.\l"
@@ -394,7 +394,7 @@ Help_Text_AnswerHowDoIWinAgainstTrainer::
 	.string "rispetto all'avversario costituisce\l"
 	.string "un vantaggio.$"
 
-Help_Text_AnswerWhereDoMonsAppear::
+Help_Text_AnswerWhereDoMonsAppear_IT::
 	.string "Sulle strade e nei boschi, i POKéMON\n"
 	.string "compaiono nell'erba alta. Nelle\l"
 	.string "grotte, invece, appaiono ovunque. Nei\l"
@@ -402,7 +402,7 @@ Help_Text_AnswerWhereDoMonsAppear::
 	.string "selvatici né ALLENATORI, quindi sono\l"
 	.string "luoghi sicuri.$"
 
-Help_Text_AnswerWhatAreMoves::
+Help_Text_AnswerWhatAreMoves_IT::
 	.string "I POKéMON possono apprendere fino\n"
 	.string "a quattro tecniche, o mosse. Alcune\l"
 	.string "mosse sono attacchi, altre hanno\l"
@@ -411,7 +411,7 @@ Help_Text_AnswerWhatAreMoves::
 	.string "POKéMON. Alcune si apprendono tramite\l"
 	.string "Macchine (TECNICHE o NASCOSTE).$"
 
-Help_Text_AnswerWhatAreHiddenMoves::
+Help_Text_AnswerWhatAreHiddenMoves_IT::
 	.string "Le mosse NASCOSTE sono quelle più\n"
 	.string "importanti. Per usare una di queste\l"
 	.string "mosse fuori dalla lotta, seleziona\l"
@@ -420,7 +420,7 @@ Help_Text_AnswerWhatAreHiddenMoves::
 	.string "POKéMON esausto può usare\l"
 	.string "mosse NASCOSTE fuori dalla lotta.$"
 
-Help_Text_AnswerWhatMovesShouldIUse::
+Help_Text_AnswerWhatMovesShouldIUse_IT::
 	.string "Seleziona LOTTA per far apparire\n"
 	.string "la lista delle mosse del tuo POKéMON\l"
 	.string "in campo. Per scegliere la migliore\l"
@@ -429,7 +429,7 @@ Help_Text_AnswerWhatMovesShouldIUse::
 	.string "mossa, seleziona POKéMON, INFO,\l"
 	.string "a vai alla sezione MOSSE CONOSCIUTE.$"
 
-Help_Text_AnswerWantToAddMoreMoves::
+Help_Text_AnswerWantToAddMoreMoves_IT::
 	.string "I POKéMON non possono conoscere\n"
 	.string "più di 4 mosse contemporaneamente.\l"
 	.string "Le apprendono aumentando di livello,\l"
@@ -438,7 +438,7 @@ Help_Text_AnswerWantToAddMoreMoves::
 	.string "Nascosta). A volte si incontrano\l"
 	.string "persone che insegnano nuove mosse.$"
 
-Help_Text_AnswerWantToMakeMonStronger::
+Help_Text_AnswerWantToMakeMonStronger_IT::
 	.string "Per rafforzare i tuoi POKéMON devi\n"
 	.string "lottare e vincere spesso. In questo\l"
 	.string "modo, tutti i POKéMON che hanno\l"
@@ -446,7 +446,7 @@ Help_Text_AnswerWantToMakeMonStronger::
 	.string "punti ESP. (Esperienza), necessari\l"
 	.string "ai POKéMON per crescere di livello.$"
 
-Help_Text_AnswerFoeMonsTooStrong::
+Help_Text_AnswerFoeMonsTooStrong_IT::
 	.string "Se i tuoi avversari sono troppo forti,\n"
 	.string "prova ad aumentare un po' il livello\l"
 	.string "dei tuoi POKéMON, tornando sui tuoi\l"
@@ -454,7 +454,7 @@ Help_Text_AnswerFoeMonsTooStrong::
 	.string "selvatici, o sfidando gli ALLENATORI\l"
 	.string "che non hai ancora affrontato.$"
 
-Help_Text_AnswerWhatDoIDoInCave::
+Help_Text_AnswerWhatDoIDoInCave_IT::
 	.string "All'interno delle grotte, i POKéMON\n"
 	.string "possono apparire ovunque. Se i tuoi\l"
 	.string "POKéMON subiscono danni in una\l"
@@ -463,12 +463,12 @@ Help_Text_AnswerWhatDoIDoInCave::
 	.string "Le grotte sono pericolose, non\l"
 	.string "cercare di forzare troppo la mano.$"
 
-Help_Text_AnswerNothingIWantToKnow::
+Help_Text_AnswerNothingIWantToKnow_IT::
 	.string "Affidati alla tua forza e alle tue\n"
 	.string "capacità! Solo se credi in te\l"
 	.string "riuscirai a trovare la tua via.$"
 
-Help_Text_AnswerWhatsPokemonCenter::
+Help_Text_AnswerWhatsPokemonCenter_IT::
 	.string "I CENTRI POKéMON si riconoscono dal\n"
 	.string "tetto rosso e dall'insegna “POKé”.\l"
 	.string "Offrono servizi essenziali, come l'uso\l"
@@ -477,7 +477,7 @@ Help_Text_AnswerWhatsPokemonCenter::
 	.string "Al primo piano ci sono i servizi\l"
 	.string "di collegamento con altri giocatori.$"
 
-Help_Text_AnswerWhatsPokemonMart::
+Help_Text_AnswerWhatsPokemonMart_IT::
 	.string "I POKéMON-MARKET si riconoscono dal\n"
 	.string "tetto blu e dall'insegna “MRKT”.\l"
 	.string "In tutti i POKéMON-MARKET puoi\l"
@@ -485,7 +485,7 @@ Help_Text_AnswerWhatsPokemonMart::
 	.string "alcuni puoi comprare strumenti\l"
 	.string "esclusivi, introvabili altrove.$"
 
-Help_Text_AnswerWantToEndGame::
+Help_Text_AnswerWantToEndGame_IT::
 	.string "Per interrompere il gioco senza\n"
 	.string "perdere i progressi, seleziona SALVA\l"
 	.string "nel MENU. Dopo aver salvato il\l"
@@ -494,21 +494,21 @@ Help_Text_AnswerWantToEndGame::
 	.string "riprendere il gioco da dove lo\l"
 	.string "hai interrotto.$"
 
-Help_Text_AnswerWhatsAMon::
+Help_Text_AnswerWhatsAMon_IT::
 	.string "I POKéMON sono esseri viventi sui\n"
 	.string "quali restano ancora molti misteri da\l"
 	.string "svelare. Li trovi nell'erba, in mare e\l"
 	.string "nelle grotte. Tendono ad obbedire\l"
 	.string "agli ALLENATORI che li catturano.$"
 
-Help_Text_AnswerWhatIsThatPersonLike::
+Help_Text_AnswerWhatIsThatPersonLike_IT::
 	.string "Ti consiglio di usare il POKéVIP, che\n"
 	.string "si trova tra gli STRUMENTI BASE\l"
 	.string "dello ZAINO.\p"
 	.string "Ci puoi trovare dei suggerimenti\n"
 	.string "preziosi!$"
 
-Help_Text_AnswerWhatDoesHiddenMoveDo::
+Help_Text_AnswerWhatDoesHiddenMoveDo_IT::
 	.string "Le MACCHINE NASCOSTE (MN) sono\n"
 	.string "strumenti che contengono mosse\l"
 	.string "di particolare importanza. Una, ad\l"
@@ -517,13 +517,13 @@ Help_Text_AnswerWhatDoesHiddenMoveDo::
 	.string "tagliare gli alberi, un'altra ancora\l"
 	.string "illumina le grotte.$"
 
-Help_Text_AnswerWhatDoIDoInSafari::
+Help_Text_AnswerWhatDoIDoInSafari_IT::
 	.string "Prova a catturare i POKéMON usando\n"
 	.string "le speciali SAFARI BALL. Inoltre,\l"
 	.string "tutti gli strumenti che trovi sono\l"
 	.string "tuoi.$"
 
-Help_Text_AnswerWhatAreSafariRules::
+Help_Text_AnswerWhatAreSafariRules_IT::
 	.string "Dopo aver utilizzato tutte le SAFARI\n"
 	.string "BALL o aver percorso una determinata\l"
 	.string "distanza, il GIOCO SAFARI ha termine.\l"
@@ -531,12 +531,12 @@ Help_Text_AnswerWhatAreSafariRules::
 	.string "BALL restanti o i passi che puoi\l"
 	.string "ancora fare.$"
 
-Help_Text_AnswerWantToEndSafari::
+Help_Text_AnswerWantToEndSafari_IT::
 	.string "Se vuoi terminare il GIOCO SAFARI\n"
 	.string "anzitempo, apri il MENU e seleziona\l"
 	.string "l'opzione RINUNCIA in cima alla lista.$"
 
-Help_Text_AnswerWhatIsAGym::
+Help_Text_AnswerWhatIsAGym_IT::
 	.string "Le PALESTRE POKéMON sono centri di\n"
 	.string "allenamento per i POKéMON, sotto la\l"
 	.string "direzione della LEGA POKéMON. Si\l"
@@ -545,165 +545,165 @@ Help_Text_AnswerWhatIsAGym::
 	.string "il suo CAPO. Se lo sconfiggi,\l"
 	.string "ottieni una specifica MEDAGLIA.$"
 
-Help_Text_UsingPokedex::
+Help_Text_UsingPokedex_IT::
 	.string "L'opzione “POKéDEX”$"
 
-Help_Text_UsingPokemon::
+Help_Text_UsingPokemon_IT::
 	.string "L'opzione “POKéMON”$"
 
-Help_Text_UsingSummary::
+Help_Text_UsingSummary_IT::
 	.string "L'opzione “INFO”$"
 
-Help_Text_UsingSwitch::
+Help_Text_UsingSwitch_IT::
 	.string "L'opzione “ORDINA”$"
 
-Help_Text_UsingItem::
+Help_Text_UsingItem_IT::
 	.string "L'opzione “STRUMENTI”$"
 
-Help_Text_UsingBag::
+Help_Text_UsingBag_IT::
 	.string "L'opzione “ZAINO”$"
 
-Help_Text_UsingAnItem::
+Help_Text_UsingAnItem_IT::
 	.string "Gli STRUMENTI$"
 
-Help_Text_UsingKeyItem::
+Help_Text_UsingKeyItem_IT::
 	.string "Gli STRUMENTI BASE$"
 
-Help_Text_UsingPokeBall::
+Help_Text_UsingPokeBall_IT::
 	.string "Le POKé BALL$"
 
-Help_Text_UsingPlayer::
+Help_Text_UsingPlayer_IT::
 	.string "L'opzione “{PLAYER}”$"
 
-Help_Text_UsingSave::
+Help_Text_UsingSave_IT::
 	.string "L'opzione “SALVA”$"
 
-Help_Text_UsingOption::
+Help_Text_UsingOption_IT::
 	.string "Usare il Menu “OPZIONI”$"
 
-Help_Text_UsingPotion::
+Help_Text_UsingPotion_IT::
 	.string "Le POZIONI$"
 
-Help_Text_UsingTownMap::
+Help_Text_UsingTownMap_IT::
 	.string "La MAPPA CITTÀ$"
 
-Help_Text_UsingTM::
+Help_Text_UsingTM_IT::
 	.string "Le MT$"
 
-Help_Text_UsingHM::
+Help_Text_UsingHM_IT::
 	.string "Le MN$"
 
-Help_Text_UsingMoveOutsideOfBattle::
+Help_Text_UsingMoveOutsideOfBattle_IT::
 	.string "Le mosse fuori dalla lotta$"
 
-Help_Text_RidingBicycle::
+Help_Text_RidingBicycle_IT::
 	.string "La BICICLETTA$"
 
-Help_Text_EnteringName::
+Help_Text_EnteringName_IT::
 	.string "Lo schermo inserimento nome$"
 
-Help_Text_UsingPC::
+Help_Text_UsingPC_IT::
 	.string "Il PC$"
 
-Help_Text_UsingBillsPC::
+Help_Text_UsingBillsPC_IT::
 	.string "L'opzione “PC di {STR_VAR_1}”$"
 
-Help_Text_UsingWithdraw::
+Help_Text_UsingWithdraw_IT::
 	.string "L'opzione “RITIRA”$"
 
-Help_Text_UsingDeposit::
+Help_Text_UsingDeposit_IT::
 	.string "L'opzione “DEPOSITA”$"
 
-Help_Text_UsingMove::
+Help_Text_UsingMove_IT::
 	.string "L'opzione “SPOSTA”$"
 
-Help_Text_MovingItems::
+Help_Text_MovingItems_IT::
 	.string "La funzione spostamento strumenti$"
 
-Help_Text_UsingPlayersPC::
+Help_Text_UsingPlayersPC_IT::
 	.string "L'opzione “PC di {PLAYER}”$"
 
-Help_Text_UsingWithdrawItem::
+Help_Text_UsingWithdrawItem_IT::
 	.string "L'opzione “RITIRA”$"
 
-Help_Text_UsingDepositItem::
+Help_Text_UsingDepositItem_IT::
 	.string "L'opzione “DEPOSITA”$"
 
-Help_Text_UsingMailbox::
+Help_Text_UsingMailbox_IT::
 	.string "L'opzione “MESSAGGI”$"
 
-Help_Text_UsingProfOaksPC::
+Help_Text_UsingProfOaksPC_IT::
 	.string "L'opzione “PC del PROF. OAK”$"
 
-Help_Text_OpeningMenu::
+Help_Text_OpeningMenu_IT::
 	.string "Il MENU (come aprirlo)$"
 
-Help_Text_UsingFight::
+Help_Text_UsingFight_IT::
 	.string "L'opzione “LOTTA”$"
 
-Help_Text_UsingPokemon2::
+Help_Text_UsingPokemon2_IT::
 	.string "L'opzione “POKéMON”$"
 
-Help_Text_UsingShift::
+Help_Text_UsingShift_IT::
 	.string "L'opzione “CAMBIA”$"
 
-Help_Text_UsingSummary2::
+Help_Text_UsingSummary2_IT::
 	.string "L'opzione “INFO”$"
 
-Help_Text_UsingBag2::
+Help_Text_UsingBag2_IT::
 	.string "L'opzione “ZAINO”$"
 
-Help_Text_ReadingPokedex::
+Help_Text_ReadingPokedex_IT::
 	.string "Il “POKéDEX”$"
 
-Help_Text_UsingHomePC::
+Help_Text_UsingHomePC_IT::
 	.string "Il PC di casa$"
 
-Help_Text_UsingItemStorage::
+Help_Text_UsingItemStorage_IT::
 	.string "Il Sistema Deposito Strumenti$"
 
-Help_Text_UsingWithdrawItem2::
+Help_Text_UsingWithdrawItem2_IT::
 	.string "L'opzione “RITIRA”$"
 
-Help_Text_UsingDepositItem2::
+Help_Text_UsingDepositItem2_IT::
 	.string "L'opzione “DEPOSITA”$"
 
-Help_Text_UsingMailbox2::
+Help_Text_UsingMailbox2_IT::
 	.string "I MESSAGGI$"
 
-Help_Text_UsingRun::
+Help_Text_UsingRun_IT::
 	.string "L'opzione “FUGA”$"
 
-Help_Text_RegisterKeyItem::
+Help_Text_RegisterKeyItem_IT::
 	.string "L'opzione “ASSEGNA”$"
 
-Help_Text_UsingBall::
+Help_Text_UsingBall_IT::
 	.string "L'opzione “BALL”$"
 
-Help_Text_UsingBait::
+Help_Text_UsingBait_IT::
 	.string "L'opzione “ESCA”$"
 
-Help_Text_UsingRock::
+Help_Text_UsingRock_IT::
 	.string "L'opzione “SASSO”$"
 
-Help_Text_UsingHallOfFame::
+Help_Text_UsingHallOfFame_IT::
 	.string "L'opzione “SALA d'ONORE”$"
 
-Help_Text_HowToUsePokedex::
+Help_Text_HowToUsePokedex_IT::
 	.string "{CIRCLE_1} Seleziona POKéDEX nel MENU.\n"
 	.string "{CIRCLE_2} Qui puoi scegliere tra\n"
 	.string "   ELENCO, HABITAT e RICERCA.\n"
 	.string "{CIRCLE_3} Seleziona un POKéMON per ottenere\n"
 	.string "   informazioni dettagliate su di lui.$"
 
-Help_Text_HowToUsePokemon::
+Help_Text_HowToUsePokemon_IT::
 	.string "{CIRCLE_1} Seleziona POKéMON nel MENU.\n"
 	.string "{CIRCLE_2} Scegli un POKéMON della tua\n"
 	.string "   squadra.\n"
 	.string "{CIRCLE_3} Seleziona\n"
 	.string "   INFO, ORDINA o STRUM.$"
 
-Help_Text_HowToUseSummary::
+Help_Text_HowToUseSummary_IT::
 	.string "{CIRCLE_1} Seleziona INFO.\n"
 	.string "{CIRCLE_2} Premi la pulsantiera di\n"
 	.string "   comando {PLUS} a destra e a sinistra\n"
@@ -712,7 +712,7 @@ Help_Text_HowToUseSummary::
 	.string "   ABILITÀ POKéMON\n"
 	.string "   MOSSE CONOSCIUTE$"
 
-Help_Text_HowToUseSwitch::
+Help_Text_HowToUseSwitch_IT::
 	.string "{CIRCLE_1} Seleziona il POKéMON che vuoi\n"
 	.string "   spostare.\n"
 	.string "{CIRCLE_2} Seleziona ORDINA.\n"
@@ -721,7 +721,7 @@ Help_Text_HowToUseSwitch::
 	.string "   posto. Il POKéMON sulla sinistra\n"
 	.string "   è il primo a scendere in campo.$"
 
-Help_Text_HowToUseItem::
+Help_Text_HowToUseItem_IT::
 	.string "{CIRCLE_1} Seleziona STRUM.\n"
 	.string "{CIRCLE_2} Seleziona DAI per dare\n"
 	.string "   al POKéMON uno strumento, oppure\n"
@@ -730,7 +730,7 @@ Help_Text_HowToUseItem::
 	.string "Un POKéMON non può tenere più di\n"
 	.string "   uno strumento!$"
 
-Help_Text_HowToUseBag::
+Help_Text_HowToUseBag_IT::
 	.string "{CIRCLE_1} Seleziona ZAINO nel MENU.\n"
 	.string "{CIRCLE_2} Premi la puls. di comando {PLUS}\n"
 	.string "   a destra e a sinistra per aprire:\n"
@@ -739,7 +739,7 @@ Help_Text_HowToUseBag::
 	.string "   Scegli strumento premendo su\n"
 	.string "   e giù.$"
 
-Help_Text_HowToUseAnItem::
+Help_Text_HowToUseAnItem_IT::
 	.string "{CIRCLE_1} Seleziona STRUMENTI.\n"
 	.string "{CIRCLE_2} Premi la puls. di comando {PLUS} su\n"
 	.string "   e giù per selezionare strumento.\n"
@@ -748,14 +748,14 @@ Help_Text_HowToUseAnItem::
 	.string "In luoghi o situazioni particolari,\n"
 	.string "alcuni strumenti non sono utilizzabili.$"
 
-Help_Text_HowToUseKeyItem::
+Help_Text_HowToUseKeyItem_IT::
 	.string "{CIRCLE_1} Seleziona STRUM. BASE.\n"
 	.string "{CIRCLE_2} Premi la puls. di comando {PLUS} su\n"
 	.string "   e giù per selezionare strum. base.\n"
 	.string "{CIRCLE_3} Seleziona USA per usare\n"
 	.string "   lo strumento base selezionato.$"
 
-Help_Text_HowToUsePokeBall::
+Help_Text_HowToUsePokeBall_IT::
 	.string "{CIRCLE_1} Contro un POKéMON selvatico,\n"
 	.string "   seleziona la TASCA POKé BALL\n"
 	.string "   dello ZAINO.\n"
@@ -764,7 +764,7 @@ Help_Text_HowToUsePokeBall::
 	.string "{CIRCLE_3} Seleziona USA per\n"
 	.string "   lanciare la POKé BALL scelta.$"
 
-Help_Text_HowToUsePlayer::
+Help_Text_HowToUsePlayer_IT::
 	.string "{CIRCLE_1} Seleziona {PLAYER} nel MENU.\n"
 	.string "{CIRCLE_2} Appare la SCHEDA ALLENATORE,\n"
 	.string "   con informazioni generali. Puoi\n"
@@ -773,7 +773,7 @@ Help_Text_HowToUsePlayer::
 	.string "{CIRCLE_3} Sul retro, trovi molte altre\n"
 	.string "   informazioni.$"
 
-Help_Text_HowToUseSave::
+Help_Text_HowToUseSave_IT::
 	.string "{CIRCLE_1} Seleziona SALVA nel MENU.\n"
 	.string "{CIRCLE_2} Seleziona SÌ per salvare\n"
 	.string "   i tuoi progressi nel gioco.\n"
@@ -782,7 +782,7 @@ Help_Text_HowToUseSave::
 	.string "riprendere il gioco da dove lo hai\n"
 	.string "interrotto.$"
 
-Help_Text_HowToUseOption::
+Help_Text_HowToUseOption_IT::
 	.string "{CIRCLE_1} Seleziona OPZIONI nel MENU.\n"
 	.string "{CIRCLE_2} Premi la puls. di comando {PLUS}\n"
 	.string "   su e giù per scegliere\n"
@@ -791,7 +791,7 @@ Help_Text_HowToUseOption::
 	.string "{CIRCLE_3} Seleziona ESCI o premi il\n"
 	.string "   puls. B per confermare e uscire.$"
 
-Help_Text_HowToUsePotion::
+Help_Text_HowToUsePotion_IT::
 	.string "{CIRCLE_1} Apri il MENU.\n"
 	.string "{CIRCLE_2} Seleziona  ZAINO.\n"
 	.string "{CIRCLE_3} Seleziona POZIONE tra gli\n"
@@ -800,7 +800,7 @@ Help_Text_HowToUsePotion::
 	.string "{CIRCLE_5} Seleziona il POKéMON su cui\n"
 	.string "   vuoi usarla.$"
 
-Help_Text_HowToUseTownMap::
+Help_Text_HowToUseTownMap_IT::
 	.string "{CIRCLE_1} Apri il MENU.\n"
 	.string "{CIRCLE_2} Premi la puls. di comando {PLUS}\n"
 	.string "   su o giù per scegliere ZAINO\n"
@@ -809,7 +809,7 @@ Help_Text_HowToUseTownMap::
 	.string "   per selezionare MAPPA CITTÀ. \n"
 	.string "{CIRCLE_3} Seleziona USA per aprirla.$"
 
-Help_Text_HowToUseTM::
+Help_Text_HowToUseTM_IT::
 	.string "{CIRCLE_1} Apri il MENU.\n"
 	.string "{CIRCLE_2} Seleziona STRUM. BASE\n"
 	.string "   nello ZAINO.\n"
@@ -818,7 +818,7 @@ Help_Text_HowToUseTM::
 	.string "{CIRCLE_5} Seleziona un POKéMON che può\n"
 	.string "   apprendere la mossa di quella MT.$"
 
-Help_Text_HowToUseHM::
+Help_Text_HowToUseHM_IT::
 	.string "{CIRCLE_1} Apri il MENU.\n"
 	.string "{CIRCLE_2} Seleziona STRUM. BASE\n"
 	.string "   nello ZAINO.\n"
@@ -827,7 +827,7 @@ Help_Text_HowToUseHM::
 	.string "{CIRCLE_5} Scegli a che POKéMON insegnarla.\n"
 	.string "Le MN sono difficili da scordare!$"
 
-Help_Text_HowToUseMoveOutsideOfBattle::
+Help_Text_HowToUseMoveOutsideOfBattle_IT::
 	.string "{CIRCLE_1} Apri il MENU.\n"
 	.string "{CIRCLE_2} Seleziona POKéMON.\n"
 	.string "{CIRCLE_3} Seleziona un POKéMON che conosce\n"
@@ -836,7 +836,7 @@ Help_Text_HowToUseMoveOutsideOfBattle::
 	.string "   e usa la mossa desiderata per\n"
 	.string "   volare, fare surf, ecc.$"
 
-Help_Text_HowToRideBicycle::
+Help_Text_HowToRideBicycle_IT::
 	.string "{CIRCLE_1} Apri il MENU. Seleziona\n"
 	.string "   STRUM. BASE nello ZAINO\n"
 	.string "   e seleziona BICICLETTA.\n"
@@ -845,7 +845,7 @@ Help_Text_HowToRideBicycle::
 	.string "   ASSEGNArla a SELECT,\n"
 	.string "   per salirci senza aprire il MENU.$"
 
-Help_Text_HowToEnterName::
+Help_Text_HowToEnterName_IT::
 	.string "{CIRCLE_1} Sposta il cursore su una lettera\n"
 	.string "   con la pulsantiera di comando {PLUS},\n"
 	.string "   e inseriscila con il pulsante A.\n"
@@ -855,12 +855,12 @@ Help_Text_HowToEnterName::
 	.string "   tra maiuscole e minuscole.\n"
 	.string "{CIRCLE_4} Premi il pulsante A su OK.$"
 
-Help_Text_HowToUsePC::
+Help_Text_HowToUsePC_IT::
 	.string "{CIRCLE_1} In qualsiasi CENTRO POKéMON,\n"
 	.string "   avvicinati al PC e premi il\n"
 	.string "   pulsante A.$"
 
-Help_Text_HowToUseBillsPC::
+Help_Text_HowToUseBillsPC_IT::
 	.string "{CIRCLE_1} Seleziona PC di {STR_VAR_1} nel PC.\n"
 	.string "{CIRCLE_2} Seleziona una delle prime tre\n"
 	.string "   opzioni del MENU per aprire il\n"
@@ -869,7 +869,7 @@ Help_Text_HowToUseBillsPC::
 	.string "ne catturi un altro, sarà inviato\n"
 	.string "automaticamente al BOX del Sistema.$"
 
-Help_Text_HowToUseWithdraw::
+Help_Text_HowToUseWithdraw_IT::
 	.string "{CIRCLE_1} Seleziona un POKéMON nel BOX\n"
 	.string "   aperto.\n"
 	.string "{CIRCLE_2} Seleziona RITIRA per\n"
@@ -878,7 +878,7 @@ Help_Text_HowToUseWithdraw::
 	.string "Non puoi ritirare un POKéMON se ne\n"
 	.string "hai già sei in squadra.$"
 
-Help_Text_HowToUseDeposit::
+Help_Text_HowToUseDeposit_IT::
 	.string "{CIRCLE_1} Seleziona un POKéMON in squadra.\n"
 	.string "{CIRCLE_2} Seleziona DEPOSITA.\n"
 	.string "{CIRCLE_3} Seleziona il BOX, poi premi il\n"
@@ -887,7 +887,7 @@ Help_Text_HowToUseDeposit::
 	.string "Se hai un solo POKéMON in\n"
 	.string "squadra, non puoi depositarlo.$"
 
-Help_Text_HowToUseMove::
+Help_Text_HowToUseMove_IT::
 	.string "{CIRCLE_1} Seleziona un POKéMON nel BOX.\n"
 	.string "{CIRCLE_2} Afferra il POKéMON selezionando\n"
 	.string "   SPOSTA e collocalo dove vuoi.\n"
@@ -896,7 +896,7 @@ Help_Text_HowToUseMove::
 	.string "   BOX e muovi la puls. di \n"
 	.string "   comando {PLUS} a destra o sinistra.$"
 
-Help_Text_HowToMoveItems::
+Help_Text_HowToMoveItems_IT::
 	.string "{CIRCLE_1} Ai POKéMON in trasparenza\n"
 	.string "   puoi dare uno strumento da tenere\n"
 	.string "   premendo il pulsante A.\n"
@@ -905,7 +905,7 @@ Help_Text_HowToMoveItems::
 	.string "   che può essere preso o dato ad\n"
 	.string "   un altro POKéMON.$"
 
-Help_Text_HowToUsePlayersPC::
+Help_Text_HowToUsePlayersPC_IT::
 	.string "{CIRCLE_1} Seleziona PC di {PLAYER}\n"
 	.string "   nel PC.\n"
 	.string "{CIRCLE_2} Seleziona  STRUMENTI o\n"
@@ -914,7 +914,7 @@ Help_Text_HowToUsePlayersPC::
 	.string "strumenti nel PC, da dove potrai\n"
 	.string "ritirarli in ogni momento.$"
 
-Help_Text_HowToUseWithdrawItem::
+Help_Text_HowToUseWithdrawItem_IT::
 	.string "{CIRCLE_1} Seleziona RITIRA.\n"
 	.string "{CIRCLE_2} Seleziona strumento da ritirare.\n"
 	.string "{CIRCLE_3} Lo strumento preso al POKéMON\n"
@@ -923,7 +923,7 @@ Help_Text_HowToUseWithdrawItem::
 	.string "   oppure dato direttamente ad un\n"
 	.string "   altro POKéMON da tenere.$"
 
-Help_Text_HowToUseDepositItem::
+Help_Text_HowToUseDepositItem_IT::
 	.string "{CIRCLE_1} Seleziona DEPOSITA.\n"
 	.string "{CIRCLE_2} Seleziona lo strumento dello\n"
 	.string "   ZAINO da depositare.\n"
@@ -932,7 +932,7 @@ Help_Text_HowToUseDepositItem::
 	.string "   numero con la pulsantiera di\n"
 	.string "   comando {PLUS} e premi il pulsante A.$"
 
-Help_Text_HowToUseMailbox::
+Help_Text_HowToUseMailbox_IT::
 	.string "Un MESSAGGIO preso ad un POKéMON\n"
 	.string "   viene sistemato tra i MESSAGGI.\n"
 	.string "{CIRCLE_1} Seleziona PC di {PLAYER} nel PC.\n"
@@ -940,7 +940,7 @@ Help_Text_HowToUseMailbox::
 	.string "   il MESSAGGIO o darlo da tenere\n"
 	.string "   ad un POKéMON.$"
 
-Help_Text_HowToUseProfOaksPC::
+Help_Text_HowToUseProfOaksPC_IT::
 	.string "{CIRCLE_1} Seleziona PC del PROF. OAK\n"
 	.string "   nel PC.\n"
 	.string "{CIRCLE_2} Il PROF. OAK valuterà il POKéDEX.\n"
@@ -948,7 +948,7 @@ Help_Text_HowToUseProfOaksPC::
 	.string "informazioni utili per catturare altri\n"
 	.string "POKéMON.$"
 
-Help_Text_HowToOpenMenu::
+Help_Text_HowToOpenMenu_IT::
 	.string "{CIRCLE_1} Premi START.\n"
 	.string "{CIRCLE_2} Sulla destra si apre il MENU.\n"
 	.string "{CIRCLE_3} Alcune opzioni del MENU\n"
@@ -957,12 +957,12 @@ Help_Text_HowToOpenMenu::
 	.string "determinate operazioni, il MENU\n"
 	.string "non appare.$"
 
-Help_Text_HowToUseFight::
+Help_Text_HowToUseFight_IT::
 	.string "{CIRCLE_1} Seleziona LOTTA.\n"
 	.string "{CIRCLE_2} Scegli la mossa che vuoi usare\n"
 	.string "   tra quelle disponibili.$"
 
-Help_Text_HowToUsePokemon2::
+Help_Text_HowToUsePokemon2_IT::
 	.string "{CIRCLE_1} Seleziona POKéMON.\n"
 	.string "{CIRCLE_2} Seleziona il POKéMON della\n"
 	.string "   squadra da utilizzare.\n"
@@ -971,7 +971,7 @@ Help_Text_HowToUsePokemon2::
 	.string "   tuzione. Seleziona INFO per\n"
 	.string "   vedere i dati di ogni POKéMON.$"
 
-Help_Text_HowToUseShift::
+Help_Text_HowToUseShift_IT::
 	.string "Con questo comando puoi sostituire\n"
 	.string "il POKéMON in campo con un altro\n"
 	.string "della tua squadra.\n"
@@ -980,7 +980,7 @@ Help_Text_HowToUseShift::
 	.string "{CIRCLE_3} Il POKéMON selezionato\n"
 	.string "   sostituirà quello in campo.$"
 
-Help_Text_HowToUseSummary2::
+Help_Text_HowToUseSummary2_IT::
 	.string "{CIRCLE_1} Seleziona INFO.\n"
 	.string "{CIRCLE_2} Premi la pulsantiera di\n"
 	.string "   comando {PLUS} a destra e a sinistra\n"
@@ -989,7 +989,7 @@ Help_Text_HowToUseSummary2::
 	.string "   ABILITÀ POKéMON\n"
 	.string "   MOSSE CONOSCIUTE$"
 
-Help_Text_HowToUseBag2::
+Help_Text_HowToUseBag2_IT::
 	.string "{CIRCLE_1} Seleziona ZAINO nel MENU.\n"
 	.string "{CIRCLE_2} Premi la puls. di comando {PLUS}\n"
 	.string "   a destra e a sinistra per aprire:\n"
@@ -998,7 +998,7 @@ Help_Text_HowToUseBag2::
 	.string "   POKé BALL\n"
 	.string "   Scegli strum. premendo su e giù.$"
 
-Help_Text_HowToReadPokedex::
+Help_Text_HowToReadPokedex_IT::
 	.string "{CIRCLE_1} Nel POKéDEX, i POKéMON che hai\n"
 	.string "   già catturato sono contrassegnati\n"
 	.string "   dal simbolo di una POKé BALL.\n"
@@ -1007,14 +1007,14 @@ Help_Text_HowToReadPokedex::
 	.string "{CIRCLE_3} Selezionando PAG. 2 apri la\n"
 	.string "   MAPPA con l'habitat del POKéMON.$"
 
-Help_Text_HowToUseHomePC::
+Help_Text_HowToUseHomePC_IT::
 	.string "{CIRCLE_1} Vai al PC di casa tua e premi il\n"
 	.string "   pulsante A.\n"
 	.string "{CIRCLE_2} Il PC si accenderà.\n"
 	.string "{CIRCLE_3} Seleziona  STRUMENTI o\n"
 	.string "   MESSAGGI.$"
 
-Help_Text_HowToUseItemStorage::
+Help_Text_HowToUseItemStorage_IT::
 	.string "{CIRCLE_1} Seleziona RITIRA per\n"
 	.string "   ritirare uno strumento dal PC.\n"
 	.string "{CIRCLE_2} Seleziona DEPOSITA \n"
@@ -1022,7 +1022,7 @@ Help_Text_HowToUseItemStorage::
 	.string "   strumento che si trova nello\n"
 	.string "   ZAINO.$"
 
-Help_Text_HowToUseWithdrawItem2::
+Help_Text_HowToUseWithdrawItem2_IT::
 	.string "{CIRCLE_1} Seleziona RITIRA.\n"
 	.string "{CIRCLE_2} Seleziona lo strumento da\n"
 	.string "   ritirare.\n"
@@ -1031,7 +1031,7 @@ Help_Text_HowToUseWithdrawItem2::
 	.string "   ZAINO, oppure darlo direttamente\n"
 	.string "   da tenere ad un POKéMON.$"
 
-Help_Text_HowToUseDepositItem2::
+Help_Text_HowToUseDepositItem2_IT::
 	.string "{CIRCLE_1} Seleziona DEPOSITA.\n"
 	.string "{CIRCLE_2} Seleziona lo strumento che vuoi\n"
 	.string "   depositare con la pulsantiera di\n"
@@ -1039,7 +1039,7 @@ Help_Text_HowToUseDepositItem2::
 	.string "{CIRCLE_3} Se lo ZAINO è vuoto, questo\n"
 	.string "   comando non si può utilizzare.$"
 
-Help_Text_HowToUseMailbox2::
+Help_Text_HowToUseMailbox2_IT::
 	.string "Un MESSAGGIO preso ad un POKéMON\n"
 	.string "viene sistemato tra i MESSAGGI.\n"
 	.string "La sezione MESSAGGI del PC non può\n"
@@ -1048,7 +1048,7 @@ Help_Text_HowToUseMailbox2::
 	.string "{CIRCLE_1} Seleziona un MESSAGGIO per\n"
 	.string "   leggerlo o darlo ad un POKéMON.$"
 
-Help_Text_HowToUseRun::
+Help_Text_HowToUseRun_IT::
 	.string "Non puoi usare FUGA per\n"
 	.string "scappare da  un ALLENATORE.\n"
 	.string "{CIRCLE_1} Con FUGA puoi provare a\n"
@@ -1057,7 +1057,7 @@ Help_Text_HowToUseRun::
 	.string "{CIRCLE_2} Il successo della fuga dipende \n"
 	.string "   dalla velocità del tuo POKéMON.$"
 
-Help_Text_HowToRegisterKeyItem::
+Help_Text_HowToRegisterKeyItem_IT::
 	.string "Con ASSEGNA puoi assegnare uno\n"
 	.string "strumento base a SELECT per poterlo\n"
 	.string "usare rapidamente.\n"
@@ -1065,14 +1065,14 @@ Help_Text_HowToRegisterKeyItem::
 	.string "{CIRCLE_2} Seleziona lo strumento base e\n"
 	.string "   scegli ASSEGNA.$"
 
-Help_Text_HowToUseBall::
+Help_Text_HowToUseBall_IT::
 	.string "Seleziona e lancia una POKé BALL\n"
 	.string "speciale usata nella ZONA SAFARI.\n"
 	.string "Quando appaiono POKéMON selvatici,\n"
 	.string "cerca di catturarli con le SAFARI\n"
 	.string "BALL!$"
 
-Help_Text_HowToUseBait::
+Help_Text_HowToUseBait_IT::
 	.string "Seleziona per lanciare cibo\n"
 	.string "speciale, che si usa solo nella\n"
 	.string "ZONA SAFARI.\n"
@@ -1081,7 +1081,7 @@ Help_Text_HowToUseBait::
 	.string "selvatico rendendogli più difficile\n"
 	.string "fuggire.$"
 
-Help_Text_HowToUseRock::
+Help_Text_HowToUseRock_IT::
 	.string "Seleziona per raccogliere una\n"
 	.string "pietra da terra e tirarla ad un\n"
 	.string "POKéMON, nella ZONA SAFARI.\n"
@@ -1089,142 +1089,142 @@ Help_Text_HowToUseRock::
 	.string "fuggire, ma rende anche più\n"
 	.string "facile catturarlo.$"
 
-Help_Text_HowToUseHallOfFame::
+Help_Text_HowToUseHallOfFame_IT::
 	.string "{CIRCLE_1} Seleziona SALA d'ONORE nel PC.\n"
 	.string "{CIRCLE_2} Puoi vedere i POKéMON che sono\n"
 	.string "   riusciti ad accedere alla SALA\n"
 	.string "   d'ONORE.$"
 
-Help_Text_HP::
+Help_Text_HP_IT::
 	.string "PS$"
 
-Help_Text_EXP::
+Help_Text_EXP_IT::
 	.string "ESP.{LEFT_PAREN}Punti ESP.{RIGHT_PAREN}$"
 
-Help_Text_Moves::
+Help_Text_Moves_IT::
 	.string "MOSSE$"
 
-Help_Text_Attack::
+Help_Text_Attack_IT::
 	.string "ATTACCO$"
 
-Help_Text_Defense::
+Help_Text_Defense_IT::
 	.string "DIFESA$"
 
-Help_Text_SpAtk::
+Help_Text_SpAtk_IT::
 	.string "ATT. SPEC.$"
 
-Help_Text_SpDef::
+Help_Text_SpDef_IT::
 	.string "DIF. SPEC.$"
 
-Help_Text_Speed::
+Help_Text_Speed_IT::
 	.string "VELOCITÀ$"
 
-Help_Text_Level::
+Help_Text_Level_IT::
 	.string "L.{LEFT_PAREN}Livello{RIGHT_PAREN}$"
 
-Help_Text_Type::
+Help_Text_Type_IT::
 	.string "TIPO$"
 
-Help_Text_OT::
+Help_Text_OT_IT::
 	.string "AO$"
 
-Help_Text_Item::
+Help_Text_Item_IT::
 	.string "STRUM.$"
 
-Help_Text_Ability::
+Help_Text_Ability_IT::
 	.string "ABILITÀ$"
 
-Help_Text_Money::
+Help_Text_Money_IT::
 	.string "SOLDI$"
 
-Help_Text_MoveType::
+Help_Text_MoveType_IT::
 	.string "TIPO DELLA MOSSA$"
 
-Help_Text_Nature::
+Help_Text_Nature_IT::
 	.string "NATURA$"
 
-Help_Text_IDNo::
+Help_Text_IDNo_IT::
 	.string "NºID$"
 
-Help_Text_PP::
+Help_Text_PP_IT::
 	.string "PP$"
 
-Help_Text_Power::
+Help_Text_Power_IT::
 	.string "POTENZA$"
 
-Help_Text_Accuracy::
+Help_Text_Accuracy_IT::
 	.string "PRECIS.$"
 
-Help_Text_FNT::
+Help_Text_FNT_IT::
 	.string "KO$"
 
-Help_Text_Items::
+Help_Text_Items_IT::
 	.string "STRUMENTI$"
 
-Help_Text_KeyItems::
+Help_Text_KeyItems_IT::
 	.string "STRUM. BASE$"
 
-Help_Text_PokeBalls::
+Help_Text_PokeBalls_IT::
 	.string "POKé BALL$"
 
-Help_Text_Pokedex::
+Help_Text_Pokedex_IT::
 	.string "POKéDEX$"
 
-Help_Text_PlayTime::
+Help_Text_PlayTime_IT::
 	.string "TEMPO$"
 
-Help_Text_Badges::
+Help_Text_Badges_IT::
 	.string "MEDAGLIE$"
 
-Help_Text_TextSpeed::
+Help_Text_TextSpeed_IT::
 	.string "VELOC. TESTO$"
 
-Help_Text_BattleScene::
+Help_Text_BattleScene_IT::
 	.string "SCENA LOTTA$"
 
-Help_Text_BattleStyle::
+Help_Text_BattleStyle_IT::
 	.string "STILE LOTTA$"
 
-Help_Text_Sound::
+Help_Text_Sound_IT::
 	.string "SUONO$"
 
-Help_Text_ButtonMode::
+Help_Text_ButtonMode_IT::
 	.string "PULSANTI$"
 
-Help_Text_Frame::
+Help_Text_Frame_IT::
 	.string "CORNICE$"
 
-Help_Text_Cancel2::
+Help_Text_Cancel2_IT::
 	.string "ESCI$"
 
-Help_Text_TM::
+Help_Text_TM_IT::
 	.string "MT$"
 
-Help_Text_HM::
+Help_Text_HM_IT::
 	.string "MN$"
 
-Help_Text_HMMove::
+Help_Text_HMMove_IT::
 	.string "MOSSA MN$"
 
-Help_Text_Evolution::
+Help_Text_Evolution_IT::
 	.string "EVOLUZIONE$"
 
-Help_Text_StatusProblem::
+Help_Text_StatusProblem_IT::
 	.string "PROBLEMA DI STATO$"
 
-Help_Text_Pokemon::
+Help_Text_Pokemon_IT::
 	.string "POKéMON$"
 
-Help_Text_IDNo2::
+Help_Text_IDNo2_IT::
 	.string "NºID$"
 
-Help_Text_Money2::
+Help_Text_Money2_IT::
 	.string "SOLDI$"
 
-Help_Text_Badges2::
+Help_Text_Badges2_IT::
 	.string "MEDAGLIE$"
 
-Help_Text_DefineHP::
+Help_Text_DefineHP_IT::
 	.string "I PS sono la vitalità del POKéMON.\n"
 	.string "Se scendono a zero, il POKéMON è\l"
 	.string "esausto (KO) e non può più lottare.\l"
@@ -1233,7 +1233,7 @@ Help_Text_DefineHP::
 	.string "POKéMON può recuperare PS nei\l"
 	.string "CENTRI POKéMON o con strumenti.$"
 
-Help_Text_DefineEXP::
+Help_Text_DefineEXP_IT::
 	.string "I punti ESP. (Esperienza) sono i\n"
 	.string "punti che i POKéMON ottengono per\l"
 	.string "aver partecipato ad una lotta\l"
@@ -1242,7 +1242,7 @@ Help_Text_DefineEXP::
 	.string "Quando la barra si riempie, il\l"
 	.string "POKéMON passa al livello successivo.$"
 
-Help_Text_DefineMoves::
+Help_Text_DefineMoves_IT::
 	.string "I POKéMON possono apprendere fino\n"
 	.string "a quattro tecniche, o mosse. Alcune\l"
 	.string "mosse sono attacchi, altre hanno\l"
@@ -1251,19 +1251,19 @@ Help_Text_DefineMoves::
 	.string "POKéMON. Alcune si apprendono tramite\l"
 	.string "appositi strumenti.$"
 
-Help_Text_DefineAttack::
+Help_Text_DefineAttack_IT::
 	.string "Il valore ATTACCO indica la potenza\n"
 	.string "di una mossa offensiva. Si applica\l"
 	.string "alle mosse di tipo: NORMALE, TERRA,\l"
 	.string "VELENO, VOLANTE, COLEOTTERO,\l"
 	.string "LOTTA, ROCCIA, SPETTRO e ACCIAIO.$"
 
-Help_Text_DefineDefense::
+Help_Text_DefineDefense_IT::
 	.string "Il valore DIFESA indica la resistenza\n"
 	.string "di un POKéMON agli attacchi fisici\l"
 	.string "di un avversario.$"
 
-Help_Text_DefineSpAtk::
+Help_Text_DefineSpAtk_IT::
 	.string "Il valore ATT. SPEC. (Attacco\n"
 	.string "Speciale) indica la potenza di un\l"
 	.string "attacco speciale.\l"
@@ -1271,20 +1271,20 @@ Help_Text_DefineSpAtk::
 	.string "ACQUA, ELETTRO, ERBA, GHIACCIO,\l"
 	.string "PSICO, DRAGO e BUIO.$"
 
-Help_Text_DefineSpDef::
+Help_Text_DefineSpDef_IT::
 	.string "Il valore DIF. SPEC. (Difesa\n"
 	.string "Speciale) indica la resistenza di un\l"
 	.string "POKéMON agli attacchi speciali di\l"
 	.string "un avversario.$"
 
-Help_Text_DefineSpeed::
+Help_Text_DefineSpeed_IT::
 	.string "Il valore VELOCITÀ indica la rapidità\n"
 	.string "di un POKéMON in attacco. Se la\l"
 	.string "VELOCITÀ di un POKéMON è superiore\l"
 	.string "a quella dell'avversario, può colpire\l"
 	.string "per primo.$"
 
-Help_Text_DefineLevel::
+Help_Text_DefineLevel_IT::
 	.string "Il valore L. (Livello) indica la\n"
 	.string "crescita di un POKéMON. In generale,\l"
 	.string "quando un POKéMON cresce di livello,\l"
@@ -1293,7 +1293,7 @@ Help_Text_DefineLevel::
 	.string "mosse che si apprendono grazie\l"
 	.string "all'aumento di livello.$"
 
-Help_Text_DefineType::
+Help_Text_DefineType_IT::
 	.string "I POKéMON e le mosse sono suddivisi\n"
 	.string "per tipi. Ogni tipo ha combinazioni\l"
 	.string "vantaggiose verso alcuni tipi,\l"
@@ -1302,7 +1302,7 @@ Help_Text_DefineType::
 	.string "ACQUA è forte contro il tipo FUOCO,\l"
 	.string "ma debole contro il tipo ERBA, ecc.$"
 
-Help_Text_DefineOT::
+Help_Text_DefineOT_IT::
 	.string "AO significa “ALLENATORE Originario”,\n"
 	.string "e si riferisce al primo ALLENATORE\l"
 	.string "che ha catturato il POKéMON\l"
@@ -1310,7 +1310,7 @@ Help_Text_DefineOT::
 	.string "neppure dopo che il POKéMON è stato\l"
 	.string "scambiato.$"
 
-Help_Text_DefineItem::
+Help_Text_DefineItem_IT::
 	.string "A tutti i POKéMON può essere dato\n"
 	.string "uno strumento da tenere. Alcuni degli\l"
 	.string "strumenti tenuti possono essere usati\l"
@@ -1319,20 +1319,20 @@ Help_Text_DefineItem::
 	.string "strumento da tenere, selezionalo\l"
 	.string "nello ZAINO e poi scegli DAI.$"
 
-Help_Text_DefineAbility::
+Help_Text_DefineAbility_IT::
 	.string "Tutti i POKéMON hanno un'ABILITÀ\n"
 	.string "speciale. Alcune si usano nella\l"
 	.string "lotta, altre al di fuori. Differiscono\l"
 	.string "da specie a specie, e alcune specie\l"
 	.string "possono averne più di una.$"
 
-Help_Text_DefineMoney::
+Help_Text_DefineMoney_IT::
 	.string "Ogni volta che vinci una lotta ottieni\n"
 	.string "un premio in denaro. Questi soldi ti\l"
 	.string "serviranno per acquistare utili\l"
 	.string "strumenti nei POKéMON-MARKET.$"
 
-Help_Text_DefineMoveType::
+Help_Text_DefineMoveType_IT::
 	.string "Anche le mosse, come i POKéMON, sono\n"
 	.string "suddivise per tipo. La forza di una\l"
 	.string "mossa aumenta se è usata da un\l"
@@ -1341,13 +1341,13 @@ Help_Text_DefineMoveType::
 	.string "avvantaggiato rispetto al tipo del\l"
 	.string "POKéMON avversario.$"
 
-Help_Text_DefineNature::
+Help_Text_DefineNature_IT::
 	.string "Ogni POKéMON ha la propria NATURA.\n"
 	.string "La NATURA influenza il modo in cui il\l"
 	.string "POKéMON cresce aumentando di\l"
 	.string "livello.$"
 
-Help_Text_DefineIDNo::
+Help_Text_DefineIDNo_IT::
 	.string "Il NºID è un numero speciale che ti\n"
 	.string "identifica come ALLENATORE. Così\l"
 	.string "come il nome dell'ALLENATORE\l"
@@ -1356,7 +1356,7 @@ Help_Text_DefineIDNo::
 	.string "che mantiene entrambi anche dopo\l"
 	.string "essere stato scambiato.$"
 
-Help_Text_DefinePP::
+Help_Text_DefinePP_IT::
 	.string "PP significa Punti Potenza. Indica\n"
 	.string "quante volte una mossa può essere\l"
 	.string "usata nella lotta. Come i PS, anche i\l"
@@ -1364,13 +1364,13 @@ Help_Text_DefinePP::
 	.string "CENTRO POKéMON, o grazie all'uso\l"
 	.string "di specifici strumenti.$"
 
-Help_Text_DefinePower::
+Help_Text_DefinePower_IT::
 	.string "Il valore POTENZA indica la forza di\n"
 	.string "un attacco. Più è alta la POTENZA,\l"
 	.string "maggiore è il danno che una mossa\l"
 	.string "può causare all'avversario.$"
 
-Help_Text_DefineAccuracy::
+Help_Text_DefineAccuracy_IT::
 	.string "Il valore PRECIS. (Precisione) indica\n"
 	.string "la probabilità che un attacco vada a\l"
 	.string "segno. Più è alta la precisione di\l"
@@ -1378,7 +1378,7 @@ Help_Text_DefineAccuracy::
 	.string "possibilità che colpisca\l"
 	.string "l'avversario.$"
 
-Help_Text_DefineFNT::
+Help_Text_DefineFNT_IT::
 	.string "La sigla KO significa che un POKéMON\n"
 	.string "è esausto, cioè che i suoi PS sono\l"
 	.string "ridotti a zero. Un POKéMON esausto\l"
@@ -1387,7 +1387,7 @@ Help_Text_DefineFNT::
 	.string "in un CENTRO POKéMON, oppure\l"
 	.string "utilizzando determinati strumenti.$"
 
-Help_Text_DefineItems::
+Help_Text_DefineItems_IT::
 	.string "I normali strumenti che trovi o che\n"
 	.string "acquisti nei POKéMON-MARKET\l"
 	.string "sono sistemati nella TASCA \l"
@@ -1396,7 +1396,7 @@ Help_Text_DefineItems::
 	.string "dati da tenere ai POKéMON, o\l"
 	.string "buttati via.$"
 
-Help_Text_DefineKeyItems::
+Help_Text_DefineKeyItems_IT::
 	.string "Gli strumenti importanti che trovi\n"
 	.string "o ricevi sono sistemati nella TASCA\l"
 	.string "STRUMENTI BASE. Oltre ad usarli\l"
@@ -1404,52 +1404,52 @@ Help_Text_DefineKeyItems::
 	.string "uno a SELECT, in modo da poterlo\l"
 	.string "utilizzare senza aprire il MENU.$"
 
-Help_Text_DefinePokeBalls::
+Help_Text_DefinePokeBalls_IT::
 	.string "Le POKé BALL, usate per catturare\n"
 	.string "i POKéMON, sono sistemate nella\l"
 	.string "TASCA POKé BALL dello ZAINO.\l"
 	.string "Possono essere usate, date da\l"
 	.string "tenere ai POKéMON, o buttate via.$"
 
-Help_Text_DefinePokedex::
+Help_Text_DefinePokedex_IT::
 	.string "Indica il numero di specie di POKéMON\n"
 	.string "catturate o ottenute con lo scambio\l"
 	.string "o l'evoluzione. Cerca di avere\l"
 	.string "POKéMON di specie diverse, così\l"
 	.string "potrai completare il POKéDEX!$"
 
-Help_Text_DefinePlayTime::
+Help_Text_DefinePlayTime_IT::
 	.string "Indica quanto tempo hai giocato\n"
 	.string "la presente partita.$"
 
-Help_Text_DefineBadges::
+Help_Text_DefineBadges_IT::
 	.string "Qui sono mostrate le MEDAGLIE della\n"
 	.string "LEGA POKéMON che hai ottenuto.\l"
 	.string "Conquisti MEDAGLIE battendo i\l"
 	.string "CAPIPALESTRA delle PALESTRE\l"
 	.string "che trovi nei vari centri abitati.$"
 
-Help_Text_DefineTextSpeed::
+Help_Text_DefineTextSpeed_IT::
 	.string "Puoi scegliere tra tre velocità di\n"
 	.string "scorrimento del testo: 1 (lento),\l"
 	.string "2 (medio) e 3 (rapido).$"
 
-Help_Text_DefineBattleScene::
+Help_Text_DefineBattleScene_IT::
 	.string "Puoi scegliere se attivare (SÌ) o\n"
 	.string "disattivare le animazioni (NO).$"
 
-Help_Text_DefineBattleStyle::
+Help_Text_DefineBattleStyle_IT::
 	.string "Puoi scegliere se un ALLENATORE può\n"
 	.string "sostituire il proprio POKéMON quando\l"
 	.string "quello dell'avversario è esausto. Per\l"
 	.string "attivare questa opzione, seleziona\l"
 	.string "SCEGLI.$"
 
-Help_Text_DefineSound::
+Help_Text_DefineSound_IT::
 	.string "Puoi scegliere la modalità del suono\n"
 	.string "tra MONO e STEREO.$"
 
-Help_Text_DefineButtonMode::
+Help_Text_DefineButtonMode_IT::
 	.string "Imposta su GUIDA per consultare\n"
 	.string "la guida premendo il pulsante L o R.\l"
 	.string "Imposta su LR per scorrere il\l"
@@ -1458,25 +1458,25 @@ Help_Text_DefineButtonMode::
 	.string "Imposta su L=A perché il pulsante\l"
 	.string "L abbia le stesse funzioni di A.$"
 
-Help_Text_DefineFrame::
+Help_Text_DefineFrame_IT::
 	.string "Puoi scegliere la cornice dello\n"
 	.string "schermo in alcuni menu. Provale\l"
 	.string "e scegli quella che preferisci!$"
 
-Help_Text_DefineCancel2::
+Help_Text_DefineCancel2_IT::
 	.string "Con questa opzione ritorni al MENU.\n"
 	.string "Sono confermate le impostazioni\l"
 	.string "selezionate, che sono evidenziate in\l"
 	.string "rosso.$"
 
-Help_Text_DefineTM::
+Help_Text_DefineTM_IT::
 	.string "Una MT (Macchina Tecnica) è uno\n"
 	.string "strumento usato per insegnare una\l"
 	.string "mossa ad un POKéMON che sia\l"
 	.string "capace di apprenderla. Le MT possono\l"
 	.string "essere usate soltanto una volta.$"
 
-Help_Text_DefineHM::
+Help_Text_DefineHM_IT::
 	.string "Una MN (Macchina Nascosta) è uno\n"
 	.string "strumento usato per insegnare una\l"
 	.string "mossa ad un POKéMON che sia\l"
@@ -1485,7 +1485,7 @@ Help_Text_DefineHM::
 	.string "una volta e sono difficili da far\l"
 	.string "scordare.$"
 
-Help_Text_DefineHMMove::
+Help_Text_DefineHMMove_IT::
 	.string "Le mosse NASCOSTE sono quelle di\n"
 	.string "maggiore importanza nel gioco. Per\l"
 	.string "usarle fuori dalla lotta, seleziona\l"
@@ -1494,7 +1494,7 @@ Help_Text_DefineHMMove::
 	.string "Anche un POKéMON esausto può usare\l"
 	.string "mosse NASCOSTE fuori dalla lotta.$"
 
-Help_Text_DefineEvolution::
+Help_Text_DefineEvolution_IT::
 	.string "Alcuni POKéMON, crescendo di livello,\n"
 	.string "si evolvono in altre specie.\l"
 	.string "L'evoluzione modifica la forma e il\l"
@@ -1503,7 +1503,7 @@ Help_Text_DefineEvolution::
 	.string "mosse. Altri POKéMON si evolvono per\l"
 	.string "cause diverse dall'aumento di livello.$"
 
-Help_Text_DefineStatusProblem::
+Help_Text_DefineStatusProblem_IT::
 	.string "I problemi di stato sono:\n"
 	.string "Sonno: uso mosse impossibile.\l"
 	.string "Avvelenamento: continua perdita PS.\l"
@@ -1512,7 +1512,7 @@ Help_Text_DefineStatusProblem::
 	.string "Congelamento: uso mosse impossibile.\l"
 	.string "Sono risolvibili con strumenti, ecc.$"
 
-Help_Text_DefinePokemon::
+Help_Text_DefinePokemon_IT::
 	.string "POKéMON è il nome dato alle\n"
 	.string "meravigliose creature che popolano\l"
 	.string "questo mondo.\l"
@@ -1520,7 +1520,7 @@ Help_Text_DefinePokemon::
 	.string "amici, fedeli compagni di lotta e\l"
 	.string "molto altro ancora.$"
 
-Help_Text_DefineIDNo2::
+Help_Text_DefineIDNo2_IT::
 	.string "Il NºID è un numero speciale che ti\n"
 	.string "identifica come ALLENATORE. Così\l"
 	.string "come il nome dell'ALLENATORE\l"
@@ -1529,41 +1529,41 @@ Help_Text_DefineIDNo2::
 	.string "che mantiene entrambi anche dopo\l"
 	.string "essere stato scambiato.$"
 
-Help_Text_DefineMoney2::
+Help_Text_DefineMoney2_IT::
 	.string "Ogni volta che vinci una lotta ottieni\n"
 	.string "un premio in denaro. Questi soldi ti\l"
 	.string "serviranno per acquistare utili\l"
 	.string "strumenti nei POKéMON-MARKET.$"
 
-Help_Text_DefineBadges2::
+Help_Text_DefineBadges2_IT::
 	.string "Indica il numero di MEDAGLIE della\n"
 	.string "LEGA POKéMON che hai ottenuto\l"
 	.string "battendo i CAPIPALESTRA delle\l"
 	.string "PALESTRE POKéMON nelle varie\l"
 	.string "città.$"
 
-Help_Text_TheHelpSystem::
+Help_Text_TheHelpSystem_IT::
 	.string "La GUIDA$"
 
-Help_Text_TheGame::
+Help_Text_TheGame_IT::
 	.string "Il gioco$"
 
-Help_Text_WirelessAdapter::
+Help_Text_WirelessAdapter_IT::
 	.string "L'adattatore wireless per GBA$"
 
-Help_Text_GameFundamentals1::
+Help_Text_GameFundamentals1_IT::
 	.string "Informazioni generali 1$"
 
-Help_Text_GameFundamentals2::
+Help_Text_GameFundamentals2_IT::
 	.string "Informazioni generali 2$"
 
-Help_Text_GameFundamentals3::
+Help_Text_GameFundamentals3_IT::
 	.string "Informazioni generali 3$"
 
-Help_Text_WhatArePokemon::
+Help_Text_WhatArePokemon_IT::
 	.string "Cosa sono i POKéMON?$"
 
-Help_Text_DescTheHelpSystem::
+Help_Text_DescTheHelpSystem_IT::
 	.string "I messaggi della GUIDA corrispondono\n"
 	.string "sempre alla situazione in cui ti\l"
 	.string "trovi. Quindi, consulta la guida ogni\l"
@@ -1571,7 +1571,7 @@ Help_Text_DescTheHelpSystem::
 	.string "potrai trovare proprio l'informazione\l"
 	.string "che ti serve!$"
 
-Help_Text_DescTheGame::
+Help_Text_DescTheGame_IT::
 	.string "Esplora il mondo dei POKéMON nei\n"
 	.string "panni del personaggio principale!\l"
 	.string "Parlando con le persone che incontri\l"
@@ -1580,7 +1580,7 @@ Help_Text_DescTheGame::
 	.string "traguardo di questa fantastica\l"
 	.string "avventura insieme ai tuoi POKéMON.$"
 
-Help_Text_DescWirelessAdapter::
+Help_Text_DescWirelessAdapter_IT::
 	.string "Tramite l'adattatore wireless per\n"
 	.string "Game Boy Advance, questo gioco\l"
 	.string "ti permette di collegarti ovunque,\l"
@@ -1589,14 +1589,14 @@ Help_Text_DescWirelessAdapter::
 	.string "comodità, tieni l'adattatore wireless\l"
 	.string "per GBA sempre inserito!$"
 
-Help_Text_DescGameFundamentals1::
+Help_Text_DescGameFundamentals1_IT::
 	.string "Perlustra ogni villaggio, ogni strada,\n"
 	.string "ogni grotta, accettando ogni sfida.\l"
 	.string "Dovrai impegnarti a fondo per\l"
 	.string "diventare il più grande ALLENATORE\l"
 	.string "di POKéMON!$"
 
-Help_Text_DescGameFundamentals2::
+Help_Text_DescGameFundamentals2_IT::
 	.string "Troverai molti ostacoli sul tuo\n"
 	.string "cammino, che potrai superare tramite\l"
 	.string "determinate azioni, o risolvendo\l"
@@ -1604,12 +1604,12 @@ Help_Text_DescGameFundamentals2::
 	.string "da quello in cui si trova l'ostacolo\l"
 	.string "stesso.$"
 
-Help_Text_DescGameFundamentals3::
+Help_Text_DescGameFundamentals3_IT::
 	.string "Alcuni ostacoli possono essere\n"
 	.string "superati dopo che i tuoi POKéMON\l"
 	.string "hanno appreso determinate mosse.$"
 
-Help_Text_DescWhatArePokemon::
+Help_Text_DescWhatArePokemon_IT::
 	.string "I POKéMON sono meravigliose creature\n"
 	.string "ancora avvolte nel mistero. Li puoi\l"
 	.string "incontrare nell'erba alta, nelle\l"
@@ -1618,112 +1618,112 @@ Help_Text_DescWhatArePokemon::
 	.string "diventano obbedienti ai loro\l"
 	.string "ALLENATORI.$"
 
-Help_Text_UsingTypeMatchupList::
+Help_Text_UsingTypeMatchupList_IT::
 	.string "Uso della lista delle combinazioni$"
 
-Help_Text_OwnMoveDark::
+Help_Text_OwnMoveDark_IT::
 	.string "Tipo propria mossa: BUIO$"
 
-Help_Text_OwnPokemonDark::
+Help_Text_OwnPokemonDark_IT::
 	.string "Tipo proprio POKéMON: BUIO$"
 
-Help_Text_OwnMoveRock::
+Help_Text_OwnMoveRock_IT::
 	.string "Tipo propria mossa: ROCCIA$"
 
-Help_Text_OwnPokemonRock::
+Help_Text_OwnPokemonRock_IT::
 	.string "Tipo proprio POKéMON: ROCCIA$"
 
-Help_Text_OwnMovePsychic::
+Help_Text_OwnMovePsychic_IT::
 	.string "Tipo propria mossa: PSICO$"
 
-Help_Text_OwnPokemonPsychic::
+Help_Text_OwnPokemonPsychic_IT::
 	.string "Tipo proprio POKéMON: PSICO$"
 
-Help_Text_OwnMoveFighting::
+Help_Text_OwnMoveFighting_IT::
 	.string "Tipo propria mossa: LOTTA$"
 
-Help_Text_OwnPokemonFighting::
+Help_Text_OwnPokemonFighting_IT::
 	.string "Tipo proprio POKéMON: LOTTA$"
 
-Help_Text_OwnMoveGrass::
+Help_Text_OwnMoveGrass_IT::
 	.string "Tipo propria mossa: ERBA$"
 
-Help_Text_OwnPokemonGrass::
+Help_Text_OwnPokemonGrass_IT::
 	.string "Tipo proprio POKéMON: ERBA$"
 
-Help_Text_OwnMoveGhost::
+Help_Text_OwnMoveGhost_IT::
 	.string "Tipo propria mossa: SPETTRO$"
 
-Help_Text_OwnPokemonGhost::
+Help_Text_OwnPokemonGhost_IT::
 	.string "Tipo proprio POKéMON: SPETTRO$"
 
-Help_Text_OwnMoveIce::
+Help_Text_OwnMoveIce_IT::
 	.string "Tipo propria mossa: GHIACCIO$"
 
-Help_Text_OwnPokemonIce::
+Help_Text_OwnPokemonIce_IT::
 	.string "Tipo proprio POKéMON: GHIACCIO$"
 
-Help_Text_OwnMoveGround::
+Help_Text_OwnMoveGround_IT::
 	.string "Tipo propria mossa: TERRA$"
 
-Help_Text_OwnPokemonGround::
+Help_Text_OwnPokemonGround_IT::
 	.string "Tipo proprio POKéMON: TERRA$"
 
-Help_Text_OwnMoveElectric::
+Help_Text_OwnMoveElectric_IT::
 	.string "Tipo propria mossa: ELETTRO$"
 
-Help_Text_OwnPokemonElectric::
+Help_Text_OwnPokemonElectric_IT::
 	.string "Tipo proprio POKéMON: ELETTRO$"
 
-Help_Text_OwnMovePoison::
+Help_Text_OwnMovePoison_IT::
 	.string "Tipo propria mossa: VELENO$"
 
-Help_Text_OwnPokemonPoison::
+Help_Text_OwnPokemonPoison_IT::
 	.string "Tipo proprio POKéMON: VELENO$"
 
-Help_Text_OwnMoveDragon::
+Help_Text_OwnMoveDragon_IT::
 	.string "Tipo propria mossa: DRAGO$"
 
-Help_Text_OwnPokemonDragon::
+Help_Text_OwnPokemonDragon_IT::
 	.string "Tipo proprio POKéMON: DRAGO$"
 
-Help_Text_OwnMoveNormal::
+Help_Text_OwnMoveNormal_IT::
 	.string "Tipo propria mossa: NORMALE$"
 
-Help_Text_OwnPokemonNormal::
+Help_Text_OwnPokemonNormal_IT::
 	.string "Tipo proprio POKéMON: NORMALE$"
 
-Help_Text_OwnMoveSteel::
+Help_Text_OwnMoveSteel_IT::
 	.string "Tipo propria mossa: ACCIAIO$"
 
-Help_Text_OwnPokemonSteel::
+Help_Text_OwnPokemonSteel_IT::
 	.string "Tipo proprio POKéMON: ACCIAIO$"
 
-Help_Text_OwnMoveFlying::
+Help_Text_OwnMoveFlying_IT::
 	.string "Tipo propria mossa: VOLANTE$"
 
-Help_Text_OwnPokemonFlying::
+Help_Text_OwnPokemonFlying_IT::
 	.string "Tipo proprio POKéMON: VOLANTE$"
 
-Help_Text_OwnMoveFire::
+Help_Text_OwnMoveFire_IT::
 	.string "Tipo propria mossa: FUOCO$"
 
-Help_Text_OwnPokemonFire::
+Help_Text_OwnPokemonFire_IT::
 	.string "Tipo proprio POKéMON: FUOCO$"
 
-Help_Text_OwnMoveWater::
+Help_Text_OwnMoveWater_IT::
 	.string "Tipo propria mossa: ACQUA$"
 
-Help_Text_OwnPokemonWater::
+Help_Text_OwnPokemonWater_IT::
 	.string "Tipo proprio POKéMON: ACQUA$"
 
-Help_Text_OwnMoveBug::
+Help_Text_OwnMoveBug_IT::
 	.string "Tipo propria mossa: COLEOTTERO$"
 
-Help_Text_OwnPokemonBug::
+Help_Text_OwnPokemonBug_IT::
 	.string "Tipo proprio POKéMON: COLEOTTERO$"
 
-Help_Text_HowToUseTypeMatchupList::
+Help_Text_HowToUseTypeMatchupList_IT::
 	.string "Una mossa, secondo la combinazione\n"
 	.string "con il POKéMON colpito, può essere:\l"
 	.string "{CIRCLE_DOT}: superefficace\l"
@@ -1732,156 +1732,156 @@ Help_Text_HowToUseTypeMatchupList::
 	.string "Ci sono combinazioni che non cambiano\l"
 	.string "l'effetto della mossa$"
 
-Help_Text_TypeMatchupOwnMoveDark::
+Help_Text_TypeMatchupOwnMoveDark_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: PSICO, SPETTRO\p"
 	.string "   {TRIANGLE}: LOTTA, BUIO, ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonDark::
+Help_Text_TypeMatchupOwnPokemonDark_IT::
 	.string "Effetto mossa sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: LOTTA, COLEOTT.\p"
 	.string "   {TRIANGLE}: SPETTRO, BUIO\p"
 	.string "   {BIG_MULT_X}: PSICO$"
 
-Help_Text_TypeMatchupOwnMoveRock::
+Help_Text_TypeMatchupOwnMoveRock_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, GHIACCIO, VOLANTE,\l"
 	.string "       COLEOTT.\p"
 	.string "   {TRIANGLE}: LOTTA, TERRA, ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonRock::
+Help_Text_TypeMatchupOwnPokemonRock_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: ACQUA, ERBA, LOTTA,\l"
 	.string "       TERRA, ACCIAIO\p"
 	.string "   {TRIANGLE}: NORMALE, FUOCO, VELENO,\n"
 	.string "       VOLANTE$"
 
-Help_Text_TypeMatchupOwnMovePsychic::
+Help_Text_TypeMatchupOwnMovePsychic_IT::
 	.string "Effetto sul POKéMON avversario:\p"
 	.string "   {CIRCLE_DOT}: LOTTA, VELENO\p"
 	.string "   {TRIANGLE}: PSICO, ACCIAIO\p"
 	.string "   {BIG_MULT_X}: BUIO$"
 
-Help_Text_TypeMatchupOwnPokemonPsychic::
+Help_Text_TypeMatchupOwnPokemonPsychic_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: COLEOTT., SPETTRO, BUIO\p"
 	.string "   {TRIANGLE}: LOTTA, PSICO$"
 
-Help_Text_TypeMatchupOwnMoveFighting::
+Help_Text_TypeMatchupOwnMoveFighting_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: NORMALE, GHIACCIO, ROCCIA,\l"
 	.string "       BUIO, ACCIAIO\p"
 	.string "   {TRIANGLE}: VEL., VOL., PSICO, COLEOTT.\p"
 	.string "   {BIG_MULT_X}: SPETTRO$"
 
-Help_Text_TypeMatchupOwnPokemonFighting::
+Help_Text_TypeMatchupOwnPokemonFighting_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: VOLANTE, PSICO\p"
 	.string "   {TRIANGLE}: COLEOTT., ROCCIA, BUIO$"
 
-Help_Text_TypeMatchupOwnMoveGrass::
+Help_Text_TypeMatchupOwnMoveGrass_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: ACQUA, TERRA, ROCCIA\p"
 	.string "   {TRIANGLE}: FUOCO, ERBA, VELENO,\n"
 	.string "       VOLANTE, COLEOTT., DRAGO,\l"
 	.string "       ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonGrass::
+Help_Text_TypeMatchupOwnPokemonGrass_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, GHIACCIO, VELENO,\l"
 	.string "        VOLANTE, COLEOTT.\p"
 	.string "   {TRIANGLE}: ACQUA, ELETTRO, ERBA, TERRA$"
 
-Help_Text_TypeMatchupOwnMoveGhost::
+Help_Text_TypeMatchupOwnMoveGhost_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: PSICO, SPETTRO\p"
 	.string "   {TRIANGLE}: BUIO, ACCIAIO\p"
 	.string "   {BIG_MULT_X}: NORMALE$"
 
-Help_Text_TypeMatchupOwnPokemonGhost::
+Help_Text_TypeMatchupOwnPokemonGhost_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: SPETTRO, BUIO\p"
 	.string "   {TRIANGLE}: VELENO, COLEOTT.\p"
 	.string "   {BIG_MULT_X}: NORMALE, LOTTA$"
 
-Help_Text_TypeMatchupOwnMoveIce::
+Help_Text_TypeMatchupOwnMoveIce_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: ERBA, TERRA, VOLANTE,\l"
 	.string "       DRAGO\p"
 	.string "   {TRIANGLE}: FUOCO, ACQUA, GHIACCIO,\n"
 	.string "       ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonIce::
+Help_Text_TypeMatchupOwnPokemonIce_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, LOTTA, ROCCIA,\l"
 	.string "       ACCIAIO\p"
 	.string "   {TRIANGLE}: GHIACCIO$"
 
-Help_Text_TypeMatchupOwnMoveGround::
+Help_Text_TypeMatchupOwnMoveGround_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, ELETTRO, VELENO,\l"
 	.string "       ROCCIA, ACCIAIO\p"
 	.string "   {TRIANGLE}: ERBA, COLEOTT.\n"
 	.string "   {BIG_MULT_X}: VOLANTE$"
 
-Help_Text_TypeMatchupOwnPokemonGround::
+Help_Text_TypeMatchupOwnPokemonGround_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: ACQUA, ERBA,\l"
 	.string "       GHIACCIO\p"
 	.string "   {TRIANGLE}: VELENO, ROCCIA\p"
 	.string "   {BIG_MULT_X}: ELETTRO$"
 
-Help_Text_TypeMatchupOwnMoveElectric::
+Help_Text_TypeMatchupOwnMoveElectric_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: ACQUA, VOLANTE\p"
 	.string "   {TRIANGLE}: ELETTRO, ERBA, DRAGO\p"
 	.string "   {BIG_MULT_X}: TERRA$"
 
-Help_Text_TypeMatchupOwnPokemonElectric::
+Help_Text_TypeMatchupOwnPokemonElectric_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: TERRA\p"
 	.string "   {TRIANGLE}: ELETTRO, VOLANTE, ACCIAIO$"
 
-Help_Text_TypeMatchupOwnMovePoison::
+Help_Text_TypeMatchupOwnMovePoison_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: ERBA\p"
 	.string "   {TRIANGLE}: VELENO, TERRA, ROCCIA,\n"
 	.string "       SPETTRO\p"
 	.string "   {BIG_MULT_X}: ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonPoison::
+Help_Text_TypeMatchupOwnPokemonPoison_IT::
 	.string "Effetto sul tuo POKéMON:\p"
 	.string "   {CIRCLE_DOT}: TERRA, PSICO\p"
 	.string "   {TRIANGLE}: ERBA, LOTTA, VELENO,\n"
 	.string "       COLEOTT.$"
 
-Help_Text_TypeMatchupOwnMoveDragon::
+Help_Text_TypeMatchupOwnMoveDragon_IT::
 	.string "Effetto sul POKéMON avversario:\p"
 	.string "   {CIRCLE_DOT}: DRAGO\p"
 	.string "   {TRIANGLE}: ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonDragon::
+Help_Text_TypeMatchupOwnPokemonDragon_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: GHIACCIO, DRAGO\p"
 	.string "   {TRIANGLE}: FUOCO, ACQUA, ELETTRO, ERBA$"
 
-Help_Text_TypeMatchupOwnMoveNormal::
+Help_Text_TypeMatchupOwnMoveNormal_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {TRIANGLE}: ROCCIA, ACCIAIO\p"
 	.string "   {BIG_MULT_X}: SPETTRO$"
 
-Help_Text_TypeMatchupOwnPokemonNormal::
+Help_Text_TypeMatchupOwnPokemonNormal_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: LOTTA\p"
 	.string "   {BIG_MULT_X}: SPETTRO$"
 
-Help_Text_TypeMatchupOwnMoveSteel::
+Help_Text_TypeMatchupOwnMoveSteel_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: GHIACCIO, ROCCIA\p"
 	.string "   {TRIANGLE}: FUOCO, ACQUA, ELETTRO,\n"
 	.string "       ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonSteel::
+Help_Text_TypeMatchupOwnPokemonSteel_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, LOTTA, TERRA\l"
 	.string "   {TRIANGLE}: NORMALE, ERBA, GHIACCIO,\l"
@@ -1890,47 +1890,47 @@ Help_Text_TypeMatchupOwnPokemonSteel::
 	.string "       BUIO, ACCIAIO\l"
 	.string "   {BIG_MULT_X}: VELENO$"
 
-Help_Text_TypeMatchupOwnMoveFlying::
+Help_Text_TypeMatchupOwnMoveFlying_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: ERBA, LOTTA, COLEOTT.\p"
 	.string "   {TRIANGLE}: ELETTRO, ROCCIA, ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonFlying::
+Help_Text_TypeMatchupOwnPokemonFlying_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: ELETTRO, GHIACCIO, ROCCIA\p"
 	.string "   {TRIANGLE}: ERBA, LOTTA, COLEOTT.\p"
 	.string "   {BIG_MULT_X}: TERRA$"
 
-Help_Text_TypeMatchupOwnMoveFire::
+Help_Text_TypeMatchupOwnMoveFire_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: ERBA, GHIACCIO, COLEOTT.,\l"
 	.string "       ACCIAIO\p"
 	.string "   {TRIANGLE}: FUOCO, ACQUA, ROCCIA, DRAGO$"
 
-Help_Text_TypeMatchupOwnPokemonFire::
+Help_Text_TypeMatchupOwnPokemonFire_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: ACQUA, TERRA, ROCCIA\p"
 	.string "   {TRIANGLE}: FUOCO, ERBA, GHIACCIO,\n"
 	.string "       COLEOTT., ACCIAIO$"
 
-Help_Text_TypeMatchupOwnMoveWater::
+Help_Text_TypeMatchupOwnMoveWater_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, TERRA, ROCCIA\p"
 	.string "   {TRIANGLE}: ACQUA, ERBA, DRAGO$"
 
-Help_Text_TypeMatchupOwnPokemonWater::
+Help_Text_TypeMatchupOwnPokemonWater_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: ELETTRO, ERBA\p"
 	.string "   {TRIANGLE}: FUOCO, ACQUA, GHIACCIO,\n"
 	.string "       ACCIAIO$"
 
-Help_Text_TypeMatchupOwnMoveBug::
+Help_Text_TypeMatchupOwnMoveBug_IT::
 	.string "Effetto sul POKéMON avversario:\n"
 	.string "   {CIRCLE_DOT}: ERBA, PSICO, BUIO\p"
 	.string "   {TRIANGLE}: FUOCO, LOTTA, VELENO,\n"
 	.string "       VOLANTE, SPETTRO, ACCIAIO$"
 
-Help_Text_TypeMatchupOwnPokemonBug::
+Help_Text_TypeMatchupOwnPokemonBug_IT::
 	.string "Effetto sul tuo POKéMON:\n"
 	.string "   {CIRCLE_DOT}: FUOCO, VOLANTE, ROCCIA\p"
 	.string "   {TRIANGLE}: ERBA, LOTTA, TERRA$"

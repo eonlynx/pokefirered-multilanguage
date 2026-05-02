@@ -1,20 +1,20 @@
-FuchsiaCity_House2_Text_DoYouLikeToFish::
+FuchsiaCity_House2_Text_DoYouLikeToFish_ES::
     .string "¡Soy el hermano mayor del GURÚ\n"
     .string "PESCADOR!\p"
     .string "¡Me encanta pescar!\p"
     .string "¿Y a ti, te gusta pescar?$"
 
-FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
+FuchsiaCity_House2_Text_LikeYourStyleTakeThis_ES::
     .string "¡Fenomenal!\n"
     .string "¡Me gusta tu estilo!\p"
     .string "¡Toma esto y pesca, anda!$"
 
-FuchsiaCity_House2_Text_ReceivedGoodRod::
+FuchsiaCity_House2_Text_ReceivedGoodRod_ES::
     .string "¡{PLAYER} recibió una CAÑA BUENA\n"
     .string "de manos del hermano del GURÚ\l"
     .string "PESCADOR!$"
 
-FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
+FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons_ES::
     .string "¡La pesca es una forma de vida!\n"
     .string "¡Es un arte!\p"
     .string "Con una CAÑA VIEJA de nada, lo\n"
@@ -23,15 +23,15 @@ FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
     .string "Pero con una CAÑA BUENA se pueden\n"
     .string "pescar POKéMON mucho mejores.$"
 
-FuchsiaCity_House2_Text_OhThatsDisappointing::
+FuchsiaCity_House2_Text_OhThatsDisappointing_ES::
     .string "Oh...\n"
     .string "Estoy tan decepcionado...$"
 
-FuchsiaCity_House2_Text_HowAreTheFishBiting::
+FuchsiaCity_House2_Text_HowAreTheFishBiting_ES::
     .string "¡Hola, {PLAYER}!\p"
     .string "¿Qué, pican los peces?$"
 
-FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
+FuchsiaCity_House2_Text_YouHaveNoRoomForGift_ES::
     .string "¡Oh, no!\p"
     .string "¡Tenía un regalo para ti, pero no\n"
     .string "tienes sitio!$"

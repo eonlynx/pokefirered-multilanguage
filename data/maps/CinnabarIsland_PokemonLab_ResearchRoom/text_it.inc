@@ -1,8 +1,8 @@
-CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_EeveeCanEvolveIntroThreeMons_IT::
     .string "EEVEE si evolve in una fra tre\n"
     .string "diverse specie di POKéMON.$"
 
-CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail_IT::
     .string "C'è un messaggio e-mail!\p"
     .string "…\p"
     .string "I tre POKéMON uccelli leggendari\n"
@@ -13,6 +13,6 @@ CinnabarIsland_PokemonLab_ResearchRoom_Text_LegendaryBirdEmail::
     .string "Da: SQUADRA RICERCA POKéMON\p"
     .string "…$"
 
-CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe::
+CinnabarIsland_PokemonLab_ResearchRoom_Text_AnAmberPipe_IT::
     .string "Una pipa d'ambra!$"
 

@@ -1,4 +1,4 @@
-CeladonCity_GameCorner_Text_TryPokemonPrinter::
+CeladonCity_GameCorner_Text_TryPokemonPrinter_DE::
 	.string "Ein POKéMON-DRUCKER!\p"
 	.string "Damit kannst du ein Bild\n"
 	.string "deiner POKéMON auf die Rückseite\l"
@@ -6,28 +6,28 @@ CeladonCity_GameCorner_Text_TryPokemonPrinter::
 	.string "Für nur 50¥!\l"
 	.string "Möchtest du es ausprobieren?$"
 
-CeladonCity_GameCorner_Text_DontHaveEnoughMoney::
+CeladonCity_GameCorner_Text_DontHaveEnoughMoney_DE::
 	.string "Du hast nicht genug Geld...$"
 
-CeladonCity_GameCorner_Text_ChoosePrintType::
+CeladonCity_GameCorner_Text_ChoosePrintType_DE::
 	.string "Wähle die Art des Aufdrucks aus!$"
 
-CeladonCity_GameCorner_Text_BigSmileForPhoto::
+CeladonCity_GameCorner_Text_BigSmileForPhoto_DE::
 	.string "Ein Lächeln für das Foto!\n"
 	.string "Drei… zwei… eins…\p"
 	.string "Blitz!$"
 
-CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard::
+CeladonCity_GameCorner_Text_PrintIsReadyCheckTrainerCard_DE::
 	.string "Dein POKéMON-Aufdruck ist fertig!\n"
 	.string "Sieh auf deinen TRAINERPASS!$"
 
-FourIsland_House2_Text_WishICouldShowOffStickers::
+FourIsland_House2_Text_WishICouldShowOffStickers_DE::
 	.string "Kicher…\n"
 	.string "Ich habe eine Menge STICKER\l"
 	.string "gesammelt. Wie gern würde ich\l"
 	.string "mit ihnen angeben…$"
 
-FourIsland_House2_Text_GiveYouStickerIfYouBrag::
+FourIsland_House2_Text_GiveYouStickerIfYouBrag_DE::
 	.string "Oh, prima!\n"
 	.string "Hier bist du richtig!\p"
 	.string "Sieh nur! Siehst du?\n"
@@ -40,75 +40,75 @@ FourIsland_House2_Text_GiveYouStickerIfYouBrag::
 	.string "dir verrätst.\p"
 	.string "Womit möchtest du angeben?$"
 
-FourIsland_House2_Text_BragAboutSomethingForMe::
+FourIsland_House2_Text_BragAboutSomethingForMe_DE::
 	.string "Gib mit irgendetwas für mich an!\n"
 	.string "Ich gebe dir einen STICKER!$"
 
-FourIsland_House2_Text_BragAboutWhatToday::
+FourIsland_House2_Text_BragAboutWhatToday_DE::
 	.string "Oh, hallo!\p"
 	.string "Da kommt der Angeber!\p"
 	.string "Womit willst du heute angeben?$"
 
-FourIsland_House2_Text_WowHoFLowest::
+FourIsland_House2_Text_WowHoFLowest_DE::
 	.string "Oh, wow, du hast es also bis in die\n"
 	.string "RUHMESHALLE geschafft!\p"
 	.string "Das ist gar nicht schlecht!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowHoFLow::
+FourIsland_House2_Text_WowHoFLow_DE::
 	.string "Oh! Wow! Du hast es oft in die\n"
 	.string "RUHMESHALLE geschafft!\p"
 	.string "Das ist beeindruckend!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowHoFHigh::
+FourIsland_House2_Text_WowHoFHigh_DE::
 	.string "Wahnsinn! Du hast es so oft in die\n"
 	.string "RUHMESHALLE geschafft?\l"
 	.string "Das ist schier unglaublich!\p"
 	.string "Die POKéMON LIGA ist dein Zuhause!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowHoFHighest::
+FourIsland_House2_Text_WowHoFHighest_DE::
 	.string "Unmöglich! Du hast es so oft in\n"
 	.string "die RUHMESHALLE geschafft?\p"
 	.string "Du bist der reine Wahnsinn!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_HoFStickerApplied::
+FourIsland_House2_Text_HoFStickerApplied_DE::
 	.string "Der STICKER der RUHMESHALLE\n"
 	.string "ist auf deinem TRAINERPASS.$"
 
-FourIsland_House2_Text_ComeBackWithBetterStoryHoF::
+FourIsland_House2_Text_ComeBackWithBetterStoryHoF_DE::
 	.string "Hm…\p"
 	.string "Beim nächsten Mal solltest du eine\n"
 	.string "bessere Geschichte auf Lager\l"
 	.string "haben!$"
 
-FourIsland_House2_Text_LivingLegendHoF::
+FourIsland_House2_Text_LivingLegendHoF_DE::
 	.string "Oh nein! Das kann ich nicht!\p"
 	.string "Du bist eine lebende Legende!\n"
 	.string "Ich habe keine STICKER mehr.$"
 
-FourIsland_House2_Text_WowEggsLowest::
+FourIsland_House2_Text_WowEggsLowest_DE::
 	.string "Oh, wow, das sind POKéMON-EIER!\n"
 	.string "Das wusste ich nicht!\p"
 	.string "Das ist ziemlich gut!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowEggsLow::
+FourIsland_House2_Text_WowEggsLow_DE::
 	.string "Bei dir sind so viele EIER\n"
 	.string "geschlüpft? Du musst sie\l"
 	.string "wirklich lieben!\l"
 	.string "Das ist beeindruckend!\l"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowEggsHigh::
+FourIsland_House2_Text_WowEggsHigh_DE::
 	.string "Wow! Bei dir sind eine große Menge\n"
 	.string "EIER geschlüpft!\p"
 	.string "Du bist eine EIER-Schlüpfbatterie!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowEggsHighest::
+FourIsland_House2_Text_WowEggsHighest_DE::
 	.string "Was?!? Bei dir sind so viele EIER\n"
 	.string "geschlüpft?\l"
 	.string "Was steckt hinter deiner Liebe zu\l"
@@ -116,40 +116,40 @@ FourIsland_House2_Text_WowEggsHighest::
 	.string "Du bist großartig, wirklich!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_EggStickerApplied::
+FourIsland_House2_Text_EggStickerApplied_DE::
 	.string "Der EIER-STICKER ist auf\n"
 	.string "deinem TRAINERPASS.$"
 
-FourIsland_House2_Text_ComeBackWithBetterStoryEggs::
+FourIsland_House2_Text_ComeBackWithBetterStoryEggs_DE::
 	.string "Hm…\p"
 	.string "Beim nächsten Mal solltest du eine\n"
 	.string "bessere Geschichte auf Lager\l"
 	.string "haben!$"
 
-FourIsland_House2_Text_LivingLegendEggs::
+FourIsland_House2_Text_LivingLegendEggs_DE::
 	.string "Oh nein! Das kann ich nicht!\p"
 	.string "Du bist eine lebende Legende!\n"
 	.string "Ich habe keine STICKER mehr.$"
 
-FourIsland_House2_Text_WowLinkWinsLowest::
+FourIsland_House2_Text_WowLinkWinsLowest_DE::
 	.string "Oh, du hast erfolgreich via\n"
 	.string "Link-Kabel gekämpft.\p"
 	.string "Du bist echt stark!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowLinkWinsLow::
+FourIsland_House2_Text_WowLinkWinsLow_DE::
 	.string "Du hast oft erfolgreich via\n"
 	.string "Link-Kabel gekämpft.\p"
 	.string "Du bist beeindruckend stark!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowLinkWinsHigh::
+FourIsland_House2_Text_WowLinkWinsHigh_DE::
 	.string "Wow! Du hast sehr oft erfolgreich\n"
 	.string "via Link-Kabel gekämpft.\p"
 	.string "Hast du dadurch Freunde verloren?\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_WowLinkWinsHighest::
+FourIsland_House2_Text_WowLinkWinsHighest_DE::
 	.string "Was?!? Das ist umwerfend! Du hast\n"
 	.string "wahnsinnig oft gewonnen!\p"
 	.string "Es haut mich um, wenn ich mir\n"
@@ -157,17 +157,17 @@ FourIsland_House2_Text_WowLinkWinsHighest::
 	.string "Du bist mein schlimmster Alptraum!\n"
 	.string "Ich gebe dir dies!$"
 
-FourIsland_House2_Text_VictoryStickerApplied::
+FourIsland_House2_Text_VictoryStickerApplied_DE::
 	.string "Der SIEGESSTICKER ist auf\n"
 	.string "dem TRAINERPASS.$"
 
-FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins::
+FourIsland_House2_Text_ComeBackWithBetterStoryLinkWins_DE::
 	.string "Hm…\p"
 	.string "Beim nächsten Mal solltest du eine\n"
 	.string "bessere Geschichte auf Lager\l"
 	.string "haben!$"
 
-FourIsland_House2_Text_LivingLegendLinkWins::
+FourIsland_House2_Text_LivingLegendLinkWins_DE::
 	.string "Oh nein! Das kann ich nicht!\p"
 	.string "Du bist eine lebende Legende!\n"
 	.string "Ich habe keine STICKER mehr.$"

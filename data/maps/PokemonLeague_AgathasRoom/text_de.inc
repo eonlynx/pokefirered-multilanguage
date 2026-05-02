@@ -1,4 +1,4 @@
-PokemonLeague_AgathasRoom_Text_Intro::
+PokemonLeague_AgathasRoom_Text_Intro_DE::
 	.string "Ich bin AGATHE aus dem Team der\n"
 	.string "TOP VIER!\p"
 	.string "Ich habe gehört, dass sich\n"
@@ -14,7 +14,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
 	.string "{PLAYER}! Ich zeige dir, wie ein\n"
 	.string "richtiger TRAINER kämpft!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_RematchIntro::
+PokemonLeague_AgathasRoom_Text_RematchIntro_DE::
 	.string "Ich bin AGATHE aus dem Team der\n"
 	.string "TOP VIER!\p"
 	.string "Ich habe gehört, dass EICH\n"
@@ -30,11 +30,11 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
 	.string "{PLAYER}! Ich zeige dir, wie ein\n"
 	.string "richtiger TRAINER kämpft!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_Defeat::
+PokemonLeague_AgathasRoom_Text_Defeat_DE::
 	.string "Wirklich!\n"
 	.string "Du bist ein ganz besonderes Kind!$"
 
-PokemonLeague_AgathasRoom_Text_PostBattle::
+PokemonLeague_AgathasRoom_Text_PostBattle_DE::
 	.string "Du hast gewonnen!\p"
 	.string "Nun verstehe ich, was der Professor\n"
 	.string "meinte...\p"

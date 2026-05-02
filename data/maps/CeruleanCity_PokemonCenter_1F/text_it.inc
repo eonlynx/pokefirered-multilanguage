@@ -1,9 +1,9 @@
-CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons::
+CeruleanCity_PokemonCenter_1F_Text_BillDoesWhateverForRareMons_IT::
     .string "Ah, quel BILL!\p"
     .string "Farebbe di tutto pur di avere dei\n"
     .string "POKéMON rari!$"
 
-CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
+CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac_IT::
     .string "Hai sentito parlare di BILL?\p"
     .string "Tutti lo chiamano POKéFANATICO!\p"
     .string "Ma credo che la gente sia solo\n"
@@ -12,11 +12,11 @@ CeruleanCity_PokemonCenter_1F_Text_EveryoneCallsBillPokemaniac::
     .string "POKéMON, ma chi non lo\l"
     .string "farebbe?$"
 
-CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons::
+CeruleanCity_PokemonCenter_1F_Text_BillCollectsRareMons_IT::
     .string "BILL ha moltissimi POKéMON!\p"
     .string "E alcuni sono rarissimi!$"
 
-CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs::
+CeruleanCity_PokemonCenter_1F_Text_TryTradingUpstairs_IT::
     .string "Perché non vai al piano di sopra\n"
     .string "per scambiare POKéMON con i\l"
     .string "tuoi amici?\p"

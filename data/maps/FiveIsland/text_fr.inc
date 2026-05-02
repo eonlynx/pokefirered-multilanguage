@@ -1,15 +1,15 @@
-FiveIsland_Text_IslandSign::
+FiveIsland_Text_IslandSign_FR::
 	.string "ILE 5\p"
 	.string "L'île où le temps s'écoule comme\n"
 	.string "une rivière$"
 
-FiveIsland_Text_WeirdBuildingInMeadow::
+FiveIsland_Text_WeirdBuildingInMeadow_FR::
 	.string "Oh, ça craint. Je voulais jouer\n"
 	.string "dans le PRE.\p"
 	.string "Mais ils nous ont collé ça en\n"
 	.string "plein milieu. J'peux plus jouer!$"
 
-FiveIsland_Text_BeenGettingBusierAroundHere::
+FiveIsland_Text_BeenGettingBusierAroundHere_FR::
 	.string "Il y a de plus en plus d'agitation\n"
 	.string "par ici récemment.\p"
 	.string "Et ça fait longtemps que j'ai\n"

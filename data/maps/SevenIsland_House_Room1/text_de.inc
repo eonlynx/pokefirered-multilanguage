@@ -1,4 +1,4 @@
-SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
+SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles_DE::
 	.string "Ich stelle momentan nichts mehr\n"
 	.string "dar, aber als ich jünger war…\p"
 	.string "Ich bin überall hingeflogen und\n"
@@ -9,10 +9,10 @@ SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
 	.string "die Vergangenheit zu erinnern\l"
 	.string "und Kämpfe zu beobachten.$"
 
-SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
+SevenIsland_House_Room1_Text_SlightBreezeAroundBox_DE::
 	.string "Es weht ein laues Lüftchen!$"
 
-SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
+SevenIsland_House_Room1_Text_ChallengeVisitingTrainer_DE::
 	.string "Ah!\n"
 	.string "Willkommen mein Freund!\p"
 	.string "Ich will dir etwas erzählen. Im\n"
@@ -23,7 +23,7 @@ SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
 	.string "Du bist bestimmt gekommen, um\n"
 	.string "{STR_VAR_1} herauszufordern, oder?$"
 
-SevenIsland_House_Room1_Text_OhYouWontBattle::
+SevenIsland_House_Room1_Text_OhYouWontBattle_DE::
 	.string "Oh…\n"
 	.string "Du willst nicht kämpfen…\p"
 	.string "Ich verstehe!\n"
@@ -31,7 +31,7 @@ SevenIsland_House_Room1_Text_OhYouWontBattle::
 	.string "Wenn du deine Meinung änderst,\n"
 	.string "kannst du gerne wiederkommen!$"
 
-SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
+SevenIsland_House_Room1_Text_LimitThreeMonsPerSide_DE::
 	.string "Ah!\n"
 	.string "Du willst also kämpfen?\p"
 	.string "Dann hat es sich gelohnt, die\n"
@@ -44,22 +44,22 @@ SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
 	.string "von maximal drei POKéMON\l"
 	.string "beschränken?$"
 
-SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
+SevenIsland_House_Room1_Text_SaveProgressBeforeBattle_DE::
 	.string "Schön! Möchtest du dein Spiel\n"
 	.string "vor dem Kampf sichern?$"
 
-SevenIsland_House_Room1_Text_DontHoldAnythingBack::
+SevenIsland_House_Room1_Text_DontHoldAnythingBack_DE::
 	.string "Sehr gut!\n"
 	.string "Nimm keine Rücksicht!$"
 
 @ Unused
-SevenIsland_House_Room1_Text_StrVar1_1::
+SevenIsland_House_Room1_Text_StrVar1_1_DE::
 	.string "{STR_VAR_1}$"
 
-SevenIsland_House_Room2_Text_MatchEndedUpDraw::
+SevenIsland_House_Room2_Text_MatchEndedUpDraw_DE::
 	.string "Der Kampf endet unentschieden.$"
 
-SevenIsland_House_Room1_Text_DrawWasIt::
+SevenIsland_House_Room1_Text_DrawWasIt_DE::
 	.string "Unentschieden?!?\n"
 	.string "Dieses Spektakel hat sich\l"
 	.string "dennoch gelohnt.\p"
@@ -68,10 +68,10 @@ SevenIsland_House_Room1_Text_DrawWasIt::
 	.string "Tiefgang war!$"
 
 @ Unused
-SevenIsland_House_Room1_Text_StrVar1_2::
+SevenIsland_House_Room1_Text_StrVar1_2_DE::
 	.string "{STR_VAR_1}$"
 
-SevenIsland_House_Room1_Text_AstoundingBattle::
+SevenIsland_House_Room1_Text_AstoundingBattle_DE::
 	.string "Bravo!\p"
 	.string "Wirklich super!\n"
 	.string "Was für ein faszinierender Kampf!\p"
@@ -86,10 +86,10 @@ SevenIsland_House_Room1_Text_AstoundingBattle::
 	.string "Es war schlicht bombastisch!$"
 
 @ Unused
-SevenIsland_House_Room1_Text_StrVar1_3::
+SevenIsland_House_Room1_Text_StrVar1_3_DE::
 	.string "{STR_VAR_1}$"
 
-SevenIsland_House_Room1_Text_FeelYourDisappointment::
+SevenIsland_House_Room1_Text_FeelYourDisappointment_DE::
 	.string "Zu schade!\n"
 	.string "Ich spüre deine Enttäuschung!\p"
 	.string "Du wirst aus dieser Enttäuschung\n"

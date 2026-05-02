@@ -1,4 +1,4 @@
-Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
+Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30_FR::
 	.string "Salut! Tu te rappelles de moi?\n"
 	.string "Je suis un assistant du PROF. CHEN!\p"
 	.string "Si tu attrapes {STR_VAR_1} POKéMON\n"
@@ -7,17 +7,17 @@ Route11_EastEntrance_2F_Text_GiveItemfinderIfCaught30::
 	.string "Alors {PLAYER}, as-tu attrapé au\n"
 	.string "moins {STR_VAR_1} POKéMON différents?$"
 
-Route11_EastEntrance_2F_Text_GreatHereYouGo::
+Route11_EastEntrance_2F_Text_GreatHereYouGo_FR::
 	.string "Super! Tu as {STR_VAR_3} POKéMON\n"
 	.string "différents!\p"
 	.string "Félicitations!\n"
 	.string "Voici ta récompense!$"
 
-Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide::
+Route11_EastEntrance_2F_Text_ReceivedItemfinderFromAide_FR::
 	.string "{PLAYER} obtient\n"
 	.string "{STR_VAR_2}!$"
 
-Route11_EastEntrance_2F_Text_ExplainItemfinder::
+Route11_EastEntrance_2F_Text_ExplainItemfinder_FR::
 	.string "Il y a des objets au sol qui\n"
 	.string "sont difficiles à voir.\p"
 	.string "Utilise le CHERCH'OBJET pour\n"
@@ -28,17 +28,17 @@ Route11_EastEntrance_2F_Text_ExplainItemfinder::
 	.string "Utilise-la pour les localiser, et\n"
 	.string "finis de les chercher en fouinant.$"
 
-Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad::
+Route11_EastEntrance_2F_Text_BigMonAsleepOnRoad_FR::
 	.string "Vous regardez dans les jumelles.\p"
 	.string "Un énorme POKéMON dort sur la\n"
 	.string "route!$"
 
-Route11_EastEntrance_2F_Text_WhatABreathtakingView::
+Route11_EastEntrance_2F_Text_WhatABreathtakingView_FR::
 	.string "Vous regardez dans les jumelles.\p"
 	.string "C'est très beau!\n"
 	.string "… Bon! On y va?$"
 
-Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender::
+Route11_EastEntrance_2F_Text_RockTunnelGoodRouteToLavender_FR::
 	.string "Vous regardez dans les jumelles.\p"
 	.string "Il n'y a qu'un seul chemin pour\n"
 	.string "aller d'AZURIA à LAVANVILLE:\l"

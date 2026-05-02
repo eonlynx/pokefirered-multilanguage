@@ -1,21 +1,21 @@
-FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
+FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke_ES::
     .string "Al GUARDA le pusimos de mote:\n"
     .string "SLOWPOKE.\p"
     .string "¡Se parecen un montón; todo\n"
     .string "el día sin hacer nada!$"
 
-FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
+FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable_ES::
     .string "¡SLOWPOKE sabe mucho sobre los\n"
     .string "POKéMON!\p"
     .string "¡Tiene hasta varios fósiles de\n"
     .string "POKéMON raros y extintos!$"
 
-FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
+FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden_ES::
     .string "SLOWPOKE vino, pero no conseguí\n"
     .string "entenderle nada.\p"
     .string "Creo que no sabe articular bien.$"
 
-FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
+FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone_ES::
     .string "SLOWPOKE ha organizado\n"
     .string "un concurso.\p"
     .string "Intenta llegar al último rincón\n"

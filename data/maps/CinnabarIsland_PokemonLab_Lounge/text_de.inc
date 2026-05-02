@@ -1,4 +1,4 @@
-CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon::
+CinnabarIsland_PokemonLab_Lounge_Text_FoundFossilInMtMoon_DE::
 	.string "Ich habe auf dem MONDBERG ein\n"
 	.string "seltsames Fossil gefunden!\p"
 	.string "Ich denke, es stammt von einem\n"

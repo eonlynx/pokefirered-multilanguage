@@ -1,4 +1,4 @@
-ThreeIsland_House2_Text_CantMakeThisSpoonBend::
+ThreeIsland_House2_Text_CantMakeThisSpoonBend_DE::
 	.string "Urgh!\n"
 	.string "Kiah!\p"
 	.string "… es ist unnütz! Ich kann\n"
@@ -7,7 +7,7 @@ ThreeIsland_House2_Text_CantMakeThisSpoonBend::
 	.string "Vielleicht habe ich keine\n"
 	.string "Psychokräfte!$"
 
-ThreeIsland_House2_Text_IAdmireSabrina::
+ThreeIsland_House2_Text_IAdmireSabrina_DE::
 	.string "Kennst du ein Mädchen, das in\n"
 	.string "SAFFRONIA CITY\l"
 	.string "ARENALEITERIN ist?\l"

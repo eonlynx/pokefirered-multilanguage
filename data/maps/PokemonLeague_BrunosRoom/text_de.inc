@@ -1,4 +1,4 @@
-PokemonLeague_BrunosRoom_Text_Intro::
+PokemonLeague_BrunosRoom_Text_Intro_DE::
 	.string "Ich gehöre zu den TOP VIER!\n"
 	.string "Mein Name ist BRUNO!\p"
 	.string "Durch ausgiebiges Training können\n"
@@ -10,7 +10,7 @@ PokemonLeague_BrunosRoom_Text_Intro::
 	.string "bezwingen!\p"
 	.string "Zum Angriff!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_RematchIntro::
+PokemonLeague_BrunosRoom_Text_RematchIntro_DE::
 	.string "Ich gehöre zu den TOP VIER!\n"
 	.string "Mein Name ist BRUNO!\p"
 	.string "Durch ausgiebiges Training können\n"
@@ -22,10 +22,10 @@ PokemonLeague_BrunosRoom_Text_RematchIntro::
 	.string "bezwingen!\p"
 	.string "Zum Angriff!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_BrunosRoom_Text_Defeat::
+PokemonLeague_BrunosRoom_Text_Defeat_DE::
 	.string "Wie konnte ich verlieren?$"
 
-PokemonLeague_BrunosRoom_Text_PostBattle::
+PokemonLeague_BrunosRoom_Text_PostBattle_DE::
 	.string "Ich bin erledigt! Doch die nächste\n"
 	.string "Herausforderung wartet bereits...$"
 

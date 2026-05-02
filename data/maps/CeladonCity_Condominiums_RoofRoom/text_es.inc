@@ -1,4 +1,4 @@
-CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
+CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow_ES::
     .string "Ya lo dice la pizarra, no hay nada\n"
     .string "que no sepa.\p"
     .string "¡Yo lo sé todo sobre el mundo de\n"
@@ -7,21 +7,21 @@ CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
     .string "¡Reúnete con tus amigos y cambia\n"
     .string "POKéMON!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
+CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee_ES::
     .string "¡{PLAYER} obtuvo un EEVEE!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
+CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull_ES::
     .string "ポケモンが　いっぱいだ\n"
     .string "ボックスを　かえて　きなさい$"
 
-CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
+CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture_ES::
     .string "Temario POKéMON\p"
     .string "El Conector inalámbrico de GBA.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
+CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading_ES::
     .string "¿Qué capítulo quieres leer?$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub_ES::
     .string "El CLUB INALÁMBRICO POKéMON\n"
     .string "está en el piso de arriba de los\l"
     .string "CENTROS POKéMON.\p"
@@ -29,7 +29,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
     .string "amigos usando el Conector\l"
     .string "inalámbrico de GBA.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner_ES::
     .string "Para conectarte sólo con un amigo,\n"
     .string "ve a la ZONA DIRECTA.\p"
     .string "Es el mostrador de la derecha\n"
@@ -37,7 +37,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
     .string "Entra con tu amigo en el CENTRO\n"
     .string "de CAMBIO o en el COLISEO.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom_ES::
     .string "Para conectarte y comunicarte con\n"
     .string "cualquiera, ve a la SALA UNIÓN.\p"
     .string "Es el mostrador de la izquierda\n"
@@ -46,7 +46,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
     .string "del encuentro con otros\l"
     .string "ENTRENADORES.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
+CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs_ES::
     .string "Es un informe sobre las MT.\p"
     .string "...\p"
     .string "Hay un total de 50 MT.\p"

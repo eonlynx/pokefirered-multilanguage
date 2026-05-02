@@ -1,10 +1,10 @@
-CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
+CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore_FR::
 	.string "Bonjour et bienvenue au CENTRE\n"
 	.string "COMMERCIAL de CELADOPOLE.\p"
 	.string "Le tableau sur la droite décrit les\n"
 	.string "différents rayons du magasin.$"
 
-CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
+CeladonCity_DepartmentStore_1F_Text_FloorDescriptions_FR::
 	.string "RDC: RENSEIGNEMENTS\p"
 	.string "1er: MARCHE DES DRESSEURS\p"
 	.string "2ème: JEUX VIDEO\p"
@@ -12,6 +12,6 @@ CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
 	.string "4ème: MEDICAMENTS\p"
 	.string "TOIT: DISTRIBUTEURS$"
 
-CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
+CeladonCity_DepartmentStore_1F_Text_ServiceCounter_FR::
 	.string "RDC: RENSEIGNEMENTS$"
 

@@ -1,10 +1,10 @@
-SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
+SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner_FR::
 	.string "Ce luxueux bateau accueille tous\n"
 	.string "les DRESSEURS!\p"
 	.string "Dans chaque port, nous organisons\n"
 	.string "une fête pour les DRESSEURS!$"
 
-SSAnne_2F_Corridor_Text_RivalIntro::
+SSAnne_2F_Corridor_Text_RivalIntro_FR::
 	.string "{RIVAL}: Salut, {PLAYER}!\p"
 	.string "Toi! Ici! Sans blague!\n"
 	.string "{PLAYER}, tu as reçu une invitation?\p"
@@ -14,18 +14,18 @@ SSAnne_2F_Corridor_Text_RivalIntro::
 	.string "Y'en a partout! Tu n'as qu'à ramper\n"
 	.string "dans les hautes herbes!$"
 
-SSAnne_2F_Corridor_Text_RivalDefeat::
+SSAnne_2F_Corridor_Text_RivalDefeat_FR::
 	.string "Mouaff!\p"
 	.string "Au moins, tu t'occupes de tes\n"
 	.string "POKéMON!$"
 
-SSAnne_2F_Corridor_Text_RivalVictory::
+SSAnne_2F_Corridor_Text_RivalVictory_FR::
 	.string "{PLAYER}‥！\n"
 	.string "ふなよい　してるのか！\p"
 	.string "もっと　からだ\n"
 	.string "きたえた　ほうが　いいぜ！$"
 
-SSAnne_2F_Corridor_Text_RivalPostBattle::
+SSAnne_2F_Corridor_Text_RivalPostBattle_FR::
 	.string "{RIVAL}: Il y a le maître de la\n"
 	.string "capacité COUPE à bord.\p"
 	.string "Mais ce n'est qu'un vieil homme\n"

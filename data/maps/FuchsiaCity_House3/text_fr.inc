@@ -1,35 +1,35 @@
-FuchsiaCity_House3_Text_WouldYouLikeToForgetMove::
+FuchsiaCity_House3_Text_WouldYouLikeToForgetMove_FR::
 	.string "Hum… Ah, oui, je suis l'EFFACEUR\n"
 	.string "DE CAPACITES.\p"
 	.string "Je fais oublier leurs capacités aux\n"
 	.string "POKéMON.\p"
 	.string "Tu veux que je le fasse?$"
 
-FuchsiaCity_House3_Text_WhichMonShouldForgetMove::
+FuchsiaCity_House3_Text_WhichMonShouldForgetMove_FR::
 	.string "Quel POKéMON doit oublier une\n"
 	.string "capacité?$"
 
-FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten::
+FuchsiaCity_House3_Text_WhichMoveShouldBeForgotten_FR::
 	.string "Quelle capacité doit être oubliée?$"
 
-FuchsiaCity_House3_Text_MonOnlyKnowsOneMove::
+FuchsiaCity_House3_Text_MonOnlyKnowsOneMove_FR::
 	.string "Apparemment, {STR_VAR_1} ne connaît\n"
 	.string "qu'une seule capacité…$"
 
-FuchsiaCity_House3_Text_MonsMoveShouldBeForgotten::
+FuchsiaCity_House3_Text_MonsMoveShouldBeForgotten_FR::
 	.string "Hum! {STR_VAR_2} de {STR_VAR_1}?\n"
 	.string "Cette capacité doit être oubliée?$"
 
-FuchsiaCity_House3_Text_MonHasForgottenMoveCompletely::
+FuchsiaCity_House3_Text_MonHasForgottenMoveCompletely_FR::
 	.string "Ça a marché à la perfection!\p"
 	.string "{STR_VAR_1} a complètement oublié\n"
 	.string "{STR_VAR_2}.$"
 
-FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves::
+FuchsiaCity_House3_Text_ComeAgainToForgetOtherMoves_FR::
 	.string "Reviens me voir si tu veux que tes\n"
 	.string "POKéMON oublient des capacités.$"
 
-FuchsiaCity_House3_Text_NoEggShouldKnowMoves::
+FuchsiaCity_House3_Text_NoEggShouldKnowMoves_FR::
 	.string "Quoi? Les OEUFS ne connaissent\n"
 	.string "pas de capacité.$"
 

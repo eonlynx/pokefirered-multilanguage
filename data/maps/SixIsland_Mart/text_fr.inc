@@ -1,4 +1,4 @@
-SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
+SixIsland_Mart_Text_AgathaOldestEverEliteFourMember_FR::
 	.string "Joue beaucoup avec tes POKéMON\n"
 	.string "et profite de la vie.\p"
 	.string "Prends AGATHA par exemple.\n"
@@ -7,7 +7,7 @@ SixIsland_Mart_Text_AgathaOldestEverEliteFourMember::
 	.string "du CONSEIL 4.\p"
 	.string "Elle me pousse à me surpasser.$"
 
-SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter::
+SixIsland_Mart_Text_ShouldBuyMailAndWriteLetter_FR::
 	.string "Je devrais acheter du papier et\n"
 	.string "lui envoyer une LETTRE.$"
 

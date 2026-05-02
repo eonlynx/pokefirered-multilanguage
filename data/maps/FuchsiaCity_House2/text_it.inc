@@ -1,19 +1,19 @@
-FuchsiaCity_House2_Text_DoYouLikeToFish::
+FuchsiaCity_House2_Text_DoYouLikeToFish_IT::
     .string "Sono il fratello maggiore del GURU\n"
     .string "PESCATORE!\p"
     .string "Io adoooro pescare!\p"
     .string "E a te piace la pesca?$"
 
-FuchsiaCity_House2_Text_LikeYourStyleTakeThis::
+FuchsiaCity_House2_Text_LikeYourStyleTakeThis_IT::
     .string "Bene!\n"
     .string "Mi piace il tuo stile!\p"
     .string "Prendi questo e pesca, coraggio!$"
 
-FuchsiaCity_House2_Text_ReceivedGoodRod::
+FuchsiaCity_House2_Text_ReceivedGoodRod_IT::
     .string "{PLAYER} riceve\n"
     .string "l'AMO BUONO!$"
 
-FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
+FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons_IT::
     .string "La pesca è uno stile di vita!\n"
     .string "È pura poesia.\p"
     .string "Con un AMO VECCHIO si può\n"
@@ -21,15 +21,15 @@ FuchsiaCity_House2_Text_GoodRodCanCatchBetterMons::
     .string "Ma con un AMO BUONO, puoi\n"
     .string "prendere POKéMON molto migliori!$"
 
-FuchsiaCity_House2_Text_OhThatsDisappointing::
+FuchsiaCity_House2_Text_OhThatsDisappointing_IT::
     .string "Oh!…\n"
     .string "Ma che delusione…$"
 
-FuchsiaCity_House2_Text_HowAreTheFishBiting::
+FuchsiaCity_House2_Text_HowAreTheFishBiting_IT::
     .string "Salve, {PLAYER}!\p"
     .string "Allora, abboccano i pesci?$"
 
-FuchsiaCity_House2_Text_YouHaveNoRoomForGift::
+FuchsiaCity_House2_Text_YouHaveNoRoomForGift_IT::
     .string "Oh no!\p"
     .string "Avevo un regalo per te, ma tu non\n"
     .string "hai più spazio!$"

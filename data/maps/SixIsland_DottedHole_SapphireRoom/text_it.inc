@@ -1,12 +1,12 @@
-SixIsland_DottedHole_SapphireRoom_Text_FoundSapphire::
+SixIsland_DottedHole_SapphireRoom_Text_FoundSapphire_IT::
     .string "{PLAYER} ha trovato ZAFFIRO!$"
 
-SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou::
+SixIsland_DottedHole_SapphireRoom_Text_IWasRightInTailingYou_IT::
     .string "Lo sapevo!\p"
     .string "Sapevo che facevo bene\n"
     .string "a seguirti!$"
 
-SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword::
+SixIsland_DottedHole_SapphireRoom_Text_SellToTeamRocketTellPassword_IT::
     .string "Sapevo che avrei trovato uno\n"
     .string "ZAFFIRO qui, quindi è mio!\p"
     .string "Lo venderò a TEAM ROCKET\n"

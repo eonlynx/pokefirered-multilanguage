@@ -1,4 +1,4 @@
-OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
+OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore_FR::
 	.string "Hmmm…\n"
 	.string "Haaa…\p"
 	.string "C'est trop bon! Je suis\n"
@@ -8,29 +8,29 @@ OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
 	.string "Va au milieu, relaxe-toi et tu m'en\n"
 	.string "diras des nouvelles.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
+OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder_FR::
 	.string "Le moment que je préfère\n"
 	.string "vient juste après.\p"
 	.string "Rien de mieux qu'un bol de soupe\n"
 	.string "pour se réchauffer de l'intérieur!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
+OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed_FR::
 	.string "Cette eau est à la température\n"
 	.string "idéale. C'est le bonheur…\p"
 	.string "{PLAYER} et ses POKéMON retrouvent\n"
 	.string "toute leur énergie.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
+OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic_FR::
 	.string "Rien de mieux pour le corps que\n"
 	.string "de se relaxer dans l'eau chaude.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
+OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs_FR::
 	.string "Regarde-moi bien. Tu vois comme\n"
 	.string "ma peau est belle et lisse?\p"
 	.string "C'est grâce à l'eau de la source si\n"
 	.string "j'ai l'air plus jeune que mon âge.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
+OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion_FR::
 	.string "Après une journée d'entraînement,\n"
 	.string "il suffit de se plonger dans ce\p"
 	.string "bassin pour retrouver la forme.\n"
@@ -38,7 +38,7 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
 	.string "Il vient pour soigner ses blessures\n"
 	.string "et celles de ses POKéMON.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
+OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa_FR::
 	.string "Les sources thermales existent\n"
 	.string "grâce aux volcans.\p"
 	.string "J'ai créé la SOURCE BRAISE il\n"
@@ -49,7 +49,7 @@ OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
 	.string "J'utilisais ça à l'époque, je pense\n"
 	.string "que ça pourrait t'être utile.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06::
+OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06_FR::
 	.string "Avec ça, tu peux briser la roche\n"
 	.string "comme si c'était du verre.$"
 

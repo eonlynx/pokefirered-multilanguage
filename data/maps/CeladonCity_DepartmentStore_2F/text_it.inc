@@ -1,18 +1,18 @@
-CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel::
+CeladonCity_DepartmentStore_2F_Text_SuperRepelMorePowerfulRepel_IT::
     .string "SUPERREPELLENTE tiene a bada i\n"
     .string "POKéMON deboli…\p"
     .string "È un REPELLENTE molto forte!$"
 
-CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings::
+CeladonCity_DepartmentStore_2F_Text_BuyReviveForLongOutings_IT::
     .string "Per viaggi molto lunghi devi\n"
     .string "comprarti il REVITALIZZANTE.$"
 
-CeladonCity_DepartmentStore_2F_Text_FloorSign::
+CeladonCity_DepartmentStore_2F_Text_FloorSign_IT::
     .string "Strumenti di prima qualità per gli\n"
     .string "ALLENATORI.\p"
     .string "1ºP: NEGOZIO per ALLENATORI$"
 
-CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes::
+CeladonCity_DepartmentStore_2F_Text_LanceComesToBuyCapes_IT::
     .string "Abbiamo un cliente fisso che si\n"
     .string "chiama LANCE.\p"
     .string "Compra sempre mantelli dello\n"

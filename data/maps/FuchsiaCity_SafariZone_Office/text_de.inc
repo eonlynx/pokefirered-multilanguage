@@ -1,21 +1,21 @@
-FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke::
+FuchsiaCity_SafariZone_Office_Text_NicknamedWardenSlowpoke_DE::
 	.string "Der WÄRTER trägt den Spitznamen\n"
 	.string "FLEGMON.\p"
 	.string "Er und FLEGMON ähneln sich sehr!$"
 
-FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable::
+FuchsiaCity_SafariZone_Office_Text_WardenIsVeryKnowledgeable_DE::
 	.string "FLEGMON weiß eine Menge über\n"
 	.string "POKéMON!\p"
 	.string "Er besitzt sogar einige Fossilien\n"
 	.string "ausgestorbener URZEIT-POKéMON!$"
 
-FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden::
+FuchsiaCity_SafariZone_Office_Text_CouldntUnderstandWarden_DE::
 	.string "FLEGMON war hier, aber ich habe\n"
 	.string "ihn nicht verstehen können!\p"
 	.string "Ich glaube, er hat keine Zähne\n"
 	.string "mehr!$"
 
-FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone::
+FuchsiaCity_SafariZone_Office_Text_PrizeInSafariZone_DE::
 	.string "FLEGMON hält zur Zeit eine\n"
 	.string "Werbekampagne.\p"
 	.string "Erreiche die abgelegenste\n"

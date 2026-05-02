@@ -1,16 +1,16 @@
-LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney::
+LavenderTown_PokemonCenter_1F_Text_RocketsDoAnythingForMoney_ES::
     .string "¡El TEAM ROCKET hará lo que sea\n"
     .string "por el oro!\p"
     .string "¡No hay trabajo sucio ni actos\n"
     .string "vandálicos que no sean capaces\l"
     .string "de hacer!$"
 
-LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets::
+LavenderTown_PokemonCenter_1F_Text_CubonesMotherKilledByRockets_ES::
     .string "¡Vi a la madre de CUBONE\n"
     .string "intentando huir del TEAM ROCKET!\p"
     .string "La pobre no lo consiguió...$"
 
-LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls::
+LavenderTown_PokemonCenter_1F_Text_PeoplePayForCuboneSkulls_ES::
     .string "Los CUBONE llevan cráneos,\n"
     .string "¿verdad?\p"
     .string "¡La gente pagaría mucho por uno\n"

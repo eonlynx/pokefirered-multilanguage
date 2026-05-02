@@ -1,52 +1,52 @@
-ThreeIsland_Text_IslandSign::
+ThreeIsland_Text_IslandSign_DE::
 	.string "TRI-EILAND\n"
 	.string "Verwandtschaft und Familienbande$"
 
-ThreeIsland_Text_IslandBelongsToUs::
+ThreeIsland_Text_IslandBelongsToUs_DE::
 	.string "Yippie!\p"
 	.string "Von diesem Tag an gehört die\n"
 	.string "Insel uns!$"
 
-ThreeIsland_Text_GoBackToKanto::
+ThreeIsland_Text_GoBackToKanto_DE::
 	.string "Den Lärm und die Aufregung, die ihr\n"
 	.string "Leute hierher bringt brauchen wir \l"
 	.string "nicht!\p"
 	.string "Wir bitten euch, nach KANTO\n"
 	.string "zurückzukehren!$"
 
-ThreeIsland_Text_BossIsOnHisWay::
+ThreeIsland_Text_BossIsOnHisWay_DE::
 	.string "Heh, heul woanders!\n"
 	.string "Unser Boss kommt gerade.\p"
 	.string "Sobald er eingetroffen ist, werden\n"
 	.string "wir eine exzellente Motorradshow\l"
 	.string "vorführen, die unvergesslich ist.$"
 
-ThreeIsland_Text_GetOffIslandNow::
+ThreeIsland_Text_GetOffIslandNow_DE::
 	.string "W-was? Nicht in deinem Leben!\n"
 	.string "Verschwinde jetzt von der Insel!$"
 
-ThreeIsland_Text_WhosGonnaMakeMe::
+ThreeIsland_Text_WhosGonnaMakeMe_DE::
 	.string "Wer erledigt das für mich?$"
 
-ThreeIsland_Text_AreYouBossGoBackToKanto::
+ThreeIsland_Text_AreYouBossGoBackToKanto_DE::
 	.string "Bist du der Boss?\n"
 	.string "Gehe sofort zurück nach KANTO!$"
 
-ThreeIsland_Text_JustGotHerePal::
+ThreeIsland_Text_JustGotHerePal_DE::
 	.string "Häh?\p"
 	.string "Ich bin gerade hier angekommen!\p"
 	.string "Was soll deine feindselige\n"
 	.string "Einstellung? Das ist so\l"
 	.string "abweisend von dir!$"
 
-ThreeIsland_Text_FollowersRaisingHavoc::
+ThreeIsland_Text_FollowersRaisingHavoc_DE::
 	.string "Deine Anhänger haben mit ihren\n"
 	.string "Motorrädern alles verwüstet.\p"
 	.string "Hast du eine Vorstellung, wie viel\n"
 	.string "Ärger sie uns auf dieser Insel\l"
 	.string "gemacht haben?$"
 
-ThreeIsland_Text_OughtToBeThankingUs::
+ThreeIsland_Text_OughtToBeThankingUs_DE::
 	.string "Nein, ich kapiere es nicht!\p"
 	.string "Sieh dir das an. Was machst du,\n"
 	.string "um dich zu amüsieren?\p"
@@ -56,60 +56,60 @@ ThreeIsland_Text_OughtToBeThankingUs::
 	.string "Aber, wenn du willst, dass wir ver-\n"
 	.string "schwinden, dann tu doch etwas…$"
 
-ThreeIsland_Text_YouCowardsToughInPack::
+ThreeIsland_Text_YouCowardsToughInPack_DE::
 	.string "Grr… du Feigling…\n"
 	.string "Im Rudel so stark…$"
 
-ThreeIsland_Text_WannaMakeSomethingOfYourStaring::
+ThreeIsland_Text_WannaMakeSomethingOfYourStaring_DE::
 	.string "Was glotzt du so?\n"
 	.string "Das ist aber nicht sehr höflich!\p"
 	.string "Hast du mir vielleicht etwas\n"
 	.string "zu sagen?$"
 
-ThreeIsland_Text_ThatsSmart::
+ThreeIsland_Text_ThatsSmart_DE::
 	.string "Das ist clever!\n"
 	.string "Halt dich da raus!$"
 
-ThreeIsland_Text_Biker1Intro::
+ThreeIsland_Text_Biker1Intro_DE::
 	.string "Ey, dein Mut gefällt mir!\n"
 	.string "Du wirst Geld an mich verlieren…$"
 
-ThreeIsland_Text_Biker1Defeat::
+ThreeIsland_Text_Biker1Defeat_DE::
 	.string "Wa…\n"
 	.string "Was ist das für ein Kind?!?$"
 
-ThreeIsland_Text_Biker1PostBattle::
+ThreeIsland_Text_Biker1PostBattle_DE::
 	.string "Argh…\n"
 	.string "Wage es nicht, zu lachen!$"
 
-ThreeIsland_Text_Biker2Intro::
+ThreeIsland_Text_Biker2Intro_DE::
 	.string "Bist du nicht aus KANTO?\n"
 	.string "Du solltest auf unserer\l"
 	.string "Seite sein!$"
 
-ThreeIsland_Text_Biker2Defeat::
+ThreeIsland_Text_Biker2Defeat_DE::
 	.string "Hör auf herumzualbern!$"
 
-ThreeIsland_Text_Biker2PostBattle::
+ThreeIsland_Text_Biker2PostBattle_DE::
 	.string "Was ist los mit dir? Worüber\n"
 	.string "regst du dich so auf?\p"
 	.string "Du bist so was von uncool!$"
 
-ThreeIsland_Text_Biker3Intro::
+ThreeIsland_Text_Biker3Intro_DE::
 	.string "Wir haben den Boss hierher\n"
 	.string "eingeladen, aber du musstest\l"
 	.string "es vermasseln!\l"
 	.string "Du hast uns lächerlich gemacht!$"
 
-ThreeIsland_Text_Biker3Defeat::
+ThreeIsland_Text_Biker3Defeat_DE::
 	.string "…………\n"
 	.string "……$"
 
-ThreeIsland_Text_Biker3PostBattle::
+ThreeIsland_Text_Biker3PostBattle_DE::
 	.string "Boss, du musst etwas gegen dieses\n"
 	.string "Kind unternehmen!$"
 
-ThreeIsland_Text_PaxtonIntro::
+ThreeIsland_Text_PaxtonIntro_DE::
 	.string "Ich habe dich beobachtet und ich\n"
 	.string "würde sagen, dass du genug\l"
 	.string "angerichtet hast.\l"
@@ -117,36 +117,36 @@ ThreeIsland_Text_PaxtonIntro::
 	.string "Dann musst du an ihrer statt gegen\n"
 	.string "mich antreten.$"
 
-ThreeIsland_Text_PaxtonDefeat::
+ThreeIsland_Text_PaxtonDefeat_DE::
 	.string "In Ordnung, genug!\n"
 	.string "Wir verschwinden wie gewünscht!\p"
 	.string "Wir freuen uns schon, den Rest\n"
 	.string "dieser langweiligen Insel zu\l"
 	.string "sehen.$"
 
-ThreeIsland_Text_PaxtonPostBattle::
+ThreeIsland_Text_PaxtonPostBattle_DE::
 	.string "Humpf! Geh nur und häng mit\n"
 	.string "diesen Typen ab.$"
 
-ThreeIsland_Text_ThankYouOhYourMonGotHurt::
+ThreeIsland_Text_ThankYouOhYourMonGotHurt_DE::
 	.string "Danke! Diese Typen haben\n"
 	.string "nur Ärger gemacht.\p"
 	.string "Oh, deine POKéMON wurden\n"
 	.string "wegen mir verletzt.$"
 
-ThreeIsland_Text_GivenFullRestore::
+ThreeIsland_Text_GivenFullRestore_DE::
 	.string "{PLAYER} erhält\n"
 	.string "TOP-GENESUNG.$"
 
-ThreeIsland_Text_OhYourBagIsFull::
+ThreeIsland_Text_OhYourBagIsFull_DE::
 	.string "Oh?\n"
 	.string "Dein BEUTEL ist voll.$"
 
-ThreeIsland_Text_YouveGotImpressiveMons::
+ThreeIsland_Text_YouveGotImpressiveMons_DE::
 	.string "Du hast wirklich beeindruckende\n"
 	.string "POKéMON bei dir.$"
 
-ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
+ThreeIsland_Text_LostelleWentOffTowardsBondBridge_DE::
 	.string "Es wäre großartig, wenn jemand\n"
 	.string "wie du hier leben würde.\p"
 	.string "Ich hoffe, du bleibst wenigstens\n"
@@ -157,7 +157,7 @@ ThreeIsland_Text_LostelleWentOffTowardsBondBridge::
 	.string "IRRMA zur BUNDBRÜCKE\l"
 	.string "gegangen ist.$"
 
-ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
+ThreeIsland_Text_WouldntWantToSeeBikersHereAgain_DE::
 	.string "EILAND DREI ist die beliebteste\n"
 	.string "aller Inseln.\p"
 	.string "Dennoch könnte dort ein wenig\n"
@@ -166,12 +166,12 @@ ThreeIsland_Text_WouldntWantToSeeBikersHereAgain::
 	.string "wie diese BIKER hier nicht noch\l"
 	.string "einmal sehen.$"
 
-ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame::
+ThreeIsland_Text_WhenDodouEvolvesGoingToPlayGame_DE::
 	.string "Ich trainiere mein DODU im\n"
 	.string "BEERENFORST.\p"
 	.string "Sobald es sich entwickelt, spiele\n"
 	.string "ich auf EILAND ZWEI.$"
 
-ThreeIsland_Text_Doduo::
+ThreeIsland_Text_Doduo_DE::
 	.string "DODU: Guguh!$"
 

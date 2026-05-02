@@ -1,4 +1,4 @@
-VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
+VermilionCity_Mart_Text_TeamRocketAreWickedPeople_FR::
 	.string "Il y en a, des très méchants, qui\n"
 	.string "utilisent les POKéMON pour\l"
 	.string "des actes criminels.\p"
@@ -9,7 +9,7 @@ VermilionCity_Mart_Text_TeamRocketAreWickedPeople::
 	.string "Ouais, ils sont comme ça dans\n"
 	.string "la TEAM ROCKET.$"
 
-VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer::
+VermilionCity_Mart_Text_MonsGoodOrBadDependingOnTrainer_FR::
 	.string "Les POKéMON peuvent être gentils\n"
 	.string "ou méchants, cela dépend de leur\l"
 	.string "DRESSEUR.$"

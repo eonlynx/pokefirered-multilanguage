@@ -1,83 +1,83 @@
-SaffronCity_Text_WhatDoYouWantGetLost::
+SaffronCity_Text_WhatDoYouWantGetLost_FR::
 	.string "Kess tu veux?\n"
 	.string "Du vent!$"
 
-SaffronCity_Text_BossTakeTownForTeamRocket::
+SaffronCity_Text_BossTakeTownForTeamRocket_FR::
 	.string "Le CHEF dit qu'il contrôlera\n"
 	.string "cette ville!$"
 
-SaffronCity_Text_DontGetDefiantOrIllHurtYou::
+SaffronCity_Text_DontGetDefiantOrIllHurtYou_FR::
 	.string "Bouge de là!$"
 
-SaffronCity_Text_SaffronBelongsToTeamRocket::
+SaffronCity_Text_SaffronBelongsToTeamRocket_FR::
 	.string "SAFRANIA appartient à la\n"
 	.string "TEAM ROCKET!$"
 
-SaffronCity_Text_CriminalLifeMakesMeFeelAlive::
+SaffronCity_Text_CriminalLifeMakesMeFeelAlive_FR::
 	.string "Rien de mieux qu'une vie de\n"
 	.string "criminel pour se sentir vivant!$"
 
-SaffronCity_Text_WatchWhereYoureWalking::
+SaffronCity_Text_WatchWhereYoureWalking_FR::
 	.string "Tu m'as marché sur le pied,\n"
 	.string "non?$"
 
-SaffronCity_Text_WeCanExploitMonsAroundWorld::
+SaffronCity_Text_WeCanExploitMonsAroundWorld_FR::
 	.string "Avec la SYLPHE dans notre poche,\n"
 	.string "les POKéMON du monde entier\p"
 	.string "seront à nous! On va être\n"
 	.string "super riches.$"
 
-SaffronCity_Text_YouBeatTeamRocket::
+SaffronCity_Text_YouBeatTeamRocket_FR::
 	.string "Tu as vraiment battu la TEAM\n"
 	.string "ROCKET? Incroyable!$"
 
-SaffronCity_Text_SafeToGoOutAgain::
+SaffronCity_Text_SafeToGoOutAgain_FR::
 	.string "Ouais! La TEAM est partie!\n"
 	.string "On peut enfin respirer!$"
 
-SaffronCity_Text_PeopleComingBackToSaffron::
+SaffronCity_Text_PeopleComingBackToSaffron_FR::
 	.string "Tout le monde va vite revenir à\n"
 	.string "SAFRANIA maintenant que\p"
 	.string "la TEAM ROCKET est partie.$"
 
-SaffronCity_Text_FlewHereOnPidgeot::
+SaffronCity_Text_FlewHereOnPidgeot_FR::
 	.string "Je suis venu ici en volant sur mon\n"
 	.string "ROUCARNAGE après avoir lu les\p"
 	.string "nouvelles de la SYLPHE.\p"
 	.string "Tout est déjà fini?\n"
 	.string "J'ai tout loupé?$"
 
-SaffronCity_Text_Pidgeot::
+SaffronCity_Text_Pidgeot_FR::
 	.string "ROUCARNAGE: Rou!$"
 
-SaffronCity_Text_SawRocketBossEscaping::
+SaffronCity_Text_SawRocketBossEscaping_FR::
 	.string "J'ai vu le CHEF de la TEAM ROCKET\n"
 	.string "s'enfuir de la SYLPHE.$"
 
-SaffronCity_Text_ImASecurityGuard::
+SaffronCity_Text_ImASecurityGuard_FR::
 	.string "Moi…\n"
 	.string "J'suis un garde.\p"
 	.string "Les nabots tout louches, moi,\n"
 	.string "j'les laisse pas passer!$"
 
-SaffronCity_Text_HesTakingASnooze::
+SaffronCity_Text_HesTakingASnooze_FR::
 	.string "…\n"
 	.string "(ronffl)…\p"
 	.string "Ah! Il dort!$"
 
-SaffronCity_Text_CitySign::
+SaffronCity_Text_CitySign_FR::
 	.string "SAFRANIA\n"
 	.string "Là où le commerce est roi$"
 
-SaffronCity_Text_FightingDojo::
+SaffronCity_Text_FightingDojo_FR::
 	.string "DOJO$"
 
-SaffronCity_Text_GymSign::
+SaffronCity_Text_GymSign_FR::
 	.string "ARENE POKéMON de SAFRANIA \n"
 	.string "CHAMPION: MORGANE\l"
 	.string "Maîtresse des POKéMON PSY!$"
 
-SaffronCity_Text_FullHealCuresStatus::
+SaffronCity_Text_FullHealCuresStatus_FR::
 	.string "ASTUCE\p"
 	.string "TOTAL SOIN fait disparaître tous\n"
 	.string "les changements de statut\p"
@@ -86,30 +86,30 @@ SaffronCity_Text_FullHealCuresStatus::
 	.string "C'est un peu cher mais ça vaut\n"
 	.string "le coup.$"
 
-SaffronCity_Text_GreatBallImprovedCatchRate::
+SaffronCity_Text_GreatBallImprovedCatchRate_FR::
 	.string "ASTUCE\p"
 	.string "La SUPER BALL augmente les\n"
 	.string "chances de capture.\p"
 	.string "Faites un essai sur des POKéMON\n"
 	.string "difficiles à attraper.$"
 
-SaffronCity_Text_SilphCoSign::
+SaffronCity_Text_SilphCoSign_FR::
 	.string "SYLPHE SARL SIEGE SOCIAL$"
 
-SaffronCity_Text_MrPsychicsHouse::
+SaffronCity_Text_MrPsychicsHouse_FR::
 	.string "MAISON DE MR. PSY$"
 
-SaffronCity_Text_SilphsLatestProduct::
+SaffronCity_Text_SilphsLatestProduct_FR::
 	.string "Dernier produit de la SYLPHE!\p"
 	.string "La date de sortie est encore à\n"
 	.string "déterminer…$"
 
-SaffronCity_Text_TrainerFanClubSign::
+SaffronCity_Text_TrainerFanClubSign_FR::
 	.string "FAN CLUB DES DRESSEURS POKéMON\p"
 	.string "Des noms de DRESSEURS sont\n"
 	.string "inscrits sur le panneau…$"
 
-SaffronCity_Text_HowCanClubNotRecognizeLance::
+SaffronCity_Text_HowCanClubNotRecognizeLance_FR::
 	.string "Ce FAN CLUB…\n"
 	.string "Personne n'a une petite idée?\p"
 	.string "Comment ne peuvent-ils pas\n"

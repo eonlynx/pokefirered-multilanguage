@@ -1,8 +1,8 @@
-FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMeal::
+FiveIsland_PokemonCenter_1F_Text_OnMyWayToPrepareMeal_FR::
 	.string "Je vais préparer un dîner spécial\n"
 	.string "pour une personne très importante!$"
 
-FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMon::
+FiveIsland_PokemonCenter_1F_Text_YoureOnQuestToCatchEveryMon_FR::
 	.string "Tu veux attraper tous les types\n"
 	.string "de POKéMON qui existent?\p"
 	.string "Incroyable! Viens me prévenir\n"

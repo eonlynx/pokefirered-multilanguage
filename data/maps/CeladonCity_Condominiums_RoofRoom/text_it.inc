@@ -1,25 +1,25 @@
-CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow::
+CeladonCity_Condominiums_RoofRoom_Text_TheresNothingIDontKnow_IT::
     .string "So tutto sul mondo dei POKéMON nel\n"
     .string "tuo GAME BOY ADVANCE!\p"
     .string "Incontra i tuoi amici e scambia i\n"
     .string "POKéMON!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee::
+CeladonCity_Condominiums_RoofRoom_Text_ObtainedAnEevee_IT::
     .string "{PLAYER} ha ottenuto EEVEE!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull::
+CeladonCity_Condominiums_RoofRoom_Text_BoxIsFull_IT::
     .string "ポケモンが　いっぱいだ\n"
     .string "ボックスを　かえて　きなさい$"
 
-CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture::
+CeladonCity_Condominiums_RoofRoom_Text_WirelessAdapterLecture_IT::
     .string "Lezione POKéMON\p"
     .string "Giocare con il GBA Wireless Adapter\n"
     .string "(adattatore wireless per GBA).$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading::
+CeladonCity_Condominiums_RoofRoom_Text_ReadWhichHeading_IT::
     .string "Che capitolo vuoi leggere?$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub_IT::
     .string "Il CLUB WIRELESS POKéMON è al\n"
     .string "piano superiore di ogni CENTRO\l"
     .string "POKéMON.\p"
@@ -27,7 +27,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainWirelessClub::
     .string "amici usando l'adattatore wireless\l"
     .string "per GBA.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner_IT::
     .string "Per collegarti direttamente con un\n"
     .string "amico, vai alla SALA DIRETTA\l"
     .string "del CLUB WIRELESS POKéMON.\p"
@@ -36,7 +36,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainDirectCorner::
     .string "La SALA DIRETTA comprende il\n"
     .string "COLOSSEO e il BANCO SCAMBI.$"
 
-CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
+CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom_IT::
     .string "Per collegarti con qualsiasi\n"
     .string "ALLENATORE, vai alla\l"
     .string "SALA CONTATTO.\p"
@@ -49,7 +49,7 @@ CeladonCity_Condominiums_RoofRoom_Text_ExplainUnionRoom::
     .string "anche incontrare ALLENATORI\l"
     .string "che ancora non conosci!$"
 
-CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs::
+CeladonCity_Condominiums_RoofRoom_Text_PamphletOnTMs_IT::
     .string "È un opuscolo sulle MT.\p"
     .string "…\p"
     .string "In totale le MT sono 50…\p"

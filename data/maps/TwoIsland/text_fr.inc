@@ -1,23 +1,23 @@
-TwoIsland_Text_IslandSign::
+TwoIsland_Text_IslandSign_FR::
 	.string "ILE 2\n"
 	.string "Le bonheur à deux$"
 
-TwoIsland_Text_JoyfulGameCornerSign::
+TwoIsland_Text_JoyfulGameCornerSign_FR::
 	.string "SALLE DE JEU\n"
 	.string "Affrontez vos adversaires$"
 
-TwoIsland_Text_DangerFastCurrent::
+TwoIsland_Text_DangerFastCurrent_FR::
 	.string "DANGER! RAPIDES!\n"
 	.string "Surf et pêche interdits!$"
 
-TwoIsland_Text_WelcomeToShopMerchandiseLimited::
+TwoIsland_Text_WelcomeToShopMerchandiseLimited_FR::
 	.string "Oh, bienvenue dans ma boutique!\p"
 	.string "Nous n'avons ouvert que très\n"
 	.string "récemment.\p"
 	.string "Nos stocks sont limités mais\n"
 	.string "j'espère vous servir au mieux.$"
 
-TwoIsland_Text_AddedMerchandiseForLostelle::
+TwoIsland_Text_AddedMerchandiseForLostelle_FR::
 	.string "Je ne trouve pas les mots pour\n"
 	.string "vous remercier d'avoir sauvé\p"
 	.string "LOSTELLE. Grâce à vos exploits,\n"
@@ -28,11 +28,11 @@ TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "Les gens de l'ILE 3 m'ont aidé à\n"
 	.string "monter mon STAND.$"
 
-TwoIsland_Text_HopeYouGiveItYourBest::
+TwoIsland_Text_HopeYouGiveItYourBest_FR::
 	.string "Je donne le meilleur de moi-même.\n"
 	.string "J'espère que vous aussi, {PLAYER}.$"
 
-TwoIsland_Text_BringingItemsFromDistantLands::
+TwoIsland_Text_BringingItemsFromDistantLands_FR::
 	.string "Oh, bonjour, {PLAYER}!\n"
 	.string "Bienvenue!\p"
 	.string "J'ai commencé à rapporter des\n"
@@ -40,7 +40,7 @@ TwoIsland_Text_BringingItemsFromDistantLands::
 	.string "J'en ai de très rares, vous devriez\n"
 	.string "venir voir.$"
 
-TwoIsland_Text_FellowMovedFromCeladonCity::
+TwoIsland_Text_FellowMovedFromCeladonCity_FR::
 	.string "Ce type là, il est venu de\n"
 	.string "CELADOPOLE pour s'installer ici.\p"
 	.string "Il a ouvert un STAND avec son\n"
@@ -48,13 +48,13 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
 	.string "Je me demande s'il sait dans quoi\n"
 	.string "il s'est embarqué.$"
 
-TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
+TwoIsland_Text_ShopkeepersBrotherWorksGameCorner_FR::
 	.string "Le frère du vendeur du STAND\n"
 	.string "a un job à la SALLE DE JEU.\p"
 	.string "Ils essaient d'économiser à deux\n"
 	.string "pour acheter plus de marchandises.$"
 
-TwoIsland_Text_BrunoCameToIslandWhileBack::
+TwoIsland_Text_BrunoCameToIslandWhileBack_FR::
 	.string "Ecoute, écoute.\p"
 	.string "Un DRESSEUR célèbre est venu\n"
 	.string "sur l'ILE il y a quelque temps.\p"
@@ -65,18 +65,18 @@ TwoIsland_Text_BrunoCameToIslandWhileBack::
 	.string "étaient en rupture de stock\n"
 	.string "partout.$"
 
-TwoIsland_Text_BuyRareItemsHere::
+TwoIsland_Text_BuyRareItemsHere_FR::
 	.string "Les DRESSEURS futés savent que\n"
 	.string "les objets rares se trouvent ici.$"
 
-TwoIsland_Text_OldWomanLivesOutOnCape::
+TwoIsland_Text_OldWomanLivesOutOnCape_FR::
 	.string "Il y a une femme qui vit au bout\n"
 	.string "du cap.\p"
 	.string "Elle fait des commentaires sur\n"
 	.string "les POKéMON.\p"
 	.string "C'est super troublant.$"
 
-TwoIsland_Text_HaveYouTriedJumpingGame::
+TwoIsland_Text_HaveYouTriedJumpingGame_FR::
 	.string "Boing, boing!\n"
 	.string "T'as essayé le jeu de saut?\p"
 	.string "Il te faut des POKéMON qui\n"

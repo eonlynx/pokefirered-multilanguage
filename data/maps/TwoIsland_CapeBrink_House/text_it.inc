@@ -1,4 +1,4 @@
-Text_UltimateMoveThatMon::
+Text_UltimateMoveThatMon_IT::
     .string "Ho ultimato una mossa unica\n"
     .string "nel suo genere…\p"
     .string "Ma la insegnerò solo ad un POKéMON\n"
@@ -7,11 +7,11 @@ Text_UltimateMoveThatMon::
     .string "Tu…\n"
     .string "…hai {STR_VAR_1}?!$"
 
-Text_JustMistaken::
+Text_JustMistaken_IT::
     .string "…No…\n"
     .string "…non è quello che cerco.$"
 
-Text_AllowMeToTeachMonUltimateMove::
+Text_AllowMeToTeachMonUltimateMove_IT::
     .string "Sì! È lui!\n"
     .string "È questo il POKéMON che cerco!\p"
     .string "Questo {STR_VAR_1} è degno di\n"
@@ -21,26 +21,26 @@ Text_AllowMeToTeachMonUltimateMove::
     .string "Posso insegnare {STR_VAR_2}\n"
     .string "al tuo {STR_VAR_1}?$"
 
-Text_YouRejectIt::
+Text_YouRejectIt_IT::
     .string "Come?! Non vuoi?!\n"
     .string "Guarda che mi offendo!$"
 
-Text_LetMeConferUltimateMove::
+Text_LetMeConferUltimateMove_IT::
     .string "Posso?\p"
     .string "Bene, allora insegnerò\n"
     .string "{STR_VAR_2} al tuo {STR_VAR_1}!$"
 
-Text_TaughtMove::
+Text_TaughtMove_IT::
     .string "Gasp, gasp, gasp…\p"
     .string "Pensavo che non avrei mai avuto\n"
     .string "l'occasione di insegnare questa\l"
     .string "mossa ad un POKéMON!$"
 
-Text_MakeBestUseOfMove::
+Text_MakeBestUseOfMove_IT::
     .string "Mi raccomando, fai buon uso\n"
     .string "della mia mossa!$"
 
-Text_PassedOnEverythingIKnow::
+Text_PassedOnEverythingIKnow_IT::
     .string "Gasp, gasp, gasp…\p"
     .string "Ora, finalmente, ho il cuore in\n"
     .string "pace.\p"
@@ -48,7 +48,7 @@ Text_PassedOnEverythingIKnow::
     .string "giorni sapendo di aver raggiunto il\l"
     .string "mio scopo nella vita.$"
 
-Text_FeelRejuvenated::
+Text_FeelRejuvenated_IT::
     .string "Dopo averti insegnato ciò che\n"
     .string "sapevo provo un senso di\l"
     .string "sollievo.\p"

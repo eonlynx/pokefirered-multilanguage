@@ -1,16 +1,16 @@
-TwoIsland_Text_IslandSign::
+TwoIsland_Text_IslandSign_DE::
 	.string "EILAND ZWEI\n"
 	.string "Ein Paradies für Zwei$"
 
-TwoIsland_Text_JoyfulGameCornerSign::
+TwoIsland_Text_JoyfulGameCornerSign_DE::
 	.string "Entertainment & Snacks!\n"
 	.string "Action pur in der SPIELHALLE$"
 
-TwoIsland_Text_DangerFastCurrent::
+TwoIsland_Text_DangerFastCurrent_DE::
 	.string "ACHTUNG! STARKE STRÖMUNG!\n"
 	.string "Angeln und Surfen verboten!$"
 
-TwoIsland_Text_WelcomeToShopMerchandiseLimited::
+TwoIsland_Text_WelcomeToShopMerchandiseLimited_DE::
 	.string "OH!\n"
 	.string "Hallo, willkommen in meinem Laden!\p"
 	.string "Wir hatten erst vor kurzem unsere\n"
@@ -18,7 +18,7 @@ TwoIsland_Text_WelcomeToShopMerchandiseLimited::
 	.string "Das Angebot ist klein, aber ich\n"
 	.string "hoffe, du findest etwas für dich!$"
 
-TwoIsland_Text_AddedMerchandiseForLostelle::
+TwoIsland_Text_AddedMerchandiseForLostelle_DE::
 	.string "Ich kann dir gar nicht sagen, wie\n"
 	.string "dankbar ich dir für die Rettung\l"
 	.string "von IRRMA bin.\l"
@@ -30,11 +30,11 @@ TwoIsland_Text_AddedMerchandiseForLostelle::
 	.string "mir bei der Warenzusammenstellung\l"
 	.string "geholfen.$"
 
-TwoIsland_Text_HopeYouGiveItYourBest::
+TwoIsland_Text_HopeYouGiveItYourBest_DE::
 	.string "Hallo! Ich gebe hier mein Bestes!\n"
 	.string "Ich hoffe, du auch {PLAYER}.$"
 
-TwoIsland_Text_BringingItemsFromDistantLands::
+TwoIsland_Text_BringingItemsFromDistantLands_DE::
 	.string "Oh, hallo, {PLAYER}!\n"
 	.string "Willkommen!\p"
 	.string "Ich bringe Items von fernen Inseln\n"
@@ -42,7 +42,7 @@ TwoIsland_Text_BringingItemsFromDistantLands::
 	.string "Ich habe auch einige seltene\n"
 	.string "Items. Sieh dich in Ruhe um!$"
 
-TwoIsland_Text_FellowMovedFromCeladonCity::
+TwoIsland_Text_FellowMovedFromCeladonCity_DE::
 	.string "Dieser Mann dort ist von PRISMANIA\n"
 	.string "CITY hergezogen.\p"
 	.string "Er hat mit seinem kleinen Bruder\n"
@@ -50,7 +50,7 @@ TwoIsland_Text_FellowMovedFromCeladonCity::
 	.string "Ich weiß nicht, ob er sich bewusst\n"
 	.string "war, worauf er sich einlässt.$"
 
-TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
+TwoIsland_Text_ShopkeepersBrotherWorksGameCorner_DE::
 	.string "Der Bruder des Ladenbesitzers hat\n"
 	.string "einen Job in der SPIELHALLE\l"
 	.string "angenommen.\l"
@@ -58,7 +58,7 @@ TwoIsland_Text_ShopkeepersBrotherWorksGameCorner::
 	.string "verdienen, damit sie ihr Waren-\l"
 	.string "angebot vergrößern können.$"
 
-TwoIsland_Text_BrunoCameToIslandWhileBack::
+TwoIsland_Text_BrunoCameToIslandWhileBack_DE::
 	.string "Hör zu!\n"
 	.string "Wusstest du…\p"
 	.string "Ein berühmter TRAINER ist vor\n"
@@ -70,18 +70,18 @@ TwoIsland_Text_BrunoCameToIslandWhileBack::
 	.string "war, dass alle WUTKEKSE\l"
 	.string "ausverkauft waren.$"
 
-TwoIsland_Text_BuyRareItemsHere::
+TwoIsland_Text_BuyRareItemsHere_DE::
 	.string "Der anspruchsvolle TRAINER\n"
 	.string "kauft hier seltene Items!$"
 
-TwoIsland_Text_OldWomanLivesOutOnCape::
+TwoIsland_Text_OldWomanLivesOutOnCape_DE::
 	.string "Am Kap lebt eine alte Frau in einer\n"
 	.string "Hütte.\p"
 	.string "Sie begutachtet POKéMON ganz\n"
 	.string "genau. Es ist ein wenig\l"
 	.string "merkwürdig.$"
 
-TwoIsland_Text_HaveYouTriedJumpingGame::
+TwoIsland_Text_HaveYouTriedJumpingGame_DE::
 	.string "Boing! Boing!\n"
 	.string "Hast du schon das Sprungspiel\l"
 	.string "ausprobiert?\l"

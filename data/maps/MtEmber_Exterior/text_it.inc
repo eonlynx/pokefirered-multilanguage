@@ -1,4 +1,4 @@
-Text_ExplosionTeach::
+Text_ExplosionTeach_IT::
     .string "Immagina cosa succederebbe se\n"
     .string "questo vulcano eruttasse!\p"
     .string "Salteremmo in aria come\n"
@@ -6,22 +6,22 @@ Text_ExplosionTeach::
     .string "Già che siamo in argomento,\n"
     .string "vuoi che ti insegni ESPLOSIONE?$"
 
-Text_ExplosionDeclined::
+Text_ExplosionDeclined_IT::
     .string "Hai ragione, è una mossa troppo\n"
     .string "spaventosa.$"
 
-Text_ExplosionWhichMon::
+Text_ExplosionWhichMon_IT::
     .string "Ehi, che coraggio!\p"
     .string "A quale POKéMON vuoi che insegni\n"
     .string "ESPLOSIONE?$"
 
-Text_ExplosionTaught::
+Text_ExplosionTaught_IT::
     .string "Usare ESPLOSIONE su questo\n"
     .string "vulcano…\p"
     .string "Dev'essere terrorizzante!$"
 
 @ Below 4 are unused JP versions of the above texts
-Text_ExplosionTeachJP::
+Text_ExplosionTeachJP_IT::
     .string "こ　この　かざんが\n"
     .string "もし　だいばくはつ　したら\l"
     .string "お　おれら　ひとたまりも\l"
@@ -29,70 +29,70 @@ Text_ExplosionTeachJP::
     .string "こ　こわい　ついでに\n"
     .string "だいばくはつ　でも　おぼえてみる？$"
 
-Text_ExplosionDeclinedJP::
+Text_ExplosionDeclinedJP_IT::
     .string "や　やっぱ　こわいもんな\n"
     .string "ブルブル$"
 
-Text_ExplosionWhichMonJP::
+Text_ExplosionWhichMonJP_IT::
     .string "つ　つよきだね！\n"
     .string "じゃあ　どの　ポケモンに　する？$"
 
-Text_ExplosionTaughtJP::
+Text_ExplosionTaughtJP_IT::
     .string "かざんで　だいばくはつを‥\n"
     .string "す　すごい　スリル！$"
 
-MtEmber_Exterior_Text_WellTryDiggingHere::
+MtEmber_Exterior_Text_WellTryDiggingHere_IT::
     .string "Qui va bene.\n"
     .string "Proviamo a scavare qui.\p"
     .string "Quel tesoro di cui parlano i\n"
     .string "TENENTI dovrebbe essere qua\l"
     .string "sotto.$"
 
-MtEmber_Exterior_Text_YoureInTheWayGetLost::
+MtEmber_Exterior_Text_YoureInTheWayGetLost_IT::
     .string "Ehi, togliti di mezzo!$"
 
-MtEmber_Exterior_Text_PunchedThroughAtLast::
+MtEmber_Exterior_Text_PunchedThroughAtLast_IT::
     .string "Dai! Andiamo a cercare il tesoro!$"
 
-MtEmber_Exterior_Text_WhatsPasswordAgain::
+MtEmber_Exterior_Text_WhatsPasswordAgain_IT::
     .string "Appena troviamo qualcosa \n"
     .string "torniamo al MAGAZZINO, intesi?\p"
     .string "…Uhm, ma qual è la parola\n"
     .string "d'ordine per il MAGAZZINO ROCKET?$"
 
-MtEmber_Exterior_Text_FirstPasswordGoldeen::
+MtEmber_Exterior_Text_FirstPasswordGoldeen_IT::
     .string "Cos'hai, un'amnesia?!\n"
     .string "Ce ne sono due.\p"
     .string "La prima è “Un'ORTICA ad\n"
     .string "ARTICUNO”.\p"
     .string "E la seconda è…$"
 
-MtEmber_Exterior_Text_SnoopsBeenListeningIn::
+MtEmber_Exterior_Text_SnoopsBeenListeningIn_IT::
     .string "Ehi, sembra che abbiamo\n"
     .string "compagnia!$"
 
-MtEmber_Exterior_Text_Grunt1Intro::
+MtEmber_Exterior_Text_Grunt1Intro_IT::
     .string "Stavi origliando, vero?$"
 
-MtEmber_Exterior_Text_Grunt1Defeat::
+MtEmber_Exterior_Text_Grunt1Defeat_IT::
     .string "Ehi, ma come?!$"
 
-MtEmber_Exterior_Text_Grunt1PostBattle::
+MtEmber_Exterior_Text_Grunt1PostBattle_IT::
     .string "Come ho potuto farmi battere?!$"
 
-MtEmber_Exterior_Text_Grunt2Intro::
+MtEmber_Exterior_Text_Grunt2Intro_IT::
     .string "Vuoi soffiarci il tesoro?\n"
     .string "Scordatelo!$"
 
-MtEmber_Exterior_Text_Grunt2Defeat::
+MtEmber_Exterior_Text_Grunt2Defeat_IT::
     .string "Ehi, ma come è potuto\n"
     .string "succedere?!$"
 
-MtEmber_Exterior_Text_Grunt2PostBattle::
+MtEmber_Exterior_Text_Grunt2PostBattle_IT::
     .string "Tu non hai sentito niente,\n"
     .string "capito?$"
 
-MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
+MtEmber_Exterior_Text_WellRegroupDontStepInsideThere_IT::
     .string "Che sconfitta! Dovremo\n"
     .string "riorganizzarci!\p"
     .string "E tu, non farti venire in mente di\n"
@@ -100,41 +100,41 @@ MtEmber_Exterior_Text_WellRegroupDontStepInsideThere::
     .string "Se hai un po' di cervello, stai\n"
     .string "alla larga da qui!$"
 
-MtEmber_Exterior_Text_LoganIntro::
+MtEmber_Exterior_Text_LoganIntro_IT::
     .string "Un vulcano attivo è un vulcano in\n"
     .string "eruzione, o che potrebbe eruttare.$"
 
-MtEmber_Exterior_Text_LoganDefeat::
+MtEmber_Exterior_Text_LoganDefeat_IT::
     .string "…Che lotta esplosiva!\n"
     .string "Sembrava un'eruzione!$"
 
-MtEmber_Exterior_Text_LoganPostBattle::
+MtEmber_Exterior_Text_LoganPostBattle_IT::
     .string "Sai che nel mondo ci sono più di\n"
     .string "1.500 vulcani attivi?\p"
     .string "Mi viene caldo solo a pensarci!$"
 
-MtEmber_Exterior_Text_BethIntro::
+MtEmber_Exterior_Text_BethIntro_IT::
     .string "Lo sai come si formano le grotte\n"
     .string "dentro ai vulcani?$"
 
-MtEmber_Exterior_Text_BethDefeat::
+MtEmber_Exterior_Text_BethDefeat_IT::
     .string "Sei sorprendente!$"
 
-MtEmber_Exterior_Text_BethPostBattle::
+MtEmber_Exterior_Text_BethPostBattle_IT::
     .string "Quando la lava sopra il magma\n"
     .string "si indurisce e il magma stesso\l"
     .string "scorre via, si forma una grotta.$"
 
-MtEmber_Exterior_Text_JocelynIntro::
+MtEmber_Exterior_Text_JocelynIntro_IT::
     .string "Mi alleno per dimenticare le pene\n"
     .string "d'amore…\p"
     .string "Il mio spirito resta a terra, ma\n"
     .string "almeno mi rafforzo nel corpo.$"
 
-MtEmber_Exterior_Text_JocelynDefeat::
+MtEmber_Exterior_Text_JocelynDefeat_IT::
     .string "Forse ho voluto strafare…$"
 
-MtEmber_Exterior_Text_JocelynPostBattle::
+MtEmber_Exterior_Text_JocelynPostBattle_IT::
     .string "Il modo in cui lotti mi ricorda il\n"
     .string "ragazzo che mi ha mollata!$"
 

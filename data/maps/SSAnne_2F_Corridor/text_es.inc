@@ -1,10 +1,10 @@
-SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner::
+SSAnne_2F_Corridor_Text_ThisShipIsLuxuryLiner_ES::
     .string "¡Este lujoso barco es para\n"
     .string "los ENTRENADORES!\p"
     .string "¡En cada puerto celebramos\n"
     .string "una fiesta para los ENTRENADORES!$"
 
-SSAnne_2F_Corridor_Text_RivalIntro::
+SSAnne_2F_Corridor_Text_RivalIntro_ES::
     .string "{RIVAL}:\n"
     .string "¡Bonjour, {PLAYER}!\p"
     .string "¡Ya sabía yo que te vería por\n"
@@ -15,18 +15,18 @@ SSAnne_2F_Corridor_Text_RivalIntro::
     .string "¡Adéntrate en las zonas de hierba\n"
     .string "alta!$"
 
-SSAnne_2F_Corridor_Text_RivalDefeat::
+SSAnne_2F_Corridor_Text_RivalDefeat_ES::
     .string "¡Vaya!\p"
     .string "¡Parece que has entrenado bien\n"
     .string "a tus POKéMON!$"
 
-SSAnne_2F_Corridor_Text_RivalVictory::
+SSAnne_2F_Corridor_Text_RivalVictory_ES::
     .string "{PLAYER}‥！\n"
     .string "ふなよい　してるのか！\p"
     .string "もっと　からだ\n"
     .string "きたえた　ほうが　いいぜ！$"
 
-SSAnne_2F_Corridor_Text_RivalPostBattle::
+SSAnne_2F_Corridor_Text_RivalPostBattle_ES::
     .string "{RIVAL}: Decían que había un\n"
     .string "maestro del CORTE a bordo.\p"
     .string "¡Pero sólo era un viejo mareado!\p"

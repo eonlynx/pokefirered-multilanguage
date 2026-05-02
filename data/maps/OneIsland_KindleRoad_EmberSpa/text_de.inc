@@ -1,4 +1,4 @@
-OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
+OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore_DE::
 	.string "Hm!\n"
 	.string "Hah!\l"
 	.string "Argh! Das ist himmlisch!\l"
@@ -7,30 +7,30 @@ OneIsland_KindleRoad_EmberSpa_Text_WaterWarmsMeToCore::
 	.string "Schwimm in die Mitte, entspanne\n"
 	.string "und dir wird ganz wohlig warm.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder::
+OneIsland_KindleRoad_EmberSpa_Text_EnjoyBowlOfChowder_DE::
 	.string "Mein Lieblingsteil vom Baden\n"
 	.string "kommt jetzt gleich.\p"
 	.string "Ich genehmige mir eine sämige\n"
 	.string "Fischsuppe, um mich auch von\l"
 	.string "innen aufzuwärmen!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed::
+OneIsland_KindleRoad_EmberSpa_Text_WaterExquisiteFullyRefreshed_DE::
 	.string "Das Wasser ist schön warm!\n"
 	.string "Genau richtig! Klasse…\p"
 	.string "{PLAYER} und das Team fühlen sich\n"
 	.string "erfrischt!$"
 
-OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic::
+OneIsland_KindleRoad_EmberSpa_Text_HotSpringIsTherapeutic_DE::
 	.string "Ein Thermalbad soll heilende\n"
 	.string "Wirkung haben, sagt man.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs::
+OneIsland_KindleRoad_EmberSpa_Text_SeeHowSmoothMySkinIs_DE::
 	.string "Sieh in mein Gesicht! Siehst du,\n"
 	.string "wie glatt meine Haut ist?\p"
 	.string "Das Wasser vom Thermalbad\n"
 	.string "hält meine Haut so jung und straff.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
+OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion_DE::
 	.string "Nach einem harten Trainingstag\n"
 	.string "kann einem entspannenden\l"
 	.string "Aufenthalt in einem Thermalbad\l"
@@ -42,7 +42,7 @@ OneIsland_KindleRoad_EmberSpa_Text_BrunoVisitsSpaOnOccasion::
 	.string "Gebrechen und die seiner\l"
 	.string "POKéMON zu lindern.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
+OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa_DE::
 	.string "Thermalbäder und Vulkane\n"
 	.string "gehören zusammen.\p"
 	.string "Die GLUTTHERME hier habe\n"
@@ -53,7 +53,7 @@ OneIsland_KindleRoad_EmberSpa_Text_UsedThisToMakeEmberSpa::
 	.string "Damals habe ich dies benutzt. Ich\l"
 	.string "denke, ich kann mich davon trennen.$"
 
-OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06::
+OneIsland_KindleRoad_EmberSpa_Text_ExplainHM06_DE::
 	.string "Damit pulverisierst du Felsen,\n"
 	.string "als wären sie aus Pappe.$"
 

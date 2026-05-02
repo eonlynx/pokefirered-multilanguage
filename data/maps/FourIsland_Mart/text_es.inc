@@ -1,4 +1,4 @@
-FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
+FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland_ES::
     .string "En esta isla nació y creció una\n"
     .string "ENTRENADORA fuerte y poderosa\l"
     .string "como pocas.\p"
@@ -8,7 +8,7 @@ FourIsland_Mart_Text_LoreleiGrewUpOnThisIsland::
     .string "los POKéMON cuando aún era un\l"
     .string "comino.$"
 
-FourIsland_Mart_Text_IcefallCaveIsFrigid::
+FourIsland_Mart_Text_IcefallCaveIsFrigid_ES::
     .string "En realidad, ARCHI7 está\n"
     .string "en una zona cálida.\p"
     .string "Pero hay una excepción de la que\n"

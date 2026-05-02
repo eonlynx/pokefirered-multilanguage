@@ -1,4 +1,4 @@
-PewterCity_Gym_Text_BrockIntro::
+PewterCity_Gym_Text_BrockIntro_DE::
 	.string "Ich bin der ARENALEITER von\n"
 	.string "MARMORIA CITY, ROCKO!\p"
 	.string "Meine Devise ist eine steinharte\n"
@@ -13,7 +13,7 @@ PewterCity_Gym_Text_BrockIntro::
 @ NOTE: This defeat text actually causes a buffer overflow. It's too long for the gDisplayedStringBattle
 @ buffer that it's put into, and it stomps all over the gBattleTextBuffs after, as well as the otherwise
 @ unused array after that, sFlickerArray. Perhaps that's the reason why said array exists.
-PewterCity_Gym_Text_BrockDefeat::
+PewterCity_Gym_Text_BrockDefeat_DE::
 	.string "Ich habe dich falsch eingeschätzt!\p"
 	.string "Nimm den FELSORDEN als Zeichen\n"
 	.string "meiner Ehrerbietung!\p"
@@ -28,15 +28,15 @@ PewterCity_Gym_Text_BrockDefeat::
 	.string "Natürlich muss die Attacke\n"
 	.string "beherrscht werden.$"
 
-PewterCity_Gym_Text_TakeThisWithYou::
+PewterCity_Gym_Text_TakeThisWithYou_DE::
 	.string "Warte!\n"
 	.string "Nimm das hier mit!$"
 
-PewterCity_Gym_Text_ReceivedTM39FromBrock::
+PewterCity_Gym_Text_ReceivedTM39FromBrock_DE::
 	.string "{PLAYER} erhält\n"
 	.string "TM39!$"
 
-PewterCity_Gym_Text_ExplainTM39::
+PewterCity_Gym_Text_ExplainTM39_DE::
 	.string "Eine TM enthält Attacken, die\n"
 	.string "POKéMON erlernen können!\p"
 	.string "Man kann eine TM nur ein einziges\n"
@@ -49,7 +49,7 @@ PewterCity_Gym_Text_ExplainTM39::
 	.string "Der INIT.-Wert des Gegners wird\l"
 	.string "zugleich gesenkt!$"
 
-PewterCity_Gym_Text_BrockPostBattle::
+PewterCity_Gym_Text_BrockPostBattle_DE::
 	.string "Es gibt die verschiedensten TRAINER\n"
 	.string "auf der Welt!\p"
 	.string "Du scheinst ein sehr begabter\n"
@@ -58,25 +58,25 @@ PewterCity_Gym_Text_BrockPostBattle::
 	.string "AZURIA CITY und teste dort dein\l"
 	.string "Können!$"
 
-PewterCity_Gym_Text_DontHaveRoomForThis::
+PewterCity_Gym_Text_DontHaveRoomForThis_DE::
 	.string "Du hast momentan keinen Platz für\n"
 	.string "weitere Items!$"
 
-PewterCity_Gym_Text_LiamIntro::
+PewterCity_Gym_Text_LiamIntro_DE::
 	.string "Bleib stehen wo du bist, Kind!\p"
 	.string "Es dauert noch Lichtjahre, bis du\n"
 	.string "gegen ROCKO antreten kannst!$"
 
-PewterCity_Gym_Text_LiamDefeat::
+PewterCity_Gym_Text_LiamDefeat_DE::
 	.string "Mist!\p"
 	.string "Lichtjahre messen die Entfernung,\n"
 	.string "nicht die Zeit!$"
 
-PewterCity_Gym_Text_LiamPostBattle::
+PewterCity_Gym_Text_LiamPostBattle_DE::
 	.string "Du bist ganz gut, aber nicht so gut\n"
 	.string "wie ROCKO!$"
 
-PewterCity_Gym_Text_LetMeTakeYouToTheTop::
+PewterCity_Gym_Text_LetMeTakeYouToTheTop_DE::
 	.string "Hallo!\p"
 	.string "Sieht aus, als hättest du das Zeug\n"
 	.string "zu einem POKéMON-CHAMPION!\p"
@@ -85,11 +85,11 @@ PewterCity_Gym_Text_LetMeTakeYouToTheTop::
 	.string "Lass mich dir den Weg zum Erfolg\n"
 	.string "zeigen!$"
 
-PewterCity_Gym_Text_LetsGetHappening::
+PewterCity_Gym_Text_LetsGetHappening_DE::
 	.string "Alles klar!\n"
 	.string "Dann kann es losgehen!$"
 
-PewterCity_Gym_Text_TryDifferentPartyOrders::
+PewterCity_Gym_Text_TryDifferentPartyOrders_DE::
 	.string "Das POKéMON an der Spitze der\n"
 	.string "POKéMON-LISTE kämpft als Erstes!\p"
 	.string "Wenn du die Reihenfolge der\n"
@@ -98,22 +98,22 @@ PewterCity_Gym_Text_TryDifferentPartyOrders::
 	.string "Probiere es aus, um so deinem\n"
 	.string "Gegner besser zu trotzen!$"
 
-PewterCity_Gym_Text_ItsFreeLetsGetHappening::
+PewterCity_Gym_Text_ItsFreeLetsGetHappening_DE::
 	.string "Der Tipp ist kostenlos!\n"
 	.string "Lass uns anfangen!$"
 
-PewterCity_Gym_Text_YoureChampMaterial::
+PewterCity_Gym_Text_YoureChampMaterial_DE::
 	.string "Ganz wie ich es mir gedacht habe!\n"
 	.string "Aus dir kann ein POKéMON-CHAMPION\l"
 	.string "werden!$"
 
-PewterCity_Gym_Text_GymStatue::
+PewterCity_Gym_Text_GymStatue_DE::
 	.string "MARMORIA POKéMON-ARENA\n"
 	.string "LEITUNG: ROCKO\p"
 	.string "BISHERIGE SIEGER:\n"
 	.string "{RIVAL}$"
 
-PewterCity_Gym_Text_GymStatuePlayerWon::
+PewterCity_Gym_Text_GymStatuePlayerWon_DE::
 	.string "MARMORIA POKéMON-ARENA\n"
 	.string "LEITUNG: ROCKO\p"
 	.string "BISHERIGE SIEGER:\n"

@@ -1,4 +1,4 @@
-LavenderTown_Mart_Text_SearchingForStatRaiseItems::
+LavenderTown_Mart_Text_SearchingForStatRaiseItems_DE::
 	.string "Ich suche nach Items, die die\n"
 	.string "Fähigkeiten meiner POKéMON während\l"
 	.string "eines Kampfes verbessern!\p"
@@ -6,12 +6,12 @@ LavenderTown_Mart_Text_SearchingForStatRaiseItems::
 	.string "X-TEMPO und X-SPEZIAL.\p"
 	.string "Weißt du, wo ich sie kaufen kann?$"
 
-LavenderTown_Mart_Text_DidYouBuyRevives::
+LavenderTown_Mart_Text_DidYouBuyRevives_DE::
 	.string "Kennst du den BELEBER?\n"
 	.string "Damit kannst du bereits besiegten\l"
 	.string "POKéMON wieder Kraft geben!$"
 
-LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
+LavenderTown_Mart_Text_TrainerDuosCanChallengeYou_DE::
 	.string "Manchmal fordert dich ein\n"
 	.string "TRAINER-Duo mit zwei\l"
 	.string "POKéMON zum Kampf heraus.\l"
@@ -19,7 +19,7 @@ LavenderTown_Mart_Text_TrainerDuosCanChallengeYou::
 	.string "zwei POKéMON in den Kampf\l"
 	.string "schicken!$"
 
-LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000::
+LavenderTown_Mart_Text_SoldNuggetFromMountainsFor5000_DE::
 	.string "この　あいだ　やまおくで\n"
 	.string "きんのたまを　ひろい　ましてね！\p"
 	.string "つかえない　しなもの　ですが\n"

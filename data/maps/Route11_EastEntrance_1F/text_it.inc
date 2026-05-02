@@ -1,9 +1,9 @@
 @ Unclear where this is originally from
-Route11_EastEntrance_1F_Text_BagIsFull::
+Route11_EastEntrance_1F_Text_BagIsFull_IT::
     .string "{PLAYER}{KUN}の　バッグ\n"
     .string "いっぱい　みたい　だね$"
 
-Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
+Route11_EastEntrance_1F_Text_ManInLavenderRatesNames_IT::
     .string "Quando catturi molti POKéMON, è\n"
     .string "duro inventare nomi per tutti!\p"
     .string "A LAVANDONIA c'è un uomo che\n"
@@ -11,7 +11,7 @@ Route11_EastEntrance_1F_Text_ManInLavenderRatesNames::
     .string "Ti aiuterà anche a dare nuovi\n"
     .string "nomi ai tuoi POKéMON!$"
 
-Route11_EastEntrance_1F_Text_RockTunnelToReachLavender::
+Route11_EastEntrance_1F_Text_RockTunnelToReachLavender_IT::
     .string "Per LAVANDONIA, procedi\n"
     .string "lungo il TUNNEL ROCCIOSO.\p"
     .string "Come si arriva al TUNNEL ROCCIOSO?\n"

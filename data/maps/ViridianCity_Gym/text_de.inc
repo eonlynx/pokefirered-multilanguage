@@ -1,4 +1,4 @@
-ViridianCity_Gym_Text_GiovanniIntro::
+ViridianCity_Gym_Text_GiovanniIntro_DE::
 	.string "Haha! Willkommen in meinem\n"
 	.string "Geheimversteck!\p"
 	.string "Hier wollte ich das TEAM ROCKET\n"
@@ -9,7 +9,7 @@ ViridianCity_Gym_Text_GiovanniIntro::
 	.string "Ich, GIOVANNI, der größte aller\n"
 	.string "TRAINER, fordere Revanche!{PLAY_BGM MUS_ENCOUNTER_ROCKET}$"
 
-ViridianCity_Gym_Text_GiovanniDefeat::
+ViridianCity_Gym_Text_GiovanniDefeat_DE::
 	.string "Ha!\n"
 	.string "Der Kampf war hart, aber fair!\l"
 	.string "Du hast gewonnen!\p"
@@ -17,7 +17,7 @@ ViridianCity_Gym_Text_GiovanniDefeat::
 	.string "Zeichen meiner Anerkennung!{PAUSE_MUSIC}{PLAY_BGM MUS_OBTAIN_BADGE}{PAUSE}\n"
 	.string "{PAUSE 86}{RESUME_MUSIC}$"
 
-ViridianCity_Gym_Text_GiovanniPostBattle::
+ViridianCity_Gym_Text_GiovanniPostBattle_DE::
 	.string "Ich habe meinen Meister gefunden!\n"
 	.string "Meine Taten waren schlecht...\l"
 	.string "Ich löse das TEAM ROCKET auf!\p"
@@ -26,7 +26,7 @@ ViridianCity_Gym_Text_GiovanniPostBattle::
 	.string "Vielleicht sehen wir uns eines\n"
 	.string "Tages wieder! Lebe wohl!$"
 
-ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
+ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis_DE::
 	.string "Als Träger des ERDORDENS werden\n"
 	.string "dir alle POKéMON jeglichen Levels\l"
 	.string "gehorchen!\p"
@@ -37,11 +37,11 @@ ViridianCity_Gym_Text_ExplainEarthBadgeTakeThis::
 	.string "Nimm dieses Geschenk mit in dein\n"
 	.string "POKéMON LIGA-Abenteuer!$"
 
-ViridianCity_Gym_Text_ReceivedTM26FromGiovanni::
+ViridianCity_Gym_Text_ReceivedTM26FromGiovanni_DE::
 	.string "{PLAYER} erhält\n"
 	.string "TM26!$"
 
-ViridianCity_Gym_Text_ExplainTM26::
+ViridianCity_Gym_Text_ExplainTM26_DE::
 	.string "TM26 ist ERDBEBEN!\p"
 	.string "Eine sehr starke Attacke, die ein\n"
 	.string "starkes Beben verursacht.\p"
@@ -49,100 +49,100 @@ ViridianCity_Gym_Text_ExplainTM26::
 	.string "geschaffen, als ich hier noch\l"
 	.string "ARENALEITER war.$"
 
-ViridianCity_Gym_Text_YouDoNotHaveSpace::
+ViridianCity_Gym_Text_YouDoNotHaveSpace_DE::
 	.string "Du kannst keine weiteren Items mehr\n"
 	.string "tragen!$"
 
-ViridianCity_Gym_Text_YujiIntro::
+ViridianCity_Gym_Text_YujiIntro_DE::
 	.string "Hehe!\n"
 	.string "So langsam geht dir die Luft aus!$"
 
-ViridianCity_Gym_Text_YujiDefeat::
+ViridianCity_Gym_Text_YujiDefeat_DE::
 	.string "Mir gehen die POKéMON aus!!!$"
 
-ViridianCity_Gym_Text_YujiPostBattle::
+ViridianCity_Gym_Text_YujiPostBattle_DE::
 	.string "Du musst stark sein, um unserem\n"
 	.string "ARENALEITER entgegenzutreten!$"
 
-ViridianCity_Gym_Text_AtsushiIntro::
+ViridianCity_Gym_Text_AtsushiIntro_DE::
 	.string "Kiai! Mit diesem Kampfschrei\n"
 	.string "mobilisiere ich meine Kräfte!$"
 
-ViridianCity_Gym_Text_AtsushiDefeat::
+ViridianCity_Gym_Text_AtsushiDefeat_DE::
 	.string "Meister, verzeihe er mir!$"
 
-ViridianCity_Gym_Text_AtsushiPostBattle::
+ViridianCity_Gym_Text_AtsushiPostBattle_DE::
 	.string "Ich bin deiner Gnade unwürdig!$"
 
-ViridianCity_Gym_Text_JasonIntro::
+ViridianCity_Gym_Text_JasonIntro_DE::
 	.string "Ich bilde mit meinen POKéMON eine\n"
 	.string "Einheit wie Yin und Yang!$"
 
-ViridianCity_Gym_Text_JasonDefeat::
+ViridianCity_Gym_Text_JasonDefeat_DE::
 	.string "Deine POKéMON harmonieren gut mit\n"
 	.string "dir!$"
 
-ViridianCity_Gym_Text_JasonPostBattle::
+ViridianCity_Gym_Text_JasonPostBattle_DE::
 	.string "Kennst du die Identität unseres\n"
 	.string "ARENALEITERs?$"
 
-ViridianCity_Gym_Text_KiyoIntro::
+ViridianCity_Gym_Text_KiyoIntro_DE::
 	.string "Karate ist die Königsdisziplin des\n"
 	.string "Kampfsports!$"
 
-ViridianCity_Gym_Text_KiyoDefeat::
+ViridianCity_Gym_Text_KiyoDefeat_DE::
 	.string "Ahh!$"
 
-ViridianCity_Gym_Text_KiyoPostBattle::
+ViridianCity_Gym_Text_KiyoPostBattle_DE::
 	.string "Ach, wären meine POKéMON doch\n"
 	.string "auch so starke Karateka wie ich!$"
 
-ViridianCity_Gym_Text_WarrenIntro::
+ViridianCity_Gym_Text_WarrenIntro_DE::
 	.string "Der Stil zeichnet einen großen\n"
 	.string "Kämpfer aus!$"
 
-ViridianCity_Gym_Text_WarrenDefeat::
+ViridianCity_Gym_Text_WarrenDefeat_DE::
 	.string "Ich habe den Halt verloren!$"
 
-ViridianCity_Gym_Text_WarrenPostBattle::
+ViridianCity_Gym_Text_WarrenPostBattle_DE::
 	.string "Der Meister wird mich schelten!$"
 
-ViridianCity_Gym_Text_TakashiIntro::
+ViridianCity_Gym_Text_TakashiIntro_DE::
 	.string "Ich bin der KARATE-KÖNIG!\n"
 	.string "Ich besiegle dein Schicksal!$"
 
-ViridianCity_Gym_Text_TakashiDefeat::
+ViridianCity_Gym_Text_TakashiDefeat_DE::
 	.string "Ahh!$"
 
-ViridianCity_Gym_Text_TakashiPostBattle::
+ViridianCity_Gym_Text_TakashiPostBattle_DE::
 	.string "Du willst in die POKéMON LIGA? Du?\n"
 	.string "Werde bloß nicht größenwahnsinnig!$"
 
-ViridianCity_Gym_Text_ColeIntro::
+ViridianCity_Gym_Text_ColeIntro_DE::
 	.string "Allein mein Anblick lässt deine\n"
 	.string "POKéMON schaudern!$"
 
-ViridianCity_Gym_Text_ColeDefeat::
+ViridianCity_Gym_Text_ColeDefeat_DE::
 	.string "Sie kringeln sich vor Lachen! NEIN!$"
 
-ViridianCity_Gym_Text_ColePostBattle::
+ViridianCity_Gym_Text_ColePostBattle_DE::
 	.string "Moment!\n"
 	.string "Ich war sorglos!$"
 
-ViridianCity_Gym_Text_SamuelIntro::
+ViridianCity_Gym_Text_SamuelIntro_DE::
 	.string "Die ARENAHALLE von VERTANIA CITY\n"
 	.string "war lange Zeit geschlossen, doch\l"
 	.string "nun ist der MEISTER zurück!$"
 
-ViridianCity_Gym_Text_SamuelDefeat::
+ViridianCity_Gym_Text_SamuelDefeat_DE::
 	.string "Ich wurde besiegt?$"
 
-ViridianCity_Gym_Text_SamuelPostBattle::
+ViridianCity_Gym_Text_SamuelPostBattle_DE::
 	.string "Du kannst nur in die POKéMON LIGA,\n"
 	.string "wenn du unseren ARENALEITER\l"
 	.string "besiegst!$"
 
-ViridianCity_Gym_Text_GymGuyAdvice::
+ViridianCity_Gym_Text_GymGuyAdvice_DE::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
 	.string "Nicht einmal ich kenne die\n"
@@ -153,17 +153,17 @@ ViridianCity_Gym_Text_GymGuyAdvice::
 	.string "Die TRAINER hier setzen gerne\n"
 	.string "BODEN-POKéMON ein!$"
 
-ViridianCity_Gym_Text_GymGuyPostVictory::
+ViridianCity_Gym_Text_GymGuyPostVictory_DE::
 	.string "Das gibt es nicht!\n"
 	.string "GIOVANNI war hier ARENALEITER?$"
 
-ViridianCity_Gym_Text_GymStatue::
+ViridianCity_Gym_Text_GymStatue_DE::
 	.string "VERTANIA POKéMON-ARENA\n"
 	.string "LEITUNG: ?\p"
 	.string "BISHERIGE SIEGER:\n"
 	.string "{RIVAL}$"
 
-ViridianCity_Gym_Text_GymStatuePlayerWon::
+ViridianCity_Gym_Text_GymStatuePlayerWon_DE::
 	.string "VERTANIA POKéMON-ARENA\n"
 	.string "LEITUNG: GIOVANNI\p"
 	.string "BISHERIGE SIEGER:\n"

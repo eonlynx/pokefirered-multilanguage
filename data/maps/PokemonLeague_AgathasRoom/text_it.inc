@@ -1,4 +1,4 @@
-PokemonLeague_AgathasRoom_Text_Intro::
+PokemonLeague_AgathasRoom_Text_Intro_IT::
     .string "Sono AGATHA dei SUPERQUATTRO!\p"
     .string "OAK sembra molto interessato a te!\p"
     .string "Molti anni fa quel vecchietto\n"
@@ -9,7 +9,7 @@ PokemonLeague_AgathasRoom_Text_Intro::
     .string "{PLAYER}! Ti farò vedere io come\n"
     .string "lotta un vero ALLENATORE!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_RematchIntro::
+PokemonLeague_AgathasRoom_Text_RematchIntro_IT::
     .string "Sono AGATHA dei SUPERQUATTRO!\p"
     .string "Tu sei {PLAYER}, la persona a cui\n"
     .string "OAK tiene così tanto! Mi ricordo\l"
@@ -22,11 +22,11 @@ PokemonLeague_AgathasRoom_Text_RematchIntro::
     .string "{PLAYER}! Ti farò vedere io come\n"
     .string "lotta un vero ALLENATORE!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_AgathasRoom_Text_Defeat::
+PokemonLeague_AgathasRoom_Text_Defeat_IT::
     .string "Oh oh!\n"
     .string "Tu sì che sei davvero speciale!$"
 
-PokemonLeague_AgathasRoom_Text_PostBattle::
+PokemonLeague_AgathasRoom_Text_PostBattle_IT::
     .string "Hai vinto!\p"
     .string "Ora capisco cosa ha visto in te\n"
     .string "quel vecchietto!\p"

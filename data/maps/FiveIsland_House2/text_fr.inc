@@ -1,4 +1,4 @@
-FiveIsland_House2_Text_MeadowBelongedToFamily::
+FiveIsland_House2_Text_MeadowBelongedToFamily_FR::
 	.string "Ce PRE est dans la famille depuis\n"
 	.string "des générations.\p"
 	.string "Je devrais faire construire un\n"

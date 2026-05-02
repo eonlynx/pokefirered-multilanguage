@@ -1,4 +1,4 @@
-Text_SwordsDanceTeach::
+Text_SwordsDanceTeach_DE::
 	.string "Nicht viele Leute kommen hier raus.\p"
 	.string "Ich bin überzeugt, dass mich mein\n"
 	.string "Training hier immer stärker werden\l"
@@ -7,22 +7,22 @@ Text_SwordsDanceTeach::
 	.string "Möchtest du eine solche Attacke\n"
 	.string "lernen? Sie heißt SCHWERTTANZ!$"
 
-Text_SwordsDanceDeclined::
+Text_SwordsDanceDeclined_DE::
 	.string "Nun, das ist auch gut!$"
 
-Text_SwordsDanceWhichMon::
+Text_SwordsDanceWhichMon_DE::
 	.string "In Ordnung, welchem POKéMON\n"
 	.string "soll ich die Attacke beibringen?$"
 
-Text_SwordsDanceTaught::
+Text_SwordsDanceTaught_DE::
 	.string "Wenn wir doch auch immer\n"
 	.string "stärker werden könnten!$"
 
-SevenIsland_Text_IslandSign::
+SevenIsland_Text_IslandSign_DE::
 	.string "EILAND SIEBEN\n"
 	.string "Die Abenteuerinsel der Unendlichkeit$"
 
-SevenIsland_Text_IslandsMadeInSevenDays::
+SevenIsland_Text_IslandsMadeInSevenDays_DE::
 	.string "Diese Eilande werden SEVII EILAND\n"
 	.string "genannt, weil es sieben sind.\p"
 	.string "… das glauben zumindest die\n"
@@ -31,7 +31,7 @@ SevenIsland_Text_IslandsMadeInSevenDays::
 	.string "so heißen, weil sie in sieben Tagen\l"
 	.string "geschaffen wurden.$"
 
-SevenIsland_Text_IslandVirtuallyUntouched::
+SevenIsland_Text_IslandVirtuallyUntouched_DE::
 	.string "Die Natur dieser Insel blieb nahezu\n"
 	.string "unangetastet.\p"
 	.string "Daher könnte das Wandern hier\n"

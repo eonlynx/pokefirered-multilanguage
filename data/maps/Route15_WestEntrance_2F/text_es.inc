@@ -1,4 +1,4 @@
-Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
+Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough_ES::
     .string "¡Hola! ¿Te acuerdas de mí?\n"
     .string "¡Soy AYUDANTE del PROF. OAK!\p"
     .string "¡Si ya tienes {STR_VAR_1} tipos de POKéMON,\n"
@@ -7,28 +7,28 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
     .string "Dime, {PLAYER}. ¿Tienes ya al menos\n"
     .string "{STR_VAR_1} tipos de POKéMON?$"
 
-Route15_WestEntrance_2F_Text_GreatHereYouGo::
+Route15_WestEntrance_2F_Text_GreatHereYouGo_ES::
     .string "¡Bien! ¡Has logrado {STR_VAR_3} tipos\n"
     .string "de POKéMON!\p"
     .string "¡Enhorabuena!\n"
     .string "¡Aquí tienes!$"
 
-Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
+Route15_WestEntrance_2F_Text_ReceivedItemFromAide_ES::
     .string "¡{PLAYER} obtuvo {STR_VAR_2}\n"
     .string "de manos del AYUDANTE!$"
 
-Route15_WestEntrance_2F_Text_ExplainExpShare::
+Route15_WestEntrance_2F_Text_ExplainExpShare_ES::
     .string "REPARTIR EXP. es un objeto\n"
     .string "que puede llevar un POKéMON.\p"
     .string "Dará puntos de EXPERIENCIA\n"
     .string "al POKéMON que lo lleve, aunque\l"
     .string "no luche.$"
 
-Route15_WestEntrance_2F_Text_LargeShiningBird::
+Route15_WestEntrance_2F_Text_LargeShiningBird_ES::
     .string "Has usado los prismáticos...\p"
     .string "Un pájaro grande y brillante vuela\n"
     .string "hacia el mar.$"
 
-Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
+Route15_WestEntrance_2F_Text_SmallIslandOnHorizon_ES::
     .string "Has usado los prismáticos...\p"
     .string "¡Parece que hay una pequeña isla!$"

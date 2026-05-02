@@ -1,4 +1,4 @@
-TwoIsland_House_Text_TeachMonMoveForMushroom::
+TwoIsland_House_Text_TeachMonMoveForMushroom_ES::
     .string "Soy el TUTOR de MOVIMIENTOS.\p"
     .string "Me sé todos los movimientos que\n"
     .string "aprenden los POKéMON. Todos,\l"
@@ -8,44 +8,44 @@ TwoIsland_House_Text_TeachMonMoveForMushroom::
     .string "SETA GRANDE, le enseñaré un\l"
     .string "movimiento a uno de tus POKéMON.$"
 
-TwoIsland_House_Text_WantMeToTeachMove::
+TwoIsland_House_Text_WantMeToTeachMove_ES::
     .string "Sniff, sniff...\n"
     .string "¡Mmm! ¡Hueles a SETA!\p"
     .string "¿Quieres que le enseñe un\n"
     .string "movimiento a uno de tus POKéMON?$"
 
-TwoIsland_House_Text_TutorWhichMon::
+TwoIsland_House_Text_TutorWhichMon_ES::
     .string "¿Qué POKéMON quieres que lo\n"
     .string "aprenda?$"
 
-TwoIsland_House_Text_TeachWhichMove::
+TwoIsland_House_Text_TeachWhichMove_ES::
     .string "¿Qué movimiento quieres que\n"
     .string "aprenda?$"
 
-TwoIsland_House_Text_NoMoveICanTeachThatMon::
+TwoIsland_House_Text_NoMoveICanTeachThatMon_ES::
     .string "Perdona...\p"
     .string "Parece que no puedo enseñar ningún\n"
     .string "movimiento a ese POKéMON...$"
 
-TwoIsland_House_Text_IllNeedMushroomOrTwo::
+TwoIsland_House_Text_IllNeedMushroomOrTwo_ES::
     .string "Pues tendrás que darme una SETA\n"
     .string "o un par de ellas.\l"
     .string "¿Qué me das?$"
 
-TwoIsland_House_Text_HandedOverTwoTinyMushrooms::
+TwoIsland_House_Text_HandedOverTwoTinyMushrooms_ES::
     .string "{PLAYER} entregó dos MINI SETAS\n"
     .string "a cambio de la lección.$"
 
-TwoIsland_House_Text_HandedOverOneBigMushroom::
+TwoIsland_House_Text_HandedOverOneBigMushroom_ES::
     .string "{PLAYER} entregó una SETA GRANDE\n"
     .string "a cambio de la lección.$"
 
-TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove::
+TwoIsland_House_Text_NeedMushroomOrTwoToLearnMove_ES::
     .string "Si quieres que le enseñe un\n"
     .string "movimiento a algún POKéMON,\l"
     .string "tráeme una SETA o dos.$"
 
-TwoIsland_House_Text_CantTeachAnEgg::
+TwoIsland_House_Text_CantTeachAnEgg_ES::
     .string "¿Eh? No puedo enseñar\n"
     .string "absolutamente ningún movimiento\l"
     .string "a un HUEVO...$"

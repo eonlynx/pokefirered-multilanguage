@@ -1,12 +1,12 @@
-VermilionCity_House3_Text_PidgeyFlyLetterToSaffron::
+VermilionCity_House3_Text_PidgeyFlyLetterToSaffron_ES::
     .string "¡Mi PIDGEY volará al norte,\n"
     .string "a CIUDAD AZAFRÁN, para llevar\l"
     .string "una carta!$"
 
-VermilionCity_House3_Text_Pidgey::
+VermilionCity_House3_Text_Pidgey_ES::
     .string "PIDGEY: ¡Pid, pid!$"
 
-VermilionCity_House3_Text_DearPippiLetter::
+VermilionCity_House3_Text_DearPippiLetter_ES::
     .string "Querido PIPPI:\n"
     .string "Espero verte pronto.\p"
     .string "Dicen que en CIUDAD AZAFRÁN\n"
@@ -14,7 +14,7 @@ VermilionCity_House3_Text_DearPippiLetter::
     .string "ROCKET.\p"
     .string "La CIUDAD CARMÍN parece segura.$"
 
-VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::
+VermilionCity_House3_Text_SendMyPidgeyToUnionRoom_ES::
     .string "Me gustaría mandarme CARTAS\n"
     .string "con mucha gente.\p"
     .string "He mandado a mi PIDGEY a la\n"

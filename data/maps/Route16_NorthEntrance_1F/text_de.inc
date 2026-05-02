@@ -1,17 +1,17 @@
-Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad::
+Route16_NorthEntrance_1F_Text_NoPedestriansOnCyclingRoad_DE::
 	.string "Das Betreten des RADWEGES ist\n"
 	.string "Fußgängern untersagt!$"
 
-Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse::
+Route16_NorthEntrance_1F_Text_CyclingRoadIsDownhillCourse_DE::
 	.string "Der RADWEG ist eine abschüssige\n"
 	.string "Küstenstraße mit herrlichem\l"
 	.string "Streckenverlauf!$"
 
-Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp::
+Route16_NorthEntrance_1F_Text_ExcuseMeWaitUp_DE::
 	.string "Entschuldigung!\n"
 	.string "Warte auf mich!$"
 
-Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort::
+Route16_NorthEntrance_1F_Text_HowdYouGetInGoodEffort_DE::
 	.string "Wie bist du nur hereingekommen?\n"
 	.string "Solide Leistung!$"
 

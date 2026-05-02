@@ -1,4 +1,4 @@
-IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
+IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice_FR::
 	.string "Salut,\n"
 	.string "CHAMPION en herbe!\p"
 	.string "Tu vas devoir affronter le CONSEIL\n"
@@ -10,7 +10,7 @@ IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
 	.string "Alors fais bien attention et…\n"
 	.string "Ecrase-les!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
+IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck_FR::
 	.string "A partir d'ici, tu affronteras les\n"
 	.string "quatre membres du…\l"
 	.string "CONSEIL 4!\p"
@@ -18,14 +18,14 @@ IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
 	.string "s'ouvrira vers le prochain\l"
 	.string "DRESSEUR. Bonne chance!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
+IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing_FR::
 	.string "Désolée. Tu perds ton temps en\n"
 	.string "venant ici.\p"
 	.string "OLGA du CONSEIL 4 s'est absentée.\p"
 	.string "La LIGUE POKéMON est fermée\n"
 	.string "jusqu'à son retour.$"
 
-IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
+IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs_FR::
 	.string "Les POKéMON SPECTRE\n"
 	.string "d'AGATHA sont terrifiants.\p"
 	.string "J'avais entraîné mes POKéMON\n"
@@ -35,7 +35,7 @@ IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
 	.string "En plus, elle se met facilement\n"
 	.string "en rogne. J'te raconte pas.$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway::
+IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway_FR::
 	.string "C'est peut-être héréditaire de\n"
 	.string "faire partie du CONSEIL 4.\p"
 	.string "Y'a un copain d'un cousin d'une\n"

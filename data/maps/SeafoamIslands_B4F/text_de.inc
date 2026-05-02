@@ -1,4 +1,4 @@
-Text_RockSlideTeach::
+Text_RockSlideTeach_DE::
 	.string "Wenn du so hoch oben im steinigen\n"
 	.string "Gebirge bist wie hier, stellen\l"
 	.string "Gerölllawinen eine Gefahr dar.\l"
@@ -10,22 +10,22 @@ Text_RockSlideTeach::
 	.string "Soll ein POKéMON STEINHAGEL\l"
 	.string "erlernen?$"
 
-Text_RockSlideDeclined::
+Text_RockSlideDeclined_DE::
 	.string "Oh, du hast also doch Angst!$"
 
-Text_RockSlideWhichMon::
+Text_RockSlideWhichMon_DE::
 	.string "Welches POKéMON soll\n"
 	.string "STEINHAGEL erlernen?$"
 
-Text_RockSlideTaught::
+Text_RockSlideTaught_DE::
 	.string "Es wäre sehr gruselig, das in\n"
 	.string "diesem Tunnel einzusetzen…$"
 
-SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow::
+SeafoamIslands_B4F_Text_BouldersMightChangeWaterFlow_DE::
 	.string "Felsen könnten die Strömung\n"
 	.string "vielleicht umlenken!$"
 
-SeafoamIslands_B4F_Text_DangerFastCurrent::
+SeafoamIslands_B4F_Text_DangerFastCurrent_DE::
 	.string "VORSICHT!\n"
 	.string "GEFÄHRLICHE STRÖMUNG!$"
 

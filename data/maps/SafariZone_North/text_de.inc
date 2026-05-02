@@ -1,22 +1,22 @@
-SafariZone_North_Text_RestHouse::
+SafariZone_North_Text_RestHouse_DE::
 	.string "RASTHAUS$"
 
-SafariZone_North_Text_SecretHouseStillAhead::
+SafariZone_North_Text_SecretHouseStillAhead_DE::
 	.string "TIPPS FÜR TRAINER\p"
 	.string "Bis zum GEHEIMEN HAUS ist es nicht\n"
 	.string "mehr weit!$"
 
-SafariZone_North_Text_Area2::
+SafariZone_North_Text_Area2_DE::
 	.string "AREAL 2$"
 
-SafariZone_North_Text_ZigzagThroughTallGrass::
+SafariZone_North_Text_ZigzagThroughTallGrass_DE::
 	.string "TIPPS FÜR TRAINER\p"
 	.string "POKéMON verstecken sich in hohem\n"
 	.string "Gras!\p"
 	.string "Laufe durch das hohe Gras und\n"
 	.string "scheuche sie auf!$"
 
-SafariZone_North_Text_WinFreeHMFindSecretHouse::
+SafariZone_North_Text_WinFreeHMFindSecretHouse_DE::
 	.string "TIPPS FÜR TRAINER\p"
 	.string "Finde das GEHEIME HAUS.\n"
 	.string "Dann gewinnst du eine VM!$"

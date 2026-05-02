@@ -1,4 +1,4 @@
-SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland::
+SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland_IT::
     .string "Sono dieci anni che cerco fra\n"
     .string "le ROVINE.\p"
     .string "No, cosa sto dicendo? Ormai sono\n"
@@ -6,7 +6,7 @@ SixIsland_PokemonCenter_1F_Text_SomethingHiddenOnThisIsland::
     .string "Continuo a credere che quest'isola\n"
     .string "nasconda qualcosa!$"
 
-SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
+SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem_IT::
     .string "Sai che ci sono POKéMON che si\n"
     .string "evolvono solo con lo scambio,\l"
     .string "vero?\p"
@@ -14,7 +14,7 @@ SixIsland_PokemonCenter_1F_Text_SomeMonsEvolveByTradingWithHeldItem::
     .string "si evolvono solo se, durante lo\l"
     .string "scambio, tengono certi strumenti.$"
 
-SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere::
+SixIsland_PokemonCenter_1F_Text_RivalImpossibleToGetAllMonsAroundHere_IT::
     .string "{RIVAL}: Ciao, {PLAYER}!\n"
     .string "Come va con il POKéDEX?\p"
     .string "Ho l'impressione che ci siano\n"

@@ -1,4 +1,4 @@
-Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
+Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough_IT::
     .string "Ciao! Ti ricordi di me?\n"
     .string "Sono l'ASSISTENTE del PROF. OAK!\p"
     .string "Se nel POKéDEX hai i dati di\n"
@@ -8,29 +8,29 @@ Route15_WestEntrance_2F_Text_GiveItemIfCaughtEnough::
     .string "su almeno {STR_VAR_1} specie di\l"
     .string "POKéMON?$"
 
-Route15_WestEntrance_2F_Text_GreatHereYouGo::
+Route15_WestEntrance_2F_Text_GreatHereYouGo_IT::
     .string "Bene! Hai raccolto dati su {STR_VAR_3}\n"
     .string "specie di POKéMON!\p"
     .string "Congratulazioni!\n"
     .string "Tieni! Te lo sei meritato!$"
 
-Route15_WestEntrance_2F_Text_ReceivedItemFromAide::
+Route15_WestEntrance_2F_Text_ReceivedItemFromAide_IT::
     .string "{PLAYER} riceve\n"
     .string "{STR_VAR_2}!$"
 
-Route15_WestEntrance_2F_Text_ExplainExpShare::
+Route15_WestEntrance_2F_Text_ExplainExpShare_IT::
     .string "CONDIV. ESP. è uno strumento da\n"
     .string "far tenere ad un POKéMON.\p"
     .string "Il POKéMON che lo riceve può\n"
     .string "condividere i punti ESP. vinti nelle\l"
     .string "lotte, anche se non vi partecipa.$"
 
-Route15_WestEntrance_2F_Text_LargeShiningBird::
+Route15_WestEntrance_2F_Text_LargeShiningBird_IT::
     .string "Guardo con il binocolo…\p"
     .string "Un grande uccello lucente vola\n"
     .string "verso il mare.$"
 
-Route15_WestEntrance_2F_Text_SmallIslandOnHorizon::
+Route15_WestEntrance_2F_Text_SmallIslandOnHorizon_IT::
     .string "Guardo con il binocolo…\p"
     .string "Sembra una piccola isola!$"
 

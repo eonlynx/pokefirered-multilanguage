@@ -1,23 +1,23 @@
-gText_WouldYouLikeToSaveTheGame::
+gText_WouldYouLikeToSaveTheGame_FR::
 	.string "Voulez-vous sauvegarder la partie?$"
 
-gText_AlreadySaveFile_WouldLikeToOverwrite::
+gText_AlreadySaveFile_WouldLikeToOverwrite_FR::
 	.string "Il y a déjà une sauvegarde.\n"
 	.string ""
 	.string "Voulez-vous la remplacer?$"
 
-gText_SavingDontTurnOffThePower::
+gText_SavingDontTurnOffThePower_FR::
 	.string "SAUVEGARDE EN COURS…\n"
 	.string ""
 	.string "N'ETEIGNEZ PAS LA CONSOLE.$"
 
-gText_PlayerSavedTheGame::
+gText_PlayerSavedTheGame_FR::
 	.string "{PLAYER} a sauvegardé la partie.$"
 
-gText_SaveFailed2::
+gText_SaveFailed2_FR::
 	.string "セーブに　しっぱい　しました‥$"
 
-gText_DifferentGameFile::
+gText_DifferentGameFile_FR::
 	.string "ATTENTION!\p"
 	.string "Une autre partie est déjà\n"
 	.string "sauvegardée.\p"

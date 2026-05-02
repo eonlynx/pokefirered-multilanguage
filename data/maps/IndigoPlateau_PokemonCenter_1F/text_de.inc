@@ -1,4 +1,4 @@
-IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
+IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice_DE::
 	.string "Heh!\n"
 	.string "Warte, du Champion in spe!\p"
 	.string "In der POKéMON LIGA trittst du\n"
@@ -7,14 +7,14 @@ IndigoPlateau_PokemonCenter_1F_Text_GymGuyAdvice::
 	.string "Wenn du einen Kampf verlierst,\n"
 	.string "musst du ganz von vorne beginnen!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck::
+IndigoPlateau_PokemonCenter_1F_Text_FaceEliteFourGoodLuck_DE::
 	.string "Ab jetzt triffst du nacheinander\n"
 	.string "auf die TOP VIER!\p"
 	.string "Wenn du einen Kampf gewinnst, wird\n"
 	.string "der Weg zum nächsten TRAINER\l"
 	.string "freigegeben! Viel Glück!$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
+IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing_DE::
 	.string "Es tut mir Leid, aber du hast deine\n"
 	.string "Zeit verschwendet, hier\l"
 	.string "herzukommen.\l"
@@ -23,7 +23,7 @@ IndigoPlateau_PokemonCenter_1F_Text_LoreleiIsAbsentClosedForTimeBeing::
 	.string "Daher ist die POKéMON LIGA\n"
 	.string "vorübergehend geschlossen.$"
 
-IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
+IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs_DE::
 	.string "AGATHEs GEIST-POKéMON\n"
 	.string "sind erschreckend hartnäckig.\p"
 	.string "Ich habe meine KAMPF-POKéMON\n"
@@ -37,7 +37,7 @@ IndigoPlateau_PokemonCenter_1F_Text_AgathaWhuppedUs::
 	.string "die Angst einflößende Dame\l"
 	.string "legt los.$"
 
-IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway::
+IndigoPlateau_PokemonCenter_1F_Text_LancesCousinGymLeaderFarAway_DE::
 	.string "Vielleicht liegt eine Mitgliedschaft\n"
 	.string "bei den TOP VIER in den Genen.\p"
 	.string "Ich habe gehört, dass SIEGFRIED\n"

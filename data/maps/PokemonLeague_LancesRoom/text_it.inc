@@ -1,4 +1,4 @@
-PokemonLeague_LancesRoom_Text_Intro::
+PokemonLeague_LancesRoom_Text_Intro_IT::
     .string "{PLAYER}!\n"
     .string "Ah! Ho sentito parlare di te!\p"
     .string "Sono il capo dei SUPERQUATTRO!\n"
@@ -12,7 +12,7 @@ PokemonLeague_LancesRoom_Text_Intro::
     .string "La tua sfida con la LEGA finisce\n"
     .string "con me, {PLAYER}!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_RematchIntro::
+PokemonLeague_LancesRoom_Text_RematchIntro_IT::
     .string "{PLAYER}!\n"
     .string "Ci rincontriamo!\p"
     .string "Sono il capo dei SUPERQUATTRO!\n"
@@ -26,12 +26,12 @@ PokemonLeague_LancesRoom_Text_RematchIntro::
     .string "La tua sfida con la LEGA finisce\n"
     .string "con me, {PLAYER}!{PLAY_BGM MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LancesRoom_Text_Defeat::
+PokemonLeague_LancesRoom_Text_Defeat_IT::
     .string "Ecco!\p"
     .string "Odio ammetterlo, ma sei eccezionale\n"
     .string "con i POKéMON!$"
 
-PokemonLeague_LancesRoom_Text_PostBattle::
+PokemonLeague_LancesRoom_Text_PostBattle_IT::
     .string "{PLAYER}, non posso ancora\n"
     .string "crederci! Hai sconfitto i miei\l"
     .string "draghi!\p"

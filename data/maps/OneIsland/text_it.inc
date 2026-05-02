@@ -1,4 +1,4 @@
-OneIsland_Text_BillLetsGoSeeCelio::
+OneIsland_Text_BillLetsGoSeeCelio_IT::
     .string "BILL: Eccoci qui!\n"
     .string "Siamo arrivati a PRIMISOLA.\p"
     .string "È una delle tante isole che\n"
@@ -11,10 +11,10 @@ OneIsland_Text_BillLetsGoSeeCelio::
     .string "Sì, ma cosa te ne parlo a fare?\n"
     .string "Faccio prima a presentartelo!$"
 
-Text_WhereDoYouWantToSail::
+Text_WhereDoYouWantToSail_IT::
     .string "Allora, dove vuoi andare?$"
 
-OneIsland_Text_LuckyToHaveCelioHere::
+OneIsland_Text_LuckyToHaveCelioHere_IT::
     .string "Quest'isola è completamente\n"
     .string "isolata dal resto del mondo.\p"
     .string "Meno male che c'è CELIO! È un\n"
@@ -27,7 +27,7 @@ OneIsland_Text_LuckyToHaveCelioHere::
     .string "dev'essere una persona\l"
     .string "a modo!$"
 
-OneIsland_Text_HavePCLinkageWithKanto::
+OneIsland_Text_HavePCLinkageWithKanto_IT::
     .string "Mia nipote mi ha raccontato di una\n"
     .string "grande novità: era tutta esaltata!\p"
     .string "Se ho capito bene, ora c'è un\n"
@@ -35,7 +35,7 @@ OneIsland_Text_HavePCLinkageWithKanto::
     .string "Se è una trovata di CELIO, non\n"
     .string "può che essere geniale.$"
 
-OneIsland_Text_HavePCLinkageWithHoenn::
+OneIsland_Text_HavePCLinkageWithHoenn_IT::
     .string "Mia nipote mi ha raccontato di una\n"
     .string "grande novità: era tutta esaltata!\p"
     .string "Se ho capito bene, ora c'è un\n"
@@ -45,19 +45,19 @@ OneIsland_Text_HavePCLinkageWithHoenn::
     .string "Sarebbe l'uomo giusto per mia\n"
     .string "nipote.$"
 
-OneIsland_Text_IslandSign::
+OneIsland_Text_IslandSign_IT::
     .string "PRIMISOLA\n"
     .string "L'isola del collegamento!$"
 
-OneIsland_Text_PokemonNetCenterSign::
+OneIsland_Text_PokemonNetCenterSign_IT::
     .string "Il mondo si espande!\n"
     .string "CENTRO POKéMON TELEMATICO$"
 
 @ Unused
-OneIsland_Text_ReturnToCinnabar::
+OneIsland_Text_ReturnToCinnabar_IT::
     .string "グレンタウンに　もどりますか？$"
 
-OneIsland_Text_IsntWarmClimateHereGreat::
+OneIsland_Text_IsntWarmClimateHereGreat_IT::
     .string "Stai facendo un giro? Il clima è\n"
     .string "fantastico da queste parti, vero?$"
 

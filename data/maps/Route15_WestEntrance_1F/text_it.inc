@@ -1,4 +1,4 @@
-Route15_WestEntrance_1F_Text_OaksAideCameByHere::
+Route15_WestEntrance_1F_Text_OaksAideCameByHere_IT::
     .string "Stai lavorando al POKéDEX?\p"
     .string "L'ASSISTENTE del PROF. OAK è\n"
     .string "venuto da queste parti.$"

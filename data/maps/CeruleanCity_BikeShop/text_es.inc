@@ -1,51 +1,51 @@
-CeruleanCity_BikeShop_Text_WelcomeToBikeShop::
+CeruleanCity_BikeShop_Text_WelcomeToBikeShop_ES::
     .string "¡Ésta es la TIENDA de BICIS!\p"
     .string "¡Tenemos la BICI que buscabas!$"
 
-CeruleanCity_BikeShop_Text_SorryYouCantAffordIt::
+CeruleanCity_BikeShop_Text_SorryYouCantAffordIt_ES::
     .string "¡Lo siento!\n"
     .string "¡No tienes dinero para pagarla!$"
 
-CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo::
+CeruleanCity_BikeShop_Text_OhBikeVoucherHereYouGo_ES::
     .string "Anda, pero si tienes...\p"
     .string "¡Un BONO para una BICICLETA!\p"
     .string "¡Muy bien!\n"
     .string "¡Toda tuya!$"
 
-CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle::
+CeruleanCity_BikeShop_Text_ExchangedVoucherForBicycle_ES::
     .string "{PLAYER} cambió el BONO por una\n"
     .string "BICICLETA.$"
 
-CeruleanCity_BikeShop_Text_ThankYouComeAgain::
+CeruleanCity_BikeShop_Text_ThankYouComeAgain_ES::
     .string "¡Vuelve cuando quieras!$"
 
-CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle::
+CeruleanCity_BikeShop_Text_HowDoYouLikeNewBicycle_ES::
     .string "¿Te gusta tu nueva BICICLETA?\p"
     .string "¡Puedes usarla por el CAMINO\n"
     .string "de BICIS y por las cuevas!$"
 
-CeruleanCity_BikeShop_Text_MakeRoomForBicycle::
+CeruleanCity_BikeShop_Text_MakeRoomForBicycle_ES::
     .string "¡No tienes sitio para esto!$"
 
-CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe::
+CeruleanCity_BikeShop_Text_CityBikeGoodEnoughForMe_ES::
     .string "¡Sólo necesito una BICICLETA\n"
     .string "normal!\p"
     .string "¡No puedes poner una cesta en una\n"
     .string "MOTOCICLETA!$"
 
-CeruleanCity_BikeShop_Text_BikesCoolButExpensive::
+CeruleanCity_BikeShop_Text_BikesCoolButExpensive_ES::
     .string "¡Estas BICIS son geniales, pero\n"
     .string "muy caras!$"
 
-CeruleanCity_BikeShop_Text_WowYourBikeIsCool::
+CeruleanCity_BikeShop_Text_WowYourBikeIsCool_ES::
     .string "¡Uauu!\n"
     .string "¡Vaya BICI tan chula!$"
 
 @ Unused
-CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket::
+CeruleanCity_BikeShop_Text_GermanFoldableBicyleFinallyOnMarket_ES::
     .string "ついに　はつばい！\p"
     .string "ドイツ　せい　さいこうきゅう\n"
     .string "おりたたみ　じてんしゃ！$"
 
-CeruleanCity_BikeShop_Text_ShinyNewBicycle::
+CeruleanCity_BikeShop_Text_ShinyNewBicycle_ES::
     .string "¡Una BICI nueva y reluciente!$"

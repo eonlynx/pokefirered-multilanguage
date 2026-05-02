@@ -108,7 +108,7 @@ EventScript_GiveProfile:
 	goto_if_eq VAR_RESULT, TRUE, EventScript_GaveProfile
 	end
 
-Text_IdLoveToHearYourProfile::
+Text_IdLoveToHearYourProfile_IT::
     .string "Ciao, che piacere vederti!\p"
     .string "…Beh, potresti almeno\n"
     .string "salutare!\p"
@@ -116,11 +116,11 @@ Text_IdLoveToHearYourProfile::
     .string "Mi piacerebbe conoscere il tuo\n"
     .string "profilo.$"
 
-Text_TellMeWhatsYourProfile::
+Text_TellMeWhatsYourProfile_IT::
     .string "Dimmi qualcosa di te!\n"
     .string "Qual è il tuo profilo?$"
 
-Text_ExplainProfile::
+Text_ExplainProfile_IT::
     .string "Il profilo è composto da quattro\n"
     .string "parole o espressioni.\p"
     .string "Per crearlo, devi combinare le\n"
@@ -132,32 +132,32 @@ Text_ExplainProfile::
     .string "Prova! È più facile a dirsi\n"
     .string "che a farsi!$"
 
-Text_WhatsYourProfile::
+Text_WhatsYourProfile_IT::
     .string "Qual è il tuo profilo?$"
 
-Text_DontBeLikeThat::
+Text_DontBeLikeThat_IT::
     .string "Non fare così…\n"
     .string "Dimmi il tuo profilo, dai!$"
 
-Text_DecidedNotTo::
+Text_DecidedNotTo_IT::
     .string "Ah, hai cambiato idea?\n"
     .string "Beh, deciditi…$"
 
-Text_HiWeMeetAgain::
+Text_HiWeMeetAgain_IT::
     .string "Ehi, ci si rincontra!$"
 
-Text_ChangeYourProfile::
+Text_ChangeYourProfile_IT::
     .string "Vuoi cambiare il tuo profilo?$"
 
-Text_WhatAreYouLikeNow::
+Text_WhatAreYouLikeNow_IT::
     .string "Qual è il tuo profilo attuale?$"
 
-Text_LikeProfileWayItIs::
+Text_LikeProfileWayItIs_IT::
     .string "Ah, quindi il tuo profilo ti piace\n"
     .string "così com'è… \p"
     .string "Anche secondo me non è male.$"
 
-Text_ProfileSaysSomethingAboutYou::
+Text_ProfileSaysSomethingAboutYou_IT::
     .string "Hmhm…\p"
     .string "Il tuo profilo parla un po'\n"
     .string "di te.\p"
@@ -165,11 +165,11 @@ Text_ProfileSaysSomethingAboutYou::
     .string "meglio, possiamo diventare\l"
     .string "grandi amici!$"
 
-Text_HeardThatBefore::
+Text_HeardThatBefore_IT::
     .string "L'ho già sentito dire…\p"
     .string "Mi sembra che lo dicesse sempre\n"
     .string "mio cugino, che abita lontano.$"
 
-Text_TellMoreNextTime::
+Text_TellMoreNextTime_IT::
     .string "La prossima volta mi dirai\n"
     .string "qualcos'altro di te, OK?$"

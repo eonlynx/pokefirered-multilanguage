@@ -1,4 +1,4 @@
-PokemonTower_2F_Text_RivalIntro::
+PokemonTower_2F_Text_RivalIntro_ES::
     .string "{RIVAL}: ¡Oye, {PLAYER}!\n"
     .string "¿Qué haces por aquí?\l"
     .string "¿Están tus POKéMON debilitados?\p"
@@ -6,20 +6,20 @@ PokemonTower_2F_Text_RivalIntro::
     .string "¡Pero yo puedo conseguir que\n"
     .string "se debiliten! ¡Vamos!$"
 
-PokemonTower_2F_Text_RivalDefeat::
+PokemonTower_2F_Text_RivalDefeat_ES::
     .string "¿Qué?\n"
     .string "¡Cómo eres!\p"
     .string "¡Y te había tomado en serio!$"
 
 @ Unused. Translated below
 @ Aw, man! They really kicked the bucket! Weak! Do them a favor and raise them more properly.
-PokemonTower_2F_Text_RivalVictory::
+PokemonTower_2F_Text_RivalVictory_ES::
     .string "{RIVAL}“あーあ‥！\n"
     .string "ほんとに　くたばっちまったぞ！\l"
     .string "よわいなー！\l"
     .string "もっと　ちゃんと　そだてて　やれよ$"
 
-PokemonTower_2F_Text_RivalPostBattle::
+PokemonTower_2F_Text_RivalPostBattle_ES::
     .string "¿Qué tal va tu POKéDEX?\n"
     .string "¡Acabo de capturar un CUBONE!\p"
     .string "¡Todavía no he encontrado al\n"
@@ -29,7 +29,7 @@ PokemonTower_2F_Text_RivalPostBattle::
     .string "¡Me queda mucho por hacer!\p"
     .string "¡Hasta luego!$"
 
-PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts::
+PokemonTower_2F_Text_SilphScopeCouldUnmaskGhosts_ES::
     .string "¡Ni siquiera pudimos identificar\n"
     .string "a los GHOST!\p"
     .string "El SCOPE SILPH podría\n"

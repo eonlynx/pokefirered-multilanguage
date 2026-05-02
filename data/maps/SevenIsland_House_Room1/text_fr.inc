@@ -1,4 +1,4 @@
-SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
+SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles_FR::
 	.string "Je sais que c'est dur à croire,\n"
 	.string "mais quand j'étais plus jeune,\p"
 	.string "j'adorais être sur les routes pour\n"
@@ -9,11 +9,11 @@ SevenIsland_House_Room1_Text_OnlyEnjoymentWatchingBattles::
 	.string "du passé en regardant des\n"
 	.string "combats.$"
 
-SevenIsland_House_Room1_Text_SlightBreezeAroundBox::
+SevenIsland_House_Room1_Text_SlightBreezeAroundBox_FR::
 	.string "Il y a un courant d'air derrière\n"
 	.string "les cartons.$"
 
-SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
+SevenIsland_House_Room1_Text_ChallengeVisitingTrainer_FR::
 	.string "Bienvenue!\p"
 	.string "Je vais t'avouer une chose, il\n"
 	.string "y a une salle cachée dans la cave.\p"
@@ -22,14 +22,14 @@ SevenIsland_House_Room1_Text_ChallengeVisitingTrainer::
 	.string "Tu es là pour l'affronter,\n"
 	.string "n'est-ce pas?$"
 
-SevenIsland_House_Room1_Text_OhYouWontBattle::
+SevenIsland_House_Room1_Text_OhYouWontBattle_FR::
 	.string "Oh…\n"
 	.string "Tu ne veux pas te battre?\p"
 	.string "Je vois, je vois.\n"
 	.string "…\p"
 	.string "Bon, si jamais tu changes d'avis.$"
 
-SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
+SevenIsland_House_Room1_Text_LimitThreeMonsPerSide_FR::
 	.string "Ah! Tu veux bien te battre alors!\p"
 	.string "Donc ça valait le coup que je\n"
 	.string "déplace tous ces cartons.\p"
@@ -41,22 +41,22 @@ SevenIsland_House_Room1_Text_LimitThreeMonsPerSide::
 	.string "prendre que trois POKéMON\p"
 	.string "avec toi pour pas tout casser?$"
 
-SevenIsland_House_Room1_Text_SaveProgressBeforeBattle::
+SevenIsland_House_Room1_Text_SaveProgressBeforeBattle_FR::
 	.string "Bien! Veux-tu sauvegarder avant\n"
 	.string "de combattre?$"
 
-SevenIsland_House_Room1_Text_DontHoldAnythingBack::
+SevenIsland_House_Room1_Text_DontHoldAnythingBack_FR::
 	.string "Parfait.\n"
 	.string "Bon courage.$"
 
 @ Unused
-SevenIsland_House_Room1_Text_StrVar1_1::
+SevenIsland_House_Room1_Text_StrVar1_1_FR::
 	.string "{STR_VAR_1}$"
 
-SevenIsland_House_Room2_Text_MatchEndedUpDraw::
+SevenIsland_House_Room2_Text_MatchEndedUpDraw_FR::
 	.string "Il y a égalité.$"
 
-SevenIsland_House_Room1_Text_DrawWasIt::
+SevenIsland_House_Room1_Text_DrawWasIt_FR::
 	.string "Match nul, hein?\p"
 	.string "Mais laisse-moi te dire que\n"
 	.string "le match était époustouflant.\p"
@@ -64,10 +64,10 @@ SevenIsland_House_Room1_Text_DrawWasIt::
 	.string "d'une grande profondeur!$"
 
 @ Unused
-SevenIsland_House_Room1_Text_StrVar1_2::
+SevenIsland_House_Room1_Text_StrVar1_2_FR::
 	.string "{STR_VAR_1}$"
 
-SevenIsland_House_Room1_Text_AstoundingBattle::
+SevenIsland_House_Room1_Text_AstoundingBattle_FR::
 	.string "Bravo!\n"
 	.string "Toutes mes félicitations!\p"
 	.string "J'en ai les larmes aux yeux!\p"
@@ -79,10 +79,10 @@ SevenIsland_House_Room1_Text_AstoundingBattle::
 	.string "pour m'en remettre.$"
 
 @ Unused
-SevenIsland_House_Room1_Text_StrVar1_3::
+SevenIsland_House_Room1_Text_StrVar1_3_FR::
 	.string "{STR_VAR_1}$"
 
-SevenIsland_House_Room1_Text_FeelYourDisappointment::
+SevenIsland_House_Room1_Text_FeelYourDisappointment_FR::
 	.string "Quel dommage!\n"
 	.string "Je comprends ta déception.\p"
 	.string "Mais c'est dans la défaite qu'on\n"

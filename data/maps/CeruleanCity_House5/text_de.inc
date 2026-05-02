@@ -1,4 +1,4 @@
-CeruleanCity_House1_Text_AnyInterestInBerries::
+CeruleanCity_House1_Text_AnyInterestInBerries_DE::
 	.string "Ich stelle eine Vielzahl\n"
 	.string "Medikamente aus BEERENPUDER\l"
 	.string "her.\l"
@@ -6,11 +6,11 @@ CeruleanCity_House1_Text_AnyInterestInBerries::
 	.string "ich jedes Medikament herstellen!\p"
 	.string "Hast du Interesse an BEEREN?$"
 
-CeruleanCity_House1_Text_HaveJustTheThing::
+CeruleanCity_House1_Text_HaveJustTheThing_DE::
 	.string "Schön! Dann habe ich genau\n"
 	.string "das Richtige für dich!$"
 
-CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
+CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner_DE::
 	.string "Im POKéMON-CENTER gibt es im\n"
 	.string "oberen Stockwerk beim\l"
 	.string "DIREKTKLUB etwas Neues.\l"
@@ -31,46 +31,46 @@ CeruleanCity_House1_Text_GoCrushBerriesAtDirectCorner::
 	.string "Mahle BEEREN und bring mir\l"
 	.string "BEERENPUDER.$"
 
-CeruleanCity_House1_Text_WhyMustYouLieNoBerries::
+CeruleanCity_House1_Text_WhyMustYouLieNoBerries_DE::
 	.string "Warum lügst du mich an?\p"
 	.string "Wie viele BEEREN hast du?\n"
 	.string "Keine einzige!$"
 
-CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings::
+CeruleanCity_House1_Text_TakeInterestInAllSortsOfThings_DE::
 	.string "Du interessierst dich nicht für\n"
 	.string "BEEREN?\l"
 	.string "Auch als Kind sollte man sich\l"
 	.string "für alle möglichen Dinge\l"
 	.string "interessieren.$"
 
-CeruleanCity_House1_Text_HaveYouBroughtBerryPowder::
+CeruleanCity_House1_Text_HaveYouBroughtBerryPowder_DE::
 	.string "Ähm! Hast du mir BEERENPUDER\n"
 	.string "gebracht?$"
 
-CeruleanCity_House5_Text_ExchangeWithWhat::
+CeruleanCity_House5_Text_ExchangeWithWhat_DE::
 	.string "Wogegen möchtest du es tauschen?$"
 
-CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem::
+CeruleanCity_House1_Text_YoullExchangeBerryPowderForItem_DE::
 	.string "Gut, ich gebe dir {STR_VAR_1} im\n"
 	.string "Austausch für deinen\l"
 	.string "BEERENPUDER!$"
 
-CeruleanCity_House1_Text_DontHaveEnoughBerryPowder::
+CeruleanCity_House1_Text_DontHaveEnoughBerryPowder_DE::
 	.string "Hm? Du hast nicht genügend\n"
 	.string "BEERENPUDER!$"
 
-CeruleanCity_House1_Text_TradeMoreBerryPowder::
+CeruleanCity_House1_Text_TradeMoreBerryPowder_DE::
 	.string "Das ist wirklich erstklassiger\n"
 	.string "BEERENPUDER! Daraus lässt\l"
 	.string "sich gute Medizin herstellen.\l"
 	.string "Möchtest du noch mehr\l"
 	.string "BEERENPUDER tauschen?$"
 
-CeruleanCity_House1_Text_HopeToSeeYouAgain::
+CeruleanCity_House1_Text_HopeToSeeYouAgain_DE::
 	.string "Das ist in Ordnung!\n"
 	.string "Ich hoffe, wir sehen uns!$"
 
-CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder::
+CeruleanCity_House1_Text_SeeMeIfYoudLikeToTradePowder_DE::
 	.string "Komm einfach vorbei, wenn du\n"
 	.string "BEERENPUDER tauschen möchtest!$"
 

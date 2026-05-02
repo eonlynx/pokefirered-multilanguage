@@ -1,10 +1,10 @@
-CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore::
+CeladonCity_DepartmentStore_1F_Text_WelcomeToDeptStore_IT::
     .string "Salve! Questo è il CENTRO\n"
     .string "COMMERCIALE di AZZURROPOLI!\p"
     .string "Sul cartello alla tua destra sono\n"
     .string "indicati i vari reparti.$"
 
-CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
+CeladonCity_DepartmentStore_1F_Text_FloorDescriptions_IT::
     .string "PT: ASSISTENZA CASSE\p"
     .string "1ºP: NEGOZIO per ALLENATORI\p"
     .string "2ºP: VIDEOGIOCHI\p"
@@ -12,6 +12,6 @@ CeladonCity_DepartmentStore_1F_Text_FloorDescriptions::
     .string "4ºP: FARMACIA\p"
     .string "TETTO: DISTRIBUTORI AUTOMATICI$"
 
-CeladonCity_DepartmentStore_1F_Text_ServiceCounter::
+CeladonCity_DepartmentStore_1F_Text_ServiceCounter_IT::
     .string "PT: ASSISTENZA CASSE$"
 

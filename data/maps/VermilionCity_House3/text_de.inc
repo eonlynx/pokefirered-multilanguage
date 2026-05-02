@@ -1,11 +1,11 @@
-VermilionCity_House3_Text_PidgeyFlyLetterToSaffron::
+VermilionCity_House3_Text_PidgeyFlyLetterToSaffron_DE::
 	.string "Ich lasse TAUBSI einen Brief nach\n"
 	.string "SAFFRONIA CITY im Norden bringen!$"
 
-VermilionCity_House3_Text_Pidgey::
+VermilionCity_House3_Text_Pidgey_DE::
 	.string "TAUBSI: TAUBSI!$"
 
-VermilionCity_House3_Text_DearPippiLetter::
+VermilionCity_House3_Text_DearPippiLetter_DE::
 	.string "Liebe NIKKI! Ich hoffe, wir sehen\n"
 	.string "uns bald wieder!\p"
 	.string "Wie ich höre, stiftet das TEAM\n"
@@ -13,7 +13,7 @@ VermilionCity_House3_Text_DearPippiLetter::
 	.string "In ORANIA CITY scheint es sicher\n"
 	.string "zu sein.$"
 
-VermilionCity_House3_Text_SendMyPidgeyToUnionRoom::
+VermilionCity_House3_Text_SendMyPidgeyToUnionRoom_DE::
 	.string "Ich möchte mit allen Menschen\n"
 	.string "BRIEFE austauschen.\p"
 	.string "Ich schicke mein TAUBSI in einen\n"

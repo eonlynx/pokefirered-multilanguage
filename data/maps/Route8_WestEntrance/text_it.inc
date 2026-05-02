@@ -1,14 +1,14 @@
-Route8_WestEntrance_Text_ThirstyOnGuardDuty::
+Route8_WestEntrance_Text_ThirstyOnGuardDuty_IT::
     .string "Sono di guardia.\n"
     .string "Uha! Ho una sete!\p"
     .string "Non puoi passare! La strada è\n"
     .string "chiusa.$"
 
-Route8_WestEntrance_Text_ThatTeaLooksTasty::
+Route8_WestEntrance_Text_ThatTeaLooksTasty_IT::
     .string "Oh, quel TÈ sembra delizioso!\n"
     .string "Ho una sete spaventosa!$"
 
-Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
+Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards_IT::
     .string "Huh? È per me?\n"
     .string "Davvero? Grazie!\p"
     .string "… …\n"
@@ -21,6 +21,6 @@ Route8_WestEntrance_Text_ThanksIllShareTeaWithGuards::
     .string "Condividerò questo TÈ delizioso con\n"
     .string "le altre guardie.$"
 
-Route8_WestEntrance_Text_HiHowsItGoing::
+Route8_WestEntrance_Text_HiHowsItGoing_IT::
     .string "Ehi! Grazie per la bibita fresca!$"
 

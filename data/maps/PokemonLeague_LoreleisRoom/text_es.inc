@@ -1,4 +1,4 @@
-PokemonLeague_LoreleisRoom_Text_Intro::
+PokemonLeague_LoreleisRoom_Text_Intro_ES::
     .string "¡Ésta es la LIGA POKéMON!\p"
     .string "¡Yo soy LORELEI, del ALTO MANDO!\p"
     .string "¡Nadie me supera con los POKéMON\n"
@@ -10,7 +10,7 @@ PokemonLeague_LoreleisRoom_Text_Intro::
     .string "¡Ja! ¡Ja! ¡Ja!\n"
     .string "¿Comenzamos?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_RematchIntro::
+PokemonLeague_LoreleisRoom_Text_RematchIntro_ES::
     .string "¡Ésta es la LIGA POKéMON!\p"
     .string "¡Yo soy LORELEI, del ALTO MANDO!\n"
     .string "¡Aquí me tienes de nuevo!\p"
@@ -23,10 +23,10 @@ PokemonLeague_LoreleisRoom_Text_RematchIntro::
     .string "¡Ja! ¡Ja! ¡Ja!\n"
     .string "¿Comenzamos?{PLAY_BGM}{MUS_ENCOUNTER_GYM_LEADER}$"
 
-PokemonLeague_LoreleisRoom_Text_Defeat::
+PokemonLeague_LoreleisRoom_Text_Defeat_ES::
     .string "¡Esto no debería ser así!...$"
 
-PokemonLeague_LoreleisRoom_Text_PostBattle::
+PokemonLeague_LoreleisRoom_Text_PostBattle_ES::
     .string "¡Eres mejor de lo que yo pensaba!\n"
     .string "¡Adelante!\p"
     .string "¡Pero la LIGA POKéMON te reserva\n"

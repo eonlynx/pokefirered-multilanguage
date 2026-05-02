@@ -1,17 +1,17 @@
-Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers::
+Route10_PokemonCenter_1F_Text_EveryTypeStrongerThanOthers_FR::
 	.string "Le type d'un POKéMON l'avantage\n"
 	.string "ou pas par rapport aux autres.\p"
 	.string "Chaque type a des avantages et\n"
 	.string "des inconvénients.$"
 
-Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000::
+Route10_PokemonCenter_1F_Text_NuggetUselessSoldFor5000_FR::
 	.string "J'ai vendu une PEPITE pour 5000¥!$"
 
-Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender::
+Route10_PokemonCenter_1F_Text_HeardGhostsHauntLavender_FR::
 	.string "On m'a dit qu'il y a des SPECTRES\n"
 	.string "à LAVANVILLE!$"
 
-Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
+Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons_FR::
 	.string "Salut, {PLAYER}! Je te cherchais.\n"
 	.string "Je suis un assistant du PROF. CHEN!\p"
 	.string "Si tu attrapes vingt POKéMON\n"
@@ -20,17 +20,17 @@ Route10_PokemonCenter_1F_Text_GiveEverstoneIfCaught20Mons::
 	.string "Alors {PLAYER}, as-tu attrapé au\n"
 	.string "moins vingt POKéMON différents?$"
 
-Route10_PokemonCenter_1F_Text_GreatHereYouGo::
+Route10_PokemonCenter_1F_Text_GreatHereYouGo_FR::
 	.string "Super! Tu as {STR_VAR_3} POKéMON\n"
 	.string "différents!\p"
 	.string "Félicitations!\n"
 	.string "Voici ta récompense!$"
 
-Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide::
+Route10_PokemonCenter_1F_Text_ReceivedEverstoneFromAide_FR::
 	.string "{PLAYER} obtient une\n"
 	.string "PIERRE STASE!$"
 
-Route10_PokemonCenter_1F_Text_ExplainEverstone::
+Route10_PokemonCenter_1F_Text_ExplainEverstone_FR::
 	.string "Tu peux agrandir ton POKéDEX\n"
 	.string "en faisant évoluer tes POKéMON.\p"
 	.string "Mais il se peut que tu ne veuilles\n"

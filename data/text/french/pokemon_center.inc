@@ -1,15 +1,15 @@
-Text_MakingPreparations::
+Text_MakingPreparations_FR::
 	.string "じゅんびちゅうです！$"
 
-Text_WantWhichFloor::
+Text_WantWhichFloor_FR::
 	.string "Quel étage?$"
 
-Text_BagItemCanBeRegistered::
+Text_BagItemCanBeRegistered_FR::
 	.string "Un objet du SAC peut être sauvé\n"
 	.string "comme fonction de SELECT.$"
 
 @ Unused (email from R/S Rivals computer)
-Text_TrainerSchoolEmail::
+Text_TrainerSchoolEmail_FR::
 	.string "パソコンに\n"
 	.string "ポケモン　トレーナー　こうざの\l"
 	.string "メールが　きている！\p"
@@ -19,35 +19,35 @@ Text_TrainerSchoolEmail::
 	.string "トレーナーの　じつりょくが　とわれます！\p"
 	.string "‥‥　‥‥　‥‥$"
 
-Text_PlayerBootedUpPC::
+Text_PlayerBootedUpPC_FR::
 	.string "{PLAYER} allume le PC.$"
 
 @ Unused
-Text_LinkWasCanceled::
+Text_LinkWasCanceled_FR::
 	.string "つうしんは　キャンセルされました$"
 
 @ Unused
-Text_GiveNicknameToReceivedMon::
+Text_GiveNicknameToReceivedMon_FR::
 	.string "Donner un surnom au {STR_VAR_2}\n"
 	.string "reçu?$"
 
-gText_PkmnFainted3::
+gText_PkmnFainted3_FR::
 	.string "{STR_VAR_1} est KO…\p"
 	.string "$"
 
-Text_WelcomeWantToHealPkmn::
+Text_WelcomeWantToHealPkmn_FR::
 	.string "Bienvenue dans notre CENTRE\n"
 	.string "POKéMON!\p"
 	.string "Voulez-vous que je m'occupe\n"
 	.string "de vos POKéMON?$"
 
-Text_TakeYourPkmnForFewSeconds::
+Text_TakeYourPkmnForFewSeconds_FR::
 	.string "OK, je prends vos POKéMON un\n"
 	.string "instant.$"
 
-Text_WeHopeToSeeYouAgain::
+Text_WeHopeToSeeYouAgain_FR::
 	.string "A bientôt!$"
 
-Text_RestoredPkmnToFullHealth::
+Text_RestoredPkmnToFullHealth_FR::
 	.string "Merci d'avoir attendu.\p"
 	.string "Vos POKéMON sont en super forme.$"

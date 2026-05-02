@@ -1,10 +1,10 @@
-TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo::
+TwoIsland_JoyfulGameCorner_Text_WhereHasLostelleGottenTo_FR::
 	.string "Bon, où est-ce que LOSTELLE\n"
 	.string "est encore passée?\p"
 	.string "Elle devrait déjà être là\n"
 	.string "avec mon repas…$"
 
-TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
+TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle_FR::
 	.string "Hm? Bonjour!\n"
 	.string "Tu connais LOSTELLE?\p"
 	.string "Est-ce que tu l'as vue? Elle\n"
@@ -17,7 +17,7 @@ TwoIsland_JoyfulGameCorner_Text_PleaseHelpFindLostelle::
 	.string "Je t'en prie, aide-moi à la\n"
 	.string "chercher, va voir sur l'ILE 3!$"
 
-TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
+TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland_FR::
 	.string "Hein? C'est quoi cette SALLE DE\n"
 	.string "JEU? Ça craint vraiment ici!\p"
 	.string "Les imbéciles, ils disaient qu'ils\n"
@@ -26,25 +26,25 @@ TwoIsland_JoyfulGameCorner_Text_IsThisOnlyThreeIsland::
 	.string "Eh, toi! C'est bien la seule ILE 3\n"
 	.string "ici, non?$"
 
-TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt::
+TwoIsland_JoyfulGameCorner_Text_ThisIsTwoIslandMoveIt_FR::
 	.string "Ouvre les yeux avant de sortir\n"
 	.string "du lit, crétin!\p"
 	.string "Tu es sur l'ILE 2!\p"
 	.string "Allez, pars d'ici et emmène ta\n"
 	.string "fichue moto avec toi!$"
 
-TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing::
+TwoIsland_JoyfulGameCorner_Text_TheseIslandsAreConfusing_FR::
 	.string "Hein? …\n"
 	.string "Oh, j'ai compris…\p"
 	.string "Tss…\n"
 	.string "Quelle idée d'appeler ces îles\l"
 	.string "comme ça aussi…$"
 
-TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor::
+TwoIsland_JoyfulGameCorner_Text_PunkScuffedUpMyFloor_FR::
 	.string "Regarde ça!\n"
 	.string "Ce voyou a rayé tout le sol.$"
 
-TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
+TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland_FR::
 	.string "Mais écoute, je t'en conjure, tu\n"
 	.string "dois aller sur l'ILE 3.\p"
 	.string "Si quelque chose devait arriver\n"
@@ -56,15 +56,15 @@ TwoIsland_JoyfulGameCorner_Text_PleaseGoToThreeIsland::
 	.string "C'est pour ça que j'ai besoin que\n"
 	.string "tu ailles là-bas.$"
 
-TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday::
+TwoIsland_JoyfulGameCorner_Text_NotRunningAnyGamesToday_FR::
 	.string "Désolé. Les jeux ne fonctionnent\n"
 	.string "pas aujourd'hui.$"
 
-TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon::
+TwoIsland_JoyfulGameCorner_Text_GetGamesGoingSoon_FR::
 	.string "Promis, les jeux fonctionneront\n"
 	.string "bientôt pour toi!$"
 
-TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
+TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle_FR::
 	.string "Alors c'est vrai, LOSTELLE a été\n"
 	.string "sauvée grâce à toi?\p"
 	.string "Comment te remercier?\p"
@@ -72,11 +72,11 @@ TwoIsland_JoyfulGameCorner_Text_YouRescuedLostelle::
 	.string "Papa ne savait pas que tu étais\n"
 	.string "en danger!$"
 
-TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy::
+TwoIsland_JoyfulGameCorner_Text_LostelleItsOkayDaddy_FR::
 	.string "LOSTELLE: Tout va bien, papa!\n"
 	.string "Grâce à {PLAYER}!$"
 
-TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
+TwoIsland_JoyfulGameCorner_Text_ThisIsForMe_FR::
 	.string "Oh, qu'est-ce que c'est?\n"
 	.string "Tu dis que c'est pour moi?\p"
 	.string "Comment sais-tu que j'aime\n"
@@ -84,29 +84,29 @@ TwoIsland_JoyfulGameCorner_Text_ThisIsForMe::
 	.string "On peut dire que tu sais comment\n"
 	.string "rendre les gens heureux!$"
 
-TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy::
+TwoIsland_JoyfulGameCorner_Text_HandedMeteoriteToLostellesDaddy_FR::
 	.string "{PLAYER} tend le METEORITE au père\n"
 	.string "de LOSTELLE.$"
 
-TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill::
+TwoIsland_JoyfulGameCorner_Text_OhThisIsFromBill_FR::
 	.string "Oh, je vois, ça vient de LEO!\n"
 	.string "Remercie-le de ma part!\p"
 	.string "Au fait, j'ai moi aussi quelque\n"
 	.string "chose pour toi, pour te remercier.$"
 
-TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy::
+TwoIsland_JoyfulGameCorner_Text_ReceivedMoonStoneFromLostellesDaddy_FR::
 	.string "{PLAYER} reçoit la PIERRE LUNE\n"
 	.string "du père de LOSTELLE.$"
 
-TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag::
+TwoIsland_JoyfulGameCorner_Text_NotGoingToFitInBag_FR::
 	.string "Il n'y a plus de place dans\n"
 	.string "ton sac.$"
 
-TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning::
+TwoIsland_JoyfulGameCorner_Text_IllGetGameCornerRunning_FR::
 	.string "Très bien, je vais ouvrir la SALLE\n"
 	.string "DE JEU tout de suite.\p"
 	.string "Viens me voir avec des amis.$"
 
-TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool::
+TwoIsland_JoyfulGameCorner_Text_PleaseShowMeYouBeingCool_FR::
 	.string "J'suis sûre qu'on se reverra!$"
 

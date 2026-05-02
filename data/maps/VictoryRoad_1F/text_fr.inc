@@ -1,22 +1,22 @@
-VictoryRoad_1F_Text_NaomiIntro::
+VictoryRoad_1F_Text_NaomiIntro_FR::
 	.string "Es-tu aussi balèze que moi?$"
 
-VictoryRoad_1F_Text_NaomiDefeat::
+VictoryRoad_1F_Text_NaomiDefeat_FR::
 	.string "Oh!\n"
 	.string "J'ai perdu…$"
 
-VictoryRoad_1F_Text_NaomiPostBattle::
+VictoryRoad_1F_Text_NaomiPostBattle_FR::
 	.string "Je déteste perdre, et spécialement\n"
 	.string "contre des gamins…$"
 
-VictoryRoad_1F_Text_RolandoIntro::
+VictoryRoad_1F_Text_RolandoIntro_FR::
 	.string "T'as l'air de savoir te battre…\n"
 	.string "Je veux en avoir le cœur net!$"
 
-VictoryRoad_1F_Text_RolandoDefeat::
+VictoryRoad_1F_Text_RolandoDefeat_FR::
 	.string "OK.\n"
 	.string "Tu fais pas semblant.$"
 
-VictoryRoad_1F_Text_RolandoPostBattle::
+VictoryRoad_1F_Text_RolandoPostBattle_FR::
 	.string "C'est bon, j'ai compris!$"
 

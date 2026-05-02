@@ -1,16 +1,16 @@
 @ Unused
-FiveIsland_Meadow_Text_DoorNeedsTwoPasswords::
+FiveIsland_Meadow_Text_DoorNeedsTwoPasswords_ES::
     .string "とびらを　あけるには\n"
     .string "パスワードが　2つ　いるようだ$"
 
-FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded::
+FiveIsland_Meadow_Text_EnteredPasswordAnotherNeeded_ES::
     .string "{PLAYER} introdujo una contraseña.\p"
     .string "“GARON ama a NORA”.\p"
     .string "... ... ... ... ... ...\p"
     .string "Para abrir la puerta hace falta\n"
     .string "otra contraseña más...$"
 
-FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
+FiveIsland_Meadow_Text_EnteredPasswordDoorOpened_ES::
     .string "{PLAYER} introdujo dos contraseñas.\p"
     .string "“ARON ama a NORA”.\n"
     .string "“HO-OH es ese HO-OH”.\p"
@@ -18,43 +18,43 @@ FiveIsland_Meadow_Text_EnteredPasswordDoorOpened::
     .string "¡La puerta del ALMACÉN\n"
     .string "se ha abierto!$"
 
-FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen::
+FiveIsland_Meadow_Text_WarehouseDoorAlreadyOpen_ES::
     .string "La puerta del ALMACÉN\n"
     .string "ya está abierta.$"
 
-FiveIsland_Meadow_Text_Rocket1Intro::
+FiveIsland_Meadow_Text_Rocket1Intro_ES::
     .string "¡Ésta es una zona privada!\n"
     .string "¡Fuera de aquí!$"
 
-FiveIsland_Meadow_Text_Rocket1Defeat::
+FiveIsland_Meadow_Text_Rocket1Defeat_ES::
     .string "¿Por qué me pasa esto a mí?$"
 
-FiveIsland_Meadow_Text_Rocket1PostBattle::
+FiveIsland_Meadow_Text_Rocket1PostBattle_ES::
     .string "Aquí no tienes nada que hacer.\n"
     .string "¡Vete a casa!$"
 
-FiveIsland_Meadow_Text_Rocket2Intro::
+FiveIsland_Meadow_Text_Rocket2Intro_ES::
     .string "Esto no es más que nuestro\n"
     .string "ALMACÉN.\p"
     .string "No entiendo qué te trae por aquí.$"
 
-FiveIsland_Meadow_Text_Rocket2Defeat::
+FiveIsland_Meadow_Text_Rocket2Defeat_ES::
     .string "No entiendo cómo he podido\n"
     .string "perder...$"
 
-FiveIsland_Meadow_Text_Rocket2PostBattle::
+FiveIsland_Meadow_Text_Rocket2PostBattle_ES::
     .string "¿Tienes curiosidad por ver qué hay\n"
     .string "en el ALMACÉN?\p"
     .string "Yo creo que es mejor que no lo\n"
     .string "sepas. Por tu propio bien...$"
 
-FiveIsland_Meadow_Text_Rocket3Intro::
+FiveIsland_Meadow_Text_Rocket3Intro_ES::
     .string "Aunque me ganaras, estarías\n"
     .string "perdiendo el tiempo.$"
 
-FiveIsland_Meadow_Text_Rocket3Defeat::
+FiveIsland_Meadow_Text_Rocket3Defeat_ES::
     .string "¡Agggrrr! ¡Qué fastidio!$"
 
-FiveIsland_Meadow_Text_Rocket3PostBattle::
+FiveIsland_Meadow_Text_Rocket3PostBattle_ES::
     .string "Bueno, de todas formas no vas\n"
     .string "a poder entrar sin las contraseñas.$"

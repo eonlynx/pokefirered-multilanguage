@@ -1,4 +1,4 @@
-CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
+CeruleanCity_Mart_Text_RepelWorksOnWeakMons_DE::
 	.string "Benutze einen SCHUTZ, um Käfer und\n"
 	.string "schwächere POKéMON von dir\l"
 	.string "fernzuhalten!\p"
@@ -9,7 +9,7 @@ CeruleanCity_Mart_Text_RepelWorksOnWeakMons::
 	.string "Stelle steht stark ist, wirkt SCHUTZ\l"
 	.string "noch besser!$"
 
-CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy::
+CeruleanCity_Mart_Text_DoYouKnowAboutRareCandy_DE::
 	.string "Besitzt du SONDERBONBONs?\p"
 	.string "Gibt man einem POKéMON ein solches\n"
 	.string "BONBON, dann erreicht es den\l"

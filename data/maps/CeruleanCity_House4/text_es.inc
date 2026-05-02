@@ -1,10 +1,10 @@
-CeruleanCity_House4_Text_NothingEntertaining::
+CeruleanCity_House4_Text_NothingEntertaining_ES::
     .string "Uff... Tengo tanto tiempo\n"
     .string "y tan poco que hacer...\p"
     .string "¿No hay nada divertido cociéndose\n"
     .string "por ahí?$"
 
-CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
+CeruleanCity_House4_Text_NewNewsInformativeHaveThis_ES::
     .string "¡Anda, hay novedades!\n"
     .string "¡Un boletín informativo!\p"
     .string "A ver, a ver...\p"
@@ -16,7 +16,7 @@ CeruleanCity_House4_Text_NewNewsInformativeHaveThis::
     .string "Quiero agradecerte el haberme\n"
     .string "traído estas noticias, toma.$"
 
-CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
+CeruleanCity_House4_Text_IncredibleNewsHaveBerries_ES::
     .string "¡Por fin!\n"
     .string "¡Un boletín informativo!\p"
     .string "A ver, a ver...\p"
@@ -27,14 +27,14 @@ CeruleanCity_House4_Text_IncredibleNewsHaveBerries::
     .string "Gracias por traerme semejantes\n"
     .string "noticias, toma, unas BAYITAS.$"
 
-CeruleanCity_House4_Text_WishCouldShareNewsWithOthers::
+CeruleanCity_House4_Text_WishCouldShareNewsWithOthers_ES::
     .string "Sería una pena no compartir estas\n"
     .string "noticias...\p"
     .string "Me encantaría poder pasárselas\n"
     .string "a alguien...\l"
     .string "Compártelas con más gente...$"
 
-CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis::
+CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis_ES::
     .string "¿Has pasado las noticias\n"
     .string "a más gente?\p"
     .string "¡Las buenas noticias hay que\n"
@@ -42,7 +42,7 @@ CeruleanCity_House4_Text_ThanksForSpreadingNewsTakeThis::
     .string "Gracias por pasárselas a otras\n"
     .string "personas, toma, anda.$"
 
-CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
+CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries_ES::
     .string "¿Has pasado las noticias\n"
     .string "a más gente todavía?\p"
     .string "¡Las propias noticias deben\n"
@@ -53,13 +53,13 @@ CeruleanCity_House4_Text_MagnificentNewsSpreadHaveBerries::
     .string "¡Voy a darte más BAYITAS\n"
     .string "que de costumbre!$"
 
-CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews::
+CeruleanCity_House4_Text_EnjoyingMyselfWithAllSortsOfNews_ES::
     .string "Yo me lo paso pipa leyendo\n"
     .string "noticias. Todas me gustan, todas.\p"
     .string "¡Ya estoy contento! ¡Voy a estar\n"
     .string "entretenido para rato!$"
 
-CeruleanCity_House4_Text_YourBerryPouchIsFull::
+CeruleanCity_House4_Text_YourBerryPouchIsFull_ES::
     .string "Vaya, tienes el SACO de las BAYAS\n"
     .string "hasta arriba. Vuelve a por ellas\l"
     .string "cuando tengas sitio.$"

@@ -1,16 +1,16 @@
-VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild::
+VermilionCity_PokemonCenter_1F_Text_TrainerMonsStrongerThanWild_FR::
 	.string "Deux POKéMON d'un même niveau sont\n"
 	.string "différents.\p"
 	.string "Un POKéMON élevé par un DRESSEUR\n"
 	.string "est toujours plus fort qu'un\l"
 	.string "POKéMON sauvage.$"
 
-VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking::
+VermilionCity_PokemonCenter_1F_Text_PoisonedMonFaintedWhileWalking_FR::
 	.string "Mon POKéMON est empoisonné! Il est\n"
 	.string "tombé dans les pommes pendant que\l"
 	.string "je marchais!$"
 
-VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
+VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes_FR::
 	.string "C'est vrai qu'un POKéMON de haut\n"
 	.string "niveau est très puissant…\p"
 	.string "Mais tout POKéMON est vulnérable\n"
@@ -18,7 +18,7 @@ VermilionCity_PokemonCenter_1F_Text_AllMonWeakToSpecificTypes::
 	.string "Il n'y a donc pas de POKéMON\n"
 	.string "qui soit invincible.$"
 
-VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
+VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain_FR::
 	.string "T'as jamais eu envie de te battre\n"
 	.string "avec quelqu'un que tu viens de\p"
 	.string "voir? Je suis sûre que si!\p"
@@ -27,13 +27,13 @@ VermilionCity_PokemonCenter_1F_Text_UrgeToBattleSomeoneAgain::
 	.string "Alors j'utilise cet appareil. Tiens,\n"
 	.string "prends-en un!$"
 
-VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches::
+VermilionCity_PokemonCenter_1F_Text_UseDeviceForRematches_FR::
 	.string "Ça sert à trouver les DRESSEURS\n"
 	.string "qui veulent une revanche.\p"
 	.string "Mais avant de l'utiliser, il faut\n"
 	.string "recharger ses batteries.$"
 
-VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker::
+VermilionCity_PokemonCenter_1F_Text_ExplainVSSeeker_FR::
 	.string "Comment marche le CHERCHE VS?\n"
 	.string "C'est pas compliqué.\p"
 	.string "Quand il fonctionne, il envoie un\n"
