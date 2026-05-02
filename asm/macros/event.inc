@@ -1775,6 +1775,12 @@
 	NO  = 0
 
 	@ Buffers the given text and calls the relevant standard message script (see gStdScripts).
+	.macro msgbox_no_lang text:req, type=MSGBOX_DEFAULT
+	loadword 0, \text
+	callstd \type
+	.endm
+
+	@ Buffers the given text and calls the relevant standard message script (see gStdScripts).
 	@ Automatically adds language suffix based on VAR_PLAYER_LANGUAGE:
 	@ 2 = German (_DE), 3 = French (_FR), 4 = Spanish (_ES), 5 = Italian (_IT), else = English
 	.macro msgbox text:req, type=MSGBOX_DEFAULT
