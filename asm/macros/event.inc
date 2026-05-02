@@ -1775,9 +1775,39 @@
 	NO  = 0
 
 	@ Buffers the given text and calls the relevant standard message script (see gStdScripts).
+	@ Automatically adds language suffix based on VAR_PLAYER_LANGUAGE:
+	@ 2 = German (_DE), 3 = French (_FR), 4 = Spanish (_ES), 5 = Italian (_IT), else = English
 	.macro msgbox text:req, type=MSGBOX_DEFAULT
-	loadword 0, \text
-	callstd \type
+		compare VAR_PLAYER_LANGUAGE, 2
+		goto_if_eq 1f
+		compare VAR_PLAYER_LANGUAGE, 3
+		goto_if_eq 2f
+		compare VAR_PLAYER_LANGUAGE, 4
+		goto_if_eq 3f
+		compare VAR_PLAYER_LANGUAGE, 5
+		goto_if_eq 4f
+
+		loadword 0, \text
+		goto 5f
+
+	1:
+		loadword 0, \text\()_DE
+		goto 5f
+
+	2:
+		loadword 0, \text\()_FR
+		goto 5f
+
+	3:
+		loadword 0, \text\()_ES
+		goto 5f
+
+	4:
+		loadword 0, \text\()_IT
+		goto 5f
+
+	5:
+		callstd \type
 	.endm
 
 	@ Gives 'amount' of the specified 'item' to the player and prints a message with fanfare.

@@ -11,7 +11,6 @@
 #include "main.h"
 #include "scanline_effect.h"
 #include "sound.h"
-#include "event_data.h"
 #include "constants/localized_text.h"
 #include "constants/songs.h"
 
@@ -166,7 +165,7 @@ static void Task_LanguageSelector(u8 taskId)
         }
         else if (JOY_NEW(A_BUTTON | START_BUTTON))
         {
-            VarSet(VAR_PLAYER_LANGUAGE, tCursor + 1);
+            playerLanguage = tCursor;
             PlaySE(SE_SELECT);
             BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
             tState++;
