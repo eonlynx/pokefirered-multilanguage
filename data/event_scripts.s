@@ -38,6 +38,7 @@
 #include "constants/help_system.h"
 #include "constants/trainer_fan_club.h"
 #include "constants/mystery_gift.h"
+#include "config/localized_text.h"
 	.include "asm/macros.inc"
 	.include "asm/macros/event.inc"
 	.include "constants/version.inc"
@@ -2633,7 +2634,7 @@ Text_TestMsg::
 	.include "data/scripts/spanish/test.inc"
 .elseif GAME_LANGUAGE == LANGUAGE_ITALIAN
 	.include "data/scripts/italian/fame_checker.inc"
-	.include "data/scripts/italian/trainer_card.inc
+	.include "data/scripts/italian/trainer_card.inc"
 	.include "data/scripts/italian/cable_club.inc"
 	.include "data/scripts/italian/field_moves.inc"
 	.include "data/scripts/italian/item_ball_scripts.inc"

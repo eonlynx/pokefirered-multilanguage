@@ -37,6 +37,7 @@
 #include "constants/event_objects.h"
 #include "constants/maps.h"
 #include "constants/sound.h"
+#include "constants/localized_text.h"
 #include "sloopsvc.h"
 
 extern u16 (*const gSpecials[])(void);
@@ -46,6 +47,7 @@ extern const u8 *const gStdScriptsEnd[];
 
 static bool8 ScriptContext_NextCommandEndsScript(struct ScriptContext * ctx);
 static u8 ScriptContext_GetQuestLogInput(struct ScriptContext * ctx);
+static const u8 *GetLocalizedText(const u8 *text);
 
 static EWRAM_DATA ptrdiff_t sAddressOffset = 0; // For relative addressing in vgoto etc., used by saved scripts (e.g. Mystery Event)
 static EWRAM_DATA u8 sQuestLogWaitButtonPressTimer = 0;
@@ -1264,11 +1266,25 @@ bool8 ScrCmd_textcolor(struct ScriptContext * ctx)
 bool8 ScrCmd_message(struct ScriptContext * ctx)
 {
     const u8 *msg = (const u8 *)ScriptReadWord(ctx);
+    msg = GetLocalizedText(msg);
 
     if (msg == NULL)
         msg = (const u8 *)ctx->data[0];
     ShowFieldMessage(msg);
     return FALSE;
+}
+
+static const u8 *GetLocalizedText(const u8 *text)
+{
+    u32 i;
+
+    for (i = 0; i < ARRAY_COUNT(sLocalizedTexts); i++)
+    {
+        if (sLocalizedTexts[i].base == text)
+            return sLocalizedTexts[i].translations[VarGet(VAR_PLAYER_LANGUAGE) - 1];
+    }
+
+    return text;
 }
 
 bool8 ScrCmd_loadhelp(struct ScriptContext * ctx)

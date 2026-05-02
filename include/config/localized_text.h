@@ -1,5 +1,5 @@
-#ifndef GUARD_CONFIG_LANGUAGE_SELECTOR_H
-#define GUARD_CONFIG_LANGUAGE_SELECTOR_H
+#ifndef GUARD_CONFIG_LOCALIZED_TEXT_H
+#define GUARD_CONFIG_LOCALIZED_TEXT_H
 
 // Language settings
 #define TEXT_ENGLISH             TRUE    // If TRUE, English texts will be compiled.
@@ -8,4 +8,4 @@
 #define TEXT_SPANISH             TRUE    // If TRUE, Spanish texts will be compiled.
 #define TEXT_ITALIAN             TRUE    // If TRUE, Italian texts will be compiled.
 
-#endif  // GUARD_CONFIG_LANGUAGE_SELECTOR_H
+#endif  // GUARD_CONFIG_LOCALIZED_TEXT_H

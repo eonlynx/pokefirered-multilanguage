@@ -11,7 +11,8 @@
 #include "main.h"
 #include "scanline_effect.h"
 #include "sound.h"
-#include "constants/language_selector.h"
+#include "event_data.h"
+#include "constants/localized_text.h"
 #include "constants/songs.h"
 
 static const u16 gEnglishLanguagePal[] = INCBIN_U16("graphics/language_selector/english.gbapal");
@@ -165,7 +166,7 @@ static void Task_LanguageSelector(u8 taskId)
         }
         else if (JOY_NEW(A_BUTTON | START_BUTTON))
         {
-            playerLanguage = tCursor;
+            VarSet(VAR_PLAYER_LANGUAGE, tCursor + 1);
             PlaySE(SE_SELECT);
             BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
             tState++;

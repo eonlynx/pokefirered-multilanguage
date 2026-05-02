@@ -17,6 +17,7 @@
 #include "constants/songs.h"
 #include "constants/sound.h"
 #include "language_selector.h"
+#include "event_data.h"
 
 /*
     The intro is grouped into the following scenes
@@ -996,7 +997,7 @@ static bool8 SetUpCopyrightScreen(void)
         break;
     case 142:
         ResetSerial();
-        if (gSaveBlock2Ptr->playerLanguage == NULL)
+        if (VarGet(VAR_PLAYER_LANGUAGE) == 0)
             SetMainCallback2(CB2_LanguageSelector);
         else
             SetMainCallback2(CB2_WaitFadeBeforeSetUpIntro);

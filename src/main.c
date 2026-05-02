@@ -89,7 +89,6 @@ COMMON_DATA u32 IntrMain_Buffer[0x200] = {0};
 COMMON_DATA u8 sVcountAtIntr = 0;
 COMMON_DATA u8 sVcountBeforeSound = 0;
 COMMON_DATA u8 gPcmDmaCounter = 0;
-COMMON_DATA u8 playerLanguage = 0;
 
 static IntrFunc * const sTimerIntrFunc = gIntrTable + 0x7;
 
