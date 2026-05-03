@@ -16,6 +16,7 @@
 #include "berry_fix_program.h"
 #include "decompress.h"
 #include "constants/songs.h"
+#include "constants/localized_text.h"
 
 enum TitleScreenScene
 {
@@ -72,6 +73,13 @@ static u8 CreateSlashSprite(void);
 static void DeactivateSlashSprite(u8 spriteId);
 static bool32 IsSlashSpriteDeactivated(u8 spriteId);
 static void SpriteCallback_Slash(struct Sprite *sprite);
+
+static u16 GetPlayerLanguage(void);
+static const u16 *GetTitlePals(void);
+static const u8 *GetTitleTiles(void);
+static const u8 *GetTitleMap(void);
+static const u8 *GetStartTiles(void);
+static const u8 *GetStartMap(void);
 
 static const u8 sBorderBgTiles[] = INCBIN_U8("graphics/title_screen/border_bg.4bpp.lz");
 
@@ -339,6 +347,44 @@ static const u32 *const sUnused_Tilemaps[] = {
     sUnused_Tilemap6,
 };
 
+static const u16 *const sTitleLogoPals[] =
+{
+    [LANG_DE] = gGraphics_TitleScreen_GameTitleLogoPalsDe,
+    [LANG_FR] = gGraphics_TitleScreen_GameTitleLogoPalsFr,
+    [LANG_ES] = gGraphics_TitleScreen_GameTitleLogoPalsEs,
+    [LANG_IT] = gGraphics_TitleScreen_GameTitleLogoPalsIt,
+};
+
+static const u8 *const sTitleLogoTiles[] =
+{
+    [LANG_DE] = gGraphics_TitleScreen_GameTitleLogoTilesDe,
+    [LANG_FR] = gGraphics_TitleScreen_GameTitleLogoTilesFr,
+    [LANG_ES] = gGraphics_TitleScreen_GameTitleLogoTilesEs,
+    [LANG_IT] = gGraphics_TitleScreen_GameTitleLogoTilesIt,
+};
+
+static const u8 *const sTitleLogoMap[] =
+{
+    [LANG_DE] = gGraphics_TitleScreen_GameTitleLogoMapDe,
+    [LANG_FR] = gGraphics_TitleScreen_GameTitleLogoMapFr,
+    [LANG_ES] = gGraphics_TitleScreen_GameTitleLogoMapEs,
+    [LANG_IT] = gGraphics_TitleScreen_GameTitleLogoMapIt,
+};
+
+static const u8 *const sPressStartTiles[] =
+{
+    [LANG_DE] = gGraphics_TitleScreen_CopyrightPressStartTilesDe,
+    [LANG_FR] = gGraphics_TitleScreen_CopyrightPressStartTilesFr,
+    [LANG_ES] = gGraphics_TitleScreen_CopyrightPressStartTilesEs,
+    [LANG_IT] = gGraphics_TitleScreen_CopyrightPressStartTilesIt,
+};
+
+static const u8 *const sPressStartMap[] =
+{
+    [LANG_DE] = gGraphics_TitleScreen_CopyrightPressStartMapDe,
+    [LANG_FR] = gGraphics_TitleScreen_CopyrightPressStartMapFr,
+};
+
 void CB2_InitTitleScreen(void)
 {
     switch (gMain.state)
@@ -364,15 +410,20 @@ void CB2_InitTitleScreen(void)
         sTitleScreenTimerTaskId = TASK_NONE;
         break;
     case 1:
-        LoadPalette(gGraphics_TitleScreen_GameTitleLogoPals, BG_PLTT_ID(0), 13 * PLTT_SIZE_4BPP);
-        DecompressAndCopyTileDataToVram(0, gGraphics_TitleScreen_GameTitleLogoTiles, 0, 0, 0);
-        DecompressAndCopyTileDataToVram(0, gGraphics_TitleScreen_GameTitleLogoMap, 0, 0, 1);
+        const u16 *titlePals = GetTitlePals();
+        const u8 *titleTiles = GetTitleTiles();
+        const u8 *titleMap = GetTitleMap();
+        const u8 *startTiles = GetStartTiles();
+        const u8 *startMap = GetStartMap();
+        LoadPalette(titlePals, BG_PLTT_ID(0), 13 * PLTT_SIZE_4BPP);
+        DecompressAndCopyTileDataToVram(0, titleTiles, 0, 0, 0);
+        DecompressAndCopyTileDataToVram(0, titleMap, 0, 0, 1);
         LoadPalette(gGraphics_TitleScreen_BoxArtMonPals, BG_PLTT_ID(13), PLTT_SIZE_4BPP);
         DecompressAndCopyTileDataToVram(1, gGraphics_TitleScreen_BoxArtMonTiles, 0, 0, 0);
         DecompressAndCopyTileDataToVram(1, gGraphics_TitleScreen_BoxArtMonMap, 0, 0, 1);
         LoadPalette(gGraphics_TitleScreen_BackgroundPals, BG_PLTT_ID(15), PLTT_SIZE_4BPP);
-        DecompressAndCopyTileDataToVram(2, gGraphics_TitleScreen_CopyrightPressStartTiles, 0, 0, 0);
-        DecompressAndCopyTileDataToVram(2, gGraphics_TitleScreen_CopyrightPressStartMap, 0, 0, 1);
+        DecompressAndCopyTileDataToVram(2, startTiles, 0, 0, 0);
+        DecompressAndCopyTileDataToVram(2, startMap, 0, 0, 1);
         LoadPalette(gGraphics_TitleScreen_BackgroundPals, BG_PLTT_ID(14), PLTT_SIZE_4BPP);
         DecompressAndCopyTileDataToVram(3, sBorderBgTiles, 0, 0, 0);
         DecompressAndCopyTileDataToVram(3, sBorderBgMap, 0, 0, 1);
@@ -391,6 +442,66 @@ void CB2_InitTitleScreen(void)
         return;
     }
     gMain.state++;
+}
+
+static u16 GetPlayerLanguage(void)
+{
+    return playerLanguage;
+}
+
+static const u16 *GetTitlePals(void)
+{
+    u16 lang = GetPlayerLanguage();
+
+    if (lang < ARRAY_COUNT(sTitleLogoPals)
+     && sTitleLogoPals[lang] != NULL)
+        return sTitleLogoPals[lang];
+
+    return gGraphics_TitleScreen_GameTitleLogoPals;
+}
+
+static const u8 *GetTitleTiles(void)
+{
+    u16 lang = GetPlayerLanguage();
+
+    if (lang < ARRAY_COUNT(sTitleLogoTiles)
+     && sTitleLogoTiles[lang] != NULL)
+        return sTitleLogoTiles[lang];
+
+    return gGraphics_TitleScreen_GameTitleLogoTiles;
+}
+
+static const u8 *GetTitleMap(void)
+{
+    u16 lang = GetPlayerLanguage();
+
+    if (lang < ARRAY_COUNT(sTitleLogoMap)
+     && sTitleLogoMap[lang] != NULL)
+        return sTitleLogoMap[lang];
+
+    return gGraphics_TitleScreen_GameTitleLogoMap;
+}
+
+static const u8 *GetStartTiles(void)
+{
+    u16 lang = GetPlayerLanguage();
+
+    if (lang < ARRAY_COUNT(sPressStartTiles)
+     && sPressStartTiles[lang] != NULL)
+        return sPressStartTiles[lang];
+
+    return gGraphics_TitleScreen_CopyrightPressStartTiles;
+}
+
+static const u8 *GetStartMap(void)
+{
+    u16 lang = GetPlayerLanguage();
+
+    if (lang < ARRAY_COUNT(sPressStartMap)
+     && sPressStartMap[lang] != NULL)
+        return sPressStartMap[lang];
+
+    return gGraphics_TitleScreen_CopyrightPressStartMap;
 }
 
 static void ResetGpuRegs(void)
@@ -910,7 +1021,8 @@ static void LoadMainTitleScreenPalsAndResetBgs(void)
 
     DestroyBlendPalettesGraduallyTask();
     ResetPaletteFadeControl();
-    LoadPalette(gGraphics_TitleScreen_GameTitleLogoPals, BG_PLTT_ID(0), 13 * PLTT_SIZE_4BPP);
+    const u16 *titlePals = GetTitlePals();
+    LoadPalette(titlePals, BG_PLTT_ID(0), 13 * PLTT_SIZE_4BPP);
     LoadPalette(gGraphics_TitleScreen_BoxArtMonPals, BG_PLTT_ID(13), PLTT_SIZE_4BPP);
     LoadPalette(gGraphics_TitleScreen_BackgroundPals, BG_PLTT_ID(15), PLTT_SIZE_4BPP);
     LoadPalette(gGraphics_TitleScreen_BackgroundPals, BG_PLTT_ID(14), PLTT_SIZE_4BPP);
