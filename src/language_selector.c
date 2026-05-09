@@ -11,13 +11,21 @@
 #include "main.h"
 #include "scanline_effect.h"
 #include "sound.h"
-#include "constants/localized_text.h"
 #include "constants/songs.h"
 
 static const u16 gEnglishLanguagePal[] = INCBIN_U16("graphics/language_selector/english.gbapal");
 static const u32 gEnglishLanguageTiles[] = INCBIN_U32("graphics/language_selector/english.4bpp.lz");
 
-static const u16 gGermanLanguagePal[] = INCBIN_U16("graphics/language_selector/german.gbapal");
+static const u16 gSpanishLanguagePal[] = INCBIN_U16("graphics/language_selector/spanish.gbapal");
+static const u32 gSpanishLanguageTiles[] = INCBIN_U32("graphics/language_selector/spanish.4bpp.lz");
+
+static const u16 gPortugueseLanguagePal[] = INCBIN_U16("graphics/language_selector/portuguese.gbapal");
+static const u32 gPortugueseLanguageTiles[] = INCBIN_U32("graphics/language_selector/portuguese.4bpp.lz");
+
+static const u16 gEmptyLanguagePal[] = INCBIN_U16("graphics/language_selector/empty.gbapal");
+static const u32 gEmptyLanguageTiles[] = INCBIN_U32("graphics/language_selector/empty.4bpp.lz");
+
+/*static const u16 gGermanLanguagePal[] = INCBIN_U16("graphics/language_selector/german.gbapal");
 static const u32 gGermanLanguageTiles[] = INCBIN_U32("graphics/language_selector/german.4bpp.lz");
 
 static const u16 gFrenchLanguagePal[] = INCBIN_U16("graphics/language_selector/french.gbapal");
@@ -27,12 +35,18 @@ static const u16 gSpanishLanguagePal[] = INCBIN_U16("graphics/language_selector/
 static const u32 gSpanishLanguageTiles[] = INCBIN_U32("graphics/language_selector/spanish.4bpp.lz");
 
 static const u16 gItalianLanguagePal[] = INCBIN_U16("graphics/language_selector/italian.gbapal");
-static const u32 gItalianLanguageTiles[] = INCBIN_U32("graphics/language_selector/italian.4bpp.lz");
+static const u32 gItalianLanguageTiles[] = INCBIN_U32("graphics/language_selector/italian.4bpp.lz");*/
 
 static const u16 gEnglishSelLanguagePal[] = INCBIN_U16("graphics/language_selector/english_selected.gbapal");
 static const u32 gEnglishSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/english_selected.4bpp.lz");
 
-static const u16 gGermanSelLanguagePal[] = INCBIN_U16("graphics/language_selector/german_selected.gbapal");
+static const u16 gSpanishSelLanguagePal[] = INCBIN_U16("graphics/language_selector/spanish_selected.gbapal");
+static const u32 gSpanishSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/spanish_selected.4bpp.lz");
+
+static const u16 gPortugueseSelLanguagePal[] = INCBIN_U16("graphics/language_selector/portuguese_selected.gbapal");
+static const u32 gPortugueseSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/portuguese_selected.4bpp.lz");
+
+/*static const u16 gGermanSelLanguagePal[] = INCBIN_U16("graphics/language_selector/german_selected.gbapal");
 static const u32 gGermanSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/german_selected.4bpp.lz");
 
 static const u16 gFrenchSelLanguagePal[] = INCBIN_U16("graphics/language_selector/french_selected.gbapal");
@@ -42,12 +56,12 @@ static const u16 gSpanishSelLanguagePal[] = INCBIN_U16("graphics/language_select
 static const u32 gSpanishSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/spanish_selected.4bpp.lz");
 
 static const u16 gItalianSelLanguagePal[] = INCBIN_U16("graphics/language_selector/italian_selected.gbapal");
-static const u32 gItalianSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/italian_selected.4bpp.lz");
+static const u32 gItalianSelLanguageTiles[] = INCBIN_U32("graphics/language_selector/italian_selected.4bpp.lz");*/
 
 static const u32 gLanguageMap[] = INCBIN_U32("graphics/language_selector/language.bin.lz");
 static const u32 gSelLanguageMap[] = INCBIN_U32("graphics/language_selector/language_selected.bin.lz");
 
-#define RGB_BG_LANGUAGE_SELECTOR RGB(28, 27, 25)
+#define RGB_BG_LANGUAGE_SELECTOR RGB(27, 25, 28)
 
 #define BG_LANGUAGE_NORMAL     1
 #define BG_LANGUAGE_SELECTED   2
@@ -55,12 +69,23 @@ static const u32 gSelLanguageMap[] = INCBIN_U32("graphics/language_selector/lang
 #define LANG_TILE_PAD_NORMAL   72
 #define LANG_TILE_PAD_SELECTED 120
 
-#define LANG_COUNT 5
+#define LANG_COUNT 3
 #define LANG_BTN_HEIGHT 4
 #define LANG_BTN_NORMAL_WIDTH 18
 #define LANG_BTN_SELECTED_WIDTH 30
 
 #define LANG_SELECTED_PLTT_OFFSET 6
+
+enum {
+    LANG_EN,
+    LANG_ES,
+    LANG_PT,
+    LANG_EMPTY_1,
+    LANG_EMPTY_2
+    /*LANG_DE,
+    LANG_FR,
+    LANG_IT*/
+};
 
 static void Task_LanguageSelector(u8 taskId);
 static void VBlankCB_LanguageSelector(void);
@@ -228,6 +253,38 @@ static void LoadBg(u8 selectedIndex)
                       1);
 
     AddLanguageButton(BG_LANGUAGE_NORMAL,
+                      gSpanishLanguagePal,
+                      gSpanishLanguageTiles,
+                      gLanguageMap,
+                      4, 6, LANG_BTN_NORMAL_WIDTH,
+                      (LANG_ES * LANG_TILE_PAD_NORMAL) + 1,
+                      2);
+
+    AddLanguageButton(BG_LANGUAGE_NORMAL,
+                      gPortugueseLanguagePal,
+                      gPortugueseLanguageTiles,
+                      gLanguageMap,
+                      8, 6, LANG_BTN_NORMAL_WIDTH,
+                      (LANG_PT * LANG_TILE_PAD_NORMAL) + 1,
+                      3);
+
+    AddLanguageButton(BG_LANGUAGE_NORMAL,
+                      gEmptyLanguagePal,
+                      gEmptyLanguageTiles,
+                      gLanguageMap,
+                      12, 6, LANG_BTN_NORMAL_WIDTH,
+                      (LANG_EMPTY_1 * LANG_TILE_PAD_NORMAL) + 1,
+                      4);
+
+    AddLanguageButton(BG_LANGUAGE_NORMAL,
+                      gEmptyLanguagePal,
+                      gEmptyLanguageTiles,
+                      gLanguageMap,
+                      16, 6, LANG_BTN_NORMAL_WIDTH,
+                      (LANG_EMPTY_2 * LANG_TILE_PAD_NORMAL) + 1,
+                      5);
+
+    /*AddLanguageButton(BG_LANGUAGE_NORMAL,
                       gGermanLanguagePal,
                       gGermanLanguageTiles,
                       gLanguageMap,
@@ -257,7 +314,7 @@ static void LoadBg(u8 selectedIndex)
                       gLanguageMap,
                       16, 6, LANG_BTN_NORMAL_WIDTH,
                       (LANG_IT * LANG_TILE_PAD_NORMAL) + 1,
-                      5);
+                      5);*/
 
     if (selectedIndex == LANG_EN)
     {
@@ -269,7 +326,27 @@ static void LoadBg(u8 selectedIndex)
                           (LANG_EN * LANG_TILE_PAD_SELECTED) + 1,
                           LANG_EN + LANG_SELECTED_PLTT_OFFSET);
     }
-    else if (selectedIndex == LANG_DE)
+    else if (selectedIndex == LANG_ES)
+    {
+        AddLanguageButton(BG_LANGUAGE_SELECTED,
+                          gSpanishSelLanguagePal,
+                          gSpanishSelLanguageTiles,
+                          gSelLanguageMap,
+                          4, 0, LANG_BTN_SELECTED_WIDTH,
+                          (LANG_ES * LANG_TILE_PAD_SELECTED) + 1,
+                          LANG_ES + LANG_SELECTED_PLTT_OFFSET);
+    }
+    else if (selectedIndex == LANG_PT)
+    {
+        AddLanguageButton(BG_LANGUAGE_SELECTED,
+                          gPortugueseSelLanguagePal,
+                          gPortugueseSelLanguageTiles,
+                          gSelLanguageMap,
+                          8, 0, LANG_BTN_SELECTED_WIDTH,
+                          (LANG_PT * LANG_TILE_PAD_SELECTED) + 1,
+                          LANG_PT + LANG_SELECTED_PLTT_OFFSET);
+    }
+    /*else if (selectedIndex == LANG_DE)
     {
         AddLanguageButton(BG_LANGUAGE_SELECTED,
                           gGermanSelLanguagePal,
@@ -308,7 +385,7 @@ static void LoadBg(u8 selectedIndex)
                           16, 0, LANG_BTN_SELECTED_WIDTH,
                           ((LANG_IT - 3) * LANG_TILE_PAD_SELECTED) + 1,
                           LANG_IT + LANG_SELECTED_PLTT_OFFSET);
-    }
+    }*/
 
     CopyBgTilemapBufferToVram(BG_LANGUAGE_NORMAL);
     CopyBgTilemapBufferToVram(BG_LANGUAGE_SELECTED);
