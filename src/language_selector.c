@@ -92,6 +92,7 @@ static void VBlankCB_LanguageSelector(void);
 static void InitBgs(void);
 static void LoadBg(u8 selectedIndex);
 static void AddLanguageButton(u8 bgId, const u16 *pal, const u32 *tiles, const u32 *map, u8 y, u8 xPos, u8 width, u16 tileOffset, u8 plttBank);
+static u8 GetRealLanguage(u8 lang);
 
 static bool8 sTaskCreated = FALSE;
 
@@ -190,7 +191,7 @@ static void Task_LanguageSelector(u8 taskId)
         }
         else if (JOY_NEW(A_BUTTON | START_BUTTON))
         {
-            playerLanguage = tCursor;
+            playerLanguage = GetRealLanguage(tCursor);
             PlaySE(SE_SELECT);
             BeginNormalPaletteFade(PALETTES_ALL, 0, 0, 16, RGB_BLACK);
             tState++;
@@ -207,6 +208,21 @@ static void Task_LanguageSelector(u8 taskId)
             SetMainCallback2(CB2_WaitFadeBeforeSetUpIntro);
         }
         break;
+    }
+}
+
+static u8 GetRealLanguage(u8 lang)
+{
+    switch (lang)
+    {
+        case LANG_EN:
+            return 0;
+        case LANG_ES:
+            return 3;
+        case LANG_PT:
+            return 4;
+        default:
+            return 0;
     }
 }
 
